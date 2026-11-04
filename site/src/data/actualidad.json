@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-04T13:27+00:00",
+"actualizado": "2026-11-04T13:29+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -35,10 +35,10 @@
 "transportes",
 "carlos",
 "puente",
-"dimision",
 "oscar",
+"dimision",
 "cartera",
-"sanchez"
+"ministro"
 ],
 "titulares": [
 {
@@ -103,10 +103,10 @@
 "hasta": "2026-11-03T16:18+00:00",
 "temas": [],
 "comunes": [
-"joyas",
 "zapatero",
-"juez",
+"joyas",
 "pide",
+"juez",
 "autor",
 "marca",
 "identifique",
@@ -169,9 +169,9 @@
 "llarena",
 "amnistia",
 "juez",
-"deja",
 "procesamiento",
-"efecto"
+"efecto",
+"deja"
 ],
 "titulares": [
 {
@@ -221,8 +221,8 @@
 ],
 "comunes": [
 "junqueras",
-"romeva",
 "turull",
+"romeva",
 "constitucional",
 "amnistia",
 "recursos",
@@ -276,12 +276,12 @@
 "empleo"
 ],
 "comunes": [
-"huelga",
 "sindicatos",
-"feijoo",
+"huelga",
 "pide",
-"accidente",
+"feijoo",
 "grave",
+"accidente",
 "error",
 "urda"
 ],
@@ -325,8 +325,8 @@
 "temas": [],
 "comunes": [
 "puente",
-"ministro",
 "oscar",
+"ministro",
 "renuncia",
 "listas",
 "transportes",
@@ -369,13 +369,13 @@
 ],
 "comunes": [
 "iberoamericana",
-"cumbre",
 "sheinbaum",
+"cumbre",
 "lula",
 "madrid",
 "sanchez",
 "milei",
-"delcy"
+"rodriguez"
 ],
 "titulares": [
 {
@@ -411,11 +411,11 @@
 "temas": [],
 "comunes": [
 "biedma",
-"eliminarla",
-"cite",
 "intento",
+"cite",
 "pedraz",
 "juez",
+"eliminarla",
 "clan"
 ],
 "titulares": [
@@ -445,10 +445,10 @@
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
+"muertos",
+"llega",
 "116",
 "tarde",
-"llega",
-"muertos",
 "puente",
 "dimision"
 ],
@@ -481,12 +481,12 @@
 "defensa"
 ],
 "comunes": [
-"funeral",
-"accidente",
-"urda",
-"catedral",
 "toledo",
+"funeral",
+"urda",
 "victimas",
+"accidente",
+"catedral",
 "celebrara",
 "reyes"
 ],
@@ -518,9 +518,9 @@
 "temas": [],
 "comunes": [
 "cervantes",
-"fernandez",
+"cristina",
 "cubas",
-"cristina"
+"fernandez"
 ],
 "titulares": [
 {
@@ -549,9 +549,9 @@
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
-"electoral",
-"tocado",
 "saber",
+"tocado",
+"electoral",
 "mesa"
 ],
 "titulares": [
@@ -576,5 +576,5 @@
 ]
 }
 ],
-"recogidas": 584
+"recogidas": 586
 }

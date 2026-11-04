@@ -206,3 +206,5 @@ body.conColor .cabecera { background: var(--papel); }
 .ficha-seccion { margin-top: 2.5rem; }
 .ficha-seccion > h2 { margin-bottom: .75rem; }
 .ficha-seccion .acta { border-bottom: 1px solid var(--tinta); }
+
+.revision { margin-top: .5rem; padding: .5rem .7rem; background: var(--sepia-claro); font-size: .9375rem; line-height: 1.4; max-width: 38rem; }

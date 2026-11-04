@@ -15,7 +15,13 @@
 "url": "https://es.ara.cat/politica/fiscalia-anticorrupcion-abre-investigacion-vox-financiacion-irregular_1_5310337.html",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "No hemos localizado noticias sobre el resultado de estas diligencias posteriores a 2025.",
+"fuente": null
+}
 },
 {
 "id": "cerdan_obra_publica",
@@ -37,7 +43,16 @@
 "url": "https://www.elespanol.com/espana/tribunales/20261021/mercasa-admite-amano-favor-constructora-santos-cerdan-leire-resenado-agendas/1003744429232_0.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Sigue en investigación en octubre de 2026, sin procesamiento ni juicio. La noticia más reciente sitúa las diligencias en el juez Pedraz, de la Audiencia Nacional; la base original hablaba del Tribunal Supremo.",
+"fuente": [
+"El Español, 21 de octubre de 2026",
+"https://www.elespanol.com/espana/tribunales/20261021/mercasa-admite-amano-favor-constructora-santos-cerdan-leire-resenado-agendas/1003744429232_0.html"
 ]
+}
 },
 {
 "id": "leire_diez",
@@ -59,7 +74,16 @@
 "url": "https://www.elespanol.com/espana/tribunales/20261009/juez-caso-leire-desoye-pp-rechaza-momento-investigar-psoe/1003744414741_0.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "El 9 de octubre de 2026 la causa seguía abierta y el juez rechazó, por ahora, citar al PSOE como investigado.",
+"fuente": [
+"El Español, 9 de octubre de 2026",
+"https://www.elespanol.com/espana/tribunales/20261009/juez-caso-leire-desoye-pp-rechaza-momento-investigar-psoe/1003744414741_0.html"
 ]
+}
 },
 {
 "id": "francis_puig_ayudas",
@@ -77,7 +101,16 @@
 "url": "https://www.eldiario.es/comunitat-valenciana/agenda-judicial-valenciana-2026-feijoo-jueza-dana-futuro-oltra-decision-supremo-zaplana_1_12883949.html",
 "texto": "fuente"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "actualizado",
+"nota": "En abril de 2026 la Audiencia de Valencia rechazó los recursos contra la apertura de juicio oral. No hemos localizado fecha de juicio.",
+"fuente": [
+"El Español, 16 de abril de 2026",
+"https://www.elespanol.com/valencia/20260416/audiencia-valencia-rechaza-recursos-apertura-juicio-francis-puig-sienta-banquillo/1003744209486_0.html"
 ]
+}
 },
 {
 "id": "begona_gomez",
@@ -95,7 +128,16 @@
 "url": "https://es.ara.cat/politica/peinado-envia-juicio-begona-gomez-malversacion-trafico-influencias_1_5856301.html",
 "texto": "fuente"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Juicio oral abierto ante jurado en septiembre de 2026, sin fecha fijada que hayamos localizado. La Fiscalía no aprecia delito.",
+"fuente": [
+"Euronews, 8 de septiembre de 2026",
+"https://es.euronews.com/my-europe/2026/09/08/el-juez-que-investiga-a-begona-gomez-concluye-la-instruccion"
 ]
+}
 },
 {
 "id": "david_sanchez",
@@ -117,7 +159,16 @@
 "url": "https://www.elespanol.com/espana/tribunales/20261013/gallardo-exlider-psoe-extremeno-recurre-condena-niega-enchufase-david-sanchez/1003744419040_0.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Sentencia recurrida en octubre de 2026 ante el Tribunal Superior de Justicia de Extremadura. No hemos localizado resolución del recurso.",
+"fuente": [
+"El Español, 13 de octubre de 2026",
+"https://www.elespanol.com/espana/tribunales/20261013/gallardo-exlider-psoe-extremeno-recurre-condena-niega-enchufase-david-sanchez/1003744419040_0.html"
 ]
+}
 },
 {
 "id": "fiscal_general",
@@ -157,7 +208,16 @@
 "url": "https://www.elespanol.com/espana/tribunales/20261014/supremo-rechaza-anular-condena-abalos-koldo-defiende-rebaja-aldama-dio-informacion-relevante/1003744419851_0.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "El Tribunal Supremo condenó en junio de 2026 y en octubre rechazó los incidentes de nulidad. Las defensas pueden acudir al Tribunal Constitucional.",
+"fuente": [
+"Artículo 14, 14 de octubre de 2026",
+"https://www.articulo14.es/politica/el-supremo-confirma-las-condenas-de-abalos-y-koldo-y-abre-la-puerta-a-que-puedan-recurrir-al-constitucional-20261014.html"
 ]
+}
 },
 {
 "id": "mediador",
@@ -175,7 +235,16 @@
 "url": "https://www.esdiario.com/nacional/260924/198633/tito-berni-reaparece-peor-momento-psoe-hay-fecha-juicio-turbio-caso-empezo-todo.html",
 "texto": "fuente"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Juicio oral abierto contra 14 personas, sin fecha fijada en septiembre de 2026.",
+"fuente": [
+"ESdiario, 24 de septiembre de 2026",
+"https://www.esdiario.com/nacional/260924/198633/tito-berni-reaparece-peor-momento-psoe-hay-fecha-juicio-turbio-caso-empezo-todo.html"
 ]
+}
 },
 {
 "id": "plus_ultra",
@@ -197,7 +266,16 @@
 "url": "https://www.eldiario.es/politica/juez-caso-plus-ultra-rechaza-recusacion-presento-zapatero-segundo-perito-joyas-incautadas_1_13546571.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "En instrucción en la Audiencia Nacional a finales de septiembre de 2026.",
+"fuente": [
+"elDiario.es, septiembre de 2026",
+"https://www.eldiario.es/politica/juez-caso-plus-ultra-rechaza-recusacion-presento-zapatero-segundo-perito-joyas-incautadas_1_13546571.html"
 ]
+}
 },
 {
 "id": "juan_carlos_i",
@@ -265,7 +343,7 @@
 "PP"
 ],
 "estado": "investigacion",
-"estado_txt": "En investigación",
+"estado_txt": "Instrucción terminada, sin juicio abierto",
 "descripcion": "Investigación judicial sobre supuestas comisiones de constructoras ligadas a adjudicaciones urbanísticas del Ayuntamiento de Valencia. Tras levantarse el secreto del sumario en septiembre de 2024 se conocieron nuevas acusaciones contra el exvicealcalde Alfonso Grau y contra José Corbín, cuñado de la exalcaldesa Rita Barberá (fallecida). En 2026 la instrucción cumple siete años. Datos de instrucción tomados de un resumen de EFE (enero de 2026). Delitos e importes sin verificar en un auto; las fechas de los hechos son aproximadas. Rige la presunción de inocencia. Alfonso Grau (Exvicealcalde de Valencia (PP)): investigado José Corbín (Cuñado de la exalcaldesa; abogado): investigado",
 "fecha_estado": "2026-01",
 "fuentes": [
@@ -273,7 +351,16 @@
 "url": "https://www.eldiario.es/comunitat-valenciana/agenda-judicial-valenciana-2026-feijoo-jueza-dana-futuro-oltra-decision-supremo-zaplana_1_12883949.html",
 "texto": "fuente"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "actualizado",
+"nota": "En 2026 terminó la instrucción, con varios sobreseimientos. Las acusaciones deben decidir si piden juicio y contra quién. No hemos localizado apertura de juicio oral.",
+"fuente": [
+"Qué!, 7 de septiembre de 2026",
+"https://www.que.es/2026/09/07/caso-azud-corrupcion-rita-barbera/"
 ]
+}
 },
 {
 "id": "erial",
@@ -291,7 +378,13 @@
 "url": "https://www.noticiasdenavarra.com/politica/2024/10/15/eduardo-zaplana-condenado-nueve-anos-8808539.html",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "No hemos localizado una resolución del Tribunal Supremo sobre el recurso.",
+"fuente": null
+}
 },
 {
 "id": "kitchen",
@@ -309,7 +402,13 @@
 "url": "https://www.moncloa.com/2026/08/02/juicio-operacion-kitchen-visto-para-sentencia-3409515/",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "Visto para sentencia desde finales de julio de 2026. No hemos localizado la sentencia.",
+"fuente": null
+}
 },
 {
 "id": "borras",
@@ -353,7 +452,16 @@
 "url": "https://www.eldiario.es/catalunya/audiencia-tarragona-avisa-decision-si-caso-montoro-debe-investigar-madrid-depende-supremo_1_13527969.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "El 22 de septiembre de 2026 la Audiencia de Tarragona dejó en manos del Tribunal Supremo decidir qué juzgado debe investigar.",
+"fuente": [
+"elDiario.es, septiembre de 2026",
+"https://www.eldiario.es/catalunya/audiencia-tarragona-avisa-decision-si-caso-montoro-debe-investigar-madrid-depende-supremo_1_13527969.html"
 ]
+}
 },
 {
 "id": "lezo",
@@ -375,7 +483,16 @@
 "url": "https://www.eldiario.es/madrid/audiencia-nacional-comienza-juzgar-caso-lezo-canal-isabel-ii-diez-anos-despues_1_13491733.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "El juicio de la pieza Inassa empezó el 7 de septiembre de 2026, con 22 acusados y fin previsto el 8 de octubre. No hemos localizado sentencia.",
+"fuente": [
+"elDiario.es, septiembre de 2026",
+"https://www.eldiario.es/madrid/audiencia-nacional-comienza-juzgar-caso-lezo-canal-isabel-ii-diez-anos-despues_1_13491733.html"
 ]
+}
 },
 {
 "id": "villarejo_tandem",
@@ -393,7 +510,13 @@
 "url": "https://www.diariodeleon.es/nacional/241010/1643134/audiencia-absuelve-nuevo-villarejo-cohecho-mantiene-condena-19-anos.html",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "No hemos localizado una resolución posterior sobre esta condena.",
+"fuente": null
+}
 },
 {
 "id": "acuamed",
@@ -411,7 +534,13 @@
 "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "No hemos localizado fecha de juicio.",
+"fuente": null
+}
 },
 {
 "id": "taula",
@@ -433,7 +562,16 @@
 "url": "https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Estado mixto: el 26 de junio de 2026 el Tribunal Supremo confirmó la condena de Marcos Benavent en una pieza; otras siguen pendientes.",
+"fuente": [
+"elDiario.es, junio de 2026",
+"https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html"
 ]
+}
 },
 {
 "id": "tres_por_ciento",
@@ -455,7 +593,16 @@
 "url": "https://elmon.cat/politica/tribunals/judici-cas-3-per-cent-febrer-2027-1108822/",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Juicio previsto entre el 8 de febrero y el 4 de marzo de 2027, con 30 acusados.",
+"fuente": [
+"El Món, enero de 2026",
+"https://elmon.cat/politica/tribunals/judici-cas-3-per-cent-febrer-2027-1108822/"
 ]
+}
 },
 {
 "id": "rato_patrimonio",
@@ -473,7 +620,13 @@
 "url": "https://www.economistjurist.es/actualidad-juridica/jurisprudencia/rato-condenado-a-cuatro-anos-y-nueve-meses-de-carcel/",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "No hemos localizado una resolución del Tribunal Supremo sobre el recurso presentado en 2025.",
+"fuente": null
+}
 },
 {
 "id": "pujol",
@@ -491,7 +644,13 @@
 "url": "https://www.deia.eus/politica/2026/05/14/juicio-pujol-queda-visto-sentencia-11070304.html",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "Visto para sentencia desde mayo de 2026. No hemos localizado la sentencia.",
+"fuente": null
+}
 },
 {
 "id": "mercurio",
@@ -527,7 +686,16 @@
 "url": "https://www.infobae.com/espana/2026/07/02/la-audiencia-nacional-condena-a-francisco-granados-a-dos-anos-y-medio-de-carcel-por-amanar-contratos-publicos-en-favor-de-una-empresa-de-festejos-del-caso-punica/",
 "texto": "fuente"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Estado mixto: la condena de julio de 2026 a Francisco Granados afecta a una pieza; otras tienen juicios pendientes.",
+"fuente": [
+"Infobae, 2 de julio de 2026",
+"https://www.infobae.com/espana/2026/07/02/la-audiencia-nacional-condena-a-francisco-granados-a-dos-anos-y-medio-de-carcel-por-amanar-contratos-publicos-en-favor-de-una-empresa-de-festejos-del-caso-punica/"
 ]
+}
 },
 {
 "id": "tarjetas_black",
@@ -581,7 +749,13 @@
 "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-tres-anos-de-carcel-y-multa-de-50-millones-de-euros-al-exsecretario-general-de-UGT-A-por-delitos-de-fraude-de-subvenciones-y-falsedad-en-documento-mercantil-",
 "texto": "fuente"
 }
-]
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "sin_novedad",
+"nota": "No hemos localizado una resolución del Tribunal Supremo sobre la causa penal.",
+"fuente": null
+}
 },
 {
 "id": "itv_oriol_pujol",
@@ -734,8 +908,8 @@
 "partidos": [
 "PP"
 ],
-"estado": "condena_no_firme",
-"estado_txt": "Condena no firme",
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
 "descripcion": "Empresarios pagaron en negro parte de los actos de campaña del PP de la Comunitat Valenciana en 2007 y 2008 a través de la trama Gürtel. En 2018 se condenó al ex secretario general del PPCV a 4 años; el exvicepresidente Vicente Rambla fue absuelto. La Sala de Apelación de la Audiencia Nacional confirmó las condenas en junio de 2019. Se buscó una sentencia de casación del Tribunal Supremo y no se localizó con las fuentes disponibles. Firmeza sin verificar: revisar en CENDOJ.",
 "fecha_estado": "2019-06",
 "fuentes": [
@@ -747,7 +921,16 @@
 "url": "https://www.elespanol.com/espana/tribunales/20190618/audiencia-nacional-confirma-pp-comunidad-valenciana-ilegalmente/407210007_0.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "actualizado",
+"nota": "La prensa informó en junio de 2019 de que la Sala de lo Penal de la Audiencia Nacional mantuvo las penas y de que el fallo era firme, sin recurso posible. La base original lo tenía como no firme. No hemos visto la resolución.",
+"fuente": [
+"Valencia Plaza, 18 de junio de 2019",
+"https://valenciaplaza.com/declaran-firme-la-sentencia-del-dopaje-electoral-del-pp-de-francisco-camps"
 ]
+}
 },
 {
 "id": "gurtel",
@@ -913,7 +1096,16 @@
 "url": "https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html",
 "texto": "última novedad"
 }
+],
+"revision": {
+"fecha": "2026-11-04",
+"resultado": "confirmado",
+"nota": "Estado mixto: absoluciones en dos piezas y condenas en la de las basuras de Orihuela, en enero de 2026. No hemos podido confirmar si esas condenas se han recurrido.",
+"fuente": [
+"elDiario.es, enero de 2026",
+"https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html"
 ]
+}
 },
 {
 "id": "teresitas",

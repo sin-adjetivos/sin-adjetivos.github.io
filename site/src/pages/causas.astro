@@ -5,6 +5,8 @@ import { casos, estados, candidaturas, SIN_CAUSA, CAUSAS_INTRO, CAUSA_AVISO } fr
 const cerrados = new Set(['archivado', 'absuelto', 'prescrito']);
 const presentes = Object.keys(estados).filter((e) => casos.some((c) => c.estado === e));
 const reciente = (f) => f ? f : 'sin fecha';
+const revisados = casos.filter((c) => c.revision).length;
+const RESULTADO = { confirmado: 'Confirmado', actualizado: 'Actualizado por nosotros', sin_novedad: 'Sin novedad localizada' };
 ---
 <Base titulo="Causas judiciales">
   <div class="marco">
@@ -39,7 +41,8 @@ const reciente = (f) => f ? f : 'sin fecha';
     <section class="seccion">
       <h2>Casos de corrupción</h2>
       <div class="prosa" style="margin-bottom:1.5rem">
-        <p>Esta lista procede de la <a href="https://www.datosclaros.es/corrupcion/" rel="noopener">base de DatosClaros</a> (licencia CC BY 4.0, revisada por sus autores el 22 de octubre de 2026). Hemos retirado su lista de personas implicadas. <strong>Aún no hemos comprobado cada caso uno a uno</strong>, y la propia base avisa de que algunos estados no están verificados: consulta las fuentes de cada ficha.</p>
+        <p>Esta lista parte de la <a href="https://www.datosclaros.es/corrupcion/" rel="noopener">base de DatosClaros</a> (licencia CC BY 4.0, revisada por sus autores el 22 de octubre de 2026), de la que hemos retirado la lista de personas implicadas. El texto de cada caso es el suyo.</p>
+        <p><strong>Hemos revisado {revisados} de los {casos.length} casos</strong>, empezando por los abiertos. Cada uno indica el resultado, la fecha y la fuente. Los demás, sobre todo casos cerrados hace años, figuran como «sin comprobar». La revisión se hace en prensa y fuentes públicas, no en los expedientes judiciales.</p>
         <p>No mostramos totales por partido. Contar casos no mide la honestidad: depende, entre otras cosas, del tiempo gobernando y de la cobertura en prensa. La lista no es un censo. Asociar un caso a un partido no significa que el partido sea penalmente responsable.</p>
       </div>
       <div class="filtros" role="group" aria-label="Filtrar por estado">
@@ -56,7 +59,12 @@ const reciente = (f) => f ? f : 'sin fecha';
             </div>
             <div class="caso-cuerpo">
               <blockquote>{c.descripcion}</blockquote>
-              <p class="fuente">Estado a {reciente(c.fecha_estado)}. {c.fuentes.map((f, i) => <>{i > 0 && ', '}<a href={f.url} rel="noopener">{f.texto}</a></>)}.</p>
+              <p class="fuente">Texto de DatosClaros, estado a {reciente(c.fecha_estado)}. {c.fuentes.map((f, i) => <>{i > 0 && ', '}<a href={f.url} rel="noopener">{f.texto}</a></>)}.</p>
+              {c.revision ? (
+                <p class="revision"><b>{RESULTADO[c.revision.resultado]}, 4 de noviembre de 2026.</b> {c.revision.nota}{c.revision.fuente && <> <a href={c.revision.fuente[1]} rel="noopener">{c.revision.fuente[0]}</a>.</>}</p>
+              ) : (
+                <p class="fuente">Sin comprobar por nosotros.</p>
+              )}
             </div>
           </article>
         ))}

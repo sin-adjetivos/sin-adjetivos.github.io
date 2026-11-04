@@ -106,6 +106,16 @@ for o in crudos:
     desc = (resto[:corte.start()] if corte else resto).strip()
     links = [dict(url=u, texto=(x.strip() or 'fuente')) for u, x in o['links'] if not re.search(r'datosclaros|creativecommons', u)]
     casos.append(dict(id=o['id'], nombre=nombre, anio=int(anio), partidos=par, estado=est, estado_txt=ESTADOS[est], descripcion=desc, fecha_estado=fecha, fuentes=links))
+from revision_casos import REVISION, FECHA as FECHA_REV
+for c in casos:
+    r = REVISION.get(c['id'])
+    if r:
+        if r.get('estado'):
+            c['estado'] = r['estado']; c['estado_txt'] = ESTADOS[r['estado']]
+        if r.get('estado_txt'): c['estado_txt'] = r['estado_txt']
+        c['revision'] = dict(fecha=FECHA_REV, resultado=r['resultado'], nota=r['nota'], fuente=list(r['fuente']) if r.get('fuente') else None)
+faltan_rev = set(REVISION) - {c['id'] for c in casos}
+if faltan_rev: errores.append(f'REVISIÓN DE CASOS INEXISTENTES {faltan_rev}')
 casos.sort(key=lambda c: (-c['anio'], c['nombre']))
 
 if errores:

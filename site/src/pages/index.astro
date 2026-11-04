@@ -1,0 +1,121 @@
+---
+import Base from '../layouts/Base.astro';
+import { temas, provincias } from '../lib/datos.js';
+import { COLORES } from '../lib/color.js';
+import act from '../data/actualidad.json';
+const portada = act.grupos.slice(0, 3);
+---
+<Base>
+  <section class="portada">
+    <div class="marco">
+      <h1>Mira tu papeleta antes de votar</h1>
+      <div class="portada-fila">
+      <p class="portada-intro">Elige tu provincia y verás las listas al Congreso que encontrarás el 29 de noviembre, tal como las publicó el BOE, y lo que cada candidatura propone, vota y dice.</p>
+      <div class="selector">
+        <label for="prov">Tu provincia</label>
+        <select id="prov">
+          <option value="">Elige una</option>
+          {provincias.map((p) => <option value={p.slug}>{p.nombre}</option>)}
+        </select>
+      </div>
+      </div>
+      <noscript><p style="margin-top:1rem"><a href="/papeleta/">Ver todas las provincias</a></p></noscript>
+    </div>
+    <div class="mazo" id="mazo" aria-live="polite">
+      {[0, 1, 2, 3].map(() => (
+        <article class="papeleta vacia" aria-hidden="true">
+          <p class="papeleta-cab">Elecciones al Congreso de los Diputados<br />29 de noviembre de 2026</p>
+          <h3>Sin provincia elegida</h3>
+          {[0, 1, 2, 3, 4, 5].map(() => <div class="renglon"></div>)}
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <div class="marco">
+    {portada.length > 0 && (
+      <section class="seccion">
+        <h2>Hoy, según cada medio</h2>
+        <div class="noticias">
+          {portada.map((g) => (
+            <section class="noticia">
+              <ul>{g.titulares.slice(0, 4).map((t) => <li><span class="medio">{t.medio}</span><a class="titular" href={t.url} rel="noopener">{t.titulo}</a></li>)}</ul>
+              <p class="noticia-dato">Lo publican {g.medios} medios.</p>
+            </section>
+          ))}
+        </div>
+        <p style="margin-top:1rem"><a href="/actualidad/">Ver toda la actualidad</a></p>
+      </section>
+    )}
+
+    <section class="seccion">
+      <h2>Qué propone cada partido, tema por tema</h2>
+      <ul class="indice-temas">
+        {temas.map((t) => <li><a href={`/temas/${t.id}/`}>{t.nombre}</a></li>)}
+      </ul>
+    </section>
+
+    <section class="seccion">
+      <h2>Cómo leer esta web</h2>
+      <div class="lectura">
+        <div><h3>Propone</h3><p>Sus palabras, tal cual, con la página del documento. Si la cita es de 2023 porque aún no hay programa de 2026, lo decimos.</p></div>
+        <div><h3>Votó</h3><p>Lo que hizo su grupo en el Congreso, con los datos oficiales de cada votación.</p></div>
+        <div><h3>Dijo</h3><p>Lo que defendió su portavoz en el debate, con enlace a la transcripción completa.</p></div>
+      </div>
+      <p class="nota" style="margin-top:1.25rem">Las citas van en esta <span style="font-family:var(--cita)">letra con remate</span>; lo escrito por nosotros, en esta otra. No hay puntuaciones ni rankings. <a href="/metodologia/">Cómo trabajamos</a>.</p>
+    </section>
+
+    <section class="seccion">
+      <h2>Fechas</h2>
+      <dl class="fechas">
+        <dt>13 a 27 de noviembre</dt><dd>Campaña electoral.</dd>
+        <dt>Hasta el 19 de noviembre</dt><dd>Pedir el voto por correo.</dd>
+        <dt>24 a 28 de noviembre</dt><dd>Prohibido publicar encuestas.</dd>
+        <dt>28 de noviembre</dt><dd>Jornada de reflexión.</dd>
+        <dt>29 de noviembre</dt><dd>Votación, de 9:00 a 20:00.</dd>
+      </dl>
+      <p class="nota" style="margin-top:.5rem">Fuente: <a href="https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf" rel="noopener">calendario de la Junta Electoral Central</a>.</p>
+    </section>
+  </div>
+
+  <script is:inline define:vars={{ COLORES }}>
+    (function () {
+      var sel = document.getElementById('prov'), mazo = document.getElementById('mazo');
+      function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+      function papeleta(c, prov, i) {
+        var nombres = c.lista.map(function (n) { return '<li>' + esc(n) + '</li>'; }).join('');
+        var sup = c.suplentes.length ? '<p class="papeleta-sup">Suplentes: ' + c.suplentes.map(esc).join(', ') + '</p>' : '';
+        var pie = c.expediente
+          ? '<a href="/candidaturas/' + c.expediente + '/">Ver qué propone y qué votó</a>'
+          : '<span>Sin grupo en el Congreso saliente: no hay expediente.</span>';
+        var banda = c.expediente && COLORES[c.expediente] ? ';border-top:.6rem solid ' + COLORES[c.expediente] : '';
+        return '<article class="papeleta" style="--i:' + Math.min(i, 12) + banda + '">' +
+          '<p class="papeleta-cab">Elecciones al Congreso de los Diputados<br>29 de noviembre de 2026<br>Circunscripción de ' + esc(prov) + '</p>' +
+          '<h3>' + esc(c.nombre) + '</h3><ol tabindex="0" aria-label="Candidatos">' + nombres + '</ol>' + sup +
+          '<p class="papeleta-pie">' + pie + '</p></article>';
+      }
+      function cargar(slug) {
+        if (!slug) return;
+        fetch('/datos/papeleta/' + slug + '.json').then(function (r) {
+          if (!r.ok) throw new Error(r.status);
+          return r.json();
+        }).then(function (d) {
+          var lista = window.barajarCandidaturas(d.candidaturas.slice());
+          mazo.classList.remove('repartido');
+          mazo.innerHTML = lista.map(function (c, i) { return papeleta(c, d.nombre, i); }).join('');
+          void mazo.offsetWidth;
+          mazo.classList.add('repartido');
+          mazo.scrollLeft = 0;
+        }).catch(function () {
+          mazo.innerHTML = '<p>No se han podido cargar las listas. Prueba en <a href="/papeleta/' + slug + '/">la página de esta provincia</a>.</p>';
+        });
+      }
+      sel.addEventListener('change', function () {
+        try { localStorage.setItem('provincia', sel.value); } catch (e) {}
+        cargar(sel.value);
+      });
+      var guardada; try { guardada = localStorage.getItem('provincia'); } catch (e) {}
+      if (guardada && sel.querySelector('option[value="' + guardada + '"]')) { sel.value = guardada; cargar(guardada); }
+    })();
+  </script>
+</Base>

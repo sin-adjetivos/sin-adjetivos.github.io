@@ -1,0 +1,6 @@
+---
+import { estiloChip } from '../lib/color.js';
+const { id, href, n } = Astro.props;
+const Tag = href ? 'a' : 'span';
+---
+<Tag class="chip" style={estiloChip(id)} href={href}><slot />{n ? ` (${n})` : ''}</Tag>

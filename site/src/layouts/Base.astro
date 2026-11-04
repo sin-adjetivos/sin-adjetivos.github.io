@@ -1,0 +1,56 @@
+---
+import '@fontsource-variable/archivo/standard.css';
+import '@fontsource-variable/source-serif-4';
+import '../styles/global.css';
+
+const { color, tintaHero, titulo, descripcion = 'Programas, votaciones, discursos, antecedentes y causas de las candidaturas del 29 de noviembre, con la fuente original al lado.' } = Astro.props;
+const ruta = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ''), '') || '/';
+const menu = [['/actualidad/', 'Actualidad'], ['/temas/', 'Temas'], ['/candidaturas/', 'Partidos'], ['/causas/', 'Causas judiciales'], ['/plenos/', 'Plenos'], ['/buscar/', 'Buscar'], ['/metodologia/', 'Cómo trabajamos']];
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titulo ? `${titulo}, Sin adjetivos` : 'Sin adjetivos. Elecciones del 29 de noviembre'}</title>
+    <meta name="description" content={descripcion} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class:list={[{ conColor: color }]} style={color ? `--fondo:${color};--tintaHero:${tintaHero}` : undefined}>
+    <a class="saltar" href="#contenido">Saltar al contenido</a>
+    <header class="cabecera">
+      <div class="marco">
+        <a class="marca" href="/">Sin adjetivos</a>
+        <nav class="menu" aria-label="Principal">
+          {menu.map(([h, t]) => <a href={h} aria-current={ruta.startsWith(h) ? 'page' : undefined}>{t}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main id="contenido"><slot /></main>
+    <footer class="pie">
+      <div class="marco">
+        <p>Firma este proyecto Sergio Capuchino. <a href="/quien-firma/">Quién firma</a>, <a href="/correcciones/">pedir una corrección</a>.</p>
+        <p>Esta web no pide el voto, no publica encuestas y no usa cookies ni rastreo. Ninguna casilla sustituye a la fuente: cada una enlaza al documento original.</p>
+      </div>
+    </footer>
+    <script is:inline>
+      // El orden de las candidaturas se baraja en cada visita para que ninguna vaya siempre primera.
+      (function () {
+        var s = sessionStorage.getItem('orden');
+        if (!s) { s = String(Math.floor(Math.random() * 1e9)); sessionStorage.setItem('orden', s); }
+        function barajar(a, sem) {
+          var x = sem;
+          for (var i = a.length - 1; i > 0; i--) {
+            x = (x * 1664525 + 1013904223) % 4294967296;
+            var j = x % (i + 1), t = a[i]; a[i] = a[j]; a[j] = t;
+          }
+          return a;
+        }
+        window.barajarCandidaturas = function (a) { return barajar(a, Number(s)); };
+        document.querySelectorAll('[data-barajar]').forEach(function (c) {
+          barajar(Array.from(c.children), Number(s)).forEach(function (n) { c.appendChild(n); });
+        });
+      })();
+    </script>
+  </body>
+</html>

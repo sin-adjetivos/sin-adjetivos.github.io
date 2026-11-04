@@ -1,0 +1,11 @@
+{
+"investigacion": "En investigación",
+"juicio_pendiente": "Pendiente de juicio o sentencia",
+"condena_no_firme": "Condena no firme",
+"condena_firme": "Condena firme",
+"archivado": "Archivado",
+"absuelto": "Absolución",
+"prescrito": "Prescrito",
+"indultado": "Indulto o amnistía",
+"otros": "Otros"
+}

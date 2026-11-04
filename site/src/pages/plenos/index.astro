@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import { sesiones, debates } from '../../lib/archivo.js';
+import { fecha } from '../../lib/datos.js';
+const ses = [...sesiones()].filter((s) => s.debates.length).sort((a, b) => b.num - a.num);
+const total = debates().length;
+---
+<Base titulo="Plenos">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Plenos</h1>
+      <p>{ses.length} sesiones y {total.toLocaleString('es-ES')} debates de esta legislatura, con el texto íntegro del Diario de Sesiones. Para buscar una palabra o un nombre, usa el <a href="/buscar/">buscador</a>.</p>
+    </header>
+    <ul class="lista-plenos">
+      {ses.map((s) => <li><a href={`/plenos/${s.num}/`}>{fecha(s.fecha)}</a> <span class="nota">{s.debates.length} debates</span></li>)}
+    </ul>
+  </div>
+</Base>

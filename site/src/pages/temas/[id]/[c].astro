@@ -1,0 +1,30 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Chip from '../../../components/Chip.astro';
+import { temas, candidaturas, fecha } from '../../../lib/datos.js';
+import { declaraciones } from '../../../lib/archivo.js';
+
+export function getStaticPaths() {
+  return temas.flatMap((t) => candidaturas.filter((c) => c.grupo).map((c) => ({ params: { id: t.id, c: c.id }, props: { tema: t, cand: c } })));
+}
+const { tema, cand } = Astro.props;
+const ds = declaraciones().filter((d) => d.temas.includes(tema.id) && d.bando === cand.id).sort((a, b) => b.fecha.localeCompare(a.fecha));
+---
+<Base titulo={`${cand.sigla} sobre ${tema.nombre}`}>
+  <div class="marco">
+    <header class="entrada">
+      <h1 class="h1-largo">{cand.sigla} sobre {tema.nombre.toLowerCase()}</h1>
+      <p>{ds.length} frases detectadas automáticamente en sus intervenciones en el Pleno, de la más reciente a la más antigua. Son fragmentos: el enlace lleva al discurso completo. <a href={`/temas/${tema.id}/`}>Volver al tema</a>.</p>
+      {cand.etiqueta_voto && <p class="nota">Corresponden al {cand.etiqueta_voto}, antecedente parlamentario de {cand.sigla}.</p>}
+    </header>
+    {ds.length === 0 && <p class="vacio">No hemos detectado frases sobre este tema con nuestras reglas. Eso no significa que no haya intervenido: consulta los <a href={`/temas/${tema.id}/debates/`}>debates</a>.</p>}
+    <ul class="filas-simple">
+      {ds.map((d) => (
+        <li>
+          <blockquote>«{d.cita}»</blockquote>
+          <p class="fuente">{d.orador.split(', ').reverse().join(' ')}, {fecha(d.fecha)}. <a href={`/debates/${d.debate}/#t${d.turno}`}>{d.titulo.slice(0, 110)}{d.titulo.length > 110 ? '…' : ''}</a></p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

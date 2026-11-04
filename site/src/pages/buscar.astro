@@ -1,0 +1,23 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base titulo="Buscar">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Buscar</h1>
+      <p>Busca una palabra, una ley o un nombre en todo lo dicho en el Pleno durante esta legislatura. La búsqueda se hace en tu navegador: nadie registra qué buscas.</p>
+    </header>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <div id="buscador"></div>
+    <noscript><p class="aviso">El buscador necesita JavaScript. También puedes consultar <a href="/plenos/">los plenos por fecha</a>.</p></noscript>
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+    <script is:inline>
+      new PagefindUI({
+        element: '#buscador', baseUrl: '/', showSubResults: true, showImages: false, resetStyles: false, pageSize: 10,
+        translations: { placeholder: 'Por ejemplo: alquiler, pensiones, Koldo', zero_results: 'No hay resultados para [SEARCH_TERM].', many_results: '[COUNT] debates sobre [SEARCH_TERM]', one_result: '1 debate sobre [SEARCH_TERM]', load_more: 'Ver más resultados', search_label: 'Buscar en los plenos', filters_label: 'Filtrar', clear_search: 'Borrar' },
+      });
+      var q = new URLSearchParams(location.search).get('q');
+      if (q) { var i = document.querySelector('#buscador input'); if (i) { i.value = q; i.dispatchEvent(new Event('input')); } }
+    </script>
+  </div>
+</Base>

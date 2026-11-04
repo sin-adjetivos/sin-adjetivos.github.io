@@ -1,0 +1,77 @@
+---
+import Base from '../layouts/Base.astro';
+import Chip from '../components/Chip.astro';
+import { casos, estados, candidaturas, SIN_CAUSA, CAUSAS_INTRO, CAUSA_AVISO } from '../lib/datos.js';
+const cerrados = new Set(['archivado', 'absuelto', 'prescrito']);
+const presentes = Object.keys(estados).filter((e) => casos.some((c) => c.estado === e));
+const reciente = (f) => f ? f : 'sin fecha';
+---
+<Base titulo="Causas judiciales">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Causas judiciales</h1>
+      <p>Una investigación no es una condena: rige la presunción de inocencia. Por eso cada caso indica su estado exacto, y un archivo o una absolución se muestran igual que una condena.</p>
+    </header>
+
+    <section class="seccion">
+      <h2>Cabezas de lista</h2>
+      <p class="nota" style="margin-bottom:1rem">{CAUSAS_INTRO} Solo causas penales en las que la persona figura como parte. {CAUSA_AVISO} Orden al azar en cada visita.</p>
+      <ul class="filas" data-barajar>
+        {candidaturas.map((c) => (
+          <li>
+            <p class="quien"><Chip id={c.id} href={`/candidaturas/${c.id}/`}>{c.sigla}</Chip><small>{c.cabeza}</small></p>
+            <div>
+              {c.causas.length ? c.causas.map((k) => (
+                <div class="bloque">
+                  <span class="estado">{k.estado}</span>
+                  <p style="margin-top:.35rem;max-width:40rem">{k.texto}</p>
+                  <p class="fuente">{k.fecha}. <a href={k.url} rel="noopener">{k.fuente}</a>.</p>
+                </div>
+              )) : <p class="vacio">{SIN_CAUSA}</p>}
+              {c.entorno.length > 0 && <p class="nota" style="margin-top:.75rem">Hay causas abiertas de familiares directos, que no son candidatos. <a href={`/candidaturas/${c.id}/`}>Ver su expediente</a>.</p>}
+            </div>
+          </li>
+        ))}
+      </ul>
+      <p class="nota" style="margin-top:1rem">Las demás candidaturas no están revisadas todavía. Que no aparezcan aquí no significa que no haya causas.</p>
+    </section>
+
+    <section class="seccion">
+      <h2>Casos de corrupción</h2>
+      <div class="prosa" style="margin-bottom:1.5rem">
+        <p>Esta lista procede de la <a href="https://www.datosclaros.es/corrupcion/" rel="noopener">base de DatosClaros</a> (licencia CC BY 4.0, revisada por sus autores el 22 de octubre de 2026). Hemos retirado su lista de personas implicadas. <strong>Aún no hemos comprobado cada caso uno a uno</strong>, y la propia base avisa de que algunos estados no están verificados: consulta las fuentes de cada ficha.</p>
+        <p>No mostramos totales por partido. Contar casos no mide la honestidad: depende, entre otras cosas, del tiempo gobernando y de la cobertura en prensa. La lista no es un censo. Asociar un caso a un partido no significa que el partido sea penalmente responsable.</p>
+      </div>
+      <div class="filtros" role="group" aria-label="Filtrar por estado">
+        <button type="button" data-estado="" aria-pressed="true">Todos</button>
+        {presentes.map((e) => <button type="button" data-estado={e} aria-pressed="false">{estados[e]}</button>)}
+      </div>
+      <div id="casos">
+        {casos.map((c) => (
+          <article class="caso" id={`caso-${c.id}`} data-estado={c.estado}>
+            <div>
+              <h3>{c.nombre}</h3>
+              <span class:list={['estado', { cerrado: cerrados.has(c.estado) }]}>{c.estado_txt}</span>
+              <p class="fuente">{c.anio}. Asociado en la base a: {c.partidos.join(', ')}.</p>
+            </div>
+            <div class="caso-cuerpo">
+              <blockquote>{c.descripcion}</blockquote>
+              <p class="fuente">Estado a {reciente(c.fecha_estado)}. {c.fuentes.map((f, i) => <>{i > 0 && ', '}<a href={f.url} rel="noopener">{f.texto}</a></>)}.</p>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  </div>
+  <script is:inline>
+    (function () {
+      var botones = document.querySelectorAll('.filtros button'), casos = document.querySelectorAll('.caso');
+      botones.forEach(function (b) {
+        b.addEventListener('click', function () {
+          botones.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+          casos.forEach(function (c) { c.hidden = !!b.dataset.estado && c.dataset.estado !== b.dataset.estado; });
+        });
+      });
+    })();
+  </script>
+</Base>

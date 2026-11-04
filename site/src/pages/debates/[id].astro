@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chip from '../../components/Chip.astro';
+import { debates, debate, votosTodos } from '../../lib/archivo.js';
+import { temas, porId, fecha } from '../../lib/datos.js';
+
+export function getStaticPaths() {
+  return debates().map((d) => ({ params: { id: d.id } }));
+}
+const d = debate(Astro.params.id);
+const nombre = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
+const vs = votosTodos().filter((v) => (v.debates || []).includes(d.id));
+const pdf = `https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/${d.doc}`;
+const rotulo = (t) => t.orador ? t.orador.split(', ').reverse().join(' ') : t.rotulo;
+const anio = d.fecha.slice(0, 4);
+---
+<Base titulo={d.titulo.slice(0, 80)} descripcion={`Transcripción íntegra del debate en el Pleno del Congreso del ${fecha(d.fecha)}.`}>
+  <div class="marco" data-pagefind-body>
+    <header class="entrada debate-cab">
+      <p class="nota"><a href={`/plenos/${d.num}/`} data-pagefind-ignore>Pleno del {fecha(d.fecha)}</a></p>
+      <h1 class="h1-largo" data-pagefind-meta="title">{d.titulo}</h1>
+      <span hidden data-pagefind-filter="año">{anio}</span>
+      {d.temas.map((t) => <span hidden data-pagefind-filter="tema">{nombre[t]}</span>)}
+      <p class="nota">{d.tipo}{d.autor ? `. Autor: ${d.autor}` : ''}. Transcripción literal del <a href={`${pdf}#page=${d.pagina}`} rel="noopener">Diario de Sesiones n.º {d.num}</a>.</p>
+      {d.otros?.length > 0 && (
+        <div class="acumulados">
+          <p class="etiqueta">Se debatió junto con</p>
+          <ul>{d.otros.map((o) => <li>{o}</li>)}</ul>
+        </div>
+      )}
+      {d.temas.length > 0 && <p class="temas-nav" data-pagefind-ignore>{d.temas.map((t) => <a href={`/temas/${t}/`}>{nombre[t]}</a>)}</p>}
+    </header>
+
+    {vs.length > 0 && (
+      <section class="aviso" data-pagefind-ignore>
+        <h2 style="font-size:1.25rem">Votación</h2>
+        <ul>{vs.map((v) => <li>{fecha(v.fecha)}: {v.resultado.toLowerCase()}, {v.si} sí, {v.no} no, {v.abst} abstenciones.</li>)}</ul>
+      </section>
+    )}
+
+    <div class="transcripcion">
+      {d.intervenciones.map((t, i) => t.presidencia ? (
+        <p class="presidencia" id={`t${i}`} data-pagefind-ignore><b>Presidencia.</b> {t.parrafos.join(' ')}</p>
+      ) : (
+        <article class="turno" id={`t${i}`}>
+          <h2>{rotulo(t)}</h2>
+          <p class="turno-dato" data-pagefind-ignore>
+            {t.bando && porId[t.bando] ? <Chip id={t.bando} href={`/candidaturas/${t.bando}/`}>{porId[t.bando].etiqueta_voto || porId[t.bando].sigla}</Chip> : t.bando === 'gobierno' ? <Chip id="gobierno">Gobierno</Chip> : null}
+            {t.cargo && <span>{t.cargo}.</span>}
+            <a href={`${pdf}#page=${t.pagina}`} rel="noopener">Página {t.pagina}</a>
+            {t.video && <a href={t.video} rel="noopener">Vídeo</a>}
+          </p>
+          <div class="palabras">{t.parrafos.map((p) => <p>{p}</p>)}</div>
+        </article>
+      ))}
+    </div>
+  </div>
+</Base>

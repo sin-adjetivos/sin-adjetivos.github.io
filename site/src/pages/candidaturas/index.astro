@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chip from '../../components/Chip.astro';
+import { candidaturas, provincias } from '../../lib/datos.js';
+---
+<Base titulo="Candidaturas">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Partidos</h1>
+      <p>Las candidaturas de las fuerzas con representación en el Congreso saliente tienen expediente completo. Las demás aparecen en las <a href="/papeleta/">listas por provincia</a>, porque aún no hemos preparado su expediente.</p>
+    </header>
+    <p class="nota" style="margin-bottom:1rem">Orden al azar en cada visita.</p>
+    <ul class="filas" data-barajar>
+      {candidaturas.map((c) => (
+        <li>
+          <p class="quien"><Chip id={c.id} href={`/candidaturas/${c.id}/`}>{c.sigla}</Chip></p>
+          <p>{c.nombre}. Encabeza {c.cabeza}, por {c.circ_nombre}.</p>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

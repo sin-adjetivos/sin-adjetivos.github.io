@@ -1,0 +1,99 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cita from '../../components/Cita.astro';
+import { COLORES, tintaTitular } from '../../lib/color.js';
+import { personas, declaraciones } from '../../lib/archivo.js';
+import { temas, candidaturas, posiciones, dijo, votos, fecha, votoDe, SIN_CAUSA, CAUSAS_INTRO, CAUSA_AVISO } from '../../lib/datos.js';
+
+export function getStaticPaths() {
+  return candidaturas.map((c) => ({ params: { id: c.id }, props: { c } }));
+}
+const { c } = Astro.props;
+const conProp = posiciones.filter((p) => p.candidatura === c.id).length;
+const color = COLORES[c.id];
+const apellidos = c.boe_apellidos;
+const perfil = personas().find((p) => apellidos && p.nombre.startsWith(apellidos));
+const nFrases = declaraciones().filter((d) => d.bando === c.id).length;
+---
+<Base color={color} tintaHero={tintaTitular(color)} titulo={c.sigla} descripcion={`Expediente de ${c.nombre}: propuestas, votos, antecedentes de la cabeza de lista y causas judiciales, con fuentes.`}>
+  <div class="marco hero-color">
+    <h1>{c.sigla}</h1>
+  </div>
+  <div class="marco hoja">
+    <header class="entrada">
+      <p>{c.nombre}.</p>
+      <div class="ficha-cab">
+        <p>Cabeza de lista por {c.circ_nombre}</p>
+        <strong>{c.cabeza}</strong>
+        <p><a href={`/papeleta/${c.circ_slug}/`}>Ver las listas de {c.circ_nombre}</a>. Comprobado en el <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103" rel="noopener">BOE del 3 de noviembre</a>.{perfil && <> <a href={`/personas/${perfil.slug}/`}>Sus {perfil.n} intervenciones en el Pleno</a>.</>}</p>
+      </div>
+    </header>
+
+    <section class="seccion">
+      <h2>Antecedentes de la cabeza de lista</h2>
+      <ul class="antecedentes">{c.antecedentes.map((a) => <li>{a}</li>)}</ul>
+      <p class="fuente">Fuente: <a href={c.ant_fuente[1]} rel="noopener">{c.ant_fuente[0]}</a>.</p>
+    </section>
+
+    <section class="seccion">
+      <h2>Causas judiciales de la cabeza de lista</h2>
+      <p class="nota" style="margin-bottom:1rem">{CAUSAS_INTRO} Una investigación no es una condena: rige la presunción de inocencia. {CAUSA_AVISO} <a href="/causas/">Todos los casos</a>.</p>
+      {c.causas.length ? (
+        <ul>{c.causas.map((k) => (
+          <li class="bloque">
+            <span class="estado">{k.estado}</span>
+            <p style="margin-top:.35rem;max-width:40rem">{k.texto}</p>
+            <p class="fuente">{k.fecha}. <a href={k.url} rel="noopener">{k.fuente}</a>.</p>
+          </li>
+        ))}</ul>
+      ) : <p class="vacio">{SIN_CAUSA}</p>}
+      {c.causas.length > 0 && <p class="nota" style="margin-top:1rem">No hemos localizado otras causas penales en las que figure como parte.</p>}
+      {c.entorno.length > 0 && (
+        <>
+          <h3 style="margin-top:1.75rem">Familiares directos con causa abierta</h3>
+          <p class="nota" style="margin-block:.25rem .75rem">La misma regla para todas las cabezas de lista: cónyuge y hermanos, si hemos localizado una causa penal abierta. Estas personas no son candidatas.</p>
+          <ul>{c.entorno.map((k) => (
+            <li class="bloque">
+              <span class="estado">{k.estado}</span>
+              <p style="margin-top:.35rem;max-width:40rem">{k.texto}</p>
+              <p class="fuente">{k.fecha}. <a href={k.url} rel={k.url.startsWith('http') ? 'noopener' : undefined}>{k.fuente}</a>.</p>
+            </li>
+          ))}</ul>
+        </>
+      )}
+    </section>
+
+    <section class="seccion">
+      <h2>Tema por tema</h2>
+      {c.grupo_nota && <p class="nota" style="margin-bottom:1rem">{c.grupo_nota}</p>}
+      {conProp === 0 && <p class="aviso">No hemos localizado un programa de esta candidatura ni de años anteriores en un documento original. Si lo conoces, <a href="/correcciones/">avísanos</a>.</p>}
+      <ul class="filas">
+        {temas.map((t) => {
+          const ps = posiciones.filter((p) => p.tema === t.id && p.candidatura === c.id);
+          const ds = dijo.filter((d) => d.tema === t.id && d.candidatura === c.id);
+          const vs = votos.filter((v) => v.tema === t.id);
+          return (
+            <li>
+              <p class="quien"><a href={`/temas/${t.id}/`}>{t.nombre}</a></p>
+              <div>
+                {ps.length > 0 && <div class="bloque"><p class="etiqueta">Propone</p>{ps.map((p) => <Cita p={p} />)}</div>}
+                {ds.map((d) => (
+                  <div class="bloque"><p class="etiqueta">Dijo</p><blockquote>«{d.cita}»</blockquote><p class="fuente">{d.orador}. <a href={d.url} rel="noopener">{d.debate}, página {d.pagina}</a>.</p></div>
+                ))}
+                {c.grupo && (
+                  <div class="bloque">
+                    <p class="etiqueta">Votó</p>
+                    <ul>{vs.map((v) => (
+                      <li style="margin-top:.2rem"><a href={`/temas/${t.id}/#${v.id}`}>{v.corto}</a>, {fecha(v.fecha)}: <b>{votoDe(v, c)}</b>.</li>
+                    ))}</ul>
+                  </div>
+                )}
+                {!ps.length && !ds.length && !c.grupo && <p class="vacio">Sin datos localizados sobre este tema.</p>}
+              </div>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  </div>
+</Base>

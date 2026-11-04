@@ -1,0 +1,22 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { temas, fecha } from '../../../lib/datos.js';
+import { debates } from '../../../lib/archivo.js';
+
+export function getStaticPaths() {
+  return temas.map((t) => ({ params: { id: t.id }, props: { tema: t } }));
+}
+const { tema } = Astro.props;
+const ds = debates().filter((d) => d.temas.includes(tema.id)).sort((a, b) => b.fecha.localeCompare(a.fecha));
+---
+<Base titulo={`Debates sobre ${tema.nombre}`}>
+  <div class="marco">
+    <header class="entrada">
+      <h1 class="h1-largo">{tema.nombre}: todos los debates</h1>
+      <p>{ds.length} debates del Pleno cuyo título contiene palabras de este tema. <a href={`/temas/${tema.id}/`}>Volver al tema</a>.</p>
+    </header>
+    <ul class="filas-simple">
+      {ds.map((d) => <li><p class="fuente">{fecha(d.fecha)}</p><a href={`/debates/${d.id}/`}>{d.titulo}</a></li>)}
+    </ul>
+  </div>
+</Base>

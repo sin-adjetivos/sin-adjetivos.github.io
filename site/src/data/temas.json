@@ -1,0 +1,50 @@
+[
+{
+"id": "vivienda",
+"nombre": "Vivienda"
+},
+{
+"id": "pensiones",
+"nombre": "Pensiones"
+},
+{
+"id": "inmigracion",
+"nombre": "Inmigración"
+},
+{
+"id": "impuestos",
+"nombre": "Impuestos"
+},
+{
+"id": "empleo",
+"nombre": "Empleo y salarios"
+},
+{
+"id": "sanidad",
+"nombre": "Sanidad"
+},
+{
+"id": "educacion",
+"nombre": "Educación"
+},
+{
+"id": "energia",
+"nombre": "Energía y clima"
+},
+{
+"id": "defensa",
+"nombre": "Defensa y exterior"
+},
+{
+"id": "territorio",
+"nombre": "Modelo territorial"
+},
+{
+"id": "justicia",
+"nombre": "Justicia y corrupción"
+},
+{
+"id": "igualdad",
+"nombre": "Igualdad"
+}
+]

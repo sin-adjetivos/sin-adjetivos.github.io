@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import Acta from '../components/Acta.astro';
+import { votos, temas } from '../lib/datos.js';
+---
+<Base titulo="Votaciones">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Votaciones</h1>
+      <p>Una selección de {votos.length} votaciones del Pleno en esta legislatura, de la más reciente a la más antigua. Los números salen de los datos abiertos del Congreso.</p>
+    </header>
+    {temas.map((t) => {
+      const vs = votos.filter((v) => v.tema === t.id);
+      return (
+        <section class="seccion">
+          <h2><a href={`/temas/${t.id}/`} style="text-decoration:none">{t.nombre}</a></h2>
+          {vs.map((v) => <Acta v={v} />)}
+        </section>
+      );
+    })}
+  </div>
+</Base>

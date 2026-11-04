@@ -1,0 +1,8 @@
+raw/
+site/node_modules/
+site/dist/
+site/.astro/
+__pycache__/
+
+# Local Netlify folder
+.netlify

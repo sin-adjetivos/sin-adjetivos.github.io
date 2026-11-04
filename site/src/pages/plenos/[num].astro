@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import { sesiones, debates } from '../../lib/archivo.js';
+import { fecha } from '../../lib/datos.js';
+
+export function getStaticPaths() {
+  return sesiones().filter((s) => s.debates.length).map((s) => ({ params: { num: String(s.num) }, props: { s } }));
+}
+const { s } = Astro.props;
+const ds = debates().filter((d) => d.num === s.num);
+---
+<Base titulo={`Pleno del ${fecha(s.fecha)}`}>
+  <div class="marco">
+    <header class="entrada">
+      <h1 class="h1-largo">Pleno del {fecha(s.fecha)}</h1>
+      <p><a href={s.url} rel="noopener">Diario de Sesiones n.º {s.num}</a>. <a href="/plenos/">Todas las sesiones</a>.</p>
+    </header>
+    <ul class="lista-debates">
+      {ds.map((d) => <li><a href={`/debates/${d.id}/`}>{d.titulo}</a> <span class="nota">{d.oradores} intervenciones</span></li>)}
+    </ul>
+  </div>
+</Base>

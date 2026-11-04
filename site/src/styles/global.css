@@ -1,0 +1,198 @@
+/* Sin adjetivos.
+   Color: el de las papeletas reales. Blanco del Congreso, sepia del Senado, tinta negra. Ningún color de partido.
+   Tipo: Archivo es nuestra voz. Source Serif es la voz de otros: toda cita literal va en serif y nada más. */
+:root {
+  --papel: #fff;
+  --sepia: #c4a982;
+  --sepia-claro: #ece2d2;
+  --tinta: #000;
+  --gris: #595959;
+  --voz: "Archivo Variable", "Helvetica Neue", Arial, sans-serif;
+  --cita: "Source Serif 4 Variable", Georgia, serif;
+  --ancho: 72rem;
+  --texto: 40rem;
+  --paso: clamp(1rem, 3vw, 2rem);
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--papel); color: var(--tinta); font: 400 1.0625rem/1.5 var(--voz); }
+h1, h2, h3, p, ol, ul, figure, blockquote { margin: 0; padding: 0; }
+ol, ul { list-style: none; }
+a { color: inherit; text-underline-offset: .18em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 3px; }
+:focus-visible { outline: 3px solid var(--tinta); outline-offset: 2px; background: var(--papel); }
+.saltar { position: absolute; left: -999px; }
+.saltar:focus { left: 1rem; top: 1rem; z-index: 9; background: var(--papel); padding: .5rem 1rem; }
+
+.marco { max-width: var(--ancho); margin-inline: auto; padding-inline: var(--paso); }
+
+/* Cabecera y pie */
+.cabecera { border-bottom: 2px solid var(--tinta); }
+.cabecera .marco { display: flex; flex-wrap: wrap; gap: .25rem 2rem; align-items: baseline; justify-content: space-between; padding-block: .75rem; }
+.marca { font-weight: 800; font-stretch: 75%; font-size: 1.5rem; letter-spacing: -.01em; text-decoration: none; }
+.menu { display: flex; flex-wrap: wrap; gap: .1rem 1.25rem; }
+.menu a { text-decoration: none; }
+.menu a:hover, .menu a[aria-current] { text-decoration: underline; text-decoration-thickness: 3px; }
+.pie { margin-top: 5rem; border-top: 2px solid var(--tinta); padding-block: 1.5rem 3rem; color: var(--gris); font-size: .9375rem; }
+.pie .marco { display: grid; gap: .5rem; }
+.pie p { max-width: var(--texto); }
+
+/* Titulares: anchos estrechos, como la composición de una papeleta */
+h1 { font-weight: 800; font-stretch: 62%; font-size: clamp(3.25rem, 11vw, 7.5rem); line-height: .92; letter-spacing: -.015em; }
+h2 { font-weight: 800; font-stretch: 75%; font-size: clamp(1.75rem, 4vw, 2.5rem); line-height: 1.05; }
+h3 { font-weight: 700; font-size: 1.125rem; line-height: 1.25; }
+
+.entrada { padding-block: clamp(2rem, 6vw, 4rem) 1.5rem; }
+.entrada p { margin-top: 1rem; max-width: var(--texto); font-size: 1.1875rem; line-height: 1.4; }
+.seccion { margin-top: 3.5rem; }
+.seccion > h2 { margin-bottom: 1.25rem; }
+.nota { color: var(--gris); font-size: .9375rem; max-width: var(--texto); }
+.prosa { max-width: var(--texto); }
+.prosa > * + * { margin-top: 1rem; }
+.prosa h2 { margin-top: 2.5rem; }
+.prosa ul { list-style: square; padding-left: 1.25rem; }
+.prosa li + li { margin-top: .4rem; }
+
+/* Portada: la papeleta sobre el sepia */
+.portada { background: var(--sepia); border-bottom: 2px solid var(--tinta); padding-block: clamp(2rem, 6vw, 4rem) 0; overflow: hidden; }
+.portada h1 { max-width: 15ch; font-size: clamp(3.25rem, 8.6vw, 6.75rem); }
+.portada-fila { margin-top: 1.25rem; display: flex; flex-wrap: wrap; gap: 1rem 3rem; align-items: flex-end; }
+.portada-intro { margin-top: 1.25rem; max-width: 34rem; font-size: 1.1875rem; line-height: 1.4; }
+.portada-fila .portada-intro { margin-top: 0; flex: 1 1 22rem; }
+.selector { display: grid; gap: .3rem; flex: 0 1 22rem; }
+.selector label { font-weight: 700; }
+select { font: inherit; font-weight: 700; color: var(--tinta); background: var(--papel); border: 2px solid var(--tinta); border-radius: 0; padding: .7rem .75rem; width: 100%; }
+.mazo { --borde: max(var(--paso), calc((100vw - var(--ancho)) / 2 + var(--paso))); display: flex; gap: 1rem; align-items: flex-start; margin-top: 2rem; padding: 0 var(--paso) 2.5rem var(--borde); overflow-x: auto; scroll-snap-type: x proximity; scroll-padding-left: var(--borde); }
+.papeleta { flex: 0 0 min(19rem, 82vw); scroll-snap-align: start; background: var(--papel); border: 1px solid var(--tinta); padding: 1rem 1.1rem 1.1rem; }
+.papeleta-cab { text-align: center; font-size: .75rem; line-height: 1.3; padding-bottom: .6rem; border-bottom: 1px solid var(--tinta); }
+.papeleta h3 { text-align: center; font-weight: 800; font-stretch: 75%; font-size: 1.1875rem; line-height: 1.1; padding-block: .75rem; text-transform: uppercase; }
+.papeleta ol { font-size: .875rem; line-height: 1.32; counter-reset: n; max-height: 17rem; overflow-y: auto; }
+.papeleta li { counter-increment: n; display: grid; grid-template-columns: 1.6rem 1fr; }
+.papeleta li::before { content: counter(n) "."; font-variant-numeric: tabular-nums; }
+.papeleta-sup { margin-top: .6rem; font-size: .75rem; line-height: 1.3; color: var(--gris); }
+.papeleta-pie { margin-top: .8rem; padding-top: .6rem; border-top: 1px solid var(--tinta); font-size: .875rem; font-weight: 700; }
+.papeleta-pie span { font-weight: 400; color: var(--gris); }
+.papeleta.vacia h3 { color: var(--gris); font-weight: 400; font-stretch: 100%; font-size: 1rem; text-transform: none; }
+.renglon { height: 1.35rem; border-bottom: 1px dotted var(--gris); }
+.mazo.repartido .papeleta { animation: reparto .28s ease-out both; animation-delay: calc(var(--i, 0) * 28ms); }
+@keyframes reparto { from { transform: translateX(1.5rem) rotate(.6deg); opacity: 0; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .mazo.repartido .papeleta { animation: none; } html { scroll-behavior: auto; } }
+
+/* Índice de temas: palabras grandes */
+.indice-temas { columns: 2 18rem; column-gap: 2rem; }
+.indice-temas li { break-inside: avoid; }
+.indice-temas a { display: block; font-weight: 800; font-stretch: 62%; font-size: clamp(2rem, 5.5vw, 3.25rem); line-height: 1.12; text-decoration: none; }
+.indice-temas a:hover { text-decoration: underline; text-decoration-thickness: 4px; }
+
+.lectura { display: grid; gap: 1.5rem 2rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+.lectura h3 { font-stretch: 75%; font-weight: 800; font-size: 1.5rem; }
+.lectura p { margin-top: .25rem; }
+
+.fechas { display: grid; gap: .1rem 1.5rem; grid-template-columns: minmax(9rem, auto) 1fr; max-width: 44rem; }
+.fechas dt { font-weight: 700; }
+.fechas dd { margin: 0 0 .6rem; }
+
+/* Filas por candidatura */
+.filas > li { display: grid; gap: .3rem 2rem; grid-template-columns: minmax(10rem, 14rem) 1fr; padding-block: 1.25rem; border-top: 1px solid var(--tinta); }
+.filas > li:last-child { border-bottom: 1px solid var(--tinta); }
+.quien { font-weight: 800; font-stretch: 75%; font-size: 1.3125rem; line-height: 1.1; }
+.quien a { text-decoration: none; }
+.quien a:hover { text-decoration: underline; }
+.quien small { display: block; margin-top: .2rem; font-weight: 400; font-stretch: 100%; font-size: .875rem; line-height: 1.25; color: var(--gris); }
+.etiqueta { font-weight: 700; font-size: .9375rem; }
+.bloque + .bloque, .vacio + .bloque { margin-top: 1rem; }
+blockquote { font-family: var(--cita); font-size: 1.1875rem; line-height: 1.5; max-width: 38rem; }
+.fuente { margin-top: .3rem; font-size: .875rem; line-height: 1.35; color: var(--gris); max-width: 38rem; }
+.vacio { color: var(--gris); max-width: 38rem; }
+
+/* Votaciones: como un acta */
+.acta { padding-block: 1.25rem; border-top: 1px solid var(--tinta); }
+.acta:last-child { border-bottom: 1px solid var(--tinta); }
+.acta h3 { font-size: 1.1875rem; max-width: 44rem; }
+.acta-dato { margin-top: .2rem; }
+.acta-dato b { font-variant-numeric: tabular-nums; }
+.acta-sentido { color: var(--gris); font-size: .9375rem; }
+.reparto { margin-top: .75rem; display: grid; grid-template-columns: 6.5rem 1fr; gap: .15rem .75rem; max-width: 50rem; }
+.reparto dt { font-weight: 700; }
+.reparto dd { margin: 0; }
+.acta-enlaces { margin-top: .6rem; font-size: .875rem; color: var(--gris); display: flex; flex-wrap: wrap; gap: .1rem 1.25rem; }
+
+/* Casos */
+.filtros { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1.5rem; }
+.filtros button { font: inherit; font-size: .9375rem; color: var(--tinta); background: var(--papel); border: 1px solid var(--tinta); border-radius: 0; padding: .35rem .7rem; cursor: pointer; }
+.filtros button[aria-pressed="true"] { background: var(--tinta); color: var(--papel); }
+.caso { padding-block: 1.1rem; border-top: 1px solid var(--tinta); display: grid; gap: .2rem 2rem; grid-template-columns: minmax(10rem, 14rem) 1fr; scroll-margin-top: 1rem; }
+.caso:target { background: var(--sepia-claro); box-shadow: 0 0 0 .5rem var(--sepia-claro); }
+.estado { display: inline-block; margin-top: .25rem; font-size: .875rem; font-weight: 700; border: 1px solid var(--tinta); padding: .05rem .4rem; }
+.estado.cerrado { font-weight: 400; border-style: dashed; }
+.caso-cuerpo blockquote { font-size: 1.0625rem; }
+.caso[hidden] { display: none; }
+
+/* Expediente */
+.ficha-cab { background: var(--papel); border: 1px solid var(--tinta); padding: 1rem 1.1rem; max-width: 24rem; text-align: center; margin-top: 1.5rem; }
+.ficha-cab p { font-size: .875rem; }
+.ficha-cab strong { display: block; font-stretch: 75%; font-weight: 800; font-size: 1.5rem; line-height: 1.1; margin-block: .35rem; }
+.antecedentes { list-style: square; padding-left: 1.25rem; max-width: var(--texto); }
+.antecedentes li + li { margin-top: .3rem; }
+.aviso { margin-top: 1rem; padding: .75rem 1rem; background: var(--sepia-claro); max-width: 44rem; }
+.temas-nav { display: flex; flex-wrap: wrap; gap: .1rem 1rem; margin-top: 1rem; }
+
+@media (max-width: 40rem) {
+  .filas > li, .caso { grid-template-columns: 1fr; }
+  .reparto { grid-template-columns: 5.5rem 1fr; }
+  blockquote { font-size: 1.125rem; }
+}
+
+/* Etiqueta de partido: su color, con la tinta de mayor contraste */
+.chip { display: inline-block; background: var(--c); color: var(--t); font-weight: 700; font-stretch: 85%; font-size: .9375rem; line-height: 1.2; padding: .16rem .5rem; margin: 0 .25rem .25rem 0; text-decoration: none; }
+a.chip:hover { outline: 2px solid var(--tinta); outline-offset: 1px; }
+.quien .chip { font-size: 1.125rem; font-weight: 800; font-stretch: 75%; margin: 0; }
+.quien small { margin-top: .35rem; }
+.con-banda { border-left: .5rem solid var(--c); padding-left: 1rem; }
+.reparto dd { margin: 0; }
+/* Página de partido: el color de fondo y el contenido sobre una hoja blanca */
+body.conColor { background: var(--fondo); }
+body.conColor main { padding-bottom: 3rem; }
+.hero-color { padding-block: clamp(2rem, 6vw, 4rem) 1.5rem; }
+.hero-color h1 { color: var(--tintaHero); }
+.hoja { background: var(--papel); padding-block: .5rem 2.5rem; }
+.hoja .entrada { padding-top: 1.5rem; }
+body.conColor .pie { background: var(--papel); margin-top: 0; }
+body.conColor .cabecera { background: var(--papel); }
+/* Actualidad */
+.noticias { display: grid; gap: 1.5rem; margin-top: 1.25rem; }
+.noticia { border-top: 2px solid var(--tinta); padding-top: .75rem; }
+.noticia ul { display: grid; gap: .55rem; }
+.noticia li { display: grid; grid-template-columns: 9rem 1fr; gap: .1rem 1rem; }
+.noticia-dato { font-size: .9375rem; color: var(--gris); margin-bottom: .5rem; }
+.noticia ul + .noticia-dato { margin: .6rem 0 0; }
+.medio { font-weight: 700; font-size: .9375rem; }
+.titular { font-family: var(--cita); font-size: 1.125rem; line-height: 1.35; text-decoration: none; }
+.titular:hover { text-decoration: underline; }
+/* Debates */
+.h1-largo { font-size: clamp(1.75rem, 4.5vw, 3rem); line-height: 1.05; font-stretch: 75%; max-width: 50rem; }
+.debate-cab .nota { margin-block: .5rem; }
+.transcripcion { margin-top: 2rem; max-width: 44rem; }
+.turno { padding-block: 1.25rem; border-top: 1px solid var(--tinta); scroll-margin-top: 1rem; }
+.turno h2 { font-size: 1.375rem; font-stretch: 85%; }
+.turno:target, .presidencia:target { background: var(--sepia-claro); box-shadow: 0 0 0 .5rem var(--sepia-claro); }
+.turno-dato { display: flex; flex-wrap: wrap; gap: .1rem .75rem; align-items: baseline; margin-block: .35rem .75rem; font-size: .875rem; color: var(--gris); }
+.palabras { font-family: var(--cita); font-size: 1.125rem; line-height: 1.55; }
+.palabras p + p { margin-top: .75rem; }
+.presidencia { font-size: .875rem; color: var(--gris); padding-block: .4rem; }
+.lista-plenos { columns: 3 15rem; column-gap: 2rem; }
+.lista-plenos li { break-inside: avoid; margin-bottom: .2rem; }
+.lista-debates li, .filas-simple > li { padding-block: .7rem; border-top: 1px solid var(--tinta); }
+.lista-debates li { display: block; }
+.pequena { font-size: 1rem; margin-top: .3rem; }
+/* Buscador */
+:root { --pagefind-ui-scale: .95; --pagefind-ui-primary: #000; --pagefind-ui-text: #000; --pagefind-ui-background: #fff; --pagefind-ui-border: #000; --pagefind-ui-tag: #ece2d2; --pagefind-ui-border-width: 2px; --pagefind-ui-border-radius: 0; --pagefind-ui-font: var(--voz); }
+@media (max-width: 40rem) {
+  .noticia li { grid-template-columns: 1fr; }
+  .menu { font-size: .9375rem; gap: .1rem .85rem; }
+  .con-banda { padding-left: .75rem; }
+}
+
+.acumulados { margin-block: .75rem; max-width: 44rem; font-size: .9375rem; }
+.acumulados ul { list-style: square; padding-left: 1.25rem; }

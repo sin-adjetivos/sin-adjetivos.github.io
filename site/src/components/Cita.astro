@@ -1,0 +1,10 @@
+---
+const { p } = Astro.props;
+const abierta = !/[.?!…]$/.test(p.cita.trim());
+---
+<div class="bloque">
+  <blockquote lang={p.idioma === 'catalán' ? 'ca' : p.idioma === 'gallego' ? 'gl' : undefined}>«{p.cita}{abierta ? '…' : ''}»</blockquote>
+  <p class="fuente">
+    <a href={p.url} rel="noopener">{p.doc_nombre}, página {p.pagina}</a>. {p.doc_tipo}.{p.idioma ? ` Original en ${p.idioma}.` : ''}{p.copia ? ` ${p.copia}.` : ''}
+  </p>
+</div>

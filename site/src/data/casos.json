@@ -1,0 +1,1170 @@
+[
+{
+"id": "vox_financiacion",
+"nombre": "Financiación de Vox (préstamos húngaros)",
+"anio": 2025,
+"partidos": [
+"Vox"
+],
+"estado": "investigacion",
+"estado_txt": "En investigación",
+"descripcion": "En marzo de 2025 la Fiscalía Anticorrupción abrió diligencias de investigación sobre la posible financiación irregular de Vox a través de préstamos del banco húngaro MBH, tras un informe del Tribunal de Cuentas que señalaba falta de información sobre esos préstamos. No consta causa judicial abierta ni personas investigadas por un juez. Diligencias preprocesales de la Fiscalía, no investigación judicial. Estado posterior a 2025 no verificado. Revisado el 22/10/2026: sin novedad judicial localizada. 6,5 M€ · Importe de un préstamo del banco MBH señalado por el Tribunal de Cuentas (no es perjuicio) ·",
+"fecha_estado": "2025-03",
+"fuentes": [
+{
+"url": "https://es.ara.cat/politica/fiscalia-anticorrupcion-abre-investigacion-vox-financiacion-irregular_1_5310337.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "cerdan_obra_publica",
+"nombre": "Koldo: pieza de obra pública (Cerdán)",
+"anio": 2025,
+"partidos": [
+"PSOE"
+],
+"estado": "investigacion",
+"estado_txt": "En investigación",
+"descripcion": "Investigación del Tribunal Supremo sobre presuntas comisiones de constructoras a cambio de adjudicaciones de obra pública, derivada del caso Koldo. El ex secretario de Organización del PSOE fue imputado y estuvo en prisión provisional en 2025; la instrucción continúa. Sigue en instrucción. Hay informes de la UCO (julio de 2026) sobre Servinabar y Cerdán. En octubre de 2026, según la prensa, Mercasa admitió un amaño a favor de la constructora vinculada a Cerdán, y la defensa de Cerdán intentó impedir que el juez accediera a sus agendas. Sin procesamiento ni juicio. Rige la presunción de inocencia.",
+"fecha_estado": "2026-10",
+"fuentes": [
+{
+"url": "https://www.noticiasdenavarra.com/politica/2025/06/30/cerdan-prision-declaracion-supremo-9820480.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.elespanol.com/espana/tribunales/20261021/mercasa-admite-amano-favor-constructora-santos-cerdan-leire-resenado-agendas/1003744429232_0.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "leire_diez",
+"nombre": "Leire Díez",
+"anio": 2025,
+"partidos": [
+"PSOE"
+],
+"estado": "investigacion",
+"estado_txt": "En investigación",
+"descripcion": "Investigación judicial sobre presuntas maniobras de una exmilitante socialista para obtener información contra mandos de la UCO y fiscales que instruían causas que afectaban al PSOE, y sobre pagos del partido a ella. En mayo de 2026 el juez Pedraz (Audiencia Nacional) imputó a Santos Cerdán y Gaspar Zarrías. Sigue en instrucción. En agosto de 2026 el juez Zamarriego (Instrucción 9 de Madrid) se inhibió y remitió su causa al juez Pedraz (Audiencia Nacional). En octubre de 2026 el juez rechazó, por ahora, investigar al PSOE como persona jurídica. Siguen las declaraciones de testigos, entre ellas la jueza Biedma (octubre de 2026). Delitos concretos no verificados en un auto. Rige la presunción de inocencia.",
+"fecha_estado": "2026-10",
+"fuentes": [
+{
+"url": "https://www.menorca.info/actualidad/nacional/2026/05/27/2637955/pedraz-imputa-cerdan-zarrias-gerente-del-psoe-caso-leire-diez.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.elespanol.com/espana/tribunales/20261009/juez-caso-leire-desoye-pp-rechaza-momento-investigar-psoe/1003744414741_0.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "francis_puig_ayudas",
+"nombre": "Ayudas a la promoción del valenciano (Francis Puig)",
+"anio": 2024,
+"partidos": [
+"sin partido"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Causa en el Juzgado de Instrucción 4 de Valencia por un supuesto fraude en ayudas de la Generalitat para promocionar el valenciano en medios de comunicación. Los investigados son el empresario Francis Puig, hermano del expresidente de la Generalitat Ximo Puig (PSPV-PSOE), y Joan Enric Adell. Fiscalía y Abogacía de la Generalitat piden entre 3 y 4 años de prisión. A principios de 2026 la Audiencia debía resolver los recursos contra el procesamiento. Sin cargo público ni de partido. Se atribuye 'sin partido' con la vinculación familiar indicada, como en el caso Begoña Gómez. Estado posterior a enero de 2026 sin verificar y fechas de los hechos aproximadas. Rige la presunción de inocencia.",
+"fecha_estado": "2026-01",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/comunitat-valenciana/agenda-judicial-valenciana-2026-feijoo-jueza-dana-futuro-oltra-decision-supremo-zaplana_1_12883949.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "begona_gomez",
+"nombre": "Begoña Gómez",
+"anio": 2024,
+"partidos": [
+"sin partido"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Investigación iniciada en 2024 a partir de denuncias de asociaciones sobre actividades profesionales de la esposa del presidente del Gobierno y el uso de una asesora de Moncloa. En julio de 2026 la Audiencia de Madrid descartó los delitos de corrupción en los negocios y apropiación indebida; en septiembre de 2026 el juez Peinado abrió juicio oral ante jurado. La Fiscalía no aprecia delito. Sin cargo de partido; vinculación: cónyuge del presidente del Gobierno (PSOE). Acusación sostenida por acusaciones populares; la Fiscalía pide el sobreseimiento/absolución. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2026-09",
+"fuentes": [
+{
+"url": "https://es.ara.cat/politica/peinado-envia-juicio-begona-gomez-malversacion-trafico-influencias_1_5856301.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "david_sanchez",
+"nombre": "David Sánchez (Diputación de Badajoz)",
+"anio": 2024,
+"partidos": [
+"PSOE"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Juicio por la creación de una plaza en la Diputación de Badajoz ocupada por el hermano del presidente del Gobierno. La Audiencia de Badajoz condenó en julio de 2026 al expresidente de la Diputación a 18 años de inhabilitación y a David Sánchez a 9 años de inhabilitación por prevaricación, absolviéndole de tráfico de influencias. No hay penas de prisión; la sentencia es recurrible. Sentencia de la Audiencia de Badajoz (14-07-2026): solo penas de inhabilitación. En octubre de 2026 recurrieron David Sánchez (8 de octubre) y Gallardo (13 de octubre). La Fiscalía, que no acusaba, sostiene que la condena vulnera la presunción de inocencia. Recursos pendientes ante el TSJ de Extremadura. Miguel Ángel Gallardo (Expresidente de la Diputación de Badajoz (PSOE)): condenado a inhabilitación (no firme)",
+"fecha_estado": "2026-10",
+"fuentes": [
+{
+"url": "https://es.euronews.com/my-europe/2026/07/14/david-sanchez-condenado-a-nueve-anos-de-inhabilitacion-por-prevaricacion",
+"texto": "fuente"
+},
+{
+"url": "https://www.elespanol.com/espana/tribunales/20261013/gallardo-exlider-psoe-extremeno-recurre-condena-niega-enchufase-david-sanchez/1003744419040_0.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "fiscal_general",
+"nombre": "Fiscal General del Estado (revelación de secretos)",
+"anio": 2024,
+"partidos": [
+"sin partido"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "El Tribunal Supremo condenó en noviembre de 2025 al fiscal general del Estado a dos años de inhabilitación por revelar datos reservados de un particular investigado por fraude fiscal. No es un caso de corrupción económica; se incluye por afectar a un alto cargo del Estado. Sin partido; nombrado por el Gobierno de coalición PSOE-Sumar. Condena del TS en única instancia. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2025-11",
+"fuentes": [
+{
+"url": "https://rtvc.es/el-supremo-condena-al-fiscal-general-a-2-anos-de-inhabilitacion-por-revelacion-de-secretos-20-noviembre-2025/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "koldo_mascarillas",
+"nombre": "Koldo / mascarillas (Ábalos)",
+"anio": 2024,
+"partidos": [
+"PSOE"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Adjudicación de contratos de mascarillas durante la pandemia a una empresa vinculada a un comisionista a cambio de pagos al entorno del ministro de Transportes. El Tribunal Supremo condenó en junio de 2026, por unanimidad, al exministro a 24 años y 3 meses y a su exasesor a 19 años y 8 meses. Sentencia del Tribunal Supremo de 22-06-2026: Ábalos, 24 años (cumplimiento máximo de 16 años y 6 meses); Koldo García, 19 años (máximo de 15); Aldama, 4 años y medio con ingreso suspendido. Delitos: organización criminal, cohecho, tráfico de influencias y malversación. El 14-10-2026 el Supremo rechazó los incidentes de nulidad, lo que abre la vía del amparo ante el TC. Según El Español, Ábalos y Koldo deben empezar a cumplir su primer año de prisión el 27 de noviembre.",
+"fecha_estado": "2026-10",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/politica/jose-luis-abalos-condenado-carcel-tribunal-supremo_1_13301658.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.elespanol.com/espana/tribunales/20261014/supremo-rechaza-anular-condena-abalos-koldo-defiende-rebaja-aldama-dio-informacion-relevante/1003744419851_0.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "mediador",
+"nombre": "Mediador (Tito Berni)",
+"anio": 2023,
+"partidos": [
+"PSOE"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Presunta red de cobros a empresarios a cambio de favores administrativos y ayudas, en la que habría participado un diputado socialista en el Congreso. La jueza abrió juicio oral contra 14 personas; no se ha fijado fecha. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2026-09",
+"fuentes": [
+{
+"url": "https://www.esdiario.com/nacional/260924/198633/tito-berni-reaparece-peor-momento-psoe-hay-fecha-juicio-turbio-caso-empezo-todo.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "plus_ultra",
+"nombre": "Plus Ultra",
+"anio": 2021,
+"partidos": [
+"PSOE"
+],
+"estado": "investigacion",
+"estado_txt": "En investigación",
+"descripcion": "Investigación sobre el rescate público de 53 millones de euros a la aerolínea Plus Ultra en 2021 y posibles comisiones y blanqueo de fondos. En mayo de 2026 el juez Calama (Audiencia Nacional) imputó al expresidente del Gobierno por organización criminal, tráfico de influencias y falsedad. Sigue en instrucción en la Audiencia Nacional (juez Calama). Zapatero está investigado, según la prensa, por tráfico de influencias. El juez rechazó su petición de nulidad (julio y septiembre de 2026) y su recusación de un perito (septiembre de 2026). Siguen las declaraciones (octubre de 2026). Zapatero niega haber influido en el rescate. Rige la presunción de inocencia.",
+"fecha_estado": "2026-09",
+"fuentes": [
+{
+"url": "https://rtvc.es/zapatero-imputado-por-tres-delitos-en-la-causa-plus-ultra-19-mayo-2026/",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/politica/juez-caso-plus-ultra-rechaza-recusacion-presento-zapatero-segundo-perito-joyas-incautadas_1_13546571.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "juan_carlos_i",
+"nombre": "Juan Carlos I (fortuna en el extranjero)",
+"anio": 2020,
+"partidos": [
+"sin partido"
+],
+"estado": "archivado",
+"estado_txt": "Archivado",
+"descripcion": "La Fiscalía del Supremo investigó el origen de fondos del rey emérito en el extranjero (entre ellos un pago de Arabia Saudí) y el uso de tarjetas opacas. En marzo de 2022 archivó las diligencias por la inviolabilidad del jefe del Estado hasta 2014, la prescripción y las regularizaciones tributarias que realizó en 2020 y 2021. El Supremo rechazó después nuevas querellas. Archivo por inviolabilidad, prescripción y regularización fiscal; no hubo pronunciamiento judicial sobre el fondo. Juan Carlos I (Rey (1975-2014)): investigado por la Fiscalía; archivado (2022) 5,1 M€ · Cuotas tributarias regularizadas ante Hacienda en 2020-2021 (aprox.); no es perjuicio declarado judicialmente ·",
+"fecha_estado": "2022-03",
+"fuentes": [
+{
+"url": "https://es.ara.cat/politica/fiscalia-archiva-investigaciones-juan-carlos-inviolabilidad-prescripcion-delitos_1_4289600.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "neurona",
+"nombre": "Neurona / caja de solidaridad (Podemos)",
+"anio": 2020,
+"partidos": [
+"Podemos"
+],
+"estado": "archivado",
+"estado_txt": "Archivado",
+"descripcion": "Investigación iniciada en 2020 a partir de la denuncia de un exabogado de Podemos sobre pagos a la consultora Neurona, la caja de solidaridad y supuestos sobresueldos. Todas las líneas fueron archivadas y la Audiencia Provincial de Madrid confirmó los archivos entre 2021 y 2022.",
+"fecha_estado": "2022-01",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/politica/audiencia-madrid-confirma-archivo-investigacion-supuestos-sobresueldos_1_8525554.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "alqueria",
+"nombre": "Alquería (Diputación de Valencia)",
+"anio": 2019,
+"partidos": [
+"PSOE"
+],
+"estado": "absuelto",
+"estado_txt": "Absolución",
+"descripcion": "Investigación por presunta contratación irregular de altos directivos en la empresa pública Divalterra de la Diputación de Valencia. La Audiencia de Valencia absolvió en 2023 a los 14 acusados; la Fiscalía recurrió. La Audiencia de Valencia absolvió a los 14 acusados (mayo de 2023). La Sala de lo Civil y Penal del TSJ de la Comunitat Valenciana rechazó el recurso de Anticorrupción y confirmó la absolución (diciembre de 2023). Las acusaciones populares no apelaron. No consta recurso de casación posterior; firmeza no verificada en CENDOJ. Jorge Rodríguez (Expresidente de la Diputación de Valencia (PSPV-PSOE)): absuelto (confirmado por el TSJCV, 2023)",
+"fecha_estado": "2023-12",
+"fuentes": [
+{
+"url": "https://valenciaplaza.com/valenciaplaza/la-justicia-absuelve-a-todos-los-acusados-de-alqueria",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/comunitat-valenciana/tsj-muestra-sorpresa-pp-no-recurriera-absolucion-jorge-rodriguez-actual-socio-diputacion_1_10767463.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "azud",
+"nombre": "Azud (Ayuntamiento de Valencia)",
+"anio": 2019,
+"partidos": [
+"PP"
+],
+"estado": "investigacion",
+"estado_txt": "En investigación",
+"descripcion": "Investigación judicial sobre supuestas comisiones de constructoras ligadas a adjudicaciones urbanísticas del Ayuntamiento de Valencia. Tras levantarse el secreto del sumario en septiembre de 2024 se conocieron nuevas acusaciones contra el exvicealcalde Alfonso Grau y contra José Corbín, cuñado de la exalcaldesa Rita Barberá (fallecida). En 2026 la instrucción cumple siete años. Datos de instrucción tomados de un resumen de EFE (enero de 2026). Delitos e importes sin verificar en un auto; las fechas de los hechos son aproximadas. Rige la presunción de inocencia. Alfonso Grau (Exvicealcalde de Valencia (PP)): investigado José Corbín (Cuñado de la exalcaldesa; abogado): investigado",
+"fecha_estado": "2026-01",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/comunitat-valenciana/agenda-judicial-valenciana-2026-feijoo-jueza-dana-futuro-oltra-decision-supremo-zaplana_1_12883949.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "erial",
+"nombre": "Erial (Zaplana)",
+"anio": 2018,
+"partidos": [
+"PP"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Cobro de comisiones por la adjudicación de las ITV y de parques eólicos durante los gobiernos del PP en la Generalitat Valenciana, y posterior blanqueo en el extranjero. La Audiencia de Valencia condenó en octubre de 2024 al expresidente y exministro a 10 años y 5 meses; recurrió al Tribunal Supremo. Recurso de casación ante el Tribunal Supremo; no se ha podido verificar si ya se ha resuelto a 22-10-2026. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2025-03",
+"fuentes": [
+{
+"url": "https://www.noticiasdenavarra.com/politica/2024/10/15/eduardo-zaplana-condenado-nueve-anos-8808539.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "kitchen",
+"nombre": "Kitchen",
+"anio": 2018,
+"partidos": [
+"PP"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Presunto operativo parapolicial del Ministerio del Interior, financiado con fondos reservados, para sustraer a Luis Bárcenas documentación comprometedora para el PP. El juicio se celebró en la Audiencia Nacional en 2026 y quedó visto para sentencia a finales de julio. Juicio celebrado; visto para sentencia (julio de 2026). No consta sentencia a 22-10-2026. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2026-07",
+"fuentes": [
+{
+"url": "https://www.moncloa.com/2026/08/02/juicio-operacion-kitchen-visto-para-sentencia-3409515/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "borras",
+"nombre": "Laura Borràs (contratos ILC)",
+"anio": 2018,
+"partidos": [
+"Junts"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Fraccionamiento de contratos de la Institució de les Lletres Catalanes para adjudicarlos a un conocido cuando ella la dirigía. El TSJ de Cataluña la condenó en 2023 a 4 años y medio y 13 de inhabilitación; el Tribunal Supremo confirmó la condena en febrero de 2025 y rechazó aplicarle la amnistía. Condena firme (TSJ de Cataluña 2023, confirmada por el TS en febrero de 2025): 4 años y medio de prisión, 13 de inhabilitación y multa de 36.000 euros. El Gobierno concedió en julio de 2026 un indulto parcial que conmuta la prisión por 2 años y mantiene la inhabilitación. El TSJC lo ejecutó y suspendió el ingreso en prisión, con condiciones: no delinquir en 5 años y un curso de 25 horas sobre administración pública. Se mantiene 'condena_firme' porque el indulto es parcial; Pendiente de confirmar con la fuente original. Laura Borràs (Exdirectora de la ILC y expresidenta del Parlament (Junts)): condenada firme (TS 2025); indulto parcial de la prisión (julio de 2026); inhabilitación vigente Pena de prisión más alta: 4.5 años ·",
+"fecha_estado": "2026-09",
+"fuentes": [
+{
+"url": "https://es.ara.cat/politica/supremo-confirma-condena-borras-rechaza-aplicarle-amnistia_1_5282392.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/catalunya/justicia-libra-laura-borras-carcel-cambio-curso-prevenir-corrupcion_1_13566571.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "montoro",
+"nombre": "Montoro / Equipo Económico",
+"anio": 2018,
+"partidos": [
+"PP"
+],
+"estado": "investigacion",
+"estado_txt": "En investigación",
+"descripcion": "Investigación de un juzgado de Tarragona sobre si empresas gasistas pagaron al despacho fundado por el exministro de Hacienda a cambio de cambios normativos favorables. Hay una treintena de investigados, entre ellos exaltos cargos de Hacienda; la instrucción fue prorrogada y el exministro aún no había declarado en agosto de 2026. Sigue en instrucción en un juzgado de Tarragona. El 22-09-2026 la Audiencia de Tarragona se declaró sin competencia para decidir si la causa debe pasar a Madrid y remitió esa cuestión al Tribunal Supremo. Anticorrupción apoya que siga en Tarragona. Rige la presunción de inocencia.",
+"fecha_estado": "2026-09",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/politica/juez-busca-relanzar-investigacion-montoro-beneficiar-gasistas-cambio-comisiones_1_13421297.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/catalunya/audiencia-tarragona-avisa-decision-si-caso-montoro-debe-investigar-madrid-depende-supremo_1_13527969.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "lezo",
+"nombre": "Lezo (Canal de Isabel II)",
+"anio": 2017,
+"partidos": [
+"PP"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Investigación sobre la compra con sobreprecio de empresas en Latinoamérica por el Canal de Isabel II y presuntas comisiones. El expresidente madrileño estuvo en prisión provisional en 2017-2018. El juicio de la pieza principal está señalado para septiembre de 2027. Pieza Inassa (compra de la colombiana Inassa, 2001): juicio en la Audiencia Nacional desde el 7-09-2026, con previsión de terminar el 8 de octubre. Hay 22 acusados, entre ellos exconsejeros de Gallardón, y Anticorrupción pide de 6 a 7 años. No consta sentencia. Ignacio González no es acusado en esta pieza (archivada para él en 2019). Pieza del campo de golf: según Europa Press/El Debate, juicio contra González del 13 al 30 de septiembre de 2027. Ignacio González (Expresidente de la Comunidad de Madrid (PP)): acusado en la pieza del campo de golf; juicio fijado para septiembre de 2027 Juan Bravo (Exconsejero de la Comunidad de Madrid (PP)): acusado; juzgado en la pieza Inassa (2026), pendiente de sentencia Pedro Calvo (Exconsejero de la Comunidad de Madrid (PP)): acusado; juzgado en la pieza Inassa (2026), pendiente de sentencia Arturo Canalda (Exgerente del Canal y expresidente de la Cámara de Cuentas de Madrid): acusado; juzgado en la pieza Inassa (2026), pendiente de sentencia",
+"fecha_estado": "2026-09",
+"fuentes": [
+{
+"url": "https://www.eldebate.com/espana/20251225/juicio-expresidente-madrileno-ignacio-gonzalez-pieza-caso-lezo-sera-septiembre-2027_368719.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/madrid/audiencia-nacional-comienza-juzgar-caso-lezo-canal-isabel-ii-diez-anos-despues_1_13491733.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "villarejo_tandem",
+"nombre": "Tándem (Villarejo: piezas Iron, Land y Pintor)",
+"anio": 2017,
+"partidos": [
+"sin partido"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Primer juicio de la macrocausa sobre encargos privados de espionaje realizados por un comisario en activo. La Audiencia Nacional le condenó en 2023 a 19 años; la sala de apelación anuló la sentencia en 2024 para que se estudiara el cohecho, y la nueva sentencia (octubre de 2024) mantuvo los 19 años y le absolvió de cohecho. Pendiente de recursos; la macrocausa tiene más de 30 piezas. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2024-10",
+"fuentes": [
+{
+"url": "https://www.diariodeleon.es/nacional/241010/1643134/audiencia-absuelve-nuevo-villarejo-cohecho-mantiene-condena-19-anos.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "acuamed",
+"nombre": "Acuamed",
+"anio": 2016,
+"partidos": [
+"sin partido"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Supuesta trama de sobrecostes y dádivas en obras hidráulicas de la sociedad estatal Acuamed, dependiente del Ministerio de Agricultura y Medio Ambiente. En abril de 2023 el juez de la Audiencia Nacional procesó a 42 personas. Procesamiento en 2023; no se ha verificado fecha de juicio. Hechos bajo gobiernos de PSOE y PP; sin atribución de partido a los procesados. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2023-04",
+"fuentes": [
+{
+"url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "taula",
+"nombre": "Taula / Imelsa",
+"anio": 2016,
+"partidos": [
+"PP"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Macrocausa sobre comisiones en la Diputación de Valencia y su empresa pública Imelsa y sobre presunta financiación irregular del PP en la ciudad de Valencia. En una de sus piezas, la Audiencia de Valencia condenó al expresidente de la Diputación a cinco años por contratar trabajadores 'zombis' con fondos públicos; otras piezas siguen pendientes. Estado mixto. Pieza J: el Tribunal Supremo confirmó en junio de 2026 la condena de Marcos Benavent (exgerente de Imelsa) a 7 años y 10 meses por blanqueo y falsedad. La Audiencia le comunicó la firmeza. Pieza B: 5 años, recurrida ante el Supremo. Benavent fue absuelto en las piezas D y E (la E, no firme). La Fiscalía recurrió en julio de 2026 otra absolución. Pieza 'zombis': Alfonso Rus fue condenado a 5 años (noviembre de 2023); no se ha verificado su firmeza. Alfonso Rus (Expresidente de la Diputación de Valencia (PP)): condenado en la pieza 'zombis' (2023; firmeza no verificada)",
+"fecha_estado": "2026-06",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/comunitat-valenciana/alfonso-rus-condenado-cinco-anos-prision-contratar-trabajadores-zombies-fondos-publicos_1_10694397.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "tres_por_ciento",
+"nombre": "3% (comisiones a CDC)",
+"anio": 2015,
+"partidos": [
+"CiU"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Presunto cobro de comisiones a constructoras a cambio de adjudicaciones de la Generalitat y de ayuntamientos gobernados por CDC. El juez de la Audiencia Nacional envió a juicio en julio de 2020 a una treintena de personas y a varias entidades, incluidos CDC y PDeCAT. Pieza principal: la Sección Segunda de la Sala de lo Penal de la Audiencia Nacional ha fijado el juicio entre el 8 de febrero y el 4 de marzo de 2027. Son 30 acusados; Anticorrupción pide hasta 21 años. Algunos acusados han pactado conformidades; los principales niegan los hechos. Otras piezas: archivada la de donaciones de exconsejeros (2024); absolución en la pieza de Torredembarra (Audiencia de Tarragona, 2024).",
+"fecha_estado": "2026-01",
+"fuentes": [
+{
+"url": "https://naciodigital.cat/politica/laudiencia-nacional-jutjara-gordo-i-dos-exgerents-mes-de-cdc-pel-cas-3.html",
+"texto": "fuente"
+},
+{
+"url": "https://elmon.cat/politica/tribunals/judici-cas-3-per-cent-febrer-2027-1108822/",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "rato_patrimonio",
+"nombre": "Patrimonio de Rodrigo Rato",
+"anio": 2015,
+"partidos": [
+"PP"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Causa sobre el origen y la gestión del patrimonio del exvicepresidente económico. La Audiencia Provincial de Madrid le condenó en diciembre de 2024 a 4 años y 9 meses por delitos fiscales, blanqueo y corrupción en los negocios; recurrió al Tribunal Supremo. Recurso ante el TS presentado en mayo de 2025; no se ha verificado su resolución. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2025-05",
+"fuentes": [
+{
+"url": "https://www.economistjurist.es/actualidad-juridica/jurisprudencia/rato-condenado-a-cuatro-anos-y-nueve-meses-de-carcel/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "pujol",
+"nombre": "Familia Pujol (fortuna en Andorra)",
+"anio": 2014,
+"partidos": [
+"CiU"
+],
+"estado": "juicio_pendiente",
+"estado_txt": "Pendiente de juicio o sentencia",
+"descripcion": "Tras la confesión del expresident en 2014 de tener dinero no declarado en Andorra, la Audiencia Nacional investigó el origen de la fortuna familiar. El juicio se celebró entre noviembre de 2025 y mayo de 2026; en abril de 2026 el tribunal eximió a Jordi Pujol por deterioro cognitivo. Juicio celebrado; visto para sentencia (mayo de 2026). No consta sentencia a 22-10-2026. Revisado el 22/10/2026: sin novedad judicial localizada. Jordi Pujol (Expresidente de la Generalitat): exonerado por incapacidad (2026); sin condena Jordi Pujol Ferrusola (Hijo del expresident (empresario)): acusado; pendiente de sentencia",
+"fecha_estado": "2026-05",
+"fuentes": [
+{
+"url": "https://www.deia.eus/politica/2026/05/14/juicio-pujol-queda-visto-sentencia-11070304.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "mercurio",
+"nombre": "Mercurio (Sabadell)",
+"anio": 2014,
+"partidos": [
+"PSOE"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Investigación sobre presuntos amaños y favores en el Ayuntamiento de Sabadell, con varias piezas. El exalcalde socialista fue condenado a prisión en una de ellas y el Tribunal Supremo confirmó la condena. Varias piezas con resultados distintos; fecha aproximada. Revisado el 22/10/2026: sin novedad judicial localizada. Manuel Bustos (Exalcalde de Sabadell (PSC)): condenado firme (una pieza)",
+"fecha_estado": "2022",
+"fuentes": [
+{
+"url": "https://es.ara.cat/politica/manuel-bustos-tendra-entrar-prision-mes-caso-mercurio_1_4214099.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "punica",
+"nombre": "Púnica",
+"anio": 2014,
+"partidos": [
+"PP"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Macrocausa sobre adjudicaciones amañadas en ayuntamientos y en la Comunidad de Madrid a cambio de comisiones, dividida en más de diez piezas. En julio de 2026 la Audiencia Nacional condenó al ex número dos del Gobierno regional madrileño a dos años y medio en la pieza de contratos de festejos; otras piezas tienen juicios pendientes. Estado mixto: varias piezas con sentencia (algunas por conformidad) y otras pendientes de juicio. El PSOE tuvo algún alcalde investigado en piezas menores. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2026-07",
+"fuentes": [
+{
+"url": "https://www.infobae.com/espana/2026/07/02/la-audiencia-nacional-condena-a-francisco-granados-a-dos-anos-y-medio-de-carcel-por-amanar-contratos-publicos-en-favor-de-una-empresa-de-festejos-del-caso-punica/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "tarjetas_black",
+"nombre": "Tarjetas black (Caja Madrid / Bankia)",
+"anio": 2014,
+"partidos": [
+"varios"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Consejeros y directivos de Caja Madrid y Bankia usaron tarjetas opacas para gastos personales no declarados. La Audiencia Nacional condenó en 2017 a 64 acusados, propuestos por partidos, sindicatos y patronal, y el Tribunal Supremo confirmó las condenas en 2018. Consejeros propuestos por distintas organizaciones; la mayoría del gasto corresponde a directivos y consejeros propuestos por PP y PSOE, pero no se ha desglosado aquí.",
+"fecha_estado": "2018-10",
+"fuentes": [
+{
+"url": "https://scroll.in/latest/896895/spain-supreme-court-confirms-jail-sentence-of-former-imf-chief-rodrigo-rato-for-misusing-funds",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "caja_b_pp",
+"nombre": "Papeles de Bárcenas / reforma de la sede de Génova (caja B)",
+"anio": 2013,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Pago en dinero no declarado de parte de la reforma de la sede nacional del PP. La Audiencia Nacional condenó al extesorero y declaró al PP responsable civil subsidiario; el Tribunal Supremo redujo las penas y confirmó esa responsabilidad en noviembre de 2024.",
+"fecha_estado": "2024-11",
+"fuentes": [
+{
+"url": "https://www.infobae.com/espana/agencias/2024/11/15/el-ts-reduce-las-condenas-del-caso-papeles-de-barcenas-y-confirma-al-pp-como-responsable-civil-subsidiario/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "ugt_andalucia",
+"nombre": "UGT Andalucía (facturas falsas)",
+"anio": 2013,
+"partidos": [
+"UGT"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Uso de facturas falsas para justificar subvenciones de la Junta de Andalucía destinadas a formación y otros fines. La Audiencia de Sevilla condenó en noviembre de 2024 al exsecretario general de UGT-A a tres años de prisión y multa de 50 millones de euros. Firmeza no verificada (posible recurso ante el TS). Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2024-11",
+"fuentes": [
+{
+"url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-tres-anos-de-carcel-y-multa-de-50-millones-de-euros-al-exsecretario-general-de-UGT-A-por-delitos-de-fraude-de-subvenciones-y-falsedad-en-documento-mercantil-",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "itv_oriol_pujol",
+"nombre": "ITV (Oriol Pujol)",
+"anio": 2012,
+"partidos": [
+"CiU"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Presunto tráfico de influencias para favorecer a empresarios en la adjudicación de estaciones de ITV en Cataluña. En 2018 el ex secretario general de CDC aceptó una condena de dos años y medio por conformidad.",
+"fecha_estado": "2018-07",
+"fuentes": [
+{
+"url": "https://theobjective.com/sociedad/mundo-ethos/2018-07-11/oriol-pujol-acepta-carcel-evita-juicio/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "bankia_bolsa",
+"nombre": "Salida a bolsa de Bankia",
+"anio": 2012,
+"partidos": [
+"PP"
+],
+"estado": "absuelto",
+"estado_txt": "Absolución",
+"descripcion": "Se juzgó si la información financiera de la salida a bolsa de Bankia en 2011 era falsa. La Audiencia Nacional absolvió en 2020 a los 34 acusados, entre ellos su expresidente, y el Tribunal Supremo confirmó la absolución en octubre de 2022. Partido atribuido por la militancia del principal acusado; el caso no versa sobre actividad de partido.",
+"fecha_estado": "2022-10",
+"fuentes": [
+{
+"url": "https://www.noticiasdenavarra.com/sociedad/2022/10/28/supremo-confirma-absolucion-34-acusados-6169521.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "campeon",
+"nombre": "Campeón (José Blanco)",
+"anio": 2011,
+"partidos": [
+"PSOE"
+],
+"estado": "archivado",
+"estado_txt": "Archivado",
+"descripcion": "Investigación sobre subvenciones a empresas gallegas que alcanzó al ministro de Fomento por un supuesto tráfico de influencias. El Tribunal Supremo archivó las actuaciones contra él. Fecha aproximada del archivo; otras ramas del caso Campeón siguieron en Galicia. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2013",
+"fuentes": [
+{
+"url": "https://noticias.juridicas.com/actualidad/noticias/2973-el-tribunal-supremo-archiva-las-actuaciones-por-trafico-de-influencias-contra-jose-blanco-por-el-caso-campeon/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "ere",
+"nombre": "ERE de Andalucía (pieza política)",
+"anio": 2011,
+"partidos": [
+"PSOE"
+],
+"estado": "otros",
+"estado_txt": "Otros",
+"descripcion": "Sistema de concesión de ayudas sociolaborales y a empresas en crisis por la Junta de Andalucía al margen del procedimiento legal entre 2000 y 2009. La Audiencia de Sevilla (2019) condenó a 19 ex altos cargos y el Tribunal Supremo lo confirmó en 2022; en 2024 el Tribunal Constitucional otorgó amparos que anularon parcialmente las condenas y ordenó dictar nuevas sentencias. Condena firme (TS 2022) anulada parcialmente por el TC (2024). La Audiencia de Sevilla planteó una cuestión prejudicial al TJUE (2025); la Comisión Europea dictaminó en abril de 2026 que el TJUE no es competente. Nuevas sentencias pendientes. Las piezas de ayudas individuales siguen cauces separados. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2026-04",
+"fuentes": [
+{
+"url": "https://www.publico.es/politica/todas-condenas-caso-ere.amp.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "emarsa",
+"nombre": "Emarsa",
+"anio": 2011,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Saqueo de la empresa pública metropolitana de depuración de aguas de Valencia mediante facturas falsas y gastos personales. La Audiencia de Valencia condenó a sus responsables y el Tribunal Supremo ratificó las penas de los principales acusados. Fecha de firmeza aproximada; verificar en CENDOJ. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2019",
+"fuentes": [
+{
+"url": "https://valenciaplaza.com/supremo-ratifica-penas-emarsa",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "cooperacion_blasco",
+"nombre": "Cooperación (ayudas al desarrollo)",
+"anio": 2010,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Desvío de subvenciones de la Generalitat Valenciana destinadas a cooperación internacional (entre otras, proyectos en Nicaragua). El Tribunal Supremo condenó al exconseller a seis años y medio de prisión. Fecha de firmeza aproximada (año). Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2015",
+"fuentes": [
+{
+"url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-condena-a-seis-anos-y-medio-al-exconseller--de-la-Comunidad-Valenciana-Rafael-Blasco",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "de_miguel",
+"nombre": "De Miguel",
+"anio": 2010,
+"partidos": [
+"PNV"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Trama de cobro de comisiones a cambio de contratos en instituciones alavesas liderada por cargos del PNV. La Audiencia de Álava condenó en 2019 a los principales acusados y el Tribunal Supremo confirmó en enero de 2023 las principales penas, rebajando un año algunas de ellas.",
+"fecha_estado": "2023-01",
+"fuentes": [
+{
+"url": "https://orain.eus/es/politica/2023/01/10/sentencia-del-caso-de-miguel-ts-confirma-principales-penas-por-corrupcion-impuestas/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "noos",
+"nombre": "Nóos",
+"anio": 2010,
+"partidos": [
+"varios"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "El Instituto Nóos, presidido por Iñaki Urdangarin, obtuvo contratos y convenios sin concurrencia de los gobiernos de Baleares y Valencia. El Tribunal Supremo condenó en 2018 a Urdangarin a 5 años y 10 meses; la infanta Cristina fue absuelta penalmente y condenada como partícipe a título lucrativo. Iñaki Urdangarin (Duque de Palma (miembro de la Familia Real hasta 2015)): condenado firme (TS 2018)",
+"fecha_estado": "2018-06",
+"fuentes": [
+{
+"url": "https://www.legaltoday.com/rincon-de-reuters/el-supremo-condena-a-5-anos-y-10-meses-de-carcel-por-corrupcion-a-inaki-urdangarin-2018-06-12/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "financiacion_ppcv",
+"nombre": "Financiación ilegal del PP valenciano (Gürtel Valencia)",
+"anio": 2009,
+"partidos": [
+"PP"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Empresarios pagaron en negro parte de los actos de campaña del PP de la Comunitat Valenciana en 2007 y 2008 a través de la trama Gürtel. En 2018 se condenó al ex secretario general del PPCV a 4 años; el exvicepresidente Vicente Rambla fue absuelto. La Sala de Apelación de la Audiencia Nacional confirmó las condenas en junio de 2019. Se buscó una sentencia de casación del Tribunal Supremo y no se localizó con las fuentes disponibles. Firmeza sin verificar: revisar en CENDOJ.",
+"fecha_estado": "2019-06",
+"fuentes": [
+{
+"url": "https://valenciaplaza.com/costa-condenado-a-4-anos-de-prision-y-rambla-absuelto-por-la-financiacion-ilegal-del-ppcv",
+"texto": "fuente"
+},
+{
+"url": "https://www.elespanol.com/espana/tribunales/20190618/audiencia-nacional-confirma-pp-comunidad-valenciana-ilegalmente/407210007_0.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "gurtel",
+"nombre": "Gürtel (época I)",
+"anio": 2009,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Red empresarial que obtuvo contratos de administraciones gobernadas por el PP a cambio de dádivas a cargos públicos. La Audiencia Nacional (2018) condenó a 29 personas y declaró al PP partícipe a título lucrativo; el Tribunal Supremo confirmó la sentencia en lo esencial en octubre de 2020. Otras piezas de Gürtel (FITUR, Boadilla, Arganda, Valencia, etc.) tienen sentencias propias; aquí solo se recoge la 'época I'. Pena máxima: 51 años y 11 meses (Correa, AN 2018).",
+"fecha_estado": "2020-10",
+"fuentes": [
+{
+"url": "https://www.publico.es/politica/supremo-confirma-condena-al-pp-guertel.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "trajes_camps",
+"nombre": "Los trajes (Camps)",
+"anio": 2009,
+"partidos": [
+"PP"
+],
+"estado": "absuelto",
+"estado_txt": "Absolución",
+"descripcion": "Se investigó si el presidente de la Generalitat Valenciana recibió prendas de vestir de la trama Gürtel. Tras su dimisión en 2011, un jurado popular le declaró no culpable en enero de 2012. fuente_url enciclopédica usada como localizador; sustituir por sentencia del TSJCV (CENDOJ).",
+"fecha_estado": "2012-01",
+"fuentes": [
+{
+"url": "https://es.wikipedia.org/wiki/Francisco_Camps",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "mercasevilla",
+"nombre": "Mercasevilla",
+"anio": 2009,
+"partidos": [
+"sin partido"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Investigación sobre irregularidades en la empresa municipal de mercados de Sevilla, vinculada en parte a ayudas de los ERE. El Tribunal Supremo ratificó la condena del exdirector general por malversación en una de las piezas; en otras (venta de terrenos) hubo absoluciones. Estado mixto por piezas; partido no atribuido (directivo de empresa pública sin cargo de partido acreditado).",
+"fecha_estado": "2021",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/sevilla/supremo-ratifica-condena-mellet-malversacion-mercasevilla-beca-arbitraria_1_8309233.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "palau",
+"nombre": "Palau de la Música / financiación de CDC",
+"anio": 2009,
+"partidos": [
+"CiU"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Saqueo del Palau de la Música por sus gestores, que además sirvió para canalizar comisiones de Ferrovial a Convergència Democràtica a cambio de obra pública. El Tribunal Supremo confirmó en 2020 las condenas y el comiso de 6,6 millones a CDC.",
+"fecha_estado": "2020-04",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/catalunya/politica/supremo-confirma-convergencia-comisiones-palau_1_1261438.amp.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "pretoria",
+"nombre": "Pretoria",
+"anio": 2009,
+"partidos": [
+"varios"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Trama de comisiones por operaciones urbanísticas en Santa Coloma de Gramenet y Badalona en la que participaban un alcalde socialista y dos exconsellers de CiU. La Audiencia Nacional condenó en 2018 a los once acusados a penas de hasta 7 años y el Tribunal Supremo confirmó la condena del exalcalde en 2020. Bartomeu Muñoz (Exalcalde de Santa Coloma de Gramenet (PSC)): condenado firme Macià Alavedra (Exconseller de Economía (CiU)): condenado (conformidad) Lluís Prenafeta (Exsecretario general de Presidencia de la Generalitat (CiU)): condenado (conformidad)",
+"fecha_estado": "2020-12",
+"fuentes": [
+{
+"url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-penas-de-hasta-7-anos-a-los-once-acusados-en-la--operacion-Pretoria-",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "can_domenge_um",
+"nombre": "Unió Mallorquina: Can Domenge y otras piezas",
+"anio": 2009,
+"partidos": [
+"UM"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Varias causas sobre cobros de comisiones y desvío de fondos en el Consell de Mallorca durante gobiernos de Unió Mallorquina. En la pieza Can Domenge (venta de un solar público), la expresidenta del Parlament fue condenada y el Tribunal Supremo confirmó la pena en 2013. El partido se disolvió en 2011.",
+"fecha_estado": "2013-10",
+"fuentes": [
+{
+"url": "https://www.legaltoday.com/rincon-de-reuters/el-supremo-confirma-la-prision-para-la-expresidenta-del-parlamento-balear-2013-10-16",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "palma_arena",
+"nombre": "Palma Arena",
+"anio": 2008,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Macrocausa sobre sobrecostes en la construcción del velódromo Palma Arena y otras contrataciones del Govern de Jaume Matas, dividida en numerosas piezas. En la primera, la Audiencia de Baleares le condenó en 2012 por favorecer a un periodista; el Tribunal Supremo redujo la pena ese año a 9 meses por tráfico de influencias. Otras piezas acabaron en condenas o en archivo. Causa con más de 20 piezas de distinto desenlace. fuente_url enciclopédica usada como localizador; sustituir por sentencia del TS (CENDOJ).",
+"fecha_estado": "2012-07",
+"fuentes": [
+{
+"url": "https://es.wikipedia.org/wiki/Caso_Palma_Arena",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "andratx",
+"nombre": "Andratx",
+"anio": 2006,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Concesión irregular de licencias urbanísticas en suelo rústico en Andratx (Mallorca). El exalcalde acumuló varias condenas en distintas piezas entre 2008 y 2013. Varias sentencias; fecha aproximada de la última conocida. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "2013",
+"fuentes": [
+{
+"url": "https://www.ultimahora.es/noticias/local/2012/12/12/87676/caso-andratx-suma-condenas-por-irregularidades-urbanisticas-municipio.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "brugal",
+"nombre": "Brugal",
+"anio": 2006,
+"partidos": [
+"PP"
+],
+"estado": "condena_no_firme",
+"estado_txt": "Condena no firme",
+"descripcion": "Investigación sobre amaños en contratos de basuras y urbanismo en Alicante y la Vega Baja. En la pieza del plan zonal de residuos, la Audiencia de Alicante absolvió en octubre de 2024 a los 13 acusados, entre ellos el expresidente de la Diputación; en la pieza del PGOU también hubo sentencia absolutoria. Estado mixto. Pieza del plan zonal de residuos: absoluciones de la Audiencia de Alicante (octubre de 2024). Pieza de las basuras de Orihuela: la Audiencia de Alicante (Elche) condenó en enero de 2026 a Ángel Fenoll a 3 años y 9 meses y a la exalcaldesa Mónica Lorente a 4 meses de prisión y 20 meses de inhabilitación por prevaricación. Se aplicó la atenuante muy cualificada de dilaciones indebidas. La fuente no indica la firmeza. José Joaquín Ripoll (Expresidente de la Diputación de Alicante (PP)): absuelto (plan zonal, 2024) Mónica Lorente (Exalcaldesa de Orihuela (PP)): absuelta (plan zonal, 2024); condenada por prevaricación (basuras de Orihuela, enero de 2026, no consta firmeza)",
+"fecha_estado": "2026-01",
+"fuentes": [
+{
+"url": "https://www.elespanol.com/alacant/vega-baixa/20241015/audiencia-alicante-absuelve-acusados-brugal-plan-zonal-residuos-vega-baja/893661226_0.html",
+"texto": "fuente"
+},
+{
+"url": "https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html",
+"texto": "última novedad"
+}
+]
+},
+{
+"id": "teresitas",
+"nombre": "Las Teresitas",
+"anio": 2006,
+"partidos": [
+"CC"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Compra por el Ayuntamiento de Santa Cruz de Tenerife de terrenos del frente de playa de Las Teresitas a un precio muy superior al de su adquisición por los vendedores. La Audiencia de Tenerife condenó al exalcalde y a otros acusados, y el Tribunal Supremo confirmó las penas de prisión. Fecha de firmeza aproximada; verificar en CENDOJ. Revisado el 22/10/2026: sin novedad judicial localizada. Miguel Zerolo (Exalcalde de Santa Cruz de Tenerife (CC)): condenado firme",
+"fecha_estado": "2019",
+"fuentes": [
+{
+"url": "https://www.publico.es/politica/caso-teresitas-ts-confirma-penas-prision-implicados-caso-teresitas.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "malaya",
+"nombre": "Malaya",
+"anio": 2006,
+"partidos": [
+"varios"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Red de sobornos urbanísticos en el Ayuntamiento de Marbella dirigida por el asesor de Urbanismo, que llevó a la disolución del consistorio en 2006. La Audiencia de Málaga condenó en 2013 a decenas de acusados y el Tribunal Supremo confirmó la mayoría de penas en 2015, elevando la del principal acusado a 17 años.",
+"fecha_estado": "2015",
+"fuentes": [
+{
+"url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-TS-confirma-la-mayoria-de-las-penas-del-caso-Malaya-y-eleva-de-11-a-17-anos-la-condena-a-Juan-Antonio-Roca",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "fabra",
+"nombre": "Carlos Fabra",
+"anio": 2003,
+"partidos": [
+"PP"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "El expresidente de la Diputación de Castellón fue investigado durante casi una década por cohecho y tráfico de influencias. La Audiencia de Castellón le condenó a cuatro años por delitos fiscales y le absolvió de cohecho; el Tribunal Supremo confirmó la pena. Condena por delito fiscal, no por cohecho (absuelto).",
+"fecha_estado": "2014",
+"fuentes": [
+{
+"url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Supremo-confirma-la-pena-de-cuatro-anos-de-prision-para-Carlos-Fabra",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "gescartera",
+"nombre": "Gescartera",
+"anio": 2001,
+"partidos": [
+"sin partido"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Agencia de valores que desvió el dinero de miles de inversores, entre ellos entidades religiosas y mutualidades. La Audiencia Nacional condenó en 2008 a su presidente a 11 años, y el Tribunal Supremo resolvió los recursos posteriormente. Caso empresarial sin cargos públicos condenados. Importe aproximado de la prensa, no de la sentencia; fecha de firmeza aproximada. Revisado el 22/10/2026: sin novedad judicial localizada. Antonio Camacho (Presidente de Gescartera (empresario)): condenado (AN 2008) 88,0 M€ · Dinero de clientes desaparecido según la investigación (aprox.) · Pena de prisión más alta: 11 años ·",
+"fecha_estado": "2009",
+"fuentes": [
+{
+"url": "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/condenan-a-antonio-camacho-a-11-anos-de-carcel-por-el-caso-gescartera-2008-03-27/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "saqueo_marbella",
+"nombre": "Saqueo de Marbella (Caja Única)",
+"anio": 1999,
+"partidos": [
+"GIL"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Desvío de fondos municipales del Ayuntamiento de Marbella a sociedades privadas bajo los gobiernos del GIL. La Audiencia de Málaga condenó a exconcejales y el Tribunal Supremo confirmó la sentencia en 2010. Jesús Gil falleció en 2004, lo que extinguió su responsabilidad penal. Jesús Gil y Gil (Exalcalde de Marbella (GIL)): fallecido en 2004 (responsabilidad extinguida)",
+"fecha_estado": "2010-03",
+"fuentes": [
+{
+"url": "https://www.legaltoday.com/practica-juridica/derecho-penal/penal/el-ts-confirma-la-sentencia-del-caso-saqueo-de-marbella-2010-03-16/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "pallerols",
+"nombre": "Pallerols (fondos de formación)",
+"anio": 1996,
+"partidos": [
+"CiU"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Desvío de fondos públicos para formación ocupacional hacia la financiación de Unió Democràtica de Catalunya durante su gestión de la Consejería de Trabajo. En 2013 los acusados aceptaron condenas por conformidad y UDC devolvió unos 388.000 euros. Josep Maria Servitje (Ex secretario general de Treball (UDC)): condenado (conformidad, 2013)",
+"fecha_estado": "2013-01",
+"fuentes": [
+{
+"url": "https://www.legaltoday.com/practica-juridica/derecho-penal/penal/caso-pallerols-cumplir-las-condenas-clave-para-evitar-la-corrupcion-2014-05-28/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "gal_marey",
+"nombre": "GAL: caso Segundo Marey (malversación de fondos reservados)",
+"anio": 1995,
+"partidos": [
+"PSOE"
+],
+"estado": "indultado",
+"estado_txt": "Indulto o amnistía",
+"descripcion": "Se incluye exclusivamente por la vertiente de malversación de fondos reservados del Ministerio del Interior empleados en el secuestro de Segundo Marey por los GAL (1983). El Tribunal Supremo condenó en 1998 a altos cargos de Interior por secuestro y malversación de caudales públicos; el Gobierno les concedió un indulto parcial ese mismo año. Condena firme del TS (1998) con indulto parcial del Gobierno (diciembre de 1998), que redujo las penas de prisión. No se trata de corrupción por lucro personal sino de uso delictivo de fondos públicos.",
+"fecha_estado": "1998-12",
+"fuentes": [
+{
+"url": "https://en.wikipedia.org/wiki/Marey_case",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "roldan",
+"nombre": "Roldán",
+"anio": 1993,
+"partidos": [
+"PSOE"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "El director general de la Guardia Civil cobró comisiones de obras de cuarteles y desvió fondos reservados. Huyó en 1994 y fue detenido en Laos en 1995. Fue condenado por la Audiencia Provincial de Madrid y el Tribunal Supremo elevó la pena en 1999. Luis Roldán (Director general de la Guardia Civil (1986-1993)): condenado firme (TS 1999); fallecido en 2022 Pena de prisión más alta: 31 años ·",
+"fecha_estado": "1999",
+"fuentes": [
+{
+"url": "https://theobjective.com/espana/2022-03-24/muere-luis-roldan-el-director-general-de-la-guardia-civil-protagonista-de-uno-de-los-escandalos-mas-sonados-de-corrupcion-en-espana/",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "ibercorp",
+"nombre": "Ibercorp",
+"anio": 1992,
+"partidos": [
+"sin partido"
+],
+"estado": "otros",
+"estado_txt": "Otros",
+"descripcion": "Investigación sobre cuentas opacas y operaciones del banco Ibercorp que alcanzó al exgobernador del Banco de España, Mariano Rubio, encarcelado preventivamente en 1994. Rubio falleció en 1999 antes de sentencia firme; el expresidente de la Bolsa de Madrid fue condenado por falsedad. Extinción de responsabilidad penal de Rubio por fallecimiento; firmeza de la condena de De la Concha no verificada con fuente primaria. Revisado el 22/10/2026: sin novedad judicial localizada.",
+"fecha_estado": "1999",
+"fuentes": [
+{
+"url": "https://www.diariodeleon.es/nacional/20704/1369176/concha-condenado-seis-anos-falsedad-documento.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "filesa",
+"nombre": "Filesa",
+"anio": 1991,
+"partidos": [
+"PSOE"
+],
+"estado": "condena_firme",
+"estado_txt": "Condena firme",
+"descripcion": "Red de sociedades (Filesa, Malesa, Time-Export) que facturó a bancos y grandes empresas informes inexistentes para financiar gastos del PSOE, incluidas campañas de 1989. El Tribunal Supremo dictó sentencia en 1997 condenando a responsables del entramado y a cargos socialistas.",
+"fecha_estado": "1997-10",
+"fuentes": [
+{
+"url": "https://derechos.org/nizkor/espana/doc/filesa.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "naseiro",
+"nombre": "Naseiro",
+"anio": 1990,
+"partidos": [
+"PP"
+],
+"estado": "archivado",
+"estado_txt": "Archivado",
+"descripcion": "Investigación sobre supuestas comisiones para financiar al PP a partir de escuchas telefónicas obtenidas en otra causa por narcotráfico. En 1992 el Tribunal Supremo declaró nulas las escuchas y la causa se archivó sin juicio. Archivo por nulidad de la prueba (escuchas), no por inexistencia probada de los hechos.",
+"fecha_estado": "1992",
+"fuentes": [
+{
+"url": "https://www.publico.es/politica/rosendo-naseiro-financie-ilegalmente-pp.html",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "banca_catalana",
+"nombre": "Banca Catalana",
+"anio": 1984,
+"partidos": [
+"CiU"
+],
+"estado": "archivado",
+"estado_txt": "Archivado",
+"descripcion": "Tras la quiebra e intervención de Banca Catalana, la Fiscalía presentó en 1984 una querella contra antiguos administradores, entre ellos Jordi Pujol, ya presidente de la Generalitat. En noviembre de 1986 el pleno de la Audiencia Territorial de Barcelona rechazó procesarlo (33 votos contra 8). fuente_url enciclopédica usada como localizador; sustituir por auto de la Audiencia Territorial o hemeroteca. Jordi Pujol (Exvicepresidente de Banca Catalana; presidente de la Generalitat): no procesado (1986)",
+"fecha_estado": "1986-11",
+"fuentes": [
+{
+"url": "https://es.wikipedia.org/wiki/Caso_Banca_Catalana",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "rumasa",
+"nombre": "Expropiación de Rumasa",
+"anio": 1983,
+"partidos": [
+"sin partido"
+],
+"estado": "otros",
+"estado_txt": "Otros",
+"descripcion": "En febrero de 1983 el Gobierno expropió el holding Rumasa mediante el Decreto-ley 2/1983, alegando riesgo para el sistema financiero y opacidad contable. No es un caso de corrupción política con condena: fue una expropiación avalada por el Tribunal Constitucional (STC 111/1983). Los procesos penales posteriores contra sus directivos por falsedad y estafa acabaron en absolución (AN 1997, TS 1999). Expropiación, no condena por corrupción. Se incluye por relevancia histórica; fuente_url es un resumen enciclopédico usado como localizador. Revisado el 22/10/2026: sin novedad judicial localizada. José María Ruiz-Mateos (Presidente de Rumasa (empresario)): absuelto (AN 1997, confirmado TS 1999)",
+"fecha_estado": "1999-03",
+"fuentes": [
+{
+"url": "https://es.wikipedia.org/wiki/Rumasa",
+"texto": "fuente"
+}
+]
+},
+{
+"id": "matesa",
+"nombre": "Matesa",
+"anio": 1969,
+"partidos": [
+"sin partido"
+],
+"estado": "indultado",
+"estado_txt": "Indulto o amnistía",
+"descripcion": "La empresa textil Matesa obtuvo créditos oficiales a la exportación del Banco de Crédito Industrial sobre ventas de telares en gran parte ficticias. El escándalo (1969) derivó en una crisis de gobierno y en procesamientos ante el Tribunal Supremo. Un indulto general de 1971 extinguió la responsabilidad penal de los exministros procesados. Indulto general de Franco (octubre de 1971) que alcanzó a los exministros procesados antes de juicio. Régimen no democrático: sin garantías procesales equiparables. Juan Vilá Reyes (Presidente de Matesa (empresario)): condenado; beneficiado por indultos Mariano Navarro Rubio (Exministro de Hacienda / gobernador del Banco de España): procesado; indultado (1971)",
+"fecha_estado": "1971-10",
+"fuentes": [
+{
+"url": "https://www.eldiario.es/politica/matesa-primer-escandalo-corrupcion-franquismo_1_1429948.html",
+"texto": "fuente"
+}
+]
+}
+]

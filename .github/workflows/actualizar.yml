@@ -1,0 +1,59 @@
+name: Actualizar y publicar
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Hora UTC: unas 8:15, 14:15 y 21:15 en España.
+    - cron: '15 7 * * *'
+    - cron: '15 13 * * *'
+    - cron: '15 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Leer titulares
+        run: python scripts/actualidad.py
+      - name: Generar la web
+        working-directory: site
+        env:
+          BASE_PATH: /sin-adjetivos
+        run: |
+          npm ci
+          npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+      - id: despliegue
+        uses: actions/deploy-pages@v4
+      - name: Guardar los titulares en el historial
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/noticias.json site/src/data/actualidad.json
+          git diff --cached --quiet || git commit -m "Actualidad: titulares del $(date -u +%F\ %H:%M) UTC"
+          git push

@@ -1,0 +1,314 @@
+[
+{
+"slug": "a-coruna",
+"nombre": "A Coruña",
+"escanos": 8,
+"n": 9
+},
+{
+"slug": "alava",
+"nombre": "Álava",
+"escanos": 4,
+"n": 14
+},
+{
+"slug": "albacete",
+"nombre": "Albacete",
+"escanos": 4,
+"n": 9
+},
+{
+"slug": "alicante",
+"nombre": "Alicante",
+"escanos": 12,
+"n": 9
+},
+{
+"slug": "almeria",
+"nombre": "Almería",
+"escanos": 6,
+"n": 12
+},
+{
+"slug": "asturias",
+"nombre": "Asturias",
+"escanos": 7,
+"n": 11
+},
+{
+"slug": "avila",
+"nombre": "Ávila",
+"escanos": 3,
+"n": 10
+},
+{
+"slug": "badajoz",
+"nombre": "Badajoz",
+"escanos": 5,
+"n": 9
+},
+{
+"slug": "barcelona",
+"nombre": "Barcelona",
+"escanos": 32,
+"n": 11
+},
+{
+"slug": "bizkaia",
+"nombre": "Bizkaia",
+"escanos": 8,
+"n": 11
+},
+{
+"slug": "burgos",
+"nombre": "Burgos",
+"escanos": 4,
+"n": 9
+},
+{
+"slug": "caceres",
+"nombre": "Cáceres",
+"escanos": 4,
+"n": 9
+},
+{
+"slug": "cadiz",
+"nombre": "Cádiz",
+"escanos": 8,
+"n": 11
+},
+{
+"slug": "cantabria",
+"nombre": "Cantabria",
+"escanos": 5,
+"n": 7
+},
+{
+"slug": "castellon",
+"nombre": "Castellón",
+"escanos": 5,
+"n": 10
+},
+{
+"slug": "ceuta",
+"nombre": "Ceuta",
+"escanos": 1,
+"n": 6
+},
+{
+"slug": "ciudad-real",
+"nombre": "Ciudad Real",
+"escanos": 5,
+"n": 6
+},
+{
+"slug": "cordoba",
+"nombre": "Córdoba",
+"escanos": 6,
+"n": 12
+},
+{
+"slug": "cuenca",
+"nombre": "Cuenca",
+"escanos": 3,
+"n": 10
+},
+{
+"slug": "gipuzkoa",
+"nombre": "Gipuzkoa",
+"escanos": 6,
+"n": 11
+},
+{
+"slug": "girona",
+"nombre": "Girona",
+"escanos": 6,
+"n": 10
+},
+{
+"slug": "granada",
+"nombre": "Granada",
+"escanos": 7,
+"n": 11
+},
+{
+"slug": "guadalajara",
+"nombre": "Guadalajara",
+"escanos": 3,
+"n": 10
+},
+{
+"slug": "huelva",
+"nombre": "Huelva",
+"escanos": 5,
+"n": 10
+},
+{
+"slug": "huesca",
+"nombre": "Huesca",
+"escanos": 3,
+"n": 11
+},
+{
+"slug": "illes-balears",
+"nombre": "Illes Balears",
+"escanos": 8,
+"n": 7
+},
+{
+"slug": "jaen",
+"nombre": "Jaén",
+"escanos": 5,
+"n": 11
+},
+{
+"slug": "la-rioja",
+"nombre": "la Rioja",
+"escanos": 4,
+"n": 10
+},
+{
+"slug": "las-palmas",
+"nombre": "las Palmas",
+"escanos": 8,
+"n": 14
+},
+{
+"slug": "leon",
+"nombre": "León",
+"escanos": 4,
+"n": 12
+},
+{
+"slug": "lleida",
+"nombre": "Lleida",
+"escanos": 4,
+"n": 10
+},
+{
+"slug": "lugo",
+"nombre": "Lugo",
+"escanos": 4,
+"n": 8
+},
+{
+"slug": "madrid",
+"nombre": "Madrid",
+"escanos": 38,
+"n": 14
+},
+{
+"slug": "malaga",
+"nombre": "Málaga",
+"escanos": 11,
+"n": 11
+},
+{
+"slug": "melilla",
+"nombre": "Melilla",
+"escanos": 1,
+"n": 5
+},
+{
+"slug": "murcia",
+"nombre": "Murcia",
+"escanos": 10,
+"n": 10
+},
+{
+"slug": "navarra",
+"nombre": "Navarra",
+"escanos": 5,
+"n": 13
+},
+{
+"slug": "ourense",
+"nombre": "Ourense",
+"escanos": 4,
+"n": 10
+},
+{
+"slug": "palencia",
+"nombre": "Palencia",
+"escanos": 3,
+"n": 11
+},
+{
+"slug": "pontevedra",
+"nombre": "Pontevedra",
+"escanos": 7,
+"n": 10
+},
+{
+"slug": "salamanca",
+"nombre": "Salamanca",
+"escanos": 4,
+"n": 9
+},
+{
+"slug": "santa-cruz-de-tenerife",
+"nombre": "Santa Cruz de Tenerife",
+"escanos": 7,
+"n": 12
+},
+{
+"slug": "segovia",
+"nombre": "Segovia",
+"escanos": 3,
+"n": 10
+},
+{
+"slug": "sevilla",
+"nombre": "Sevilla",
+"escanos": 12,
+"n": 11
+},
+{
+"slug": "soria",
+"nombre": "Soria",
+"escanos": 2,
+"n": 11
+},
+{
+"slug": "tarragona",
+"nombre": "Tarragona",
+"escanos": 6,
+"n": 13
+},
+{
+"slug": "teruel",
+"nombre": "Teruel",
+"escanos": 3,
+"n": 10
+},
+{
+"slug": "toledo",
+"nombre": "Toledo",
+"escanos": 6,
+"n": 9
+},
+{
+"slug": "valencia",
+"nombre": "Valencia",
+"escanos": 16,
+"n": 13
+},
+{
+"slug": "valladolid",
+"nombre": "Valladolid",
+"escanos": 5,
+"n": 13
+},
+{
+"slug": "zamora",
+"nombre": "Zamora",
+"escanos": 3,
+"n": 9
+},
+{
+"slug": "zaragoza",
+"nombre": "Zaragoza",
+"escanos": 7,
+"n": 10
+}
+]

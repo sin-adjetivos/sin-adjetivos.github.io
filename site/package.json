@@ -1,0 +1,22 @@
+{
+  "name": "site",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.23.4"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/base_path.mjs && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@fontsource-variable/archivo": "^5.3.0",
+    "@fontsource-variable/source-serif-4": "^5.3.1",
+    "astro": "^7.4.5"
+  },
+  "devDependencies": {
+    "pagefind": "^1.6.0"
+  }
+}

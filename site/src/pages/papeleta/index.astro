@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import { provincias, resumen } from '../../lib/datos.js';
+---
+<Base titulo="Listas por provincia">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Listas por provincia</h1>
+      <p>Las {resumen.candidaturas_congreso} candidaturas proclamadas al Congreso en las {resumen.provincias} circunscripciones, según el <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103" rel="noopener">BOE del 3 de noviembre de 2026</a>. Las listas al Senado se consultan en el propio BOE.</p>
+    </header>
+    <ul style="columns:3 12rem;column-gap:2rem">
+      {provincias.map((p) => <li><a href={`/papeleta/${p.slug}/`}>{p.nombre}</a></li>)}
+    </ul>
+  </div>
+</Base>

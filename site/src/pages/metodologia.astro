@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import { resumen } from '../lib/datos.js';
+---
+<Base titulo="Cómo trabajamos">
+  <div class="marco">
+    <header class="entrada"><h1>Cómo trabajamos</h1><p>La neutralidad no depende de que nos creas. Depende de reglas que puedes comprobar.</p></header>
+    <div class="prosa">
+      <h2>Las reglas</h2>
+      <ul>
+        <li>Todas las candidaturas tienen las mismas casillas. Si falta un dato, se dice.</li>
+        <li>El orden de las candidaturas se baraja en cada visita. Sin JavaScript, es alfabético.</li>
+        <li>Cada partido aparece con su color para reconocerlo de un vistazo, con el mismo trato para todos. Son los colores de referencia que usa Wikipedia en sus tablas electorales, no referencias Pantone oficiales. Las páginas generales usan el blanco y el sepia de las papeletas del Congreso y del Senado.</li>
+        <li>No hay puntuaciones, rankings, semáforos ni totales de casos por partido.</li>
+        <li>No publicamos encuestas ni pedimos el voto.</li>
+      </ul>
+
+      <h2>Citas de programas</h2>
+      <p>Cada cita es literal. Un programa comprueba las {resumen.citas} citas de esta web contra el texto del PDF original y localiza la página; si una cita no aparece tal cual, la web no se publica. Esto garantiza que la frase existe, no que el fragmento sea el más representativo: la selección la hacemos personas, y por eso enlazamos siempre al documento.</p>
+      <p>A 4 de noviembre de 2026 no hemos localizado programas completos para estas elecciones, así que usamos el documento más reciente de cada candidatura y decimos de qué año es. Para Frente Amplio usamos el programa de Sumar de 2023 como antecedente, y así se indica. De Junts, Podemos, Coalición Canaria, Compromís, Unidad del Pueblo Canario y Ara Més no hemos localizado un documento original que usar.</p>
+
+      <h2>Votaciones</h2>
+      <p>Los datos salen de los <a href="https://www.congreso.es/es/opendata/votaciones" rel="noopener">datos abiertos del Congreso</a>, voto a voto de cada diputado, y los totales se cuadran con los oficiales. Las {resumen.votos} votaciones son una selección nuestra por tema. En las votaciones por llamamiento, como la de la amnistía o los decretos de vivienda de octubre, el Congreso solo publica el total en esos datos, y no mostramos un desglose por grupo.</p>
+      <p>El Grupo Mixto se reparte por persona: Podemos, BNG y Coalición Canaria aparecen con sus propios diputados.</p>
+
+      <h2>Listas</h2>
+      <p>Proceden del <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103" rel="noopener">BOE-A-2026-23103</a>, del 3 de noviembre de 2026: {resumen.candidaturas_congreso} candidaturas al Congreso en {resumen.provincias} circunscripciones, sin contar las {resumen.no_proclamadas} marcadas como no proclamadas. Podría haber cambios por recursos posteriores.</p>
+
+      <h2>Causas judiciales</h2>
+      <p>Revisamos a las 14 cabezas de lista de las fuerzas con representación, buscando en prensa su nombre junto a términos judiciales. «No localizado» significa exactamente eso: no es un certificado de ausencia de causas. Solo se incluyen causas penales en las que la persona es parte, además de las de cónyuge y hermanos, y siempre con el estado exacto.</p>
+      <p>La lista general de casos procede de <a href="https://www.datosclaros.es/corrupcion/" rel="noopener">DatosClaros</a>, bajo licencia CC BY 4.0, con su texto y sin su lista de personas. Aún no hemos comprobado cada caso uno a uno.</p>
+
+      <h2>Plenos y discursos</h2>
+      <p>Publicamos el texto de los debates del Pleno de esta legislatura tal como aparece en el Diario de Sesiones, sin corregirlo, y cada intervención enlaza a su página y a su vídeo oficial. El Congreso permite reutilizar estos contenidos si no se alteran y se cita la fuente. Separar los turnos de palabra lo hace un programa y puede cometer errores: ante cualquier duda, manda el PDF oficial.</p>
+      <p>Las frases de «En el Pleno» las detecta un programa, sin IA, buscando expresiones como «vamos a votar», «proponemos» o «exigimos». Se muestra la primera de cada intervención. Es un método sencillo que a veces elige una frase poco representativa, por eso cada una lleva al discurso completo. El Gobierno aparece aparte de los partidos.</p>
+      <p>Un debate o una votación pertenece a un tema si su título contiene ciertas palabras, y puede estar en varios o en ninguno.</p>
+
+      <h2>Actualidad</h2>
+      <p>Mostramos titulares de varios medios agrupados automáticamente. <a href="/actualidad/#como">Más detalle</a>.</p>
+
+      <h2>Uso de inteligencia artificial</h2>
+      <p>Esta web se ha construido con la ayuda de un asistente de IA, Claude, de Anthropic, que ha participado en el código, la extracción y la propuesta de citas, y en la selección de votaciones destacadas. Las citas están comprobadas por software contra el documento original. Ningún chatbot responde aquí preguntas sobre candidatos, porque una respuesta inventada sobre una causa judicial sería grave.</p>
+
+      <h2>Límites</h2>
+      <ul>
+        <li>Solo 14 candidaturas tienen expediente. El criterio es objetivo, pero deja fuera a formaciones con cargos electos en otras instituciones.</li>
+        <li>Las listas al Senado no están en esta web.</li>
+        <li>Las comisiones del Congreso aún no están incluidas, solo el Pleno.</li>
+        <li>Los antecedentes de algunas cabezas de lista proceden de Wikipedia, y así se indica.</li>
+      </ul>
+    </div>
+  </div>
+</Base>

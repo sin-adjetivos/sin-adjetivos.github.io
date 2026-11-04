@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import { temas } from '../../lib/datos.js';
+---
+<Base titulo="Temas">
+  <div class="marco">
+    <header class="entrada"><h1>Temas</h1><p>Lo que propone cada candidatura, lo que votó su grupo y, cuando lo tenemos, lo que dijo en el debate.</p></header>
+    <ul class="indice-temas">
+      {temas.map((t) => <li><a href={`/temas/${t.id}/`}>{t.nombre}</a></li>)}
+    </ul>
+  </div>
+</Base>

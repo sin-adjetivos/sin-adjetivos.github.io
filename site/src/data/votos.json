@@ -1,0 +1,3592 @@
+[
+{
+"tema": "vivienda",
+"fecha": "2026-10-02",
+"titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible.",
+"corto": "Decreto de vivienda: función social y oferta asequible",
+"sentido": "Convalidar el decreto. Votación por llamamiento.",
+"expediente": "130/000055",
+"si": 172,
+"no": 178,
+"abst": 0,
+"diario": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF#page=56",
+"grupos": null,
+"json": null,
+"id": "2026-10-02-decreto-de-vivienda-funcion-social-y-oferta-asequi",
+"resultado": "No salió adelante",
+"por_candidatura": null,
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000055"
+},
+{
+"tema": "vivienda",
+"fecha": "2026-10-02",
+"titulo": "Real Decreto-ley 27/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda.",
+"corto": "Decreto de vivienda: estabilidad de los alquileres",
+"sentido": "Convalidar el decreto. Votación por llamamiento.",
+"expediente": "130/000056",
+"si": 166,
+"no": 184,
+"abst": 0,
+"diario": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF#page=56",
+"grupos": null,
+"json": null,
+"id": "2026-10-02-decreto-de-vivienda-estabilidad-de-los-alquileres",
+"resultado": "No salió adelante",
+"por_candidatura": null,
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000056"
+},
+{
+"tema": "educacion",
+"fecha": "2026-06-25",
+"titulo": "Proposición no de Ley del Grupo Parlamentario Socialista, para impulsar la educación afectivo-sexual y emocional en el ámbito educativo. Se vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+"expediente": "162/000796",
+"si": 172,
+"no": 170,
+"abst": 7,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"sumar": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 121
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+},
+"junts": {
+"Abstención": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/Votacion014/VOT_20260625150803.json",
+"titulo_json": "Proposición no de Ley del Grupo Parlamentario Socialista, para impulsar la educación afectivo-sexual y emocional en el ámbito educativo.\nSe vota en los términos de la enmienda transaccional presentada por el Grupo Parlamentario Socialista, el Grupo Parlamentario Plurinacional SUMAR y el Grupo Parlamentario Republicano.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Propuesta no de ley del PSOE sobre educación afectivo-sexual",
+"sentido": "Texto sin fuerza de ley.",
+"id": "2026-06-25-propuesta-no-de-ley-del-psoe-sobre-educacion-afect",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 121
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"junts": {
+"Abstención": 7
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162/000796"
+},
+{
+"tema": "impuestos",
+"fecha": "2026-05-20",
+"titulo": "Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia.",
+"expediente": "130/000041",
+"si": 315,
+"no": 0,
+"abst": 32,
+"diario": null,
+"grupos": {
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 2
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"vox": {
+"Abstención": 32,
+"No vota": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion180/20260520/Votacion012/VOT_20260520142337.json",
+"titulo_json": "Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Decreto de medidas tributarias urgentes de abril de 2026",
+"sentido": "Convalidar el decreto.",
+"id": "2026-05-20-decreto-de-medidas-tributarias-urgentes-de-abril-d",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 2
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"vox": {
+"Abstención": 32,
+"No vota": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000041"
+},
+{
+"tema": "vivienda",
+"fecha": "2026-04-28",
+"titulo": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán.",
+"expediente": "130/000039",
+"si": 166,
+"no": 177,
+"abst": 5,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 6,
+"No vota": 1
+},
+"sumar": {
+"Sí": 25,
+"No vota": 1
+},
+"psoe": {
+"Sí": 121
+},
+"erc": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json",
+"titulo_json": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Decreto de medidas en el alquiler",
+"sentido": "Convalidar el decreto.",
+"id": "2026-04-28-decreto-de-medidas-en-el-alquiler",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 6,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"psoe": {
+"Sí": 121
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000039"
+},
+{
+"tema": "vivienda",
+"fecha": "2026-04-21",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de medidas administrativas y procesales para la seguridad jurídica de la ordenación territorial y urbanística, el impulso del desarrollo urbano y la vivienda.",
+"expediente": "122/000253",
+"si": 178,
+"no": 163,
+"abst": 6,
+"diario": null,
+"grupos": {
+"psoe": {
+"No": 119,
+"No vota": 2
+},
+"sumar": {
+"No": 25,
+"No vota": 1
+},
+"erc": {
+"No": 7
+},
+"bildu": {
+"No": 6
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Sí": 7
+},
+"cc": {
+"Abstención": 1
+},
+"pnv": {
+"Abstención": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion173/20260421/Votacion001/VOT_20260421201008.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, de medidas administrativas y procesales para la seguridad jurídica de la ordenación territorial y urbanística, el impulso del desarrollo urbano y la vivienda.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Propuesta del PP sobre seguridad jurídica urbanística y vivienda",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2026-04-21-propuesta-del-pp-sobre-seguridad-juridica-urbanist",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"psoe": {
+"No": 119,
+"No vota": 2
+},
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"erc": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Sí": 7
+},
+"coalicion-canaria": {
+"Abstención": 1
+},
+"pnv": {
+"Abstención": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000253"
+},
+{
+"tema": "igualdad",
+"fecha": "2026-02-17",
+"titulo": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica para la protección de la dignidad de las mujeres y la seguridad ciudadana en el espacio público.",
+"expediente": "122/000237",
+"si": 170,
+"no": 177,
+"abst": 1,
+"diario": null,
+"grupos": {
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 121
+},
+"sumar": {
+"No": 25,
+"No vota": 1
+},
+"junts": {
+"No": 7
+},
+"bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 32,
+"No vota": 1
+},
+"cc": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion160/20260217/Votacion002/VOT_20260217203204.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica para la protección de la dignidad de las mujeres y la seguridad ciudadana en el espacio público.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Propuesta de Vox sobre dignidad de las mujeres y seguridad en el espacio público",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2026-02-17-propuesta-de-vox-sobre-dignidad-de-las-mujeres-y-s",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 121
+},
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 32,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000237"
+},
+{
+"tema": "impuestos",
+"fecha": "2025-11-11",
+"titulo": "Proposición de Ley del Grupo Parlamentario Republicano, de medidas fiscales para combatir la especulación inmobiliaria.",
+"expediente": "122/000218",
+"si": 163,
+"no": 171,
+"abst": 13,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"sumar": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"junts": {
+"Abstención": 7
+},
+"cc": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion144/20251111/Votacion002/VOT_20251111210356.json",
+"titulo_json": "Proposición de Ley  del Grupo Parlamentario Republicano, de medidas fiscales para combatir la especulación inmobiliaria.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Propuesta de ERC de medidas fiscales contra la especulación inmobiliaria",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-11-11-propuesta-de-erc-de-medidas-fiscales-contra-la-esp",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"junts": {
+"Abstención": 7
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000218"
+},
+{
+"tema": "empleo",
+"fecha": "2025-10-14",
+"titulo": "Proposición de Ley del Grupo Parlamentario Mixto, para la reducción de la duración máxima de la jornada ordinaria de trabajo a 35 horas semanales.",
+"expediente": "122/000159",
+"si": 162,
+"no": 178,
+"abst": 6,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"sumar": {
+"Sí": 25,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"erc": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"cc": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion137/20251014/Votacion001/VOT_20251014202757.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Mixto, para la reducción de la duración máxima de la jornada ordinaria de trabajo a 35 horas semanales.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Propuesta del Grupo Mixto para reducir la jornada a 35 horas",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-10-14-propuesta-del-grupo-mixto-para-reducir-la-jornada",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000159"
+},
+{
+"tema": "defensa",
+"fecha": "2025-10-08",
+"titulo": "Real Decreto-ley 10/2025, de 23 de septiembre, por el que se adoptan medidas urgentes contra el genocidio en Gaza y de apoyo a la población palestina.",
+"expediente": "130/000024",
+"si": 178,
+"no": 169,
+"abst": 1,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 33
+},
+"pnv": {
+"Sí": 4,
+"No vota": 1
+},
+"sumar": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion087/VOT_20251008195359.json",
+"titulo_json": "Real Decreto-ley 10/2025, de 23 de septiembre, por el que se adoptan medidas urgentes contra el genocidio en Gaza y de apoyo a la población palestina.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Decreto de medidas sobre Gaza y apoyo a la población palestina",
+"sentido": "Convalidar el decreto.",
+"id": "2025-10-08-decreto-de-medidas-sobre-gaza-y-apoyo-a-la-poblaci",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 33
+},
+"pnv": {
+"Sí": 4,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000024"
+},
+{
+"tema": "inmigracion",
+"fecha": "2025-09-23",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Socialista y Junts per Catalunya, Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+"expediente": "122/000172",
+"si": 173,
+"no": 177,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"sumar": {
+"No": 2,
+"Sí": 24
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"erc": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion133/20250923/Votacion001/VOT_20250923211048.json",
+"titulo_json": "Proposición de Ley de los Grupos Parlamentarios Socialista y Junts per Catalunya, Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Delegar en Cataluña competencias estatales de inmigración",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-09-23-delegar-en-cataluna-competencias-estatales-de-inmi",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"No": 2,
+"Sí": 24
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000172"
+},
+{
+"tema": "territorio",
+"fecha": "2025-09-23",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Socialista y Junts per Catalunya, Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+"expediente": "122/000172",
+"si": 173,
+"no": 177,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"sumar": {
+"No": 2,
+"Sí": 24
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"erc": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion133/20250923/Votacion001/VOT_20250923211048.json",
+"titulo_json": "Proposición de Ley de los Grupos Parlamentarios Socialista y Junts per Catalunya, Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Delegar en Cataluña competencias estatales de inmigración",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-09-23-delegar-en-cataluna-competencias-estatales-de-inmi",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"No": 2,
+"Sí": 24
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000172"
+},
+{
+"tema": "inmigracion",
+"fecha": "2025-09-16",
+"titulo": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para restringir la regularización de inmigrantes ilegales a través del arraigo.",
+"expediente": "122/000191",
+"si": 169,
+"no": 177,
+"abst": 1,
+"diario": null,
+"grupos": {
+"sumar": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"cc": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion131/20250916/Votacion001/VOT_20250916211204.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para restringir la regularización de inmigrantes ilegales a través del arraigo.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Propuesta de Vox para restringir la regularización a través del arraigo",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-09-16-propuesta-de-vox-para-restringir-la-regularizacion",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"frente-amplio": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000191"
+},
+{
+"tema": "justicia",
+"fecha": "2025-09-16",
+"titulo": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, de creación de la Oficina de prevención de la corrupción.",
+"expediente": "122/000086",
+"si": 170,
+"no": 176,
+"abst": 1,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"sumar": {
+"Sí": 26
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"erc": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion131/20250916/Votacion002/VOT_20250916211206.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, de creación de la Oficina de prevención de la corrupción.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Propuesta de Sumar de una Oficina de prevención de la corrupción",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-09-16-propuesta-de-sumar-de-una-oficina-de-prevencion-de",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000086"
+},
+{
+"tema": "empleo",
+"fecha": "2025-09-10",
+"titulo": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley para la reducción de la duración máxima de la jornada ordinaria de trabajo y la garantía del registro de jornada y el derecho a la desconexión, presentadas por los Grupos Parlamentarios Junts per Catalunya, VOX y Popular en el Congreso.",
+"expediente": "121/000058",
+"si": 178,
+"no": 170,
+"abst": 0,
+"diario": null,
+"grupos": {
+"sumar": {
+"No": 26
+},
+"psoe": {
+"No": 119,
+"No vota": 1
+},
+"erc": {
+"No": 7
+},
+"bildu": {
+"No": 5,
+"No vota": 1
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"cc": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Sí": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion130/20250910/Votacion010/VOT_20250910213544.json",
+"titulo_json": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley para la reducción de la duración máxima de la jornada ordinaria de trabajo y la garantía del registro de jornada y el derecho a la desconexión, presentadas por los Grupos Parlamentarios Junts per Catalunya, VOX y Popular en el Congreso.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Devolver al Gobierno la ley de reducción de jornada y registro horario",
+"sentido": "Votar sí era devolver el proyecto al Gobierno, es decir, frenarlo.",
+"id": "2025-09-10-devolver-al-gobierno-la-ley-de-reduccion-de-jornad",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"frente-amplio": {
+"No": 26
+},
+"psoe": {
+"No": 119,
+"No vota": 1
+},
+"erc": {
+"No": 7
+},
+"eh-bildu": {
+"No": 5,
+"No vota": 1
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Sí": 7
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000058"
+},
+{
+"tema": "educacion",
+"fecha": "2025-09-09",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la escolarización del alumnado con necesidades educativas especiales (Orgánica).",
+"expediente": "122/000189",
+"si": 170,
+"no": 177,
+"abst": 0,
+"diario": null,
+"grupos": {
+"sumar": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"cc": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion129/20250909/Votacion001/VOT_20250909221758.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la escolarización del alumnado con necesidades educativas especiales (Orgánica).",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Propuesta del PP sobre escolarización de alumnado con necesidades especiales",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-09-09-propuesta-del-pp-sobre-escolarizacion-de-alumnado",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"frente-amplio": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000189"
+},
+{
+"tema": "energia",
+"fecha": "2025-07-22",
+"titulo": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban medidas urgentes para el refuerzo del sistema eléctrico.",
+"expediente": "130/000021",
+"si": 165,
+"no": 183,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"sumar": {
+"No": 1,
+"Sí": 25
+},
+"bng": {
+"No": 1
+},
+"junts": {
+"No": 6,
+"No vota": 1
+},
+"psoe": {
+"Sí": 120
+},
+"erc": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/Votacion017/VOT_20250722200830.json",
+"titulo_json": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban medidas urgentes para el refuerzo del sistema eléctrico.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Decreto de refuerzo del sistema eléctrico",
+"sentido": "Convalidar el decreto.",
+"id": "2025-07-22-decreto-de-refuerzo-del-sistema-electrico",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"No": 1,
+"Sí": 25
+},
+"bng": {
+"No": 1
+},
+"junts": {
+"No": 6,
+"No vota": 1
+},
+"psoe": {
+"Sí": 120
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000021"
+},
+{
+"tema": "energia",
+"fecha": "2025-06-17",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar la aportación de la energía nuclear en la descarbonización del sistema energético.",
+"expediente": "122/000179",
+"si": 171,
+"no": 166,
+"abst": 7,
+"diario": null,
+"grupos": {
+"sumar": {
+"No": 25,
+"No vota": 1
+},
+"psoe": {
+"No": 117,
+"No vota": 2
+},
+"erc": {
+"No": 7
+},
+"bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 3,
+"No vota": 1
+},
+"bng": {
+"No": 1
+},
+"cc": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Abstención": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion119/20250617/Votacion001/VOT_20250617203251.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar la aportación de la energía nuclear en la descarbonización del sistema energético.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Propuesta del PP sobre el papel de la energía nuclear",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-06-17-propuesta-del-pp-sobre-el-papel-de-la-energia-nucl",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"psoe": {
+"No": 117,
+"No vota": 2
+},
+"erc": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 3,
+"No vota": 1
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Abstención": 7
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000179"
+},
+{
+"tema": "educacion",
+"fecha": "2025-05-27",
+"titulo": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario.",
+"expediente": "122/000186",
+"si": 177,
+"no": 168,
+"abst": 0,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 134,
+"Sí": 2,
+"No vota": 1
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 6,
+"No vota": 1
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion114/20250527/Votacion002/VOT_20250527201601.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Reforma de la Ley del Sistema Universitario propuesta por el PSOE",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2025-05-27-reforma-de-la-ley-del-sistema-universitario-propue",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 134,
+"Sí": 2,
+"No vota": 1
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 6,
+"No vota": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000186"
+},
+{
+"tema": "sanidad",
+"fecha": "2025-03-20",
+"titulo": "Votación del dictamen del Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+"expediente": "121/000007",
+"si": 167,
+"no": 176,
+"abst": 2,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 135,
+"No vota": 2
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"psoe": {
+"No": 1,
+"Sí": 119
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 6,
+"No vota": 1
+},
+"sumar": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"bng": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion101/20250320/Votacion019/VOT_20250320125720.json",
+"titulo_json": "Votación del dictamen del Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Creación de la Agencia Estatal de Salud Pública",
+"sentido": "Aprobar el dictamen.",
+"id": "2025-03-20-creacion-de-la-agencia-estatal-de-salud-publica",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 135,
+"No vota": 2
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"psoe": {
+"No": 1,
+"Sí": 119
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 6,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"bng": {
+"Abstención": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000007"
+},
+{
+"tema": "defensa",
+"fecha": "2025-03-20",
+"titulo": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a reafirmar el apoyo a Ucrania y fortalecer la relación transatlántica.",
+"expediente": "162/000443",
+"si": 136,
+"no": 165,
+"abst": 45,
+"diario": null,
+"grupos": {
+"psoe": {
+"No": 120
+},
+"podemos": {
+"No": 4
+},
+"cc": {
+"No": 1
+},
+"erc": {
+"No": 7
+},
+"sumar": {
+"No": 25,
+"No vota": 1
+},
+"compromis": {
+"No": 1
+},
+"bng": {
+"No": 1
+},
+"bildu": {
+"No": 6
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"vox": {
+"Abstención": 33
+},
+"pnv": {
+"Abstención": 5
+},
+"junts": {
+"Abstención": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion101/20250320/Votacion005/VOT_20250320125704.json",
+"titulo_json": "Proposición no de Ley del Grupo Parlamentario Popular en el Congreso, relativa a reafirmar el apoyo a Ucrania y fortalecer la relación transatlántica.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Propuesta no de ley del PP de apoyo a Ucrania y relación transatlántica",
+"sentido": "Texto sin fuerza de ley.",
+"id": "2025-03-20-propuesta-no-de-ley-del-pp-de-apoyo-a-ucrania-y-re",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"psoe": {
+"No": 120
+},
+"podemos": {
+"No": 4
+},
+"coalicion-canaria": {
+"No": 1
+},
+"erc": {
+"No": 7
+},
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"compromis": {
+"No": 1
+},
+"bng": {
+"No": 1
+},
+"eh-bildu": {
+"No": 6
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"vox": {
+"Abstención": 33
+},
+"pnv": {
+"Abstención": 5
+},
+"junts": {
+"Abstención": 7
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=162/000443"
+},
+{
+"tema": "igualdad",
+"fecha": "2025-02-26",
+"titulo": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+"expediente": "154/000003",
+"si": 315,
+"no": 33,
+"abst": 0,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion095/20250226/Votacion022/VOT_20250226151659.json",
+"titulo_json": "Informe de la Subcomisión para la renovación y actualización del Pacto de Estado en materia de violencia de género.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Informe de actualización del Pacto de Estado contra la violencia de género",
+"sentido": "Aprobar el informe.",
+"id": "2025-02-26-informe-de-actualizacion-del-pacto-de-estado-contr",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=154/000003"
+},
+{
+"tema": "pensiones",
+"fecha": "2025-02-12",
+"titulo": "Real Decreto-ley 1/2025, de 28 de enero, por el que se aprueban medidas urgentes en materia económica, de transporte, de Seguridad Social, y para hacer frente a situaciones de vulnerabilidad.",
+"expediente": "130/000015",
+"si": 315,
+"no": 33,
+"abst": 1,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion012/VOT_20250212154047.json",
+"titulo_json": "Real Decreto-ley 1/2025, de 28 de enero, por el que se aprueban medidas urgentes en materia económica, de transporte, de Seguridad Social, y para hacer frente a situaciones de vulnerabilidad.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Decreto de enero de 2025 con medidas económicas y de Seguridad Social",
+"sentido": "Convalidar el decreto.",
+"id": "2025-02-12-decreto-de-enero-de-2025-con-medidas-economicas-y",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000015"
+},
+{
+"tema": "pensiones",
+"fecha": "2025-01-22",
+"titulo": "Real Decreto-ley 9/2024, de 23 de diciembre, por el que se adoptan medidas urgentes en materia económica, tributaria, de transporte, y de Seguridad Social, y se prorrogan determinadas medidas para hacer frente a situaciones de vulnerabilidad social.",
+"expediente": "130/000012",
+"si": 171,
+"no": 177,
+"abst": 1,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"pnv": {
+"Sí": 5
+},
+"sumar": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 120
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"bildu": {
+"Sí": 6
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion001/VOT_20250122154425.json",
+"titulo_json": "Real Decreto-ley 9/2024, de 23 de diciembre, por el que se adoptan medidas urgentes en materia económica, tributaria, de transporte, y de Seguridad Social, y se prorrogan determinadas medidas para hacer frente a situaciones de vulnerabilidad social.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Decreto ómnibus de diciembre de 2024, con medidas de Seguridad Social",
+"sentido": "Convalidar el decreto.",
+"id": "2025-01-22-decreto-omnibus-de-diciembre-de-2024-con-medidas-d",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"pnv": {
+"Sí": 5
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 120
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000012"
+},
+{
+"tema": "pensiones",
+"fecha": "2025-01-22",
+"titulo": "Real Decreto-ley 11/2024, de 23 de diciembre, para la mejora de la compatibilidad de la pensión de jubilación con el trabajo.",
+"expediente": "130/000014",
+"si": 298,
+"no": 51,
+"abst": 0,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"bildu": {
+"No": 6
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 120
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion003/VOT_20250122154429.json",
+"titulo_json": "Real Decreto-ley 11/2024, de 23 de diciembre, para la mejora de la compatibilidad de la pensión de jubilación con el trabajo.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Decreto sobre compatibilidad de la pensión de jubilación con el trabajo",
+"sentido": "Convalidar el decreto.",
+"id": "2025-01-22-decreto-sobre-compatibilidad-de-la-pension-de-jubi",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"eh-bildu": {
+"No": 6
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 120
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000014"
+},
+{
+"tema": "sanidad",
+"fecha": "2024-12-10",
+"titulo": "Proposición de Ley sobre ratios de enfermeras para garantizar la seguridad del paciente en centros sanitarios y otros ámbitos (corresponde a los números de expediente 120/000018/0000 de la XII Legislatura, 120/000005/0000 de la XIII Legislatura y 120/00004/0000 de la XIV Legislatura).",
+"expediente": "120/000003",
+"si": 316,
+"no": 5,
+"abst": 21,
+"diario": null,
+"grupos": {
+"pnv": {
+"No": 5
+},
+"pp": {
+"Sí": 134,
+"No vota": 3
+},
+"vox": {
+"Sí": 33
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"podemos": {
+"Sí": 4
+},
+"sumar": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"cc": {
+"Abstención": 1
+},
+"erc": {
+"Abstención": 7
+},
+"junts": {
+"Abstención": 7
+},
+"bildu": {
+"Abstención": 6
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion083/20241210/Votacion001/VOT_20241210202031.json",
+"titulo_json": "Proposición de Ley sobre ratios de enfermeras para garantizar la seguridad del paciente en centros sanitarios y otros ámbitos (corresponde a los números de expediente 120/000018/0000 de la XII Legislatura, 120/000005/0000 de la XIII Legislatura y 120/00004/0000 de la XIV Legislatura).",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Iniciativa sobre ratios de enfermeras",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-12-10-iniciativa-sobre-ratios-de-enfermeras",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pnv": {
+"No": 5
+},
+"pp": {
+"Sí": 134,
+"No vota": 3
+},
+"vox": {
+"Sí": 33
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"podemos": {
+"Sí": 4
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Abstención": 1
+},
+"erc": {
+"Abstención": 7
+},
+"junts": {
+"Abstención": 7
+},
+"eh-bildu": {
+"Abstención": 6
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=120/000003"
+},
+{
+"tema": "impuestos",
+"fecha": "2024-11-21",
+"titulo": "Votación del dictamen del Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+"expediente": "121/000023",
+"si": 178,
+"no": 171,
+"abst": 0,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 137
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion062/VOT_20241121173859.json",
+"titulo_json": "Votación del dictamen del Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Impuesto mínimo a multinacionales, impuesto a la banca y a líquidos de vapeo",
+"sentido": "Aprobar el dictamen.",
+"id": "2024-11-21-impuesto-minimo-a-multinacionales-impuesto-a-la-ba",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 137
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000023"
+},
+{
+"tema": "sanidad",
+"fecha": "2024-10-10",
+"titulo": "Votación del dictamen de la Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible (antes denominada Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible).",
+"expediente": "122/000128",
+"si": 344,
+"no": 0,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion066/20241010/Votacion015/VOT_20241010194930.json",
+"titulo_json": "Votación del dictamen de la Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible (antes denominada Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible).",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Ley para personas con ELA y otras enfermedades",
+"sentido": "Aprobar el dictamen.",
+"id": "2024-10-10-ley-para-personas-con-ela-y-otras-enfermedades",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000128"
+},
+{
+"tema": "vivienda",
+"fecha": "2024-09-17",
+"titulo": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, relativa a la regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones.",
+"expediente": "122/000119",
+"si": 172,
+"no": 178,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, relativa a la regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Propuesta de Sumar sobre alquiler de temporada y de habitaciones",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-09-17-propuesta-de-sumar-sobre-alquiler-de-temporada-y-d",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000119"
+},
+{
+"tema": "inmigracion",
+"fecha": "2024-07-23",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Socialista, Plurinacional SUMAR y Mixto, de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.",
+"expediente": "122/000123",
+"si": 171,
+"no": 177,
+"abst": 1,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"sumar": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"bildu": {
+"Sí": 6
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/Votacion063/VOT_20240723221735.json",
+"titulo_json": "Proposición de Ley de los Grupos Parlamentarios Socialista, Plurinacional SUMAR y Mixto, de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Reforma de la ley de extranjería propuesta por PSOE, Sumar y Grupo Mixto",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-07-23-reforma-de-la-ley-de-extranjeria-propuesta-por-pso",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000123"
+},
+{
+"tema": "igualdad",
+"fecha": "2024-07-23",
+"titulo": "Votación de conjunto del Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres, por tener la misma carácter orgánico.",
+"expediente": "121/000001",
+"si": 178,
+"no": 171,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"bildu": {
+"Sí": 6
+},
+"podemos": {
+"Sí": 4
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"sumar": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"cc": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/Votacion068/VOT_20240723221740.json",
+"titulo_json": "Votación de conjunto del Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres, por tener la misma carácter orgánico.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Ley de representación paritaria de mujeres y hombres",
+"sentido": "Votación final de conjunto.",
+"id": "2024-07-23-ley-de-representacion-paritaria-de-mujeres-y-hombr",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"eh-bildu": {
+"Sí": 6
+},
+"podemos": {
+"Sí": 4
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=121/000001"
+},
+{
+"tema": "justicia",
+"fecha": "2024-07-04",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Popular en el Congreso y Socialista, Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+"expediente": "122/000118",
+"si": 258,
+"no": 43,
+"abst": 33,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"podemos": {
+"No": 3,
+"No vota": 1
+},
+"junts": {
+"No": 7
+},
+"erc": {
+"No": 1,
+"No vota": 6
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"cc": {
+"Sí": 1
+},
+"sumar": {
+"Abstención": 26
+},
+"pnv": {
+"Abstención": 5
+},
+"compromis": {
+"Abstención": 1
+},
+"bildu": {
+"No vota": 6
+},
+"bng": {
+"No vota": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion053/20240704/Votacion001/VOT_20240704135014.json",
+"titulo_json": "Proposición de Ley de los Grupos Parlamentarios Popular en el Congreso y Socialista, Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Reforma del Poder Judicial y del Ministerio Fiscal propuesta por PP y PSOE",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-07-04-reforma-del-poder-judicial-y-del-ministerio-fiscal",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"podemos": {
+"No": 3,
+"No vota": 1
+},
+"junts": {
+"No": 7
+},
+"erc": {
+"No": 1,
+"No vota": 6
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"frente-amplio": {
+"Abstención": 26
+},
+"pnv": {
+"Abstención": 5
+},
+"compromis": {
+"Abstención": 1
+},
+"eh-bildu": {
+"No vota": 6
+},
+"bng": {
+"No vota": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000118"
+},
+{
+"tema": "territorio",
+"fecha": "2024-06-11",
+"titulo": "Proposición de Ley del Parlamento de Galicia, Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+"expediente": "125/000005",
+"si": 309,
+"no": 33,
+"abst": 0,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 6,
+"No vota": 1
+},
+"sumar": {
+"Sí": 23,
+"No vota": 3
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion044/20240611/Votacion001/VOT_20240611203611.json",
+"titulo_json": "Proposición de Ley del Parlamento de Galicia, Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Traspaso de la autopista AP-9 a Galicia, a propuesta del Parlamento gallego",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-06-11-traspaso-de-la-autopista-ap-9-a-galicia-a-propuest",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 6,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 23,
+"No vota": 3
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=125/000005"
+},
+{
+"tema": "territorio",
+"fecha": "2024-05-30",
+"titulo": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña. (Pública por llamamiento).",
+"expediente": "122/000019",
+"si": 177,
+"no": 172,
+"abst": 0,
+"diario": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-45.PDF?#page=25",
+"grupos": null,
+"json": null,
+"corto": "Ley Orgánica de amnistía",
+"sentido": "Aprobación definitiva. Votación por llamamiento.",
+"id": "2024-05-30-ley-organica-de-amnistia",
+"resultado": "Salió adelante",
+"por_candidatura": null,
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000019"
+},
+{
+"tema": "defensa",
+"fecha": "2024-05-23",
+"titulo": "Tratado de cooperación en el ámbito de la defensa entre el Reino de España y la República Francesa, hecho en Barcelona el 19 de enero de 2023.",
+"expediente": "110/000013",
+"si": 319,
+"no": 7,
+"abst": 17,
+"diario": null,
+"grupos": {
+"junts": {
+"No": 7
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"vox": {
+"Sí": 32,
+"No vota": 1
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"cc": {
+"Sí": 1
+},
+"sumar": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"pnv": {
+"Sí": 4,
+"No vota": 1
+},
+"erc": {
+"Abstención": 7
+},
+"bildu": {
+"Abstención": 6
+},
+"podemos": {
+"Abstención": 4
+},
+"bng": {
+"No vota": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion040/20240523/Votacion054/VOT_20240523141024.json",
+"titulo_json": "Tratado de cooperación en el ámbito de la defensa entre el Reino de España y la República Francesa, hecho en Barcelona el 19 de enero de 2023.",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Tratado de cooperación en defensa con Francia",
+"sentido": "Autorizar el tratado.",
+"id": "2024-05-23-tratado-de-cooperacion-en-defensa-con-francia",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"junts": {
+"No": 7
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"vox": {
+"Sí": 32,
+"No vota": 1
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"pnv": {
+"Sí": 4,
+"No vota": 1
+},
+"erc": {
+"Abstención": 7
+},
+"eh-bildu": {
+"Abstención": 6
+},
+"podemos": {
+"Abstención": 4
+},
+"bng": {
+"No vota": 1
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=110/000013"
+},
+{
+"tema": "inmigracion",
+"fecha": "2024-04-09",
+"titulo": "Proposición de Ley para una regularización extraordinaria para personas extranjeras en España (corresponde al número de expediente 120/000026/0000 de la XIV Legislatura).",
+"expediente": "120/000004",
+"si": 310,
+"no": 33,
+"abst": 0,
+"diario": null,
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 1
+},
+"podemos": {
+"Sí": 3,
+"No vota": 1
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion034/20240409/Votacion001/VOT_20240409210631.json",
+"titulo_json": "Proposición de Ley para una regularización extraordinaria para personas extranjeras en España (corresponde al número de expediente 120/000026/0000 de la XIV Legislatura).",
+"sin_asignar": {
+"Ábalos Meco, José Luis": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Iniciativa legislativa popular para una regularización extraordinaria",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-04-09-iniciativa-legislativa-popular-para-una-regulariza",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 1
+},
+"podemos": {
+"Sí": 3,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=120/000004"
+},
+{
+"tema": "justicia",
+"fecha": "2024-02-27",
+"titulo": "Proposición de Ley del Grupo Parlamentario Vasco (EAJ-PNV), de reforma de la Ley 9/1968, de 5 de abril, sobre secretos oficiales.",
+"expediente": "122/000005",
+"si": 176,
+"no": 169,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 135,
+"No vota": 2
+},
+"vox": {
+"No": 33
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"podemos": {
+"Sí": 4
+},
+"cc": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"sumar": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion024/20240227/Votacion001/VOT_20240227205807.json",
+"titulo_json": "Proposición de Ley del Grupo Parlamentario Vasco (EAJ-PNV), de reforma de la Ley 9/1968, de 5 de abril, sobre secretos oficiales.",
+"sin_asignar": {
+"Catalán Higueras, Alberto": 1,
+"Ábalos Meco, José Luis": 1
+},
+"corto": "Propuesta del PNV de reforma de la Ley de secretos oficiales",
+"sentido": "Decidía si empezaba a tramitarse.",
+"id": "2024-02-27-propuesta-del-pnv-de-reforma-de-la-ley-de-secretos",
+"resultado": "Salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 135,
+"No vota": 2
+},
+"vox": {
+"No": 33
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=122/000005"
+},
+{
+"tema": "empleo",
+"fecha": "2024-01-10",
+"titulo": "Real Decreto-ley 7/2023, de 19 de diciembre, por el que se adoptan medidas urgentes, para completar la transposición de la Directiva (UE) 2019/1158, del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo, y para la simplificación y mejora del nivel asistencial de la protección por desempleo.",
+"expediente": "130/000002",
+"si": 167,
+"no": 176,
+"abst": 0,
+"diario": null,
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"sumar": {
+"Sí": 25
+},
+"psoe": {
+"Sí": 121
+},
+"cc": {
+"Sí": 1
+},
+"compromis": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"bng": {
+"Sí": 1
+},
+"bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"junts": {
+"No vota": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/Votacion003/VOT_20240111114814.json",
+"titulo_json": "Real Decreto-ley 7/2023, de 19 de diciembre, por el que se adoptan medidas urgentes, para completar la transposición de la Directiva (UE) 2019/1158, del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo, y para la simplificación y mejora del nivel asistencial de la protección por desempleo.",
+"sin_asignar": {
+"Verstrynge Revuelta, Lilith": 1,
+"Catalán Higueras, Alberto": 1
+},
+"corto": "Decreto sobre conciliación y protección por desempleo",
+"sentido": "Convalidar el decreto.",
+"id": "2024-01-10-decreto-sobre-conciliacion-y-proteccion-por-desemp",
+"resultado": "No salió adelante",
+"por_candidatura": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"Sí": 25
+},
+"psoe": {
+"Sí": 121
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"compromis": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"junts": {
+"No vota": 7
+}
+},
+"ficha": "https://www.congreso.es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=130/000002"
+}
+]

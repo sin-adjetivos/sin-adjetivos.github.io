@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import { personas } from '../../lib/archivo.js';
+import { fecha } from '../../lib/datos.js';
+
+export function getStaticPaths() {
+  return personas().map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+const nombre = p.nombre.split(', ').reverse().join(' ');
+---
+<Base titulo={nombre} descripcion={`Intervenciones de ${nombre} en el Pleno del Congreso en esta legislatura.`}>
+  <div class="marco">
+    <header class="entrada">
+      <h1 class="h1-largo">{nombre}</h1>
+      <p>{p.cargo ? `${p.cargo}. ` : ''}{p.n} intervenciones en el Pleno en esta legislatura, de la más reciente a la más antigua.</p>
+    </header>
+    <ul class="filas-simple">
+      {p.intervenciones.map((i) => (
+        <li>
+          <p class="fuente">{fecha(i.fecha)}</p>
+          <a href={`/debates/${i.debate}/#t${i.turno}`}>{i.titulo}</a>
+          {i.destacada && <blockquote class="pequena">«{i.destacada}»</blockquote>}
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

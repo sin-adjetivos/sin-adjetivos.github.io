@@ -1,0 +1,97 @@
+---
+import Base from '../../layouts/Base.astro';
+import Acta from '../../components/Acta.astro';
+import Cita from '../../components/Cita.astro';
+import Chip from '../../components/Chip.astro';
+import { COLORES } from '../../lib/color.js';
+import { declaraciones, votosTodos, debates } from '../../lib/archivo.js';
+import { temas, candidaturas, posiciones, dijo, votos, AVISOS, fecha } from '../../lib/datos.js';
+
+export function getStaticPaths() {
+  return temas.map((t) => ({ params: { id: t.id }, props: { tema: t } }));
+}
+const { tema } = Astro.props;
+const pos = posiciones.filter((p) => p.tema === tema.id);
+const dichos = dijo.filter((d) => d.tema === tema.id);
+const vs = votos.filter((v) => v.tema === tema.id);
+const aviso = AVISOS[tema.id];
+const frases = declaraciones().filter((d) => d.temas.includes(tema.id)).sort((a, b) => b.fecha.localeCompare(a.fecha));
+const nVotos = votosTodos().filter((v) => v.temas.includes(tema.id)).length;
+const nDebates = debates().filter((d) => d.temas.includes(tema.id)).length;
+const delGobierno = frases.filter((f) => f.bando === 'gobierno').slice(0, 3);
+---
+<Base titulo={tema.nombre}>
+  <div class="marco">
+    <header class="entrada">
+      <h1>{tema.nombre}</h1>
+      <p>A 4 de noviembre de 2026 no hemos localizado programas completos para estas elecciones. Mostramos el documento más reciente de cada candidatura e indicamos de qué año es.</p>
+    </header>
+    <nav class="temas-nav" aria-label="Otros temas">
+      {temas.filter((t) => t.id !== tema.id).map((t) => <a href={`/temas/${t.id}/`}>{t.nombre}</a>)}
+    </nav>
+
+    <section class="seccion">
+      <h2>Qué propone y qué ha dicho cada partido</h2>
+      <p class="nota" style="margin-bottom:1rem">Orden al azar en cada visita. «Propone» sale de sus documentos; «En el Pleno» son las frases más recientes detectadas por reglas automáticas. Son fragmentos: el enlace lleva al texto completo.</p>
+      <ul class="filas" data-barajar>
+        {candidaturas.map((c) => {
+          const ps = pos.filter((p) => p.candidatura === c.id);
+          const ds = dichos.filter((d) => d.candidatura === c.id);
+          const fs = frases.filter((f) => f.bando === c.id);
+          return (
+            <li style={`--c:${COLORES[c.id]}`} class="con-banda">
+              <p class="quien"><Chip id={c.id} href={`/candidaturas/${c.id}/`}>{c.sigla}</Chip><small>{c.cabeza}</small></p>
+              <div>
+                {ps.length ? (
+                  <div class="bloque">
+                    <p class="etiqueta">Propone</p>
+                    {ps.map((p) => <Cita p={p} />)}
+                  </div>
+                ) : (
+                  <p class="vacio">No hemos localizado una propuesta sobre este tema en un documento de esta candidatura.</p>
+                )}
+                {ds.map((d) => (
+                  <div class="bloque">
+                    <p class="etiqueta">Dijo</p>
+                    <blockquote>«{d.cita}»</blockquote>
+                    <p class="fuente">{d.orador}. <a href={d.url} rel="noopener">{d.debate}, página {d.pagina} del Diario de Sesiones</a>.</p>
+                  </div>
+                ))}
+                {fs.length > 0 && (
+                  <div class="bloque">
+                    <p class="etiqueta">En el Pleno</p>
+                    {fs.slice(0, 2).map((f) => (
+                      <div class="bloque">
+                        <blockquote>«{f.cita}»</blockquote>
+                        <p class="fuente">{f.orador.split(', ').reverse().join(' ')}, {fecha(f.fecha)}. <a href={`/debates/${f.debate}/#t${f.turno}`}>Leer el discurso completo</a>.</p>
+                      </div>
+                    ))}
+                    {fs.length > 2 && <p class="fuente"><a href={`/temas/${tema.id}/${c.id}/`}>Ver las {fs.length} frases</a></p>}
+                  </div>
+                )}
+              </div>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+
+    <section class="seccion">
+      <h2>Qué votó cada partido</h2>
+      {aviso && <p class="aviso">{aviso.texto} <a href={aviso.url} rel="noopener">Fuente: {aviso.fuente}</a>.</p>}
+      <p class="nota" style="margin-block:1rem">Una selección de votaciones. <a href={`/temas/${tema.id}/votaciones/`}>Ver las {nVotos}</a> o <a href={`/temas/${tema.id}/debates/`}>leer los {nDebates} debates</a>. Unidad del Pueblo Canario y Ara Més no tuvieron escaño propio. El Grupo Sumar es el antecedente parlamentario de Frente Amplio. Cuando un grupo se dividió, el número indica cuántos votaron cada opción.</p>
+      {vs.map((v) => <Acta v={v} />)}
+    </section>
+
+    {delGobierno.length > 0 && (
+      <section class="seccion">
+        <h2>Qué ha dicho el Gobierno</h2>
+        <ul class="filas-simple">
+          {delGobierno.map((f) => (
+            <li><blockquote>«{f.cita}»</blockquote><p class="fuente">{f.orador.split(', ').reverse().join(' ')}, {fecha(f.fecha)}. <a href={`/debates/${f.debate}/#t${f.turno}`}>Leer el discurso completo</a>.</p></li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </div>
+</Base>

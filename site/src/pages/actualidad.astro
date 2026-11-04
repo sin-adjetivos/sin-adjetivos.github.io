@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import act from '../data/actualidad.json';
+import { temas, fecha } from '../lib/datos.js';
+const nombre = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
+const hora = (iso) => new Date(iso).toLocaleString('es-ES', { timeZone: 'Europe/Madrid', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
+const fallan = Object.entries(act.estado).filter(([, v]) => typeof v === 'string').map(([k]) => k);
+---
+<Base titulo="Actualidad" descripcion="La misma noticia según cada medio: titulares de periódicos de distinta línea editorial, uno al lado del otro.">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Actualidad</h1>
+      <p>La misma noticia según cada medio. Compara cómo la titulan y elige qué leer: cada titular lleva al artículo original.</p>
+    </header>
+    <p class="nota">Actualizado el {hora(act.actualizado)}. Noticias de las últimas 72 horas publicadas por al menos 3 medios. <a href="#como">Cómo se hace</a>.</p>
+
+    {act.grupos.length === 0 && <p class="aviso">Ahora mismo no hay noticias recogidas por 3 o más medios.</p>}
+    <div class="noticias">
+      {act.grupos.map((g) => (
+        <section class="noticia">
+          <p class="noticia-dato">{g.medios} medios{g.temas.length > 0 && <>. {g.temas.map((t, i) => <>{i > 0 && ', '}<a href={`/temas/${t}/`}>{nombre[t]}</a></>)}</>}</p>
+          <ul>
+            {g.titulares.map((t) => (
+              <li>
+                <span class="medio">{t.medio}</span>
+                <a class="titular" href={t.url} rel="noopener">{t.titulo}</a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+
+    <section class="seccion prosa" id="como">
+      <h2>Cómo se hace</h2>
+      <p>Un programa lee los titulares públicos de {Object.keys(act.estado).length} medios y agrupa los que comparten vocabulario. Mostramos el titular tal cual, el medio y el enlace; no copiamos los artículos. Ninguna IA interviene y nadie elige qué noticia sale: se ordenan por número de medios que la publican.</p>
+      <p>Al ser automático, puede separar una misma noticia en dos grupos o juntar dos parecidas.</p>
+      <p>No etiquetamos los medios como de izquierda o de derecha: esa etiqueta sería una opinión nuestra. Sí buscamos que estén representadas líneas editoriales distintas.</p>
+      <p>Faltan {act.sin_feed.join(', ')}, porque no hemos conseguido leer sus titulares de forma automática. Esto desequilibra la muestra y queremos corregirlo.{fallan.length > 0 && ` En esta actualización tampoco se han podido leer: ${fallan.join(', ')}.`}</p>
+    </section>
+  </div>
+</Base>

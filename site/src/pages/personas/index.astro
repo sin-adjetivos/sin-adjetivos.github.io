@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import { personas } from '../../lib/archivo.js';
+const ps = personas();
+---
+<Base titulo="Quién ha hablado">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Quién ha hablado</h1>
+      <p>Las {ps.length} personas que han intervenido en el Pleno en esta legislatura. Está en orden alfabético y no es una clasificación.</p>
+    </header>
+    <ul style="columns:3 15rem;column-gap:2rem">
+      {ps.map((p) => <li><a href={`/personas/${p.slug}/`}>{p.nombre}</a></li>)}
+    </ul>
+  </div>
+</Base>

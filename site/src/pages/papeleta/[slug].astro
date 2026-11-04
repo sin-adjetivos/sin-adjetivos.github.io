@@ -1,0 +1,35 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import Base from '../../layouts/Base.astro';
+import { provincias } from '../../lib/datos.js';
+import { COLORES } from '../../lib/color.js';
+
+export function getStaticPaths() {
+  return provincias.map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+const d = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'datos', 'papeleta', `${p.slug}.json`), 'utf-8'));
+const orden = [...d.candidaturas].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
+---
+<Base titulo={`Listas de ${p.nombre}`} descripcion={`Candidaturas proclamadas al Congreso en ${p.nombre} para el 29 de noviembre de 2026, según el BOE.`}>
+  <section class="portada">
+    <div class="marco">
+      <h1>{p.nombre}</h1>
+      <p class="portada-intro">{orden.length} candidaturas al Congreso, según el <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103" rel="noopener">BOE del 3 de noviembre</a>. Orden al azar en cada visita. <a href="/papeleta/">Otras provincias</a>.</p>
+    </div>
+    <div class="mazo" data-barajar>
+      {orden.map((c) => (
+        <article class="papeleta" style={c.expediente ? `border-top:.6rem solid ${COLORES[c.expediente]}` : undefined}>
+          <p class="papeleta-cab">Elecciones al Congreso de los Diputados<br />29 de noviembre de 2026<br />Circunscripción de {p.nombre}</p>
+          <h3>{c.nombre}</h3>
+          <ol tabindex="0" aria-label="Candidatos">{c.lista.map((n) => <li>{n}</li>)}</ol>
+          {c.suplentes.length > 0 && <p class="papeleta-sup">Suplentes: {c.suplentes.join(', ')}</p>}
+          <p class="papeleta-pie">
+            {c.expediente ? <a href={`/candidaturas/${c.expediente}/`}>Ver qué propone y qué votó</a> : <span>Sin grupo en el Congreso saliente: no hay expediente.</span>}
+          </p>
+        </article>
+      ))}
+    </div>
+  </section>
+</Base>

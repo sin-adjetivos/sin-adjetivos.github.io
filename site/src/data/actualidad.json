@@ -1,10 +1,10 @@
 {
-"actualizado": "2026-11-04T20:27+00:00",
+"actualizado": "2026-11-04T20:46+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 116,
-"El Confidencial": 15,
+"COPE": 117,
+"El Confidencial": 6,
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 51,
@@ -33,12 +33,12 @@
 "sanidad"
 ],
 "comunes": [
-"cuerpo",
 "transportes",
+"cuerpo",
 "carlos",
 "cartera",
-"oscar",
 "dimision",
+"oscar",
 "puente",
 "sanchez"
 ],
@@ -107,8 +107,8 @@
 "justicia"
 ],
 "comunes": [
-"000",
 "koldo",
+"000",
 "aldama",
 "abalos",
 "647",
@@ -185,9 +185,9 @@
 "llarena",
 "amnistia",
 "juez",
+"deja",
 "efecto",
-"procesamiento",
-"deja"
+"procesamiento"
 ],
 "titulares": [
 {
@@ -236,14 +236,14 @@
 "inmigracion"
 ],
 "comunes": [
-"ceuta",
 "sanchez",
+"ceuta",
 "supremo",
 "archiva",
 "vox",
+"entrada",
 "masiva",
-"ministros",
-"entrada"
+"ministros"
 ],
 "titulares": [
 {
@@ -295,8 +295,8 @@
 "juez",
 "saudi",
 "arabia",
-"pide",
-"calama"
+"calama",
+"pide"
 ],
 "titulares": [
 {
@@ -346,13 +346,13 @@
 "empleo"
 ],
 "comunes": [
-"sindicatos",
 "huelga",
+"sindicatos",
 "feijoo",
 "pide",
-"accidente",
 "error",
 "grave",
+"accidente",
 "urda"
 ],
 "titulares": [
@@ -404,9 +404,9 @@
 "hora",
 "oscar",
 "puente",
-"directo",
 "dimision",
-"reacciones"
+"reacciones",
+"directo"
 ],
 "titulares": [
 {
@@ -459,10 +459,10 @@
 "turull",
 "romeva",
 "constitucional",
-"recursos",
 "amnistia",
-"amnistiados",
-"supremo"
+"recursos",
+"supremo",
+"amnistiados"
 ],
 "titulares": [
 {
@@ -503,9 +503,9 @@
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
-"electoral",
 "mesa",
 "tocado",
+"electoral",
 "saber"
 ],
 "titulares": [
@@ -550,8 +550,8 @@
 "zapatero",
 "joyas",
 "personal",
-"saudi",
 "arabia",
+"saudi",
 "declaro",
 "regalo"
 ],
@@ -599,8 +599,8 @@
 "funeral",
 "toledo",
 "victimas",
-"catedral",
 "urda",
+"catedral",
 "accidente",
 "reyes",
 "celebrara"
@@ -647,8 +647,8 @@
 ],
 "comunes": [
 "torpedo",
-"hunde",
 "submarino",
+"hunde",
 "isaac",
 "peral",
 "patrullero",
@@ -694,14 +694,14 @@
 "hasta": "2026-11-04T19:19+00:00",
 "temas": [],
 "comunes": [
-"iguales",
-"somos",
-"todos",
 "sanchez",
+"todos",
+"somos",
+"iguales",
 "minuto",
-"alvarez",
 "toledo",
-"abascal"
+"alvarez",
+"manos"
 ],
 "titulares": [
 {
@@ -743,13 +743,13 @@
 "temas": [],
 "comunes": [
 "cumbre",
-"iberoamericana",
 "inauguracion",
+"iberoamericana",
 "milei",
 "reyes",
 "cena",
 "abascal",
-"directo"
+"xxx"
 ],
 "titulares": [
 {
@@ -790,11 +790,11 @@
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
+"llega",
 "116",
 "tarde",
-"llega",
-"muertos",
 "puente",
+"muertos",
 "dimision"
 ],
 "titulares": [
@@ -831,13 +831,13 @@
 "temas": [],
 "comunes": [
 "acampada",
-"ayuso",
 "sol",
+"ayuso",
 "gobierno",
 "750",
 "gastos",
-"reclama",
-"delegacion"
+"delegacion",
+"reclama"
 ],
 "titulares": [
 {
@@ -872,13 +872,13 @@
 "hasta": "2026-11-04T15:53+00:00",
 "temas": [],
 "comunes": [
-"arbol",
 "navidad",
 "sol",
+"arbol",
 "lunes",
-"puerta",
 "comenzara",
-"instalacion"
+"instalacion",
+"puerta"
 ],
 "titulares": [
 {
@@ -916,12 +916,12 @@
 "territorio"
 ],
 "comunes": [
-"purines",
 "navarra",
 "fosa",
+"purines",
 "tres",
-"mueren",
 "granja",
+"mueren",
 "personas",
 "quedar"
 ],
@@ -958,14 +958,14 @@
 "hasta": "2026-11-03T16:18+00:00",
 "temas": [],
 "comunes": [
-"pide",
-"juez",
-"zapatero",
 "autor",
+"zapatero",
 "marca",
+"juez",
 "joyas",
-"identifique",
-"grabada"
+"pide",
+"grabada",
+"identifique"
 ],
 "titulares": [
 {
@@ -996,9 +996,9 @@
 "comunes": [
 "biedma",
 "cite",
-"eliminarla",
-"juez",
 "intento",
+"juez",
+"eliminarla",
 "pedraz",
 "clan"
 ],
@@ -1029,9 +1029,9 @@
 "hasta": "2026-11-03T21:22+00:00",
 "temas": [],
 "comunes": [
+"renuncia",
 "oscar",
 "ministro",
-"renuncia",
 "puente",
 "listas",
 "transportes",
@@ -1066,10 +1066,10 @@
 "comunes": [
 "2027",
 "feijoo",
+"primavera",
+"presupuestos",
 "2028",
 "primer",
-"presupuestos",
-"primavera",
 "presentara"
 ],
 "titulares": [
@@ -1099,14 +1099,14 @@
 "hasta": "2026-11-04T11:15+00:00",
 "temas": [],
 "comunes": [
-"iberoamericana",
-"lula",
 "cumbre",
-"delcy",
 "sheinbaum",
+"lula",
+"delcy",
+"iberoamericana",
 "rodriguez",
-"madrid",
-"participaran"
+"participaran",
+"madrid"
 ],
 "titulares": [
 {
@@ -1138,8 +1138,8 @@
 ],
 "comunes": [
 "prioridad",
-"impuestos",
 "nacional",
+"impuestos",
 "vox",
 "presupuesto"
 ],
@@ -1170,10 +1170,10 @@
 "hasta": "2026-11-04T13:27+00:00",
 "temas": [],
 "comunes": [
-"fernandez",
-"cubas",
-"cervantes",
 "cristina",
+"cubas",
+"fernandez",
+"cervantes",
 "premio"
 ],
 "titulares": [
@@ -1203,13 +1203,13 @@
 "hasta": "2026-11-04T14:58+00:00",
 "temas": [],
 "comunes": [
-"cable",
+"retrasos",
 "robo",
 "provoca",
-"retrasos",
-"linea",
-"madrid",
+"cable",
 "barcelona",
+"madrid",
+"linea",
 "ave"
 ],
 "titulares": [
@@ -1240,10 +1240,10 @@
 "temas": [],
 "comunes": [
 "bolanos",
-"aldama",
 "febrero",
-"juicio",
+"aldama",
 "sera",
+"juicio",
 "acusar"
 ],
 "titulares": [
@@ -1275,12 +1275,12 @@
 "justicia"
 ],
 "comunes": [
+"llevar",
+"catering",
+"cofia",
 "obligar",
 "000",
 "empleadas",
-"cofia",
-"llevar",
-"catering",
 "euros",
 "empresa"
 ],
@@ -1314,11 +1314,11 @@
 ],
 "comunes": [
 "madre",
-"miedo",
 "bebe",
-"cambia",
-"version",
+"miedo",
 "alega",
+"version",
+"cambia",
 "quemaduras"
 ],
 "titulares": [
@@ -1351,11 +1351,11 @@
 "cuatro",
 "atestado",
 "falsear",
-"acusados",
 "menor",
-"absueltos",
+"acusados",
 "agredir",
-"policias"
+"policias",
+"absueltos"
 ],
 "titulares": [
 {
@@ -1384,13 +1384,13 @@
 "hasta": "2026-11-04T16:10+00:00",
 "temas": [],
 "comunes": [
-"documentacion",
 "zapatero",
-"conserva",
+"documentacion",
 "joyas",
-"justificantes",
+"conserva",
+"reconoce",
 "juez",
-"reconoce"
+"justificantes"
 ],
 "titulares": [
 {
@@ -1420,13 +1420,13 @@
 "temas": [],
 "comunes": [
 "delegado",
-"cantabria",
 "edil",
+"cantabria",
 "gobierno",
-"agresion",
-"verbal",
 "denuncia",
-"fisica"
+"agresion",
+"fisica",
+"verbal"
 ],
 "titulares": [
 {
@@ -1458,9 +1458,9 @@
 ],
 "comunes": [
 "almeria",
-"genero",
-"concejal",
 "psoe",
+"concejal",
+"genero",
 "violencia",
 "adra",
 "detenido",
@@ -1495,14 +1495,14 @@
 "sanidad"
 ],
 "comunes": [
-"convoca",
-"cuerpo",
-"presidente",
 "adif",
-"horas",
-"estado",
+"cuerpo",
+"convoca",
+"presidente",
+"transportes",
+"secretario",
 "asumir",
-"secretario"
+"horas"
 ],
 "titulares": [
 {
@@ -1526,5 +1526,5 @@
 ]
 }
 ],
-"recogidas": 1032
+"recogidas": 1044
 }

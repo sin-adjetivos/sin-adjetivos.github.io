@@ -10,3 +10,5 @@ __pycache__/
 # Material interno: marca, guiones de vídeo y notas de trabajo. Se queda solo en local.
 marca/
 CLAUDE.md
+.claude/
+scripts/borrador_noticias.py

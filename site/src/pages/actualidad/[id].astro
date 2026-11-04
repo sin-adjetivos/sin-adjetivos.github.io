@@ -1,0 +1,128 @@
+---
+import Base from '../../layouts/Base.astro';
+import Chip from '../../components/Chip.astro';
+import propias from '../../data/noticias_propias.json';
+import { porId, fecha } from '../../lib/datos.js';
+import { COLORES } from '../../lib/color.js';
+
+export function getStaticPaths() {
+  return propias.map((n) => ({ params: { id: n.id }, props: { n } }));
+}
+const { n } = Astro.props;
+const nombre = (c) => (c === 'gobierno' ? 'Gobierno' : porId[c].etiqueta_voto || porId[c].sigla);
+const otras = propias.filter((x) => x.id !== n.id).slice(0, 3);
+const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline: n.titulo, description: n.entradilla, datePublished: n.fecha, image: new URL(`noticias/${n.imagen.archivo}`, Astro.site).href, author: { '@type': 'Organization', name: 'Sin adjetivos' } };
+---
+<Base titulo={n.titulo} descripcion={n.entradilla} imagen={`noticias/${n.imagen.archivo}`} imagenAlt={n.imagen.alt}>
+  <article class="marco articulo">
+    <header class="entrada articulo-cab">
+      <p class="nota"><a href="/actualidad/">Actualidad</a>. {n.etiqueta}. {fecha(n.fecha)}</p>
+      <h1 class="h1-largo">{n.titulo}</h1>
+      <p>{n.entradilla}</p>
+    </header>
+
+    <figure class="articulo-foto">
+      <img src={`/noticias/${n.imagen.archivo}`} alt={n.imagen.alt} width="1400" height="933" />
+      <figcaption>{n.imagen.pie} Autor: {n.imagen.autor}. Licencia: <a href={n.imagen.origen} rel="noopener">{n.imagen.licencia}</a>.</figcaption>
+    </figure>
+
+    <section class="lo-esencial">
+      <h2>Lo esencial</h2>
+      <ul>{n.esencial.map((x) => <li set:html={x} />)}</ul>
+    </section>
+
+    <div class="articulo-cuerpo">
+      {n.cuerpo.map((b) => {
+        if (b.tipo === 'h') return <h2>{b.texto}</h2>;
+        if (b.tipo === 'p') return <p set:html={b.html} />;
+        if (b.tipo === 'tabla') return (
+          <figure class="dato">
+            <figcaption>{b.titulo}</figcaption>
+            <table>
+              <thead><tr>{b.columnas.map((c) => <th scope="col">{c}</th>)}</tr></thead>
+              <tbody>{b.filas.map((f) => <tr>{f.map((c) => <td>{c}</td>)}</tr>)}</tbody>
+            </table>
+            <p class="fuente" set:html={b.nota} />
+          </figure>
+        );
+        if (b.tipo === 'barras') return (
+          <figure class="dato">
+            <figcaption>{b.titulo}, en {b.unidad}</figcaption>
+            <ul class="barras">
+              {b.filas.map((f) => (
+                <li>
+                  <span class="barra-texto">{f.texto}{f.detalle && <small>{f.detalle}</small>}</span>
+                  <span class="barra-fila"><span class="barra" style={`width:${f.ancho}%`}></span><b>{f.cifra}</b></span>
+                </li>
+              ))}
+            </ul>
+            <p class="barra-total">Total <b>{b.total} {b.unidad}</b></p>
+            <p class="fuente" set:html={b.nota} />
+          </figure>
+        );
+        if (b.tipo === 'linea') return (
+          <ol class="cronologia">
+            {b.hitos.map((h) => <li><span class="cuando">{h.cuando}</span><span set:html={h.html} /></li>)}
+          </ol>
+        );
+        if (b.tipo === 'posiciones') return (
+          <ul class="posturas-grupos">
+            {b.filas.map((f) => (
+              <li>
+                <p class="etiqueta">{f.texto}</p>
+                <p>{f.grupos.map((g) => <Chip id={g} href={`/candidaturas/${g}/`}>{nombre(g)}</Chip>)}</p>
+                <p class="fuente" set:html={f.nota} />
+              </li>
+            ))}
+          </ul>
+        );
+      })}
+    </div>
+
+    <section class="ficha-seccion">
+      <h2>Qué dice cada parte</h2>
+      <p class="nota" style="margin-bottom:1rem">Frases literales, tal como las recoge la fuente enlazada. Orden al azar en cada visita.</p>
+      <ul class="filas" data-barajar>
+        {n.voces.map((v) => (
+          <li class="con-banda" style={`--c:${v.candidatura ? COLORES[v.candidatura] : 'var(--sepia)'}`}>
+            <p class="quien">{v.candidatura ? (v.candidatura === 'gobierno' ? <Chip id="gobierno">Gobierno</Chip> : <Chip id={v.candidatura} href={`/candidaturas/${v.candidatura}/`}>{nombre(v.candidatura)}</Chip>) : <span>Justicia</span>}</p>
+            <div>
+              <blockquote>«{v.cita}{/[.?!…]$/.test(v.cita) ? '' : '…'}»</blockquote>
+              {v.traduccion && <p class="fuente">En castellano, traducción nuestra: {v.traduccion}</p>}
+              <p class="fuente">{v.quien}. <a href={v.url} rel="noopener">Lo recoge {v.medio}</a>.</p>
+            </div>
+          </li>
+        ))}
+      </ul>
+      <p class="nota" style="margin-top:1rem" set:html={n.sin_voz} />
+    </section>
+
+    <section class="ficha-seccion lo-que-falta">
+      <h2>Lo que todavía no se sabe</h2>
+      <ul class="antecedentes">{n.no_sabemos.map((x) => <li set:html={x} />)}</ul>
+    </section>
+
+    {n.cambios.length > 0 && (
+      <section class="ficha-seccion">
+        <h2>Cambios en esta noticia</h2>
+        <ul class="antecedentes">{n.cambios.map((c) => <li>{fecha(c.fecha)}: {c.texto}</li>)}</ul>
+      </section>
+    )}
+
+    <section class="ficha-seccion">
+      <h2>Fuentes</h2>
+      <ol class="fuentes-lista">
+        {n.fuentes.map((f) => <li id={`f${f.n}`}><a href={f.url} rel={f.tipo === 'propia' ? undefined : 'noopener'}>{f.nombre}</a>{f.tipo === 'oficial' && ' (documento oficial)'}</li>)}
+      </ol>
+      <p class="nota" style="margin-top:1rem">Datos comprobados el {fecha(n.fecha)}. Si cambian, actualizaremos la noticia e indicaremos qué ha cambiado. El borrador está preparado con ayuda de IA y revisado antes de publicar. <a href="/actualidad/#como-escribimos">Cómo escribimos estas noticias</a>. ¿Ves un error? <a href="/correcciones/">Pide una corrección</a>.</p>
+    </section>
+
+    {otras.length > 0 && (
+      <section class="seccion">
+        <h2>Otras noticias</h2>
+        <ul class="filas-simple">{otras.map((o) => <li><a href={`/actualidad/${o.id}/`}>{o.titulo}</a></li>)}</ul>
+      </section>
+    )}
+  </article>
+  <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+</Base>

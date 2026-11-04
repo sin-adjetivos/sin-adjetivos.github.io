@@ -1,38 +1,79 @@
 ---
 import Base from '../layouts/Base.astro';
+import TarjetaNoticia from '../components/TarjetaNoticia.astro';
 import act from '../data/actualidad.json';
-import { temas, fecha } from '../lib/datos.js';
+import propias from '../data/noticias_propias.json';
+import { temas } from '../lib/datos.js';
 const nombre = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
 const hora = (iso) => new Date(iso).toLocaleString('es-ES', { timeZone: 'Europe/Madrid', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
 const fallan = Object.entries(act.estado).filter(([, v]) => typeof v === 'string').map(([k]) => k);
+const VISIBLES = 3;
+// Si hemos escrito sobre lo que cuentan estos titulares, el grupo enlaza a nuestra noticia.
+const explicada = (g) => propias.find((n) => g.comunes.some((c) => n.claves.includes(c)));
 ---
-<Base titulo="Actualidad" descripcion="La misma noticia según cada medio: titulares de periódicos de distinta línea editorial, uno al lado del otro.">
+<Base titulo="Actualidad" descripcion="Lo que ha pasado, contado con hechos y fuentes, y los titulares de periódicos de distinta línea editorial, uno al lado del otro.">
   <div class="marco">
     <header class="entrada">
       <h1>Actualidad</h1>
-      <p>La misma noticia según cada medio. Compara cómo la titulan y elige qué leer: cada titular lleva al artículo original.</p>
+      <p>Lo que ha pasado, contado con hechos y con sus fuentes a la vista. Debajo, cómo lo titula cada medio.</p>
     </header>
-    <p class="nota">Actualizado el {hora(act.actualizado)}. Noticias de las últimas 72 horas publicadas por al menos 3 medios. <a href="#como">Cómo se hace</a>.</p>
 
-    {act.grupos.length === 0 && <p class="aviso">Ahora mismo no hay noticias recogidas por 3 o más medios.</p>}
-    <div class="noticias">
-      {act.grupos.map((g) => (
-        <section class="noticia">
-          <p class="noticia-dato">{g.medios} medios{g.temas.length > 0 && <>. {g.temas.map((t, i) => <>{i > 0 && ', '}<a href={`/temas/${t}/`}>{nombre[t]}</a></>)}</>}</p>
-          <ul>
-            {g.titulares.map((t) => (
-              <li>
-                <span class="medio">{t.medio}</span>
-                <a class="titular" href={t.url} rel="noopener">{t.titulo}</a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
-    </div>
+    {propias.length > 0 && (
+      <section class="seccion-primera" aria-label="Noticias de Sin adjetivos">
+        <div class="tarjetas">
+          {propias.map((n, i) => <TarjetaNoticia n={n} grande={i === 0} />)}
+        </div>
+        <p class="nota" style="margin-top:1rem"><a href="#como-escribimos">Cómo escribimos estas noticias</a>.</p>
+      </section>
+    )}
+
+    <section class="seccion" id="titulares">
+      <h2>Hoy, según cada medio</h2>
+      <p class="nota">Actualizado el {hora(act.actualizado)}. Noticias de las últimas 72 horas publicadas por al menos 3 medios. Cada titular lleva al artículo original. <a href="#como">Cómo se hace</a>.</p>
+
+      {act.grupos.length === 0 && <p class="aviso">Ahora mismo no hay noticias recogidas por 3 o más medios.</p>}
+      <div class="noticias">
+        {act.grupos.map((g) => {
+          const nuestra = explicada(g);
+          const fila = (t) => (
+            <li>
+              <span class="medio">{t.medio}</span>
+              <a class="titular" href={t.url} rel="noopener">{t.titulo}</a>
+            </li>
+          );
+          return (
+            <section class="noticia">
+              <p class="noticia-dato">{g.medios} medios{g.temas.length > 0 && <>. {g.temas.map((t, i) => <>{i > 0 && ', '}<a href={`/temas/${t}/`}>{nombre[t]}</a></>)}</>}{nuestra && <>. <a href={`/actualidad/${nuestra.id}/`}>Lo explicamos aquí</a></>}</p>
+              <ul>{g.titulares.slice(0, VISIBLES).map(fila)}</ul>
+              {g.titulares.length > VISIBLES && (
+                <details class="mas-titulares">
+                  <summary>Ver los otros {g.titulares.length - VISIBLES}</summary>
+                  <ul>{g.titulares.slice(VISIBLES).map(fila)}</ul>
+                </details>
+              )}
+            </section>
+          );
+        })}
+      </div>
+    </section>
+
+    {propias.length > 0 && <section class="seccion prosa" id="como-escribimos">
+      <h2>Cómo escribimos las noticias</h2>
+      <ul>
+        <li>Empezamos por las noticias que publican más medios, sin mirar a qué partido afectan. Podemos saltarnos guías prácticas y sucesos sin interés público.</li>
+        <li>Solo contamos lo que está en una fuente. Cada párrafo lleva sus notas, y al final están todos los enlaces. Si existe el documento oficial, lo enlazamos.</li>
+        <li>Cada noticia usa al menos tres medios distintos. Si no coinciden, lo decimos.</li>
+        <li>Un programa comprueba que cada frase entre comillas y cada cifra aparecen en las fuentes de ese párrafo, y rechaza palabras valorativas en nuestro texto.</li>
+        <li>Si un partido ha hablado del tema, lleva su frase literal, en orden al azar. Si no la encontramos, lo decimos.</li>
+        <li>Cada noticia termina con lo que todavía no se sabe. No publicamos encuestas, opiniones ni rumores.</li>
+        <li>Las fotos tienen licencia libre e indican su autor y si son de archivo. No usamos fotos de agencias ni de víctimas, ni imágenes creadas con IA.</li>
+        <li>Los borradores se preparan con ayuda de IA (Claude, de Anthropic), y Sergio Capuchino los lee antes de publicarlos.</li>
+        <li>Si nos equivocamos, corregimos y lo indicamos en la noticia. <a href="/correcciones/">Pide una corrección</a>.</li>
+      </ul>
+    </section>}
 
     <section class="seccion prosa" id="como">
-      <h2>Cómo se hace</h2>
+      <h2>Cómo se recogen los titulares</h2>
       <p>Un programa lee los titulares públicos de {Object.keys(act.estado).length} medios y agrupa los que comparten vocabulario. Mostramos el titular tal cual, el medio y el enlace; no copiamos los artículos. Ninguna IA interviene y nadie elige qué noticia sale: se ordenan por número de medios que la publican.</p>
       <p>Al ser automático, puede separar una misma noticia en dos grupos o juntar dos parecidas.</p>
       <p>No etiquetamos los medios como de izquierda o de derecha: esa etiqueta sería una opinión nuestra. Sí buscamos que estén representadas líneas editoriales distintas.</p>

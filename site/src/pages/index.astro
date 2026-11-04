@@ -5,8 +5,10 @@ import { COLORES } from '../lib/color.js';
 import AVISOS from '../data/avisos_papeleta.json';
 import act from '../data/actualidad.json';
 import fichas from '../data/fichas.json';
+import propias from '../data/noticias_propias.json';
 import Esencial from '../components/Esencial.astro';
-const portada = act.grupos.slice(0, 3);
+import TarjetaNoticia from '../components/TarjetaNoticia.astro';
+const portada = act.grupos.slice(0, propias.length ? 1 : 3);
 ---
 <Base>
   <section class="portada">
@@ -37,6 +39,13 @@ const portada = act.grupos.slice(0, 3);
   </section>
 
   <div class="marco">
+    {propias.length > 0 && (
+      <section class="seccion">
+        <h2>Lo que ha pasado</h2>
+        <div class="tarjetas">{propias.slice(0, 3).map((n) => <TarjetaNoticia n={n} />)}</div>
+      </section>
+    )}
+
     {portada.length > 0 && (
       <section class="seccion">
         <h2>Hoy, según cada medio</h2>
@@ -48,7 +57,7 @@ const portada = act.grupos.slice(0, 3);
             </section>
           ))}
         </div>
-        <p style="margin-top:1rem"><a href="/actualidad/">Ver toda la actualidad</a></p>
+        <p style="margin-top:1rem"><a href="/actualidad/#titulares">Ver todos los titulares</a></p>
       </section>
     )}
 

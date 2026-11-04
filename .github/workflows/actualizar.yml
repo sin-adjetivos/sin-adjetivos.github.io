@@ -36,6 +36,8 @@ jobs:
           node-version: '24'
           cache: npm
           cache-dependency-path: site/package-lock.json
+      - name: Comprobar que no se publican borradores
+        run: python -c "import json,sys; sys.exit(any(n.get('borrador') for n in json.load(open('site/src/data/noticias_propias.json',encoding='utf-8'))))"
       - name: Leer titulares
         run: python scripts/actualidad.py
       - name: Generar la web

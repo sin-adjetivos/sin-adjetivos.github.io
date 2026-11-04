@@ -3,7 +3,7 @@ import '@fontsource-variable/archivo/standard.css';
 import '@fontsource-variable/source-serif-4';
 import '../styles/global.css';
 
-const { color, tintaHero, titulo, descripcion = 'Programas, votaciones, discursos, antecedentes y causas de las candidaturas del 29 de noviembre, con la fuente original al lado.' } = Astro.props;
+const { color, tintaHero, titulo, imagen = 'og.png', imagenAlt = 'Logotipo de Sin adjetivos: la palabra sin y un trazo de rotulador debajo.', descripcion = 'Programas, votaciones, discursos, antecedentes y causas de las candidaturas del 29 de noviembre, con la fuente original al lado.' } = Astro.props;
 const ruta = Astro.url.pathname.replace(import.meta.env.BASE_URL.replace(/\/$/, ''), '') || '/';
 const menu = [['/como-votar/', 'Cómo votar'], ['/actualidad/', 'Actualidad'], ['/temas/', 'Temas'], ['/candidaturas/', 'Partidos'], ['/causas/', 'Causas judiciales'], ['/plenos/', 'Plenos'], ['/buscar/', 'Buscar'], ['/metodologia/', 'Cómo trabajamos']];
 ---
@@ -22,10 +22,10 @@ const menu = [['/como-votar/', 'Cómo votar'], ['/actualidad/', 'Actualidad'], [
     <meta property="og:title" content={titulo ? `${titulo}, Sin adjetivos` : 'Sin adjetivos'} />
     <meta property="og:description" content={descripcion} />
     <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site).href} />
-    <meta property="og:image" content={new URL('og.png', Astro.site).href} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Logotipo de Sin adjetivos: la palabra sin y un trazo de rotulador debajo." />
+    <meta property="og:image" content={new URL(imagen, Astro.site).href} />
+    {imagen === 'og.png' && <meta property="og:image:width" content="1200" />}
+    {imagen === 'og.png' && <meta property="og:image:height" content="630" />}
+    <meta property="og:image:alt" content={imagenAlt} />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body class:list={[{ conColor: color }]} style={color ? `--fondo:${color};--tintaHero:${tintaHero}` : undefined}>

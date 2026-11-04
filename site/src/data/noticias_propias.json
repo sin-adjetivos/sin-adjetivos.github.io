@@ -1,0 +1,730 @@
+[
+{
+"id": "puente-deja-transportes-accidente-urda",
+"fecha": "2026-11-04",
+"tema": null,
+"etiqueta": "Transporte",
+"claves": [
+"puente",
+"urda",
+"cuerpo"
+],
+"titulo": "Puente deja Transportes tras el accidente de Urda y Cuerpo asume el ministerio hasta que haya nuevo Gobierno",
+"entradilla": "El ministro anunció su dimisión al terminar su comparecencia en el Congreso. La investigación sobre las causas del accidente sigue abierta.",
+"imagen": {
+"archivo": "congreso.jpg",
+"alt": "Fachada del Congreso de los Diputados, en Madrid.",
+"pie": "Congreso de los Diputados, donde Puente anunció su dimisión. Foto de archivo.",
+"autor": "Vickybol",
+"licencia": "CC BY-SA 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Congreso_de_los_Diputados,_enero_de_2015.JPG"
+},
+"esencial": [
+"Óscar Puente anunció el 3 de noviembre que deja el Gobierno y que renuncia a encabezar la lista del PSOE por Valladolid.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>",
+"Carlos Cuerpo, vicepresidente primero, lleva desde el 4 de noviembre los asuntos de Transportes. Pedro Sánchez ha dicho que será hasta el nombramiento del Gobierno que salga de las elecciones.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
+"Las causas del accidente, en el que murieron al menos 69 personas, siguen en investigación.<sup class=\"ref\"><a href=\"#f10\">10</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "El miércoles 28 de octubre, dos trenes de alta velocidad chocaron en Urda (Toledo). Un AVE de Renfe alcanzó por detrás a un tren de Iryo que estaba parado en la vía. Murieron al menos 69 personas, y el 3 de noviembre seguían hospitalizados cuarenta heridos.<sup class=\"ref\"><a href=\"#f9\">9</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Ese 3 de noviembre, Puente compareció ante la Diputación Permanente, los diputados que mantienen su acta con las Cortes disueltas. Al final de la sesión anunció su dimisión. Dijo que lo había decidido en los primeros minutos tras el accidente y que antes quería atender la emergencia y aprobar las primeras medidas para las víctimas.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Esa misma mañana, el Consejo de Ministros aprobó un real decreto-ley de ayudas a las víctimas.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Puente explicó que incluye treinta millones de euros en ayudas directas, y anunció un plan con doble validación de las decisiones de los centros de control.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El BOE publicó el 4 de noviembre su cese y un segundo real decreto por el que Cuerpo asume <span class=\"cita-linea\">«el despacho ordinario de los asuntos»</span> del ministerio.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> Cuerpo no promete el cargo ante el Rey porque no asume una cartera nueva.<sup class=\"ref\"><a href=\"#f15\">15</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué se sabe de las causas"
+},
+{
+"tipo": "p",
+"html": "Lo publicado hasta ahora describe esta secuencia, que la investigación aún debe confirmar. Hubo un bloqueo parcial del LZB, el sistema que transmite a los trenes la velocidad máxima y la distancia que pueden recorrer. En ese caso, el maquinista debe parar. Después, el AVE recibió del centro de control de Atocha la indicación de <span class=\"cita-linea\">«marcha normal»</span>, que permite hasta 200 km/h, en lugar de <span class=\"cita-linea\">«marcha a la vista»</span>, con un máximo de 40 km/h. El tren de Iryo seguía parado.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Puente dijo en el Congreso que, cuando la maquinista del Iryo avisó de que no podía reanudar la marcha, el centro de control <span class=\"cita-linea\">«recibió el mensaje, pero no tomó ninguna acción»</span>. También admitió que sin la caída del LZB no se habría producido el choque.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> UGT, por su parte, advierte de que <span class=\"cita-linea\">«Identificar un posible error no es lo mismo que explicar un accidente»</span>.<sup class=\"ref\"><a href=\"#f12\">12</a></sup>"
+},
+{
+"tipo": "p",
+"html": "España ha pedido apoyo técnico a la Agencia Ferroviaria de la Unión Europea. El comisario europeo de Transporte, Apostolos Tzitzikostas, ha dicho que <span class=\"cita-linea\">«es demasiado pronto para sacar conclusiones definitivas»</span>.<sup class=\"ref\"><a href=\"#f11\">11</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "115 o 116: de dónde salen las cifras"
+},
+{
+"tipo": "p",
+"html": "En el debate y en la prensa se oyen las dos. La diferencia es un maquinista fallecido en Gelida (Barcelona), que algunos suman a los dos accidentes de alta velocidad.<sup class=\"ref\"><a href=\"#f8\">8</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "tabla",
+"titulo": "Muertos en accidentes ferroviarios en 2026 que se citan en el debate",
+"columnas": [
+"Accidente",
+"Muertos"
+],
+"filas": [
+[
+"Urda (Toledo), al menos",
+"69"
+],
+[
+"Adamuz (Córdoba)",
+"46"
+],
+[
+"Gelida (Barcelona)",
+"1"
+]
+],
+"nota": "Cifras recogidas por la prensa. Urda y Adamuz suman 115; con Gelida, 116.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Quién pidió su dimisión antes de que la anunciara"
+},
+{
+"tipo": "posiciones",
+"filas": [
+{
+"texto": "La pidieron",
+"grupos": [
+"pp",
+"vox",
+"frente-amplio",
+"junts",
+"pnv",
+"podemos",
+"bng",
+"compromis"
+],
+"nota": "Según ABC y Europa Press.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f19\">19</a></sup>"
+},
+{
+"texto": "No la pidieron",
+"grupos": [
+"psoe",
+"eh-bildu"
+],
+"nota": "Según ABC y 20minutos.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"texto": "Los medios no coinciden",
+"grupos": [
+"erc"
+],
+"nota": "ABC cuenta a ERC entre quienes no la reclamaron. 20minutos escribe que la pidieron todos menos EH Bildu, y recoge que Gabriel Rufián dijo <span class=\"cita-linea\">«alguien se tiene que hacer cargo de esto»</span>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+}
+]
+},
+{
+"tipo": "h",
+"texto": "Si votas en Valladolid"
+},
+{
+"tipo": "p",
+"html": "Puente encabeza la lista del PSOE al Congreso por Valladolid en las candidaturas publicadas en el BOE, como puedes ver en <a href=\"/papeleta/valladolid/\">tu papeleta</a>. La ley electoral dice que las bajas posteriores a la proclamación <span class=\"cita-linea\">«se entenderán cubiertas por los candidatos sucesivos y, en su caso, por los suplentes»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> La siguiente de la lista es Ana Redondo.<sup class=\"ref\"><a href=\"#f14\">14</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Su nombre puede seguir impreso. El PSOE de Castilla y León dice que trabaja con la Junta Electoral para definir la opción. El Debate cita un acuerdo de la Junta Electoral Central de 1977 según el cual en estos casos no se imprimen papeletas nuevas. Nosotros no hemos visto ese acuerdo.<sup class=\"ref\"><a href=\"#f14\">14</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué viene ahora"
+},
+{
+"tipo": "p",
+"html": "El funeral por las víctimas se celebrará el martes 10 de noviembre a las 19 horas en la Catedral de Toledo. Estaba previsto para el día 12 y el Arzobispado lo ha cambiado, así que algunas informaciones aún dan la fecha anterior.<sup class=\"ref\"><a href=\"#f13\">13</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "gobierno",
+"quien": "Óscar Puente, al anunciar su dimisión",
+"cita": "Un ministro de Transportes de España no puede continuar en su cargo con dos accidentes de esta gravedad por muy distintos que sean y tenga o no responsabilidad en ellos, por una cuestión de dignidad política, de coherencia y de empatía con las víctimas",
+"traduccion": null,
+"fuente": 6,
+"medio": "ABC",
+"url": "https://www.abc.es/espana/puente-niega-autocritica-ante-clamor-general-dimita-20261103205402-nt.html"
+},
+{
+"candidatura": "gobierno",
+"quien": "Pedro Sánchez, presidente del Gobierno",
+"cita": "Puente ha dado la cara, ha dado explicaciones, también ha aportado soluciones a una sociedad que las exigía y que también las merecía, y después ha dado un paso a un lado.",
+"traduccion": null,
+"fuente": 5,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/economia/transportes-00343/noticia-cuerpo-asumira-cartera-transportes-nombramiento-nuevo-gobierno-29n-20261104095935.html"
+},
+{
+"candidatura": "psoe",
+"quien": "Patxi López, antes de la dimisión",
+"cita": "Óscar Puente estuvo donde tenía que estar desde el minuto cero.",
+"traduccion": null,
+"fuente": 8,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/congreso-reprueba-bloque-gestion-puente-tras-tragedia-urda-todos-los-partidos-menos-bildu-piden-su-dimision_7056807_0.html"
+},
+{
+"candidatura": "pp",
+"quien": "Alberto Núñez Feijóo",
+"cita": "Puente se va, pero Sánchez se queda.",
+"traduccion": null,
+"fuente": 16,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-feijoo-critica-teatrillo-dimision-puente-cree-sanchez-sabia-forma-indigna-irse-20261104123349.html"
+},
+{
+"candidatura": "vox",
+"quien": "Santiago Abascal",
+"cita": "Sólo es un cuerpo más que se interpone entre Pedro Sánchez y el banquillo",
+"traduccion": null,
+"fuente": 17,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-abascal-cree-cuerpo-otro-fusible-sanchez-evada-banquillo-responsabilidad-20261104142724.html"
+},
+{
+"candidatura": "frente-amplio",
+"quien": "Verónica Martínez Barbero",
+"cita": "hay una separación entre responsabilidad técnica y responsabilidad o culpabilidad del accidente y la responsabilidad política",
+"traduccion": null,
+"fuente": 21,
+"medio": "ABC",
+"url": "https://www.abc.es/espana/galicia/frente-amplio-necesaria-dimision-oscar-puente-avala-20261104133700-nt.html"
+},
+{
+"candidatura": "erc",
+"quien": "Gabriel Rufián",
+"cita": "Creo que Puente era una distracción porque aquí lo importante es saber si la gente va segura o no en un AVE",
+"traduccion": null,
+"fuente": 20,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-rufian-dice-dimision-puente-distraccion-clave-inseguridad-sistema-ferroviario-20261104120305.html"
+},
+{
+"candidatura": "junts",
+"quien": "Míriam Nogueras, antes de la dimisión",
+"cita": "el sistema ferroviario español se ha colapsado",
+"traduccion": null,
+"fuente": 8,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/congreso-reprueba-bloque-gestion-puente-tras-tragedia-urda-todos-los-partidos-menos-bildu-piden-su-dimision_7056807_0.html"
+},
+{
+"candidatura": "pnv",
+"quien": "Mikel Legarda, antes de la dimisión",
+"cita": "para hacerse cargo del estado de ánimo de la sociedad, le toca dimitir",
+"traduccion": null,
+"fuente": 8,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/congreso-reprueba-bloque-gestion-puente-tras-tragedia-urda-todos-los-partidos-menos-bildu-piden-su-dimision_7056807_0.html"
+},
+{
+"candidatura": "eh-bildu",
+"quien": "Mertxe Aizpurua, antes de la dimisión",
+"cita": "Cuando se conozca la investigación, entonces sí podremos valorar las causas y entonces sí pediremos las responsabilidades, caiga quien caiga",
+"traduccion": null,
+"fuente": 8,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/congreso-reprueba-bloque-gestion-puente-tras-tragedia-urda-todos-los-partidos-menos-bildu-piden-su-dimision_7056807_0.html"
+},
+{
+"candidatura": "podemos",
+"quien": "Ione Belarra",
+"cita": "La dimisión de Puente era un consenso social, algo que tenía que ocurrir, pero no es suficiente.",
+"traduccion": null,
+"fuente": 18,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-podemos-dice-dimision-puente-minimo-no-basta-hay-renacionalizar-ferrocarril-20261104130950.html"
+}
+],
+"sin_voz": "Del BNG sabemos que pidió la dimisión, pero no hemos localizado una frase literal. Compromís calificó la decisión de <span class=\"cita-linea\">«correcta y necesaria»</span>. De las demás candidaturas no hemos localizado declaraciones sobre esto.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f19\">19</a></sup>",
+"no_sabemos": [
+"Cuáles son las causas del accidente. Lo determinará la investigación.<sup class=\"ref\"><a href=\"#f10\">10</a></sup>",
+"Cuándo supo Sánchez que Puente iba a dimitir. Puente dijo que lo decidió en los primeros minutos. elDiario.es escribe que la noticia sorprendió a casi todo el Gobierno y el PSOE. Feijóo cree que Sánchez ya lo sabía.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f16\">16</a></sup>",
+"Quién filtró los audios del centro de control. PP, Vox y Podemos lo atribuyeron en el debate al ministro o a su equipo. UGT ha presentado una querella contra Adif y el sindicato SCF, una denuncia en el juzgado de Orgaz. No hemos localizado ninguna resolución judicial sobre esto.<sup class=\"ref\"><a href=\"#f8\">8</a></sup><sup class=\"ref\"><a href=\"#f12\">12</a></sup>",
+"Qué aparecerá exactamente en las papeletas de Valladolid.<sup class=\"ref\"><a href=\"#f14\">14</a></sup>",
+"Si las frases del debate son exactas al detalle: vienen de la prensa, y aún no hemos podido cotejarlas con el Diario de Sesiones."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "BOE, Real Decreto 974/2026",
+"url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23171",
+"tipo": "oficial"
+},
+{
+"n": 2,
+"nombre": "BOE, Real Decreto 975/2026",
+"url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23172",
+"tipo": "oficial"
+},
+{
+"n": 3,
+"nombre": "Ley electoral (LOREG), artículo 48",
+"url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+"tipo": "oficial"
+},
+{
+"n": 4,
+"nombre": "La Moncloa, referencia del Consejo de Ministros del 3 de noviembre",
+"url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261103-referencia-rueda-de-prensa-ministros.aspx",
+"tipo": "oficial"
+},
+{
+"n": 5,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/economia/transportes-00343/noticia-cuerpo-asumira-cartera-transportes-nombramiento-nuevo-gobierno-29n-20261104095935.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "ABC",
+"url": "https://www.abc.es/espana/puente-niega-autocritica-ante-clamor-general-dimita-20261103205402-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/sanchez-anuncia-carlos-cuerpo-asume-cartera-transportes-dimision-oscar-puente_1_13636399.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/congreso-reprueba-bloque-gestion-puente-tras-tragedia-urda-todos-los-partidos-menos-bildu-piden-su-dimision_7056807_0.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "infoLibre",
+"url": "https://www.infolibre.es/politica/renfe-iryo-maquinistas-proponen-salvaguarda-habria-parado-orden-causo-choque-urda_1_2239391.html",
+"tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "The Objective, sobre la Agencia Ferroviaria Europea",
+"url": "https://theobjective.com/economia/transporte/2026-11-04/ue-investigacion-accidente-urda/",
+"tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "ABC, sobre la Agencia Ferroviaria Europea",
+"url": "https://www.abc.es/espana/espana-pide-ayuda-ue-investigar-accidente-urda-20261104172721-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 12,
+"nombre": "The Objective, sobre la querella de UGT",
+"url": "https://theobjective.com/espana/tribunales/2026-11-04/ugt-querella-adif-filtracion-audios-urda/",
+"tipo": "prensa"
+},
+{
+"n": 13,
+"nombre": "The Objective, sobre el funeral",
+"url": "https://theobjective.com/espana/2026-11-04/funeral-urda-catedral-toledo-cambia-fecha/",
+"tipo": "prensa"
+},
+{
+"n": 14,
+"nombre": "El Debate, sobre las papeletas",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261104/psoe-busca-alternativas-papeletas-29n-renuncia-oscar-puente_477226.html",
+"tipo": "prensa"
+},
+{
+"n": 15,
+"nombre": "El Debate, sobre el relevo",
+"url": "https://www.eldebate.com/espana/casa-real/20261104/razon-cuerpo-no-prometer-ante-rey-como-ministro-transporte_477166.html",
+"tipo": "prensa"
+},
+{
+"n": 16,
+"nombre": "Europa Press, declaraciones de Feijóo",
+"url": "https://www.europapress.es/nacional/noticia-feijoo-critica-teatrillo-dimision-puente-cree-sanchez-sabia-forma-indigna-irse-20261104123349.html",
+"tipo": "prensa"
+},
+{
+"n": 17,
+"nombre": "Europa Press, declaraciones de Abascal",
+"url": "https://www.europapress.es/nacional/noticia-abascal-cree-cuerpo-otro-fusible-sanchez-evada-banquillo-responsabilidad-20261104142724.html",
+"tipo": "prensa"
+},
+{
+"n": 18,
+"nombre": "Europa Press, declaraciones de Belarra",
+"url": "https://www.europapress.es/nacional/noticia-podemos-dice-dimision-puente-minimo-no-basta-hay-renacionalizar-ferrocarril-20261104130950.html",
+"tipo": "prensa"
+},
+{
+"n": 19,
+"nombre": "Europa Press, declaraciones de Compromís",
+"url": "https://www.europapress.es/nacional/noticia-compromis-ve-insuficiente-dimision-puente-respalda-eleccion-cuerpo-transportes-20261104122527.html",
+"tipo": "prensa"
+},
+{
+"n": 20,
+"nombre": "Europa Press, declaraciones de Rufián",
+"url": "https://www.europapress.es/nacional/noticia-rufian-dice-dimision-puente-distraccion-clave-inseguridad-sistema-ferroviario-20261104120305.html",
+"tipo": "prensa"
+},
+{
+"n": 21,
+"nombre": "ABC, declaraciones de Martínez Barbero",
+"url": "https://www.abc.es/espana/galicia/frente-amplio-necesaria-dimision-oscar-puente-avala-20261104133700-nt.html",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false
+},
+{
+"id": "supremo-reclama-647000-euros-abalos-koldo-aldama",
+"fecha": "2026-11-04",
+"tema": "justicia",
+"etiqueta": "Justicia",
+"claves": [
+"abalos",
+"koldo",
+"aldama",
+"647"
+],
+"titulo": "El Supremo da 15 días a Ábalos, Koldo García y Aldama para pagar unos 647.000 euros por el caso mascarillas",
+"entradilla": "El tribunal ha abierto la ejecución de la sentencia de junio. Una parte son multas, otra lo que obtuvieron con el delito y otra indemnizaciones a dos empresas públicas.",
+"imagen": {
+"archivo": "tribunal-supremo.jpg",
+"alt": "Fachada del edificio del Tribunal Supremo en Madrid.",
+"pie": "Sede del Tribunal Supremo, en Madrid. Foto de archivo.",
+"autor": "Luis García (Zaqarbal)",
+"licencia": "CC BY-SA 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Tribunal_Supremo_de_Espa%C3%B1a_(Madrid)_01.jpg"
+},
+"esencial": [
+"El Tribunal Supremo ha requerido el pago al exministro José Luis Ábalos, a su exasesor Koldo García y al empresario Víctor de Aldama.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Tienen 15 días. Si no pagan las multas y las indemnizaciones, el tribunal pasará a la vía de apremio.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"La mayor parte, 430.298 euros, es lo que la sentencia considera beneficio del delito de cohecho. Responden los tres, y a cada uno se le puede reclamar hasta cubrir el total.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "La sala que juzgó el caso abrió el 4 de noviembre la fase de ejecución de la sentencia de junio. Es la que condenó a Ábalos a 24 años de prisión y a García a 19. A Aldama se le suspendió el ingreso en prisión por su colaboración con la justicia.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Es una condena, no una investigación. El Supremo rechazó en octubre los incidentes de nulidad, y las defensas pueden acudir al Tribunal Constitucional.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> El caso está en <a href=\"/causas/#koldo_mascarillas\">Causas judiciales</a>."
+},
+{
+"tipo": "h",
+"texto": "Qué se les reclama"
+},
+{
+"tipo": "barras",
+"titulo": "Cantidades que recoge el auto",
+"unidad": "euros",
+"total": "647.498,54",
+"nota": "La suma es nuestra. Los medios redondean a 647.000 euros.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"filas": [
+{
+"texto": "Decomiso de los beneficios del cohecho",
+"detalle": "Ábalos, García y Aldama, de forma solidaria",
+"valor": 430298,
+"cifra": "430.298",
+"ancho": 100.0
+},
+{
+"texto": "Multa a Aldama",
+"detalle": "",
+"valor": 75000,
+"cifra": "75.000",
+"ancho": 17.4
+},
+{
+"texto": "Multa a Ábalos",
+"detalle": "",
+"valor": 52500,
+"cifra": "52.500",
+"ancho": 12.2
+},
+{
+"texto": "Multa a García",
+"detalle": "",
+"valor": 45750,
+"cifra": "45.750",
+"ancho": 10.6
+},
+{
+"texto": "Indemnización a Ineco",
+"detalle": "Ábalos y García, de forma solidaria",
+"valor": 34450,
+"cifra": "34.450",
+"ancho": 8.0
+},
+{
+"texto": "Indemnización a Tragsatec",
+"detalle": "Ábalos y García, de forma solidaria",
+"valor": 9500.54,
+"cifra": "9.500,54",
+"ancho": 2.2
+}
+]
+},
+{
+"tipo": "p",
+"html": "Ineco y Tragsatec son las empresas públicas en las que estuvo contratada una expareja del exministro, que percibió salarios sin desempeñar labores, según recoge la prensa.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué más dice el auto"
+},
+{
+"tipo": "p",
+"html": "Ordena calcular cuánto tiempo de prisión deben cumplir Ábalos y García, con el máximo que fijó la sentencia: 16 años y medio para el exministro y 15 para su exasesor.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Aldama tendrá que comparecer cada seis meses para informar de sus actividades laborales y empresariales. Tiene 15 días para ratificar que acepta un año de trabajos en beneficio de la comunidad. Son condiciones de la suspensión de su ingreso en prisión.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La gestión de las cantidades decomisadas corresponde a la Oficina de Recuperación y Gestión de Activos.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"quien": "Auto del Tribunal Supremo, según recogen La Vanguardia y El Debate",
+"cita": "la Sala considera procedente señalar una responsabilidad solidaria",
+"traduccion": null,
+"fuente": 3,
+"medio": "El Debate",
+"url": "https://www.eldebate.com/espana/20261104/supremo-reclama-647000-euros-abalos-koldo-aldama-condena-caso-mascarillas_477251.html"
+}
+],
+"sin_voz": "No hemos localizado declaraciones de los condenados, de sus defensas ni de los partidos sobre este auto.",
+"no_sabemos": [
+"Si los condenados tienen con qué pagar, o si han presentado o presentarán recurso ante el Tribunal Constitucional.",
+"El texto exacto del auto. No hemos podido leerlo: lo que contamos viene de la prensa que lo recoge, y dos medios lo citan con palabras algo distintas."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "El Confidencial",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-pago-caso-mascarillas-1tps_4458868/",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261104/11676090/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261104/supremo-reclama-647000-euros-abalos-koldo-aldama-condena-caso-mascarillas_477251.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Artículo 14, sobre los incidentes de nulidad",
+"url": "https://www.articulo14.es/politica/el-supremo-confirma-las-condenas-de-abalos-y-koldo-y-abre-la-puerta-a-que-puedan-recurrir-al-constitucional-20261014.html",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false
+},
+{
+"id": "amnistia-constitucional-junqueras-llarena-puigdemont",
+"fecha": "2026-11-04",
+"tema": "territorio",
+"etiqueta": "Justicia",
+"claves": [
+"llarena",
+"puigdemont",
+"junqueras",
+"romeva",
+"turull"
+],
+"titulo": "Amnistía: el Constitucional cierra los recursos de Junqueras, Turull y Romeva, y a Puigdemont solo le falta la decisión del Supremo",
+"entradilla": "Son dos resoluciones en dos días. El juez Llarena deja sin efecto el procesamiento de Puigdemont, Comín y Puig, y escribe que siguen existiendo indicios, sin que eso sea una declaración de culpabilidad.",
+"imagen": {
+"archivo": "tribunal-constitucional.jpg",
+"alt": "Edificio del Tribunal Constitucional en Madrid.",
+"pie": "Sede del Tribunal Constitucional, en Madrid. Foto de archivo.",
+"autor": "Zarateman",
+"licencia": "CC0",
+"origen": "https://commons.wikimedia.org/wiki/File:Madrid_-_Tribunal_Constitucional_1.JPG"
+},
+"esencial": [
+"El juez Pablo Llarena dejó sin efecto el 3 de noviembre el procesamiento de Carles Puigdemont, Antoni Comín y Lluís Puig, y envió la causa a la Sala de lo Penal del Supremo.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"La causa sigue abierta: la Sala debe decidir si la archiva por la ley de amnistía.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"El Tribunal Constitucional dio por extinguidos el 4 de noviembre, por unanimidad, los recursos de Junqueras, Turull y Romeva, porque el Supremo ya les había aplicado la amnistía.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Cómo se ha llegado hasta aquí"
+},
+{
+"tipo": "linea",
+"hitos": [
+{
+"cuando": "21 de marzo de 2018",
+"html": "Llarena procesa a Puigdemont, Comín y Puig.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"cuando": "30 de mayo de 2024",
+"html": "El Congreso aprueba la <a href=\"/fichas/ley-de-amnistia/\">ley de amnistía</a> por 177 votos a 172.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"cuando": "6 de octubre de 2026",
+"html": "El Constitucional da la razón a Dolors Bassa: la financiación pública del referéndum no basta, por sí sola, para excluir la amnistía. Llarena deja sin efecto las órdenes nacionales de detención.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"cuando": "20 de octubre de 2026",
+"html": "El Supremo deja sin efecto las inhabilitaciones de Junqueras, Romeva, Turull y Bassa.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"cuando": "3 de noviembre de 2026",
+"html": "Llarena deja sin efecto el procesamiento de Puigdemont, Comín y Puig, y remite la causa a la Sala.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"cuando": "4 de noviembre de 2026",
+"html": "El Constitucional declara extinguidos los recursos de Junqueras, Turull y Romeva.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"cuando": "Pendiente",
+"html": "La Sala de lo Penal del Supremo decide si archiva la causa de Puigdemont, Comín y Puig.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+}
+]
+},
+{
+"tipo": "h",
+"texto": "Por qué importaba la malversación"
+},
+{
+"tipo": "p",
+"html": "La ley de amnistía excluye los casos en los que hubo propósito de obtener un beneficio personal de carácter patrimonial. El Supremo había aplicado esa excepción a la malversación. El Constitucional, en su sentencia de octubre, descartó que la financiación pública de la consulta constituya, <span class=\"cita-linea\">«por sí sola, el beneficio personal de naturaleza patrimonial que excluye la aplicación de la amnistía»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Llarena escribe que esa doctrina le obliga, aunque deja dicho que <span class=\"cita-linea\">«subsisten los indicios de participación»</span>. Añade que esas apreciaciones <span class=\"cita-linea\">«conservan el alcance indiciario propio del procesamiento, sin constituir una declaración de culpabilidad»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué significa para cada uno"
+},
+{
+"tipo": "p",
+"html": "Junqueras, Turull, Romeva y Bassa fueron condenados. Ya estaban indultados de las penas de prisión, y con la amnistía quedó extinguida su inhabilitación.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Puigdemont, Comín y Puig no llegaron a ser juzgados. Sus órdenes nacionales de detención ya no están en vigor.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Comín y Puig han vuelto a Cataluña, y Puigdemont lo hará tras las elecciones, según Ara.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"quien": "Pablo Llarena, juez instructor del Supremo, en su auto",
+"cita": "La imposibilidad de continuar la persecución penal no deriva, por tanto, ni de una despenalización de la malversación y de la desobediencia para el resto de casos análogos que puedan cometerse, ni de la desaparición de los indicios",
+"traduccion": null,
+"fuente": 2,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675094/juez-llarena-deja-efecto-procesamiento-puigdemont-malversacion.html"
+},
+{
+"candidatura": null,
+"quien": "Tribunal Constitucional, en su nota de prensa",
+"cita": "queda agotado el legítimo interés esgrimido en ambos recursos de amparo",
+"traduccion": null,
+"fuente": 4,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-constitucional-da-amnistiados-junqueras-turull-romeva-despues-supremo-aplicara-perdon-20261104111818.html"
+},
+{
+"candidatura": null,
+"quien": "Sala de lo Penal del Supremo, sobre la sentencia del Constitucional, en octubre",
+"cita": "la innecesaria grandilocuencia",
+"traduccion": null,
+"fuente": 4,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-constitucional-da-amnistiados-junqueras-turull-romeva-despues-supremo-aplicara-perdon-20261104111818.html"
+},
+{
+"candidatura": "junts",
+"quien": "Míriam Nogueras. Lo publica Ara en catalán",
+"cita": "victòria de l'independentisme i, sobretot, del president Carles Puigdemont",
+"traduccion": "Victoria del independentismo y, sobre todo, del presidente Carles Puigdemont.",
+"fuente": 6,
+"medio": "Ara",
+"url": "https://www.ara.cat/politica/llarena-deixa-l-amnistia-puigdemont-mans-marchena_1_5898777.html"
+}
+],
+"sin_voz": "No hemos localizado declaraciones de otros partidos sobre estas dos resoluciones. Lo que votó cada grupo en 2024, con una frase de cada uno, está en la <a href=\"/fichas/ley-de-amnistia/\">ficha de la ley</a>.",
+"no_sabemos": [
+"Cuándo decidirá la Sala de lo Penal. Según Ara, dará antes cinco días hábiles a las partes para opinar.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>",
+"Si le afectará un recurso de Vox contra el levantamiento de las órdenes de detención. Ara recoge opiniones distintas de sus fuentes y dice que no hay precedentes.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/03/6ae9ed5e21efa014748b45b0.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675094/juez-llarena-deja-efecto-procesamiento-puigdemont-malversacion.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Español",
+"url": "https://www.elespanol.com/espana/tribunales/20261103/juez-llarena-aplica-amnistia-puigdemont-deja-sin-efecto-procesamiento/1003744444592_0.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-constitucional-da-amnistiados-junqueras-turull-romeva-despues-supremo-aplicara-perdon-20261104111818.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/constitucional-rechaza-los-recursos-junqueras-turull-romeva-porque-supremo-ya-les-ha-aplicado-amnistia_7057050_0.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "Ara",
+"url": "https://www.ara.cat/politica/llarena-deixa-l-amnistia-puigdemont-mans-marchena_1_5898777.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "Nuestra ficha de la ley de amnistía, con datos oficiales del Congreso",
+"url": "/fichas/ley-de-amnistia/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false
+}
+]

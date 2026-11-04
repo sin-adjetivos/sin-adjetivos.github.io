@@ -1,6 +1,72 @@
 [
 {
 "medio": "The Objective",
+"titulo": "Pilar Rubio, sobre su patrimonio compartido con Sergio Ramos: «Viví hasta los 24 años en Torrejón de Ardoz; hoy en día, mi casa está donde esté mi familia»",
+"url": "https://theobjective.com/gente/2026-11-04/pilar-rubio-patrimonio-sergio-ramos-torrejon-ardoz-casa-familia/",
+"fecha": "2026-11-04T13:00+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Óscar López reprocha a Álvarez de Toledo su respaldo al alcalde de Móstoles",
+"url": "https://theobjective.com/espana/politica/2026-11-04/oscar-lopez-alvarez-toledo-alcalde-mostoles/",
+"fecha": "2026-11-04T12:58+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Córdoba, provincia española en la que más baja el paro en octubre, con 583 desempleados menos",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-provincia-espanola-baja-paro-octubre-583-20261104095012-nts.html",
+"fecha": "2026-11-04T12:55+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El PSOE-A pone el ventilador en defensa de Puente y saca Los Gallardos y el cribado del cáncer: \"No somos lo mismo\"",
+"url": "https://www.elespanol.com/espana/andalucia/20261104/psoe-a-pone-ventilador-defensa-puente-saca-gallardos-cribado-cancer-no-mismo/1003744445832_0.html",
+"fecha": "2026-11-04T12:53+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Un padre y su hijo, acusados de intentar matar a dos hombres con una catana y un machete en Ferrol: «Estábamos amenazados»",
+"url": "https://www.abc.es/espana/galicia/padre-hijo-acusados-intentar-matar-dos-hombres-20261104135207-nt.html",
+"fecha": "2026-11-04T12:52+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Isma Ruiz, del pleno de minutos a su primera ausencia obligada en el Córdoba CF",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/isma-ruiz-pleno-minutos-primera-ausencia-obligada-20261104135135-nts.html",
+"fecha": "2026-11-04T12:51+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El jurado encuentra culpables a dos de los cuatro acusados por el crimen de Movera",
+"url": "https://www.abc.es/espana/aragon/jurado-encuentra-culpables-dos-cuatro-acusados-crimen-20261104134646-nt.html",
+"fecha": "2026-11-04T12:50+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El árbol de Navidad de Sol comenzará a instalarse el próximo lunes",
+"url": "https://www.abc.es/espana/madrid/arbol-navidad-sol-comenzara-instalarse-proximo-lunes-20261104134911-nt.html",
+"fecha": "2026-11-04T12:50+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Ana Botín compra 200.000 acciones más de Santander por 2 millones a través de Bafimar",
+"url": "https://theobjective.com/economia/2026-11-04/ana-botin-acciones-bafimar/",
+"fecha": "2026-11-04T12:49+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Aldama irá a juicio tras la demanda de Bolaños por decir en televisión que le intentó sobornar",
+"url": "https://www.eldiario.es/politica/aldama-ira-juicio-demanda-bolanos-decir-television-le-sobornar_1_13637598.html",
+"fecha": "2026-11-04T12:48+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Tres detenidos por traficar con marihuana y hachís a cambio del botín de seis robos",
+"url": "https://www.abc.es/espana/comunidad-valenciana/alicante/tres-detenidos-traficar-marihuana-hachis-cambio-botin-20261104134709-nt.html",
+"fecha": "2026-11-04T12:47+00:00"
+},
+{
+"medio": "The Objective",
 "titulo": "Aplazado el FC Andorra-Mallorca por la muerte del jugador Jesús de Miguel",
 "url": "https://theobjective.com/deportes/futbol/2026-11-04/aplazado-fc-andorra-mallorca/",
 "fecha": "2026-11-04T12:45+00:00"
@@ -10,6 +76,12 @@
 "titulo": "Ocaña, abogada: \"Cuando un heredero saca dinero de las cuentas del fallecido podría estar aceptando la herencia sin firmar la escritura; no pasa lo mismo si paga el impuesto de Sucesiones\"",
 "url": "https://www.cope.es/actualidad/economia/noticias/ocana-abogada-heredero-saca-dinero-cuentas-fallecido-aceptando-herencia-firmar-escritura-no-pasa-paga-impuesto-sucesiones-20261104_3467367.html",
 "fecha": "2026-11-04T12:43+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Madrid instala tres cascos en Cibeles para promocionar el partido de la NFL en el Bernabéu",
+"url": "https://www.abc.es/espana/madrid/madrid-instala-tres-cascos-cibeles-promocionar-partido-20261104134154-nt.html",
+"fecha": "2026-11-04T12:41+00:00"
 },
 {
 "medio": "The Objective",
@@ -76,6 +148,18 @@
 "titulo": "Lo que le faltaba al AVE por Zaragoza: un robo de cable provoca retrasos en la línea",
 "url": "https://www.abc.es/espana/aragon/faltaba-ave-zaragoza-robo-cable-provoca-retrasos-20261104132936-nt.html",
 "fecha": "2026-11-04T12:29+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Colau cree que la dimisión de Puente \"deja sin argumentos a la derecha\" y ve \"lógica\" la decisión de que Cuerpo asuma su cartera",
+"url": "https://www.20minutos.es/nacional/colau-cree-que-dimision-puente-deja-sin-argumentos-derecha-ve-logica-decision-que-cuerpo-asuma-su-cartera_7057098_0.html",
+"fecha": "2026-11-04T12:26+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Las grandes ciudades españolas tienen menos casas vacías que la media de la OCDE y precios un 25% más caros que el resto del país",
+"url": "https://www.20minutos.es/nacional/las-grandes-ciudades-espanolas-tienen-menos-casas-vacias-que-media-ocde-precios-un-25-mas-caros-que-resto-pais_7056778_0.html",
+"fecha": "2026-11-04T12:26+00:00"
 },
 {
 "medio": "The Objective",
@@ -276,6 +360,12 @@
 "fecha": "2026-11-04T12:00+00:00"
 },
 {
+"medio": "20minutos",
+"titulo": "El expresidente de la CIAF dice que la Alta Velocidad necesita \"cirugía profunda\" con una inversión de 10.000 millones en 10 años",
+"url": "https://www.20minutos.es/nacional/expresidente-ciaf-dice-que-alta-velocidad-necesita-cirugia-profunda-con-una-inversion-10-000-millones-10-anos_7057065_0.html",
+"fecha": "2026-11-04T12:00+00:00"
+},
+{
 "medio": "The Objective",
 "titulo": "El PP acusa al PSOE de forzar la dimisión de Puente por «interés electoral»",
 "url": "https://theobjective.com/espana/politica/2026-11-04/pp-psoe-dimision-puente-interes-electoral/",
@@ -285,6 +375,12 @@
 "medio": "ABC",
 "titulo": "Costco abrirá una nueva tienda en Málaga en 2027: su gasolinera ya está abierta y vende combustible más barato",
 "url": "https://www.abc.es/espana/andalucia/malaga/costco-abrira-nueva-tienda-malaga-2027-gasolinera-20261104125827-nts.html",
+"fecha": "2026-11-04T11:58+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Aumentan un 75% los casos de violencia de padres contra hijos: \"Les dicen a los niños que no valen para nada y que se arrepienten de haberlos tenido\"",
+"url": "https://www.elmundo.es/espana/2026/11/04/6aeb0e39e4d4d8945f8b4587.html",
 "fecha": "2026-11-04T11:58+00:00"
 },
 {
@@ -717,6 +813,12 @@
 "medio": "OKdiario",
 "titulo": "¿Cuánto cobrará Oscar Puente tras su dimisión como ministro de Transportes?",
 "url": "https://okdiario.com/espana/cuanto-cobrara-oscar-puente-dimision-como-ministro-transportes-20696999",
+"fecha": "2026-11-04T10:27+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Habrá encuentro de Abascal con Milei en plena precampaña electoral: el líder de Vox hace hueco esta vez al presidente argentino",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeafa7e21efa029678b45d0.html",
 "fecha": "2026-11-04T10:27+00:00"
 },
 {

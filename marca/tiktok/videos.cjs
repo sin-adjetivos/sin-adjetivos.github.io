@@ -1,0 +1,27 @@
+// Texto de cada vídeo. Los votos y resultados salen de las fichas; aquí solo va la explicación.
+exports.VIDEOS = [
+  { carpeta: '00-presentacion', tipo: 'presentacion', diapos: [
+    { t: 'Sin adjetivos', p: 'Lo que proponen, votan y dicen los partidos. Sin valoraciones.' },
+    { t: 'Cada frase, con su fuente', p: 'Votos oficiales del Congreso y citas literales. Compruébalo tú.' },
+    { t: 'Ni encuestas ni a quién votar', p: 'Eso lo decides tú.', web: 'sin-adjetivos.github.io' },
+  ] },
+  { carpeta: '01-jornada-37-5-horas', ficha: 'la-reduccion-de-la-jornada-a-37-5-horas', tema: 'Empleo',
+    gancho: '¿Quién frenó las 37,5 horas?',
+    que_era: ['Una ley del Gobierno para bajar la jornada máxima de 40 a 37,5 horas semanales y reforzar el registro horario.'],
+    ojo: 'Votar sí era frenarla.',
+    paso: 'La ley volvió al Gobierno y no siguió adelante.' },
+  { carpeta: '02-violencia-sanitarios', ficha: 'propuesta-del-pp-contra-la-violencia-a-sanitarios', tema: 'Sanidad',
+    gancho: 'Agresiones a sanitarios: cayó por 2 votos',
+    que_era: ['Una propuesta del PP para crear un marco específico que proteja a los profesionales sanitarios frente a las agresiones.'],
+    ojo: 'Solo se votaba si empezaba a tramitarse.',
+    paso: 'No se admitió a trámite.' },
+  { carpeta: '03-subsidio-desempleo', ficha: 'decreto-de-2023-sobre-subsidio-de-desempleo-y-conciliacion', tema: 'Empleo',
+    gancho: 'El decreto que tumbaron PP, Vox y Podemos',
+    que_era: ['Un decreto del Gobierno que reformaba el subsidio de desempleo y adaptaba una directiva europea de conciliación.'],
+    ojo: 'Junts figura como que no votó.',
+    paso: 'No se convalidó. En 2024 el Gobierno aprobó otro decreto sobre el subsidio, que sí salió adelante.' },
+  { carpeta: '04-pensiones-omnibus', ficha: 'decreto-omnibus-de-2025-subida-de-pensiones-junto-a-otras-medidas', tema: 'Pensiones',
+    gancho: 'Por qué cayó la subida de pensiones de 2025',
+    que_era: ['Un solo decreto juntaba la subida de pensiones con ayudas al transporte, suspensión de desahucios, medidas fiscales y la cesión de un edificio a un partido.'],
+    paso: 'Cayó. Días después el Gobierno aprobó otro decreto con parte de las medidas, y salió adelante con 315 votos.' },
+];

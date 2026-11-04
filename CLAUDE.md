@@ -31,7 +31,7 @@ Logo: «sin» blanco en Bricolage Grotesque sobre negro, con un trazo de rotulad
 2. Fichas de votaciones clave (`scripts/fuente_fichas*.py`, verificadas por `build_fichas.py`): hay de los 12 temas. Mejorar las citas poco informativas y ampliar. Herramientas: `scripts/buscar_en_debate.py` y `scripts/leer_debate.py`.
 3. Revisar uno a uno los casos judiciales, empezando por los abiertos; hoy proceden de DatosClaros sin verificación propia.
 4. Añadir programas de 2026 cuando se publiquen. Votación de vivienda en Diputación Permanente prevista el 12 de noviembre.
-5. TikTok: guiones en `marca/tiktok/guiones.md` e imágenes con `marca/tiktok/generar.cjs`. Formato fijo y equilibrio: alternar votaciones en las que perdió cada bloque.
+5. TikTok: guiones en `marca/tiktok/guiones.md` e imágenes con `marca/tiktok/generar.cjs`. Formato fijo y equilibrio: alternar votaciones en las que perdió cada bloque. Nada de etiquetas ni de generalizar por grupos: nombrar quién votó qué y atribuir cada postura.
 6. Faltan medios en Actualidad: El Debate, La Razón, Público y Vozpópuli.
 7. Tras el 29-N: resultados, pactos frente a promesas, y evolución hacia un periódico de datos. Dominio y correo propios cuando haya dinero.
 

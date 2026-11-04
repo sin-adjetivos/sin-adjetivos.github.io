@@ -15,7 +15,7 @@ const apellidos = c.boe_apellidos;
 const perfil = personas().find((p) => apellidos && p.nombre.startsWith(apellidos));
 const nFrases = declaraciones().filter((d) => d.bando === c.id).length;
 ---
-<Base color={color} tintaHero={tintaTitular(color)} titulo={c.sigla} descripcion={`Expediente de ${c.nombre}: propuestas, votos, antecedentes de la cabeza de lista y causas judiciales, con fuentes.`}>
+<Base color={color} tintaHero={tintaTitular(color)} titulo={`${c.sigla}: propuestas, votos y causas judiciales`} descripcion={`Expediente de ${c.nombre}: propuestas, votos, antecedentes de la cabeza de lista y causas judiciales, con fuentes.`}>
   <div class="marco hero-color">
     <h1>{c.sigla}</h1>
   </div>

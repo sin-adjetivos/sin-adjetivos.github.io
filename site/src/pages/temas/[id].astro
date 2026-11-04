@@ -23,7 +23,7 @@ const nVotos = votosTodos().filter((v) => v.temas.includes(tema.id)).length;
 const nDebates = debates().filter((d) => d.temas.includes(tema.id)).length;
 const delGobierno = frases.filter((f) => f.bando === 'gobierno').slice(0, 3);
 ---
-<Base titulo={tema.nombre}>
+<Base titulo={`${tema.nombre}: qué propone y qué vota cada partido`} descripcion={`${tema.nombre}: propuestas, votaciones y debates de cada candidatura a las elecciones del 29 de noviembre de 2026, con la fuente de cada dato.`}>
   <div class="marco">
     <header class="entrada">
       <h1>{tema.nombre}</h1>

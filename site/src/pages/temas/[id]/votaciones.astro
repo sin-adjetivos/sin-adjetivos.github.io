@@ -10,7 +10,7 @@ export function getStaticPaths() {
 const { tema } = Astro.props;
 const vs = votosTodos().filter((v) => v.temas.includes(tema.id)).sort((a, b) => b.fecha.localeCompare(a.fecha));
 ---
-<Base titulo={`Votaciones sobre ${tema.nombre}`}>
+<Base titulo={`Votaciones sobre ${tema.nombre} en el Congreso`} descripcion={`Qué votó cada grupo en el Congreso sobre ${tema.nombre} en esta legislatura, con los datos oficiales de cada votación.`}>
   <div class="marco">
     <header class="entrada">
       <h1 class="h1-largo">{tema.nombre}: todas las votaciones</h1>

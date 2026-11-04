@@ -10,7 +10,7 @@ export function getStaticPaths() {
 const { tema, cand } = Astro.props;
 const ds = declaraciones().filter((d) => d.temas.includes(tema.id) && d.bando === cand.id).sort((a, b) => b.fecha.localeCompare(a.fecha));
 ---
-<Base titulo={`${cand.sigla} sobre ${tema.nombre}`}>
+<Base titulo={`${cand.sigla} sobre ${tema.nombre}: propuestas y votos`} descripcion={`Qué propone, qué vota y qué dice ${cand.sigla} sobre ${tema.nombre}, con la fuente original de cada dato.`}>
   <div class="marco">
     <header class="entrada">
       <h1 class="h1-largo">{cand.sigla} sobre {tema.nombre.toLowerCase()}</h1>

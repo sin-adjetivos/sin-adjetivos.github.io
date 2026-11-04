@@ -9,7 +9,7 @@ export function getStaticPaths() {
 const { tema } = Astro.props;
 const ds = debates().filter((d) => d.temas.includes(tema.id)).sort((a, b) => b.fecha.localeCompare(a.fecha));
 ---
-<Base titulo={`Debates sobre ${tema.nombre}`}>
+<Base titulo={`Debates sobre ${tema.nombre} en el Congreso`} descripcion={`Debates del Pleno del Congreso sobre ${tema.nombre} en esta legislatura, con enlace a la transcripción íntegra de cada uno.`}>
   <div class="marco">
     <header class="entrada">
       <h1 class="h1-largo">{tema.nombre}: todos los debates</h1>

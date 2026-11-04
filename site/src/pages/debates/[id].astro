@@ -13,8 +13,10 @@ const vs = votosTodos().filter((v) => (v.debates || []).includes(d.id));
 const pdf = `https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/${d.doc}`;
 const rotulo = (t) => t.orador ? t.orador.split(', ').reverse().join(' ') : t.rotulo;
 const anio = d.fecha.slice(0, 4);
+// Recorta sin partir palabras, para títulos y descripciones que los buscadores cortarían.
+const corta = (s, n) => (s.length <= n ? s : `${s.slice(0, n).replace(/\s+\S*$/, '')}…`);
 ---
-<Base titulo={d.titulo.slice(0, 80)} descripcion={`Transcripción íntegra del debate en el Pleno del Congreso del ${fecha(d.fecha)}.`}>
+<Base titulo={`${corta(d.titulo, 80)} (${fecha(d.fecha)})`} descripcion={corta(`Pleno del Congreso del ${fecha(d.fecha)}, transcripción íntegra: ${d.titulo}`, 155)}>
   <div class="marco" data-pagefind-body>
     <header class="entrada debate-cab">
       <p class="nota"><a href={`/plenos/${d.num}/`} data-pagefind-ignore>Pleno del {fecha(d.fecha)}</a></p>

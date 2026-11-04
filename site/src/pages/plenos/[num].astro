@@ -9,7 +9,7 @@ export function getStaticPaths() {
 const { s } = Astro.props;
 const ds = debates().filter((d) => d.num === s.num);
 ---
-<Base titulo={`Pleno del ${fecha(s.fecha)}`}>
+<Base titulo={`Pleno del Congreso del ${fecha(s.fecha)}`} descripcion={`Debates del Pleno del Congreso del ${fecha(s.fecha)}, con la transcripción íntegra de cada uno según el Diario de Sesiones.`}>
   <div class="marco">
     <header class="entrada">
       <h1 class="h1-largo">Pleno del {fecha(s.fecha)}</h1>

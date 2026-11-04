@@ -14,7 +14,7 @@ const d = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', 'datos',
 const aviso = avisos[p.slug];
 const orden = [...d.candidaturas].sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
 ---
-<Base titulo={`Listas de ${p.nombre}`} descripcion={`Candidaturas proclamadas al Congreso en ${p.nombre} para el 29 de noviembre de 2026, según el BOE.`}>
+<Base titulo={`Listas al Congreso por ${p.nombre}, 29 de noviembre`} descripcion={`Candidaturas proclamadas al Congreso en ${p.nombre} para el 29 de noviembre de 2026, según el BOE.`}>
   <section class="portada">
     <div class="marco">
       <h1>{p.nombre}</h1>

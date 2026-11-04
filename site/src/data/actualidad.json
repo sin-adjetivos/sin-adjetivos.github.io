@@ -1,9 +1,9 @@
 {
-"actualizado": "2026-11-04T13:11+00:00",
+"actualizado": "2026-11-04T13:19+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 116,
+"COPE": 117,
 "El Confidencial": 12,
 "elDiario.es": 20,
 "El Español": 30,
@@ -26,17 +26,19 @@
 ],
 "grupos": [
 {
-"medios": 10,
+"medios": 9,
 "desde": "2026-11-04T08:28+00:00",
-"hasta": "2026-11-04T12:37+00:00",
+"hasta": "2026-11-04T11:00+00:00",
 "temas": [],
 "comunes": [
-"cuerpo",
 "transportes",
+"cuerpo",
 "carlos",
-"dimision",
 "puente",
-"oscar"
+"dimision",
+"oscar",
+"cartera",
+"sanchez"
 ],
 "titulares": [
 {
@@ -44,12 +46,6 @@
 "titulo": "El vicepresidente y ministro de Economía, Carlos Cuerpo, asumirá la cartera de Transportes tras la dimisión de Óscar Puente",
 "url": "https://www.20minutos.es/nacional/vicepresidente-ministro-economia-carlos-cuerpo-asumira-cartera-transportes-tras-dimision-oscar-puente_7056960_0.html",
 "fecha": "2026-11-04T09:01+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Frente Amplio ve «necesaria» la dimisión de Óscar Puente y avala a Carlos Cuerpo como sustituto",
-"url": "https://www.abc.es/espana/galicia/frente-amplio-necesaria-dimision-oscar-puente-avala-20261104133700-nt.html",
-"fecha": "2026-11-04T12:37+00:00"
 },
 {
 "medio": "COPE",
@@ -109,8 +105,8 @@
 "comunes": [
 "zapatero",
 "joyas",
-"juez",
 "pide",
+"juez",
 "autor",
 "marca",
 "identifique",
@@ -169,13 +165,13 @@
 "territorio"
 ],
 "comunes": [
-"puigdemont",
 "llarena",
+"puigdemont",
 "amnistia",
 "juez",
+"deja",
 "efecto",
-"procesamiento",
-"deja"
+"procesamiento"
 ],
 "titulares": [
 {
@@ -225,8 +221,8 @@
 ],
 "comunes": [
 "junqueras",
-"romeva",
 "turull",
+"romeva",
 "constitucional",
 "amnistia",
 "recursos",
@@ -328,11 +324,11 @@
 "hasta": "2026-11-03T21:22+00:00",
 "temas": [],
 "comunes": [
-"ministro",
 "puente",
+"ministro",
 "oscar",
-"listas",
 "renuncia",
+"listas",
 "transportes",
 "dimite",
 "dimision"
@@ -379,7 +375,7 @@
 "madrid",
 "sanchez",
 "milei",
-"rodriguez"
+"delcy"
 ],
 "titulares": [
 {
@@ -415,11 +411,11 @@
 "temas": [],
 "comunes": [
 "biedma",
+"pedraz",
+"eliminarla",
+"intento",
 "cite",
 "juez",
-"eliminarla",
-"pedraz",
-"intento",
 "clan"
 ],
 "titulares": [
@@ -449,9 +445,9 @@
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
-"muertos",
-"llega",
 "116",
+"llega",
+"muertos",
 "tarde",
 "puente",
 "dimision"
@@ -486,9 +482,9 @@
 ],
 "comunes": [
 "urda",
+"toledo",
 "accidente",
 "catedral",
-"toledo",
 "victimas",
 "funeral",
 "celebrara",
@@ -517,14 +513,46 @@
 },
 {
 "medios": 3,
+"desde": "2026-11-03T18:35+00:00",
+"hasta": "2026-11-04T12:11+00:00",
+"temas": [],
+"comunes": [
+"cervantes",
+"cubas",
+"fernandez",
+"cristina"
+],
+"titulares": [
+{
+"medio": "Ara",
+"titulo": "Cristina Fernández Cubas després del Cervantes: \"Els contes són com un amant infidel, si no n’estàs pendent se’n va amb una altra\"",
+"url": "https://llegim.ara.cat/actualitat/cristina-fernandez-cubas-despres-cervantes-contes-son-amant-infidel-no-pendent-altra_1_5899729.html",
+"fecha": "2026-11-04T12:11+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Cristina Fernández Cubas, galardonada con el Premio Cervantes 2026",
+"url": "https://www.cope.es/actualidad/cultura/noticias/cristina-fernandez-cubas-galardonada-premio-cervantes-2026-20261103_3467912.html",
+"fecha": "2026-11-03T18:35+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "Cristina Fernández Cubas, un Cervantes que \"ha hecho muchísimo por dar al cuento el prestigio que se merece\"",
+"url": "https://www.infolibre.es/cultura/cristina-fernandez-cubas-cervantes-hecho-dar-cuento-prestigio-merece_1_2239461.html",
+"fecha": "2026-11-03T19:14+00:00"
+}
+]
+},
+{
+"medios": 3,
 "desde": "2026-11-04T04:00+00:00",
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
-"mesa",
+"tocado",
 "saber",
 "electoral",
-"tocado"
+"mesa"
 ],
 "titulares": [
 {
@@ -548,5 +576,5 @@
 ]
 }
 ],
-"recogidas": 561
+"recogidas": 579
 }

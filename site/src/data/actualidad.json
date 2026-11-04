@@ -1,9 +1,9 @@
 {
-"actualizado": "2026-11-04T13:19+00:00",
+"actualizado": "2026-11-04T13:27+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 117,
+"COPE": 116,
 "El Confidencial": 12,
 "elDiario.es": 20,
 "El Español": 30,
@@ -31,8 +31,8 @@
 "hasta": "2026-11-04T11:00+00:00",
 "temas": [],
 "comunes": [
-"transportes",
 "cuerpo",
+"transportes",
 "carlos",
 "puente",
 "dimision",
@@ -103,10 +103,10 @@
 "hasta": "2026-11-03T16:18+00:00",
 "temas": [],
 "comunes": [
-"zapatero",
 "joyas",
-"pide",
+"zapatero",
 "juez",
+"pide",
 "autor",
 "marca",
 "identifique",
@@ -165,13 +165,13 @@
 "territorio"
 ],
 "comunes": [
-"llarena",
 "puigdemont",
+"llarena",
 "amnistia",
 "juez",
 "deja",
-"efecto",
-"procesamiento"
+"procesamiento",
+"efecto"
 ],
 "titulares": [
 {
@@ -221,8 +221,8 @@
 ],
 "comunes": [
 "junqueras",
-"turull",
 "romeva",
+"turull",
 "constitucional",
 "amnistia",
 "recursos",
@@ -369,9 +369,9 @@
 ],
 "comunes": [
 "iberoamericana",
-"lula",
-"sheinbaum",
 "cumbre",
+"sheinbaum",
+"lula",
 "madrid",
 "sanchez",
 "milei",
@@ -411,10 +411,10 @@
 "temas": [],
 "comunes": [
 "biedma",
-"pedraz",
 "eliminarla",
-"intento",
 "cite",
+"intento",
+"pedraz",
 "juez",
 "clan"
 ],
@@ -446,9 +446,9 @@
 "temas": [],
 "comunes": [
 "116",
+"tarde",
 "llega",
 "muertos",
-"tarde",
 "puente",
 "dimision"
 ],
@@ -481,14 +481,14 @@
 "defensa"
 ],
 "comunes": [
-"urda",
-"toledo",
-"accidente",
-"catedral",
-"victimas",
 "funeral",
+"accidente",
+"urda",
+"catedral",
+"toledo",
+"victimas",
 "celebrara",
-"asistiran"
+"reyes"
 ],
 "titulares": [
 {
@@ -518,8 +518,8 @@
 "temas": [],
 "comunes": [
 "cervantes",
-"cubas",
 "fernandez",
+"cubas",
 "cristina"
 ],
 "titulares": [
@@ -549,9 +549,9 @@
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
+"electoral",
 "tocado",
 "saber",
-"electoral",
 "mesa"
 ],
 "titulares": [
@@ -576,5 +576,5 @@
 ]
 }
 ],
-"recogidas": 579
+"recogidas": 584
 }

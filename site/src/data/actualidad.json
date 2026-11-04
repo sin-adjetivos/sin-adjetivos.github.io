@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-04T13:08+00:00",
+"actualizado": "2026-11-04T13:11+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -34,9 +34,9 @@
 "cuerpo",
 "transportes",
 "carlos",
+"dimision",
 "puente",
-"oscar",
-"dimision"
+"oscar"
 ],
 "titulares": [
 {
@@ -107,13 +107,13 @@
 "hasta": "2026-11-03T16:18+00:00",
 "temas": [],
 "comunes": [
-"joyas",
 "zapatero",
+"joyas",
 "juez",
 "pide",
 "autor",
-"identifique",
 "marca",
+"identifique",
 "policia"
 ],
 "titulares": [
@@ -173,9 +173,9 @@
 "llarena",
 "amnistia",
 "juez",
+"efecto",
 "procesamiento",
-"deja",
-"efecto"
+"deja"
 ],
 "titulares": [
 {
@@ -224,12 +224,12 @@
 "territorio"
 ],
 "comunes": [
-"turull",
 "junqueras",
 "romeva",
+"turull",
 "constitucional",
-"recursos",
 "amnistia",
+"recursos",
 "supremo"
 ],
 "titulares": [
@@ -284,9 +284,9 @@
 "sindicatos",
 "feijoo",
 "pide",
-"error",
-"grave",
 "accidente",
+"grave",
+"error",
 "urda"
 ],
 "titulares": [
@@ -331,10 +331,10 @@
 "ministro",
 "puente",
 "oscar",
-"renuncia",
 "listas",
-"dimite",
+"renuncia",
 "transportes",
+"dimite",
 "dimision"
 ],
 "titulares": [
@@ -373,12 +373,12 @@
 ],
 "comunes": [
 "iberoamericana",
+"lula",
 "sheinbaum",
 "cumbre",
-"lula",
 "madrid",
-"milei",
 "sanchez",
+"milei",
 "rodriguez"
 ],
 "titulares": [
@@ -415,10 +415,10 @@
 "temas": [],
 "comunes": [
 "biedma",
-"juez",
-"pedraz",
 "cite",
+"juez",
 "eliminarla",
+"pedraz",
 "intento",
 "clan"
 ],
@@ -449,10 +449,10 @@
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
-"llega",
-"tarde",
 "muertos",
+"llega",
 "116",
+"tarde",
 "puente",
 "dimision"
 ],
@@ -485,12 +485,12 @@
 "defensa"
 ],
 "comunes": [
-"toledo",
+"urda",
+"accidente",
 "catedral",
+"toledo",
 "victimas",
 "funeral",
-"accidente",
-"urda",
 "celebrara",
 "asistiran"
 ],
@@ -521,10 +521,10 @@
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
-"tocado",
 "mesa",
 "saber",
-"electoral"
+"electoral",
+"tocado"
 ],
 "titulares": [
 {

@@ -38,7 +38,7 @@ const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline:
         if (b.tipo === 'tabla') return (
           <figure class="dato">
             <figcaption>{b.titulo}</figcaption>
-            <table>
+            <table class:list={{ 'tabla-texto': !/^\d/.test(b.filas[0].at(-1)) }}>
               <thead><tr>{b.columnas.map((c) => <th scope="col">{c}</th>)}</tr></thead>
               <tbody>{b.filas.map((f) => <tr>{f.map((c) => <td>{c}</td>)}</tr>)}</tbody>
             </table>
@@ -85,7 +85,7 @@ const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline:
       <ul class="filas" data-barajar>
         {n.voces.map((v) => (
           <li class="con-banda" style={`--c:${v.candidatura ? COLORES[v.candidatura] : 'var(--sepia)'}`}>
-            <p class="quien">{v.candidatura ? (v.candidatura === 'gobierno' ? <Chip id="gobierno">Gobierno</Chip> : <Chip id={v.candidatura} href={`/candidaturas/${v.candidatura}/`}>{nombre(v.candidatura)}</Chip>) : <span>Justicia</span>}</p>
+            <p class="quien">{v.candidatura ? (v.candidatura === 'gobierno' ? <Chip id="gobierno">Gobierno</Chip> : <Chip id={v.candidatura} href={`/candidaturas/${v.candidatura}/`}>{nombre(v.candidatura)}</Chip>) : <span>{v.rotulo}</span>}</p>
             <div>
               <blockquote>«{v.cita}{/[.?!…]$/.test(v.cita) ? '' : '…'}»</blockquote>
               {v.traduccion && <p class="fuente">En castellano, traducción nuestra: {v.traduccion}</p>}

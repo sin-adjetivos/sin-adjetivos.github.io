@@ -6,8 +6,7 @@
 "etiqueta": "Transporte",
 "claves": [
 "puente",
-"urda",
-"cuerpo"
+"dimision"
 ],
 "titulo": "Puente deja Transportes tras el accidente de Urda y Cuerpo asume el ministerio hasta que haya nuevo Gobierno",
 "entradilla": "El ministro anunció su dimisión al terminar su comparecencia en el Congreso. La investigación sobre las causas del accidente sigue abierta.",
@@ -148,12 +147,17 @@
 },
 {
 "tipo": "p",
+"html": "Un día después dejó el cargo el presidente de Adif, Luis Pedro Marco de la Peña: <a href=\"/actualidad/presidente-adif-deja-cargo-reunion-cuerpo/\">lo contamos aquí</a>.<sup class=\"ref\"><a href=\"#f21\">21</a></sup>"
+},
+{
+"tipo": "p",
 "html": "El funeral por las víctimas se celebrará el martes 10 de noviembre a las 19 horas en la Catedral de Toledo. Estaba previsto para el día 12 y el Arzobispado lo ha cambiado, así que algunas informaciones aún dan la fecha anterior.<sup class=\"ref\"><a href=\"#f13\">13</a></sup>"
 }
 ],
 "voces": [
 {
 "candidatura": "gobierno",
+"rotulo": "Justicia",
 "quien": "Óscar Puente, al anunciar su dimisión",
 "cita": "Un ministro de Transportes de España no puede continuar en su cargo con dos accidentes de esta gravedad por muy distintos que sean y tenga o no responsabilidad en ellos, por una cuestión de dignidad política, de coherencia y de empatía con las víctimas",
 "traduccion": null,
@@ -163,6 +167,7 @@
 },
 {
 "candidatura": "gobierno",
+"rotulo": "Justicia",
 "quien": "Pedro Sánchez, presidente del Gobierno",
 "cita": "Puente ha dado la cara, ha dado explicaciones, también ha aportado soluciones a una sociedad que las exigía y que también las merecía, y después ha dado un paso a un lado.",
 "traduccion": null,
@@ -172,6 +177,7 @@
 },
 {
 "candidatura": "psoe",
+"rotulo": "Justicia",
 "quien": "Patxi López, antes de la dimisión",
 "cita": "Óscar Puente estuvo donde tenía que estar desde el minuto cero.",
 "traduccion": null,
@@ -181,6 +187,7 @@
 },
 {
 "candidatura": "pp",
+"rotulo": "Justicia",
 "quien": "Alberto Núñez Feijóo",
 "cita": "Puente se va, pero Sánchez se queda.",
 "traduccion": null,
@@ -190,6 +197,7 @@
 },
 {
 "candidatura": "vox",
+"rotulo": "Justicia",
 "quien": "Santiago Abascal",
 "cita": "Sólo es un cuerpo más que se interpone entre Pedro Sánchez y el banquillo",
 "traduccion": null,
@@ -199,15 +207,17 @@
 },
 {
 "candidatura": "frente-amplio",
+"rotulo": "Justicia",
 "quien": "Verónica Martínez Barbero",
 "cita": "hay una separación entre responsabilidad técnica y responsabilidad o culpabilidad del accidente y la responsabilidad política",
 "traduccion": null,
-"fuente": 21,
+"fuente": 22,
 "medio": "ABC",
 "url": "https://www.abc.es/espana/galicia/frente-amplio-necesaria-dimision-oscar-puente-avala-20261104133700-nt.html"
 },
 {
 "candidatura": "erc",
+"rotulo": "Justicia",
 "quien": "Gabriel Rufián",
 "cita": "Creo que Puente era una distracción porque aquí lo importante es saber si la gente va segura o no en un AVE",
 "traduccion": null,
@@ -217,6 +227,7 @@
 },
 {
 "candidatura": "junts",
+"rotulo": "Justicia",
 "quien": "Míriam Nogueras, antes de la dimisión",
 "cita": "el sistema ferroviario español se ha colapsado",
 "traduccion": null,
@@ -226,6 +237,7 @@
 },
 {
 "candidatura": "pnv",
+"rotulo": "Justicia",
 "quien": "Mikel Legarda, antes de la dimisión",
 "cita": "para hacerse cargo del estado de ánimo de la sociedad, le toca dimitir",
 "traduccion": null,
@@ -235,6 +247,7 @@
 },
 {
 "candidatura": "eh-bildu",
+"rotulo": "Justicia",
 "quien": "Mertxe Aizpurua, antes de la dimisión",
 "cita": "Cuando se conozca la investigación, entonces sí podremos valorar las causas y entonces sí pediremos las responsabilidades, caiga quien caiga",
 "traduccion": null,
@@ -244,6 +257,7 @@
 },
 {
 "candidatura": "podemos",
+"rotulo": "Justicia",
 "quien": "Ione Belarra",
 "cita": "La dimisión de Puente era un consenso social, algo que tenía que ocurrir, pero no es suficiente.",
 "traduccion": null,
@@ -383,8 +397,519 @@
 },
 {
 "n": 21,
+"nombre": "20minutos, sobre la salida del presidente de Adif",
+"url": "https://www.20minutos.es/nacional/dimite-presidente-adif-un-dia-despues-renuncia-puente-por-accidente-urda_7057308_0.html",
+"tipo": "prensa"
+},
+{
+"n": 22,
 "nombre": "ABC, declaraciones de Martínez Barbero",
 "url": "https://www.abc.es/espana/galicia/frente-amplio-necesaria-dimision-oscar-puente-avala-20261104133700-nt.html",
+"tipo": "prensa"
+}
+],
+"cambios": [
+{
+"fecha": "2026-11-04",
+"texto": "Añadimos la salida del presidente de Adif."
+}
+],
+"borrador": false
+},
+{
+"id": "huelga-general-11-noviembre-sindicatos-pp-vox",
+"fecha": "2026-11-04",
+"tema": "vivienda",
+"etiqueta": "Vivienda y empleo",
+"claves": [
+"sindicatos",
+"11n"
+],
+"titulo": "CCOO, UGT y otros sindicatos mantienen la huelga general del 11 de noviembre, y PP y Vox piden desconvocarla",
+"entradilla": "Es una huelga de 24 horas por la vivienda, los salarios y los servicios públicos. Feijóo y Abascal piden cancelarla tras el accidente de Urda, y los sindicatos dicen que seguirá adelante.",
+"imagen": {
+"archivo": "ministerio-trabajo.jpg",
+"alt": "Fachada del Ministerio de Trabajo en Madrid.",
+"pie": "Ministerio de Trabajo, en Madrid, donde se registró la convocatoria. Foto de archivo de 2010.",
+"autor": "Ignacio Renuncio",
+"licencia": "Dominio público",
+"origen": "https://commons.wikimedia.org/wiki/File:Ministerio_de_Trabajo_e_Inmigracion_(Spain).jpg"
+},
+"esencial": [
+"La huelga es el miércoles 11 de noviembre, durante 24 horas y en toda España. La convocan CCOO, UGT, CGT, CNT y otras organizaciones.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Piden vivienda digna y subidas salariales, entre otras cosas. El detonante fue el rechazo en el Congreso de dos decretos de vivienda.<sup class=\"ref\"><a href=\"#f8\">8</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Feijóo y Abascal piden desconvocarla, y CCOO y UGT dicen que no lo harán.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué es y quién la convoca"
+},
+{
+"tipo": "p",
+"html": "Va desde las 00:00 hasta las 24:00 del 11 de noviembre. En las empresas con turnos puede empezar con el primero y acabar con el último. Se registró en el Ministerio de Trabajo el 19 de octubre.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La convocan CCOO, UGT, CGT, CNT, Co.Bas, Intersindical, Solidaridad Obrera, la Unión de Actores y Actrices y la Confederación de Sindicatos de Inquilinas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> La idea surgió de los sindicatos de inquilinos, y luego se sumaron CGT y CNT, entre otros, y por último CCOO y UGT.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué piden"
+},
+{
+"tipo": "p",
+"html": "Medidas sobre alquileres, vivienda pública y desahucios. Subidas salariales generales de entre el 4% y el 7%, y un salario mínimo al menos un 7% más alto en 2027. También reducción de jornada, desbloquear la negociación de convenios y reforzar las pensiones.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Pepe Álvarez, de UGT, sitúa el detonante en el rechazo del Congreso a dos decretos de vivienda.<sup class=\"ref\"><a href=\"#f8\">8</a></sup> Lo que votó cada grupo en esos decretos está en estas dos fichas: <a href=\"/fichas/decreto-de-vivienda-desahucios-compras-especulativas-y-alquiler-de-tem/\">desahucios y alquiler de temporada</a> y <a href=\"/fichas/decreto-de-vivienda-renovacion-automatica-de-los-alquileres/\">renovación automática de alquileres</a>."
+},
+{
+"tipo": "h",
+"texto": "Contra quién es: las versiones"
+},
+{
+"tipo": "p",
+"html": "Feijóo dice que está <span class=\"cita-linea\">«convocada contra la oposición»</span> y lo atribuye a la directora de campaña del PSOE.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Unai Sordo, de CCOO, responde que <span class=\"cita-linea\">«nadie ha dicho que esta huelga se convoque contra la oposición»</span> desde los sindicatos. infoLibre recoge que quien lo dijo fue María Jesús Montero, en un acto en octubre.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Álvarez dice que el primer destinatario es la patronal CEOE, el segundo las administraciones públicas y las comunidades autónomas, y añade que el Gobierno también tiene que poner recursos.<sup class=\"ref\"><a href=\"#f7\">7</a></sup> elDiario.es escribe que el Sindicato de Inquilinas y otras organizaciones también han señalado al Gobierno.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los convocantes tampoco piensan lo mismo. CNT y CGT han acusado a CCOO y UGT, en distintas ciudades, de usar la huelga a favor del Gobierno o de implicarse poco, y hay manifestaciones separadas en lugares como Valladolid y Zaragoza.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La patronal CEOE anunció que la impugnaría en los tribunales y renunció a hacerlo el 22 de octubre, aunque mantuvo sus críticas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué dice cada partido sobre desconvocarla"
+},
+{
+"tipo": "posiciones",
+"filas": [
+{
+"texto": "Piden desconvocarla",
+"grupos": [
+"pp",
+"vox"
+],
+"nota": "Según elDiario.es.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"texto": "La defienden",
+"grupos": [
+"frente-amplio",
+"podemos",
+"erc",
+"bng",
+"compromis"
+],
+"nota": "Según La Vanguardia.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"texto": "PSOE",
+"grupos": [
+"psoe"
+],
+"nota": "El PSPV apoya la huelga, pero sus diputados irán al pleno de las Corts. El Govern de Salvador Illa dice que entiende los motivos y que no participará. La portavoz del Gobierno, Elma Saiz, pide respeto a un derecho constitucional.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"texto": "Junts",
+"grupos": [
+"junts"
+],
+"nota": "Votó en contra de una declaración de apoyo en la Junta de Portavoces del Parlament.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+}
+]
+},
+{
+"tipo": "h",
+"texto": "Otras huelgas en el tren esos días"
+},
+{
+"tipo": "p",
+"html": "No son la misma convocatoria. El sindicato de maquinistas Semaf ha convocado en Renfe una huelga de 24 horas el 10 de noviembre y paros parciales el 12. Los maquinistas de Ouigo tienen paros parciales el 6 y el 9. El comité de empresa de Adif ha acordado una huelga para el 17, que todavía debe formalizarse.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Si piensas hacer huelga"
+},
+{
+"tipo": "p",
+"html": "No hay obligación general de avisar a la empresa ni de pedir permiso. Ese día no cobras, y el descuento puede incluir la parte proporcional de pagas extra y del descanso semanal, así que puede ser mayor que el salario de un día. No pueden despedirte ni sancionarte por secundarla.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Si te designan para servicios mínimos, tienes que cumplirlos, aunque puedes impugnar la designación. Dependen de cada sector y autoridad.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> Esto es una guía general: ante un caso concreto, pregunta a tu sindicato o a un profesional laboralista."
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Alberto Núñez Feijóo, 3 de noviembre",
+"cita": "No cuestiono el derecho constitucional de huelga. Cuestiono el sentido de la oportunidad",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "vox",
+"rotulo": "Justicia",
+"quien": "Santiago Abascal, 3 de noviembre",
+"cita": "Tomaremos nota si hay un cambio de ciclo en España",
+"traduccion": null,
+"fuente": 7,
+"medio": "infoLibre",
+"url": "https://www.infolibre.es/economia/huelga-general-aterriza-precampana-reproches-sindicatos-alternativos-ccoo-ugt_1_2239439.html"
+},
+{
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Elma Saiz, portavoz del Gobierno",
+"cita": "no se utilice políticamente el dolor de las víctimas",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "frente-amplio",
+"rotulo": "Justicia",
+"quien": "Tesh Sidi, diputada de Sumar",
+"cita": "Si fuera por Feijóo se acabarían las huelgas, se acabarían las manifestaciones",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "podemos",
+"rotulo": "Justicia",
+"quien": "Irene Montero",
+"cita": "Gracias a las huelgas tenemos derechos. También el señor Feijóo",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "erc",
+"rotulo": "Justicia",
+"quien": "Jordi Albert, portavoz adjunto en el Parlament",
+"cita": "lo único que hace es alimentar todavía más las ganas de que esta huelga sea todo un éxito y Esquerra trabajará para que lo sea",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "bng",
+"rotulo": "Justicia",
+"quien": "Ana Pontón",
+"cita": "indecencia moral y política",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "compromis",
+"rotulo": "Justicia",
+"quien": "Alberto Ibáñez, diputado de Compromís en el grupo de Sumar",
+"cita": "saque sus sucias manos de los representantes de los trabajadores",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": null,
+"rotulo": "Sindicatos",
+"quien": "Pepe Álvarez, UGT",
+"cita": "no vamos a desconvocar la huelga general, no hay ninguna razón para desconvocarla",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": null,
+"rotulo": "Sindicatos",
+"quien": "Unai Sordo, CCOO",
+"cita": "Nosotros vamos a mantener el paro y la movilización social",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+}
+],
+"sin_voz": "No hemos localizado declaraciones recientes de PNV, EH Bildu ni Coalición Canaria sobre la huelga, ni una frase del PSOE como partido a escala nacional.",
+"no_sabemos": [
+"Cuánta gente la seguirá. Los sindicatos hablan de más de 3.600 adhesiones de comités y secciones sindicales, pero eso no mide el seguimiento.<sup class=\"ref\"><a href=\"#f10\">10</a></sup>",
+"Qué servicios mínimos habrá en cada sitio. No hemos localizado una lista estatal, ni por tanto cómo afectará a trenes, autobuses o colegios.",
+"Si habrá represalias tras las elecciones. CCOO y UGT interpretan como una amenaza las palabras de Feijóo y Abascal. Feijóo niega que quiera abrir un frente con los sindicatos.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Demócrata, quién convoca y por qué",
+"url": "https://www.democrata.es/actualidad/huelga-general-11-noviembre-quien-convoca-cuanto-dura-cuales-son-motivos/",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "Demócrata, derechos de los trabajadores",
+"url": "https://www.democrata.es/democrata-explica/huelga-general-11n-avisar-empresa-cuanto-me-descuentan-obligarme-trabajar/",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "La Vanguardia, sobre las Corts Valencianes",
+"url": "https://www.lavanguardia.com/local/valencia/20261103/11674906/compromis-ira-pleno-corts-dia-huelga-pspv-pese-apoyar-protesta.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "La Vanguardia, sobre el Govern",
+"url": "https://www.lavanguardia.com/politica/20261103/11675088/govern-simpatiza-huelga-general-11-n-secundara.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/pp-vox-abren-frente-sindicatos-huelga-vivienda_1_13635542.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "infoLibre",
+"url": "https://www.infolibre.es/economia/huelga-general-aterriza-precampana-reproches-sindicatos-alternativos-ccoo-ugt_1_2239439.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "The Objective, declaraciones de Álvarez",
+"url": "https://theobjective.com/economia/2026-11-04/ugt-feijoo-abascal-sindicatos-por-huelga-general/",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "Libertad Digital, sobre las huelgas en el tren",
+"url": "https://www.libertaddigital.com/libremercado/2026-11-04/huelgas-en-renfe-ouigo-y-adif-el-colapso-ferroviario-se-traslada-a-las-vias-en-noviembre-7486599/",
+"tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "The Objective, sobre las adhesiones",
+"url": "https://theobjective.com/espana/politica/2026-11-04/3-600-comites-ccoo-ugt-huelga-11-n/",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false
+},
+{
+"id": "presidente-adif-deja-cargo-reunion-cuerpo",
+"fecha": "2026-11-04",
+"tema": null,
+"etiqueta": "Transporte",
+"claves": [
+"adif",
+"marco"
+],
+"titulo": "Dimite el presidente de Adif tras reunirse con Carlos Cuerpo, según el Gobierno; ABC escribe que fue destituido",
+"entradilla": "Luis Pedro Marco de la Peña dejó el cargo el 4 de noviembre, horas después de que Cuerpo asumiera Transportes. Cuerpo no ha dicho quién le sustituirá ni si habrá más cambios.",
+"imagen": {
+"archivo": "sede-adif.jpg",
+"alt": "Edificio de oficinas de la sede de Adif en Madrid.",
+"pie": "Edificio Titán, sede de Adif en Madrid. Foto de archivo de 2016.",
+"autor": "Zarateman",
+"licencia": "CC0",
+"origen": "https://commons.wikimedia.org/wiki/File:Madrid_-_Edificio_Tit%C3%A1n_4-6_(sede_de_Adif)_1.JPG"
+},
+"esencial": [
+"Luis Pedro Marco de la Peña ya no preside Adif, la empresa pública que gestiona las vías, las estaciones y la seguridad de la red.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
+"Fuentes del Gobierno dicen que dimitió en la reunión con Carlos Cuerpo, y que este aceptó la renuncia. ABC, The Objective y Telecinco publicaron que lo destituyó.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>",
+"Cuerpo dijo en TVE que la prioridad es recuperar la confianza en la red, sin aclarar quién será el sucesor ni si habrá más cambios.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Carlos Cuerpo, vicepresidente primero, asumió el 4 de noviembre los asuntos de Transportes tras la <a href=\"/actualidad/puente-deja-transportes-accidente-urda/\">dimisión de Óscar Puente</a>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Esa tarde convocó a Marco de la Peña y al secretario de Estado de Transportes, José Antonio Santano. En esa reunión, Marco de la Peña presentó su renuncia, según fuentes del Gobierno citadas por 20minutos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Marco de la Peña presidía Adif desde septiembre de 2024. Antes era viceconsejero de Infraestructuras y Transportes del Gobierno vasco.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Dimisión o destitución: qué dice cada medio"
+},
+{
+"tipo": "tabla",
+"titulo": "Cómo lo cuentan",
+"columnas": [
+"Medio",
+"Qué escribe"
+],
+"filas": [
+[
+"20minutos y Ara",
+"Dimitió, según fuentes del Gobierno"
+],
+[
+"COPE y EFE",
+"Presentó su renuncia"
+],
+[
+"ABC",
+"Fue «fulminado» por Cuerpo, según fuentes de Adif"
+],
+[
+"The Objective y Telecinco",
+"Cuerpo lo destituyó, citando a ABC"
+]
+],
+"nota": "COPE, The Objective y Ara añaden que ya había trasladado a Puente su intención de irse. ABC recoge que quería dimitir tras aprobar el convenio de gasto de Adif.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La versión de la dimisión es la del Gobierno, y no hemos visto un documento oficial que la confirme. Lo que coincide en todos es que dejó el cargo ese día, después de esa reunión.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Por qué estaba en discusión"
+},
+{
+"tipo": "p",
+"html": "El accidente de Urda ocurrió tras la caída del sistema de seguridad LZB, que gestiona Adif, y la orden de marcha salió de su centro de control de Atocha, según lo publicado. La investigación aún debe confirmarlo.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f9\">9</a></sup> En enero, CCOO ya había pedido su salida.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "p",
+"html": "ABC publicó que, a finales de 2025, Marco de la Peña aceptó solo una parte del aumento de mantenimiento que le pidió su responsable del área. Adif lo desmintió en un comunicado y dijo que el presupuesto de mantenimiento asciende a 1375 millones de euros en 2026. ABC sostiene que esa cifra mezcla la alta velocidad con la red convencional.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué aprobó Adif esa mañana"
+},
+{
+"tipo": "p",
+"html": "El consejo de administración aprobó un marco de financiación con el Estado de unos 20.000 millones de euros hasta 2030. Según ABC, incluye un aumento del gasto en mantenimiento e inversión para la seguridad en las vías.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué viene ahora"
+},
+{
+"tipo": "p",
+"html": "Cuerpo tiene previsto reunirse el 5 de noviembre con sindicatos ferroviarios. 20minutos dice que son los de Adif, por la huelga del 17 de noviembre, y Ara que son los de maquinistas, por los paros del 10 y el 12.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Carlos Cuerpo, en TVE, sobre la prioridad ahora",
+"cita": "seguir dando pasos",
+"traduccion": null,
+"fuente": 2,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/dimite-presidente-adif-un-dia-despues-renuncia-puente-por-accidente-urda_7057308_0.html"
+},
+{
+"candidatura": null,
+"rotulo": "Sindicatos",
+"quien": "CCOO, en enero de 2026, al pedir su salida",
+"cita": "no está actuando con la responsabilidad institucional exigible a su cargo",
+"traduccion": null,
+"fuente": 7,
+"medio": "The Objective",
+"url": "https://theobjective.com/economia/transporte/2026-11-04/carlos-cuerpo-destituye-presidente-adif/"
+}
+],
+"sin_voz": "No hemos localizado declaraciones de Marco de la Peña ni de los partidos sobre esta salida.",
+"no_sabemos": [
+"Si la salida fue una decisión suya o se la pidieron. Hay dos versiones, y las dos vienen de fuentes que no se identifican.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>",
+"Quién le sustituye y cuándo se sabrá. ABC cita a posibles candidatos a través de fuentes internas, y por eso no los nombramos.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Si Cuerpo cambiará a más cargos del equipo de Puente. No lo aclaró en TVE.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Qué responsabilidad tuvo o no Adif en los accidentes. Lo tiene que determinar la investigación.<sup class=\"ref\"><a href=\"#f10\">10</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "BOE, Real Decreto 975/2026",
+"url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23172",
+"tipo": "oficial"
+},
+{
+"n": 2,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/dimite-presidente-adif-un-dia-despues-renuncia-puente-por-accidente-urda_7057308_0.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "Ara",
+"url": "https://www.ara.cat/societat/mobilitat/dimiteix-president-d-adif-setmana-despres-l-accident-trens_1_5900266.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "COPE",
+"url": "https://www.cope.es/actualidad/economia/noticias/presidente-adif-luis-pedro-marco-pena-presenta-dimision-reunirse-nuevo-responsable-transportes-carlos-cuerpo-20261104_3468765.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "EFE, en El Faro de Ceuta",
+"url": "https://elfarodeceuta.es/actualidad/politica/presidente-de-adif-dimision-carlos-cuerpo",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "ABC",
+"url": "https://www.abc.es/espana/cesa-presidente-adif-tras-accidente-urda-20261104183950-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "The Objective",
+"url": "https://theobjective.com/economia/transporte/2026-11-04/carlos-cuerpo-destituye-presidente-adif/",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "Telecinco",
+"url": "https://www.telecinco.es/noticias/espana/20261104/carlos-cuerpo-primera-medida-asumir-transportes-cesa-presidente-adif_18_020622785.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "infoLibre",
+"url": "https://www.infolibre.es/politica/renfe-iryo-maquinistas-proponen-salvaguarda-habria-parado-orden-causo-choque-urda_1_2239391.html",
+"tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "The Objective, sobre la investigación",
+"url": "https://theobjective.com/economia/transporte/2026-11-04/ue-investigacion-accidente-urda/",
 "tipo": "prensa"
 }
 ],
@@ -509,6 +1034,7 @@
 "voces": [
 {
 "candidatura": null,
+"rotulo": "Justicia",
 "quien": "Auto del Tribunal Supremo, según recogen La Vanguardia y El Debate",
 "cita": "la Sala considera procedente señalar una responsabilidad solidaria",
 "traduccion": null,
@@ -640,6 +1166,7 @@
 "voces": [
 {
 "candidatura": null,
+"rotulo": "Justicia",
 "quien": "Pablo Llarena, juez instructor del Supremo, en su auto",
 "cita": "La imposibilidad de continuar la persecución penal no deriva, por tanto, ni de una despenalización de la malversación y de la desobediencia para el resto de casos análogos que puedan cometerse, ni de la desaparición de los indicios",
 "traduccion": null,
@@ -649,6 +1176,7 @@
 },
 {
 "candidatura": null,
+"rotulo": "Justicia",
 "quien": "Tribunal Constitucional, en su nota de prensa",
 "cita": "queda agotado el legítimo interés esgrimido en ambos recursos de amparo",
 "traduccion": null,
@@ -658,6 +1186,7 @@
 },
 {
 "candidatura": null,
+"rotulo": "Justicia",
 "quien": "Sala de lo Penal del Supremo, sobre la sentencia del Constitucional, en octubre",
 "cita": "la innecesaria grandilocuencia",
 "traduccion": null,
@@ -667,6 +1196,7 @@
 },
 {
 "candidatura": "junts",
+"rotulo": "Justicia",
 "quien": "Míriam Nogueras. Lo publica Ara en catalán",
 "cita": "victòria de l'independentisme i, sobretot, del president Carles Puigdemont",
 "traduccion": "Victoria del independentismo y, sobre todo, del presidente Carles Puigdemont.",
@@ -722,6 +1252,321 @@
 "nombre": "Nuestra ficha de la ley de amnistía, con datos oficiales del Congreso",
 "url": "/fichas/ley-de-amnistia/",
 "tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false
+},
+{
+"id": "zapatero-recurre-arabia-saudi-joyas",
+"fecha": "2026-11-04",
+"tema": "justicia",
+"etiqueta": "Justicia",
+"claves": [
+"zapatero",
+"joyas",
+"calama"
+],
+"titulo": "Zapatero recurre para que el juez pregunte a Arabia Saudí por las joyas y dice que no conserva documentos sobre ellas",
+"entradilla": "El expresidente sostiene que fueron un regalo personal del rey saudí en 2007. Está investigado, no condenado, y el juez trata de averiguar por su cuenta quién las fabricó.",
+"imagen": {
+"archivo": "zapatero.jpg",
+"alt": "José Luis Rodríguez Zapatero hablando en un foro.",
+"pie": "Zapatero en el Foro Económico Mundial. Foto de archivo. No hemos encontrado imágenes de las joyas con licencia libre.",
+"autor": "Monika Flueckiger, World Economic Forum",
+"licencia": "CC BY-SA 2.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero_en_el_Foro_Econ%C3%B3mico_Mundial_(cropped)_2.jpg"
+},
+"esencial": [
+"José Luis Rodríguez Zapatero ha recurrido la negativa del juez José Luis Calama a preguntar a Arabia Saudí por el origen de las joyas halladas en su despacho.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Su defensa dice que no conserva recibos, estuches ni certificados, y lo atribuye a que han pasado 19 años.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Zapatero está investigado y no hay juicio ni condena. Rige la presunción de inocencia.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "La defensa de Zapatero ha presentado un recurso ante la Sala de lo Penal de la Audiencia Nacional. Pide enviar una comisión rogatoria a Arabia Saudí, es decir, una petición oficial de un juez a las autoridades de otro país, para que certifiquen la entrega de las joyas.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Calama lo rechazó semanas antes. Prefiere que la Policía determine de dónde salieron a partir de las pistas del informe pericial.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Cómo se ha llegado hasta aquí"
+},
+{
+"tipo": "linea",
+"hitos": [
+{
+"cuando": "2021",
+"html": "El Gobierno concede un rescate de 53 millones de euros a la aerolínea Plus Ultra. Es el origen de la causa.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"cuando": "19 de mayo de 2026",
+"html": "La Policía encuentra las joyas en un registro en el despacho de Zapatero.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"cuando": "Octubre de 2026",
+"html": "La joyería Yanes entrega su informe.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"cuando": "3 de noviembre de 2026",
+"html": "Calama ordena a la Policía identificar al autor de la marca grabada en las piezas.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"cuando": "4 de noviembre de 2026",
+"html": "Se conoce el recurso de Zapatero.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+}
+]
+},
+{
+"tipo": "h",
+"texto": "De qué está investigado"
+},
+{
+"tipo": "p",
+"html": "El juez le investiga como presunto líder de una red de tráfico de influencias que habría cobrado por mediar en el rescate de Plus Ultra. Por las joyas, también por presuntos delitos fiscal y de contrabando. La Fiscalía Anticorrupción ha pedido añadir malversación, y el juez aún no lo ha decidido.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup> Zapatero niega haber influido en el rescate.<sup class=\"ref\"><a href=\"#f8\">8</a></sup> El caso está en <a href=\"/causas/#plus_ultra\">Causas judiciales</a>."
+},
+{
+"tipo": "h",
+"texto": "Qué valen las joyas"
+},
+{
+"tipo": "tabla",
+"titulo": "Las dos tasaciones",
+"columnas": [
+"Tasación",
+"Euros"
+],
+"filas": [
+[
+"Ansorena",
+"1.323.915"
+],
+[
+"Yanes, según Libertad Digital",
+"1.023.300"
+],
+[
+"Yanes, según 20minutos",
+"1.023.320"
+]
+],
+"nota": "Las cifras de Yanes difieren en 20 euros según el medio, y no hemos visto el informe.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "La marca grabada"
+},
+{
+"tipo": "p",
+"html": "Las piezas llevan un sello con una T mayúscula y las marcas 18 y K. El informe de Yanes dice que estas características <span class=\"cita-linea\">«inducen a descartar»</span> la Unión Europea, Estados Unidos y los países árabes, y cita como posibles Tailandia, India, China o Turquía.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> Pero también dice, según La Vanguardia, que los contrastes son <span class=\"cita-linea\">«insuficientes»</span> para determinar el origen.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Es un informe pericial, no una decisión judicial. 20minutos escribe que estos análisis desmienten la versión de Zapatero. Su defensa sostiene que su explicación es <span class=\"cita-linea\">«verosímil y precisa»</span>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"rotulo": "Defensa",
+"quien": "Víctor Moreno Catena, abogado de Zapatero, en el recurso",
+"cita": "la tenencia de un conjunto de joyas que aparecen en una caja no puede ser indicativa, por sí misma, de ninguna actividad delictiva",
+"traduccion": null,
+"fuente": 3,
+"medio": "ABC",
+"url": "https://www.abc.es/espana/zapatero-dice-juez-investiga-partir-sospecha-recurre-20261104164429-nt.html"
+},
+{
+"candidatura": null,
+"rotulo": "Peritos",
+"quien": "Informe de la joyería Yanes",
+"cita": "la identidad y procedencia de las joyas de los lotes 1, 2  y 3 son poco trazables",
+"traduccion": null,
+"fuente": 6,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/juez-caso-plus-ultra-pide-policia-que-identifique-autor-punzon-las-joyas-zapatero_7056659_0.html"
+}
+],
+"sin_voz": "No hemos podido leer el auto del juez ni el recurso: lo citamos a través de la prensa que ha tenido acceso a ellos. No hemos localizado declaraciones de los partidos sobre este recurso.",
+"no_sabemos": [
+"De dónde proceden las joyas y si fueron un regalo. Es lo que trata de averiguar la investigación.",
+"Si la Audiencia aceptará el recurso, si Arabia Saudí respondería a la petición y si el juez añadirá la malversación.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Quién fue exactamente el donante según los documentos: Europa Press y ABC escriben el nombre del rey saudí de forma distinta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-zapatero-asegura-no-conserva-documentacion-joyas-ve-pertinente-pedir-informacion-arabia-saudi-20261104171017.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/zapatero-defiende-no-declaro-joyas-hizo-regalos-obsequio-estrictamente-personal_1_13638219.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "ABC",
+"url": "https://www.abc.es/espana/zapatero-dice-juez-investiga-partir-sospecha-recurre-20261104164429-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/04/6aeb3a32e9cf4ac94c8b457d.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261103/11675084/juez-sospecha-marcas-estampadas-joyas-rodriguez-zapatero.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/juez-caso-plus-ultra-pide-policia-que-identifique-autor-punzon-las-joyas-zapatero_7056659_0.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "Libertad Digital",
+"url": "https://www.libertaddigital.com/espana/2026-10-28/yanes-tasa-las-joyas-de-zapatero-en-1-millon-de-euros-y-apunta-a-una-procedencia-distinta-a-arabia-saudi-7483790/",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "Nuestra ficha del caso Plus Ultra",
+"url": "/causas/#plus_ultra",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false
+},
+{
+"id": "supremo-archiva-querella-vox-sanchez-ceuta",
+"fecha": "2026-11-04",
+"tema": "inmigracion",
+"etiqueta": "Justicia e inmigración",
+"claves": [
+"querella",
+"masiva"
+],
+"titulo": "El Supremo archiva la querella de Vox y varias denuncias contra Sánchez y sus ministros por Ceuta, y la Audiencia Nacional sigue investigando",
+"entradilla": "El tribunal dice que no se explica qué hizo cada uno, pero avisa de que no es una decisión definitiva. Si la jueza Tardón encuentra indicios contra un aforado, podrá enviárselos.",
+"imagen": {
+"archivo": "valla-ceuta.jpg",
+"alt": "Valla fronteriza de Ceuta, con una garita de vigilancia y edificios al fondo.",
+"pie": "Valla fronteriza de Ceuta. Foto de archivo de 2011.",
+"autor": "Xemenendura",
+"licencia": "CC BY-SA 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Valla_de_Ceuta.jpg"
+},
+"esencial": [
+"La Sala de lo Penal del Supremo ha archivado una querella de Vox y denuncias de Manos Limpias y de particulares contra Pedro Sánchez y el Consejo de Ministros.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Dice que no aportan una relación suficiente entre cada ministro y las decisiones que denuncian.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"No declara que no haya delito. La jueza María Tardón sigue investigando lo ocurrido en la Audiencia Nacional.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Vox y Manos Limpias acudieron al Supremo por la entrada masiva de personas en Ceuta desde Marruecos a finales de julio. Acusaban al Gobierno de delitos como prevaricación, es decir, tomar una decisión injusta a sabiendas, y dejación de funciones.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> La querella de Vox añadía colaboración con el terrorismo, y homicidios y lesiones por imprudencia.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los miembros del Gobierno son aforados: solo el Supremo puede investigarlos. Por eso se presentó allí. El tribunal responde que el conocimiento de un riesgo y el cargo que se ocupa no bastan: hay que concretar qué hizo cada persona.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué significa y qué no"
+},
+{
+"tipo": "p",
+"html": "No es una absolución. El auto dice que la decisión <span class=\"cita-linea\">«no implica una declaración definitiva de atipicidad de los hechos ni de inexistencia de responsabilidad penal»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Atipicidad significa que unos hechos no encajan en ningún delito."
+},
+{
+"tipo": "p",
+"html": "La investigación sigue en la Audiencia Nacional, con la jueza María Tardón. Si encuentra datos contra una persona aforada, tendrá que enviar al Supremo una <span class=\"cita-linea\">«exposición razonada»</span>, un escrito con esos indicios, y el Supremo decidirá.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> El tribunal añade que quedan <span class=\"cita-linea\">«aspectos relevantes de la actuación operativa y de la cadena de decisión sin esclarecer»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "En qué no coinciden los medios"
+},
+{
+"tipo": "p",
+"html": "En el número de escritos. Europa Press habla de una querella, tres denuncias de Manos Limpias y dos de particulares. La Razón titula con cuatro denuncias. No hemos leído el auto, así que no podemos decir cuál es exacto.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "También en cómo llaman a lo ocurrido: Europa Press escribe <span class=\"cita-linea\">«entrada masiva»</span>, elDiario.es <span class=\"cita-linea\">«crisis migratoria»</span> y Libertad Digital <span class=\"cita-linea\">«invasión»</span>. Aquí usamos la primera porque describe el hecho.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"rotulo": "Justicia",
+"quien": "Sala de lo Penal del Supremo, en su auto",
+"cita": "Los documentos e informaciones recogidas en los escritos ponen de manifiesto la necesidad de examinar lo sucedido, pero no permiten trasladar, en este momento, la responsabilidad de lo sucedido a todas las personas aforadas",
+"traduccion": null,
+"fuente": 1,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html"
+},
+{
+"candidatura": null,
+"rotulo": "Justicia",
+"quien": "Sala de lo Penal del Supremo, en su auto",
+"cita": "Sus competencias generales de dirección no suplen ese fundamento indiciario",
+"traduccion": null,
+"fuente": 3,
+"medio": "La Razón",
+"url": "https://www.larazon.es/espana/supremo-archiva-cuatro-denuncias-sanchez-sus-ministros-entrada-masiva-inmigrantes-ceuta_202611046aeb3d7bd3bddc0868a4d8c1.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de Vox, Manos Limpias, el Gobierno ni otros partidos a este auto. Lo que votó y propone cada grupo sobre inmigración está en <a href=\"/temas/inmigracion/\">Temas</a>.",
+"no_sabemos": [
+"Si Vox o Manos Limpias pueden recurrir o van a hacerlo. No lo hemos localizado.",
+"Qué responsabilidad tuvo cada autoridad y qué papel tuvo Marruecos. Es lo que investiga la Audiencia Nacional.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Cuánta gente entró. elDiario.es habla de decenas de miles, y no hemos comprobado una cifra oficial.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "La Razón",
+"url": "https://www.larazon.es/espana/supremo-archiva-cuatro-denuncias-sanchez-sus-ministros-entrada-masiva-inmigrantes-ceuta_202611046aeb3d7bd3bddc0868a4d8c1.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Libertad Digital",
+"url": "https://www.libertaddigital.com/espana/2026-11-04/el-supremo-rechaza-una-querella-contra-sanchez-por-la-invasion-de-ceuta-porque-pedir-su-imputacion-corresponde-a-tardon-7486622/",
+"tipo": "prensa"
 }
 ],
 "cambios": [],

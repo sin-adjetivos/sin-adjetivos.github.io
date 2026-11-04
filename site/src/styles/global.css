@@ -261,6 +261,7 @@ body.conColor .cabecera { background: var(--papel); }
 .dato th { text-align: left; font-weight: 400; font-size: .875rem; color: var(--gris); padding: .15rem 0; }
 .dato td { padding: .35rem 0; border-top: 1px solid var(--tinta); }
 .dato th:last-child, .dato td:last-child { text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+.dato .tabla-texto th:last-child, .dato .tabla-texto td:last-child { text-align: left; font-weight: 400; padding-left: 1rem; }
 .barras li { padding-block: .5rem; border-top: 1px solid var(--tinta); }
 .barra-texto small { display: block; font-size: .875rem; line-height: 1.25; color: var(--gris); }
 .barra-fila { display: flex; align-items: center; gap: .5rem; margin-top: .25rem; }

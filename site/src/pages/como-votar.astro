@@ -3,9 +3,11 @@ import Base from '../layouts/Base.astro';
 const LOREG = 'https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672';
 const RD = 'https://www.boe.es/eli/es/rd/1999/04/16/605/con';
 const JEC = 'https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf';
+const JEC_MESAS = 'https://www.boe.es/eli/es/ins/2011/04/28/6/con';
+const DIETA = 'https://www.boe.es/boe/dias/2026/06/27/pdfs/BOE-A-2026-13948.pdf';
 const INTERIOR = 'https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx';
 ---
-<Base titulo="Cómo votar" descripcion="Qué llevar, cómo son las papeletas y cómo pedir el voto por correo para las elecciones del 29 de noviembre de 2026, con los plazos oficiales.">
+<Base titulo="Cómo votar" descripcion="Qué llevar, cómo son las papeletas, qué hacer si te toca una mesa electoral y cómo pedir el voto por correo para las elecciones del 29 de noviembre de 2026, con los plazos oficiales.">
   <div class="marco">
     <header class="entrada">
       <h1>Cómo votar</h1>
@@ -53,14 +55,37 @@ const INTERIOR = 'https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/int
       <p><strong>Si resides fuera y estás inscrito en el censo de residentes,</strong> puedes enviar el voto por correo a tu consulado hasta el 24 de noviembre o depositarlo en la urna del consulado del 21 al 26 de noviembre.</p>
       <p><strong>Si estás fuera temporalmente,</strong> el plazo para pedirlo acabó el 31 de octubre. Quien lo pidió debe enviar su voto por correo certificado no más tarde del 25 de noviembre.</p>
 
+      <h2 id="mesa-electoral">Si te toca estar en una mesa electoral</h2>
+      <p>Cada mesa tiene una presidencia y dos vocales, con dos suplentes para cada puesto. Salen de un sorteo público entre quienes votan en esa mesa, saben leer y escribir y tienen menos de 70 años. Los ayuntamientos lo hacen del 31 de octubre al 4 de noviembre. Es obligatorio.</p>
+      <p><strong>Cómo saber si te ha tocado.</strong> Te lo tienen que notificar en un plazo de tres días, junto con un manual de instrucciones. Si no te localizan o tienes dudas, pregunta en tu ayuntamiento: cada uno lo organiza a su manera.</p>
+      <p><strong>Cuidado con las estafas.</strong> Libertad Digital avisa de mensajes falsos con enlaces o códigos QR para consultar si te ha tocado. Según ese medio, la designación se entrega en mano o con un aviso en papel, y no solo por correo electrónico o SMS. No des datos bancarios ni personales en esos enlaces.</p>
+      <p><strong>Si no puedes ir.</strong> Tienes siete días desde la notificación para presentar ante la Junta Electoral de Zona una causa justificada y con documentos. La Junta responde en cinco días. Hasta que acepte, sigues obligado a ir.</p>
+      <p>Justifican la excusa, una vez acreditadas, situaciones como estas:</p>
+      <ul>
+        <li>Tener entre 65 y 69 años.</li>
+        <li>Tener una discapacidad declarada, de cualquier grado, o una pensión de incapacidad permanente absoluta o gran invalidez.</li>
+        <li>Estar de baja médica.</li>
+        <li>Estar embarazada desde el sexto mes, o en los permisos posteriores al parto, la adopción o el acogimiento.</li>
+        <li>Haber estado en una mesa al menos tres veces en los últimos diez años, si se mantiene la exigencia de que la mesa la formen personas de tu lista electoral.</li>
+        <li>Cuidar de forma directa y continua a menores de 12 años, a personas con discapacidad bajo tu guarda legal o a un familiar hasta segundo grado que no pueda valerse por sí mismo.</li>
+      </ul>
+      <p>Otras las valora la Junta en cada caso: enfermedades que dificulten la tarea, operaciones que no se puedan aplazar, eventos familiares o motivos de trabajo, por ejemplo en servicios esenciales. La lista no está cerrada. Léela entera en la <a href={JEC_MESAS} rel="noopener">instrucción de la Junta Electoral Central</a>.</p>
+      <p><strong>Si surge algo después.</strong> Avisa a la Junta al menos 72 horas antes. Si el problema aparece más tarde, avísala de inmediato.</p>
+      <p><strong>El día de las elecciones.</strong> Según el manual de este año, que recoge La Vanguardia, tienes que estar en el colegio a las 8:00.</p>
+      <p><strong>Qué recibes a cambio.</strong> Una dieta de 75 euros, que solo cobran los titulares y los suplentes que acaben ejerciendo como tales. Si trabajas por cuenta ajena o eres funcionario, tienes permiso retribuido ese día si es laboral, y cinco horas menos de jornada al día siguiente.</p>
+      <p><strong>Si no vas sin causa.</strong> Es un delito electoral, con pena de prisión de tres meses a un año o multa de seis a veinticuatro meses. También se aplica a los suplentes.</p>
+
       <h2>Voto en braille</h2>
       <p>El plazo para pedir la documentación en braille acabó el 2 de noviembre.</p>
 
       <h2>Fuentes</h2>
       <ul>
         <li><a href={JEC} rel="noopener">Calendario de la Junta Electoral Central</a>.</li>
-        <li><a href={LOREG} rel="noopener">Ley Orgánica del Régimen Electoral General</a>: artículos 72 y 73 (voto por correo), 85 y 86 (identificación y mesa), 96 (votos nulos y en blanco) y 166 (Senado).</li>
+        <li><a href={LOREG} rel="noopener">Ley Orgánica del Régimen Electoral General</a>: artículos 26 a 28 (mesas), 143 (no acudir a la mesa), 72 y 73 (voto por correo), 85 y 86 (identificación y mesa), 96 (votos nulos y en blanco) y 166 (Senado).</li>
         <li><a href={RD} rel="noopener">Real Decreto 605/1999</a>: color de las papeletas y artículo 13 (horas libres para votar).</li>
+        <li><a href={JEC_MESAS} rel="noopener">Instrucción 6/2011 de la Junta Electoral Central</a>, actualizada en 2025: excusas para no formar parte de una mesa.</li>
+        <li><a href={DIETA} rel="noopener">Orden INT/650/2026</a>: dieta de los miembros de las mesas.</li>
+        <li><a href="https://www.lavanguardia.com/politica/20261030/11672036/comienza-sorteo-mesas-electorales-elecciones-generales-29-n.html" rel="noopener">La Vanguardia</a>, sobre el manual de las mesas, y <a href="https://www.libertaddigital.com/espana/politica/2026-11-04/cuidado-con-las-notificaciones-de-mesa-electoral-del-29-n-como-saber-si-el-aviso-en-tu-buzon-es-oficial-o-una-estafa-7471846/" rel="noopener">Libertad Digital</a>, sobre las estafas.</li>
         <li><a href={INTERIOR} rel="noopener">Nota del Ministerio del Interior sobre el voto por correo</a>.</li>
         <li><a href="https://infoelectoral.interior.gob.es/es/proceso-electoral/Elecciones-Generales-29-N/" rel="noopener">Información oficial del Ministerio del Interior sobre estas elecciones</a>. Ante cualquier duda, lo que diga la administración electoral prevalece sobre esta página.</li>
       </ul>

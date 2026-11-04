@@ -49,7 +49,7 @@ def comprobar(n, texto, donde, textos, exigir_fuente=True):
     for q in re.findall(r'«([^»]+)»', pelado):
         if norm(q) not in base: errores.append(f"{n['id']}: «{q[:60]}» no está en las fuentes de {donde}")
     sin_citas = re.sub(r'«[^»]+»', '', pelado)
-    m = re.search(VALORATIVAS, sin_citas, re.I)
+    m = re.search(VALORATIVAS, sin_citas.replace('Plus Ultra', ''), re.I)
     if m: errores.append(f"{n['id']}: palabra valorativa «{m.group(0)}» en {donde}: {texto[:60]}")
     for x in numeros(sin_citas):
         if x in n.get('calculos', {}): continue
@@ -65,6 +65,8 @@ def a_html(texto, orden):
     return t
 
 salida = []
+fotos = [n['imagen']['archivo'] for n in NOTICIAS]
+for x in {x for x in fotos if fotos.count(x) > 1}: errores.append(f'la foto {x} se repite en varias noticias')
 for n in NOTICIAS:
     textos = {}
     for k, f in n['fuentes'].items():
@@ -111,7 +113,7 @@ for n in NOTICIAS:
     for v in n['voces']:
         if norm(v['cita']) not in norm(textos.get(v['f'], '')): errores.append(f"{n['id']}: cita no literal de {v['quien']}: {v['cita'][:70]}")
         if v['c'] and v['c'] not in CANDIDATURAS: errores.append(f"{n['id']}: candidatura desconocida {v['c']}")
-        voces.append(dict(candidatura=v['c'], quien=v['quien'], cita=v['cita'], traduccion=v.get('traduccion'), fuente=orden[v['f']], medio=n['fuentes'][v['f']]['nombre'].split(',')[0], url=n['fuentes'][v['f']]['url']))
+        voces.append(dict(candidatura=v['c'], rotulo=v.get('rotulo', 'Justicia'), quien=v['quien'], cita=v['cita'], traduccion=v.get('traduccion'), fuente=orden[v['f']], medio=n['fuentes'][v['f']]['nombre'].split(',')[0], url=n['fuentes'][v['f']]['url']))
     comprobar(n, n['sin_voz'], 'sin_voz', textos, exigir_fuente=False)
     for x in n['no_sabemos']: comprobar(n, x, 'no_sabemos', textos, exigir_fuente=False)
     salida.append(dict(id=n['id'], fecha=n['fecha'], tema=n['tema'], etiqueta=n['etiqueta'], claves=n['claves'], titulo=n['titulo'], entradilla=n['entradilla'], imagen=n['imagen'],

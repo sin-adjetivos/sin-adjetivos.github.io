@@ -3,6 +3,8 @@ import Base from '../layouts/Base.astro';
 import { temas, provincias } from '../lib/datos.js';
 import { COLORES } from '../lib/color.js';
 import act from '../data/actualidad.json';
+import fichas from '../data/fichas.json';
+import Esencial from '../components/Esencial.astro';
 const portada = act.grupos.slice(0, 3);
 ---
 <Base>
@@ -45,6 +47,13 @@ const portada = act.grupos.slice(0, 3);
           ))}
         </div>
         <p style="margin-top:1rem"><a href="/actualidad/">Ver toda la actualidad</a></p>
+      </section>
+    )}
+
+    {fichas.length > 0 && (
+      <section class="seccion">
+        <h2>Las votaciones clave, explicadas</h2>
+        <Esencial lista={[...fichas].sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 4)} />
       </section>
     )}
 

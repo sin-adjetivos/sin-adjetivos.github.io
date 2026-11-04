@@ -1,5 +1,7 @@
 #!/bin/sh
-# Comprueba las citas contra sus fuentes y genera la web. Si una cita falla, no se publica nada.
+# Comprueba citas y fichas contra sus fuentes y genera la web. Si algo falla, no se genera nada.
 set -e
 python scripts/build_data.py
+python scripts/build_archivo.py
+python scripts/build_fichas.py
 cd site && npm run build

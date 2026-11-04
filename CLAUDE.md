@@ -33,4 +33,4 @@ Blanco y sepia de las papeletas en las páginas generales; color de cada partido
 7. Tras el 29-N: resultados, pactos frente a promesas, y evolución hacia un periódico de datos. Dominio y correo propios cuando haya dinero.
 
 ## Riesgos abiertos
-Publicar causas judiciales con nombre propio tiene riesgo legal y aún no lo ha revisado un abogado. No hay correo: las correcciones van por GitHub Issues, lo que exige cuenta. Responder rápido a cualquier rectificación.
+Publicar causas judiciales con nombre propio tiene riesgo legal y aún no lo ha revisado un abogado. Correcciones por GitHub Issues o sinadjetivosperiodico@gmail.com. Responder rápido a cualquier rectificación.

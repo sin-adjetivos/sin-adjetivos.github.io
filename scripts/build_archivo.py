@@ -101,9 +101,14 @@ for doc in sorted(por_doc, key=lambda d: int(re.search(r'PL-(\d+)', d).group(1))
         for j in range(ini, sig):
             t = ts[j]; f = por_turno.get(j)
             pres = es_presidencia(t)
+            inferido = False
+            if not f and not pres:
+                # Réplicas del mismo orador: los metadatos no siempre tienen fila propia. Se toma su grupo de otra fila cercana.
+                f = next((x for x in fs if abs(x['_pag'] - t['pagina']) <= 8 and casa(t, x['ORADOR'])), None)
+                inferido = f is not None
             d = dict(rotulo=t['rotulo'], detalle=t['detalle'], pagina=t['pagina'], parrafos=t['parrafos'], presidencia=pres)
             if f:
-                d.update(orador=persona(f['ORADOR']), grupo=codigo(f['ORADOR']), cargo=f.get('CARGOORADOR'), bando=bando(f), video=f.get('ENLACEDIFERIDO'), inicio=f.get('INICIOINTERVENCION'))
+                d.update(orador=persona(f['ORADOR']), grupo=codigo(f['ORADOR']), cargo=f.get('CARGOORADOR'), bando=bando(f), video=None if inferido else f.get('ENLACEDIFERIDO'), inicio=None if inferido else f.get('INICIOINTERVENCION'))
                 texto = ' '.join(t['parrafos'])
                 # Posición declarada: primera frase con sentido de voto; si no hay, primera propuesta.
                 sel = None; tipo = None

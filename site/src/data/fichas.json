@@ -1,0 +1,826 @@
+[
+{
+"id": "decreto-de-vivienda-desahucios-compras-especulativas-y-alquiler-de-tem",
+"tema": "vivienda",
+"titulo": "Decreto de vivienda: desahucios, compras especulativas y alquiler de temporada",
+"que_es": [
+"Suspendía hasta 2030 los desahucios de personas sin alternativa de vivienda cuando quien demanda es una entidad de inversión especulativa.",
+"Impedía hasta 2028 que entidades dedicadas a comprar inmuebles adquirieran vivienda por menos del 70 % de su valor de tasación.",
+"Regulaba el alquiler de temporada: exigía una causa real y, como regla general, un máximo de 12 meses. El alquiler por habitaciones no podía sumar más que la renta de la vivienda entera.",
+"Daba al inquilino, si cumplía los requisitos, una prórroga de hasta dos años, y limitaba hasta finales de 2027 la subida anual del alquiler.",
+"Incluía cambios fiscales, como una deducción del 10 % del alquiler de vivienda habitual para rentas bajas y reducciones para los arrendadores que no sean grandes tenedores."
+],
+"fuente": [
+"Texto en el BOE",
+"https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20266"
+],
+"despues": "El Congreso no lo convalidó y quedó derogado. El 6 de octubre el Gobierno aprobó los decretos 28/2026 y 29/2026, que reproducen en lo sustancial este y el siguiente. Está previsto que la Diputación Permanente los vote el 12 de noviembre.",
+"despues_fuente": [
+"Legal Today",
+"https://www.legaltoday.com/opinion/articulos-de-opinion/los-decretos-leyes-de-vivienda-derogacion-reaprobacion-y-convalidacion-en-plena-disolucion-2026-10-08/"
+],
+"debate": "210-1",
+"num": 210,
+"doc": "DSCD-15-PL-210.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Estos decretos ayudan al pequeño propietario, incluso fiscalmente; tienen medidas que ya existen en otros países; y lo que buscan es dar respuesta a uno de los mayores problemas que tenemos en nuestro país.",
+"orador": "Patxi López Álvarez",
+"turno": 34,
+"pagina": 25
+},
+{
+"candidatura": "pp",
+"cita": "Señora ministra, la vivienda no se abarata con decretos, la vivienda se abarata con más vivienda.",
+"orador": "Juan Bravo Baena",
+"turno": 36,
+"pagina": 27
+},
+{
+"candidatura": "vox",
+"cita": "Si prohíbes desahuciar a vulnerables, nadie va a alquilar a vulnerables.",
+"orador": "Carlos Hernández Quero",
+"turno": 32,
+"pagina": 23
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Hoy votar en contra de este decreto es empujar a que echen de sus casas a cientos de personas.",
+"orador": "Alberto Ibáñez Mezquita",
+"turno": 30,
+"pagina": 22
+},
+{
+"candidatura": "podemos",
+"cita": "Si de verdad están contra el negocio de la vivienda, si de verdad la señora ministra de Vivienda se ha hecho de Podemos (rumores), traigan un real decreto ley de vivienda ambicioso mes a mes.",
+"orador": "Ione Belarra Urteaga",
+"turno": 10,
+"pagina": 12
+},
+{
+"candidatura": "compromis",
+"cita": "Nosotros vamos a votar a favor por mandato del Sindicato de Inquilinas (rumores) y porque queremos parar los desahucios ya, pero sabemos que esos decretos no van a solucionar la crisis de vivienda provocada por la especulación y por la turistificación.",
+"orador": "Àgueda Micó Micó",
+"turno": 2,
+"pagina": 9
+},
+{
+"candidatura": "junts",
+"cita": "Señora ministra, este real decreto permite que los fondos sigan comprando, que sigan especulando y se siga desahuciando.",
+"orador": "Míriam Nogueras i Camero",
+"turno": 16,
+"pagina": 16
+},
+{
+"candidatura": "erc",
+"cita": "¿Por qué ese era el decreto de Junts hace cuarenta y ocho horas y ahora votan en contra?",
+"orador": "Gabriel Rufián Romero",
+"turno": 26,
+"pagina": 20
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Lo decimos, es un avance, este real decreto de emergencia es un avance, aunque es insuficiente; pero no deja de ser un punto de partida para dar el siguiente paso.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 14,
+"pagina": 14
+},
+{
+"candidatura": "pnv",
+"cita": "Con toda probabilidad estos decretos leyes que se van a votar hoy aquí se analizarán en las facultades de Derecho como ejemplo de lo que no se debe hacer.",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 12,
+"pagina": 12
+},
+{
+"candidatura": "bng",
+"cita": "Por eso, el BNG, con todas las dificultades, votará a favor de este decreto.",
+"orador": "Néstor Rego Candamil",
+"turno": 8,
+"pagina": 11
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Aun no estando de acuerdo con algunas de las medidas que recoge el decreto, este es un punto de partida, y por eso nosotros votamos sí.",
+"orador": "Cristina Valido García",
+"turno": 6,
+"pagina": 10
+}
+],
+"fecha": "2026-10-02",
+"voto": {
+"fecha": "2026-10-02",
+"titulo": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible. (Pública por llamamiento)",
+"expediente": "130/000055",
+"si": 172,
+"no": 178,
+"abst": 0,
+"diario": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF#page=56",
+"temas": [
+"vivienda"
+],
+"grupos": null,
+"json": null,
+"debates": [
+"210-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "decreto-de-vivienda-renovacion-automatica-de-los-alquileres",
+"tema": "vivienda",
+"titulo": "Decreto de vivienda: renovación automática de los alquileres",
+"que_es": [
+"Si ninguna parte avisaba de que no quería seguir, el contrato de vivienda habitual se prorrogaba obligatoriamente por plazos de cinco años, o de siete si el propietario es una empresa.",
+"El propietario que decidiera no prorrogar debía indemnizar al inquilino con al menos doce mensualidades, con excepciones como necesitar la vivienda para sí o para un familiar.",
+"Añadía prórrogas extraordinarias para inquilinos vulnerables y en zonas tensionadas."
+],
+"fuente": [
+"Texto en el BOE",
+"https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20385"
+],
+"despues": "El Congreso no lo convalidó y quedó derogado. El decreto 28/2026, aprobado el 6 de octubre, recoge la prórroga automática y la indemnización, y fija su entrada en vigor el 15 de noviembre. Está pendiente de la Diputación Permanente.",
+"despues_fuente": [
+"Legal Today",
+"https://www.legaltoday.com/opinion/articulos-de-opinion/los-decretos-leyes-de-vivienda-derogacion-reaprobacion-y-convalidacion-en-plena-disolucion-2026-10-08/"
+],
+"debate": "210-2",
+"num": 210,
+"doc": "DSCD-15-PL-210.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Señor Juan Bravo ―estamos a diez minutos de votar; a diez minutos―, es tan fácil y rápido ayudar a la gente que usted ha mencionado como apretar el botón del sí.",
+"orador": "Montse Mínguez García",
+"turno": 25,
+"pagina": 48
+},
+{
+"candidatura": "pp",
+"cita": "Este decreto va contra la libertad, va contra la propiedad privada, pero, sobre todo, ataca a las clases vulnerables y a las clases medias, porque no van a poder alquilar un piso si esto se aprueba.",
+"orador": "Sergio Sayas López",
+"turno": 27,
+"pagina": 50
+},
+{
+"candidatura": "frente-amplio",
+"cita": "El alquiler indefinido, la prórroga o lo que es la renovación automática es una medida nada loca.",
+"orador": "Teslem Andala Ubbi",
+"turno": 18,
+"pagina": 44
+},
+{
+"candidatura": "compromis",
+"cita": "Y ahora ustedes apuntan a la defensa de los contratos indefinidos como si fuera la medida que quieren mucho, mucho, mucho que pase, pero ya la habían dejado caer.",
+"orador": "Àgueda Micó Micó",
+"turno": 0,
+"pagina": 34
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Por eso vamos a votar a favor de su convalidación, tanto del que da respuestas estructurales ―el segundo― como del primero.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 14,
+"pagina": 39
+},
+{
+"candidatura": "pnv",
+"cita": "El segundo apunte es que, sobre todo si tenemos en cuenta que, aunque existe una crisis de acceso a la vivienda, la mayoría de los contratos no agotará sus prórrogas hasta 2027 o 2030, si se hubiera aprobado el anterior, ¿por qué no se ha iniciado una tramitación parlamentaria urgente de un proyecto de ley?",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 12,
+"pagina": 38
+},
+{
+"candidatura": "bng",
+"cita": "Por iso imos a votar a favor deste decreto que podería dar solución ás vinte e catro familias da Coruña e a moitas outras mulleres que están na mesma situación.",
+"orador": "Néstor Rego Candamil",
+"turno": 10,
+"pagina": 37
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Señorías, nosotros no somos sospechosos de no haber apoyado medidas en favor de las familias más vulnerables, decretos que han caído y lo hicieron con nuestro voto a favor, pero no podemos aceptar el planteamiento que se hace a través de este decreto.",
+"orador": "Cristina Valido García",
+"turno": 6,
+"pagina": 36
+},
+{
+"candidatura": "erc",
+"cita": "En què pensen quan prenen la decisió de no votar aquestes mesures?",
+"orador": "Etna Estrems Fayos",
+"turno": 16,
+"pagina": 41
+}
+],
+"fecha": "2026-10-02",
+"voto": {
+"fecha": "2026-10-02",
+"titulo": "Real Decreto-ley 27/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual. (Pública por llamamiento)",
+"expediente": "130/000056",
+"si": 166,
+"no": 184,
+"abst": 0,
+"diario": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF#page=63",
+"temas": [
+"vivienda"
+],
+"grupos": null,
+"json": null,
+"debates": [
+"210-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "decreto-de-prorroga-de-alquileres-por-la-guerra-de-iran",
+"tema": "vivienda",
+"titulo": "Decreto de prórroga de alquileres por la guerra de Irán",
+"que_es": [
+"Aprobado en marzo de 2026 como respuesta a las consecuencias económicas de la guerra de Irán.",
+"Según se expuso en el debate, tenía dos medidas: una prórroga extraordinaria de los contratos de alquiler de vivienda habitual, de dos años, y un límite a la actualización anual de la renta."
+],
+"fuente": null,
+"despues": "El Congreso no lo convalidó.",
+"despues_fuente": null,
+"debate": "181-3",
+"num": 181,
+"doc": "DSCD-15-PL-181.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Hoy debatimos el Real Decreto Ley 8/2026, un decreto que busca intervenir el mercado.",
+"orador": "Daniel Pérez Osma",
+"turno": 29,
+"pagina": 57
+},
+{
+"candidatura": "erc",
+"cita": "Bueno, pues el 60 % del alquiler es de pisos de grandes tenedores, así que también es mentira.",
+"orador": "Gabriel Rufián Romero",
+"turno": 15,
+"pagina": 50
+},
+{
+"candidatura": "psoe",
+"cita": "Señorías, posiblemente tampoco hubiera hecho falta, si en las comunidades donde ustedes, las derechas, gobiernan hubieran acatado la ley de vivienda y se estuvieran aplicando las zonas tensionadas y la limitación de alquileres.",
+"orador": "Ignasi Conesa Coma",
+"turno": 27,
+"pagina": 56
+},
+{
+"candidatura": "vox",
+"cita": "Durante ocho años que ha gobernado la coalición de izquierdas (aplausos) los precios de la vivienda no han dejado de subir, tanto que son incompatibles con una vida tranquila, con poder formar una familia, con disfrutar de estabilidad, con mirar al futuro sin angustia.",
+"orador": "Carlos Hernández Quero",
+"turno": 19,
+"pagina": 54
+},
+{
+"candidatura": "frente-amplio",
+"cita": "La propuesta de prorrogar dos años los contratos de alquiler no va, como se ha dicho aquí, de inquilinos contra propietarios entrañables con un pequeño piso que temen no poder complementar sus pensiones.",
+"orador": "Gerardo Pisarello Prados",
+"turno": 17,
+"pagina": 52
+},
+{
+"candidatura": "podemos",
+"cita": "Ojalá tuvieran todos ustedes, que hoy van a votar que no, que vivir alguna vez pagando el 50, el 60, el 70 % de tus ingresos para una sola vivienda, para tu única vivienda.",
+"orador": "Ione Belarra Urteaga",
+"turno": 7,
+"pagina": 42
+},
+{
+"candidatura": "compromis",
+"cita": "No hay ninguna persona progresista que esté en contra de esta prórroga, es más, no hay ninguna persona progresista que esté en contra de intervenir el mercado de la vivienda.",
+"orador": "Àgueda Micó Micó",
+"turno": 0,
+"pagina": 40
+},
+{
+"candidatura": "junts",
+"cita": "Aquest decret ja no es pot votar a favor tal i com està redactat.",
+"orador": "Marta Madrenas i Mir",
+"turno": 13,
+"pagina": 46
+},
+{
+"candidatura": "eh-bildu",
+"cita": "¿Es que quienes gobiernan ―y no somos nosotros― han hecho cosas diferentes para que la situación de la gente se haya aliviado de tal manera que no sea necesaria esta prórroga?",
+"orador": "Oskar Matute García de Jalón",
+"turno": 11,
+"pagina": 44
+},
+{
+"candidatura": "pnv",
+"cita": "La prórroga de los contratos de alquiler que propone el real decreto ley es incompatible con la prórroga del artículo 10 de la Ley de Arrendamientos Urbanos introducida por la ley de vivienda.",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 9,
+"pagina": 43
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "La generalización, como si todos los propietarios fueran grandes tenedores o todos los inquilinos potenciales morosos, nos impide llegar a algún acuerdo.",
+"orador": "Cristina Valido García",
+"turno": 3,
+"pagina": 41
+},
+{
+"candidatura": "bng",
+"cita": "Con todo eso, nosotros entendemos que es fundamental, y un alivio para muchas personas, que se puedan prorrogar los contratos de los alquileres.",
+"orador": "Néstor Rego Candamil",
+"turno": 5,
+"pagina": 41
+}
+],
+"fecha": "2026-04-28",
+"voto": {
+"fecha": "2026-04-28",
+"titulo": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán.",
+"expediente": "130/000039",
+"si": 166,
+"no": 177,
+"abst": 5,
+"diario": null,
+"temas": [
+"vivienda",
+"defensa"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 6,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"psoe": {
+"Sí": 121
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json",
+"debates": [
+"181-3"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "suspension-de-desahucios-hipotecarios-hasta-2028",
+"tema": "vivienda",
+"titulo": "Suspensión de desahucios hipotecarios hasta 2028",
+"que_es": [
+"Alargaba cuatro años, hasta 2028, la suspensión de los desahucios de vivienda habitual por impago de hipoteca para colectivos especialmente vulnerables.",
+"Esta suspensión existe desde 2012 y se ha ido prorrogando."
+],
+"fuente": null,
+"despues": "Se convalidó con 347 votos a favor y ninguno en contra.",
+"despues_fuente": null,
+"debate": "48-3",
+"num": 48,
+"doc": "DSCD-15-PL-48.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Hoy discutimos este real decreto para proteger a los colectivos vulnerables frente a los desahucios hipotecarios.",
+"orador": "Arnau Ramírez Carner",
+"turno": 24,
+"pagina": 35
+},
+{
+"candidatura": "pp",
+"cita": "Señorías, fue el Gobierno del Partido Popular en 2013 el que aprobó la primera ley para suspender los lanzamientos por impago hipotecario de familias vulnerables.",
+"orador": "Joan Mesquida Mayans",
+"turno": 26,
+"pagina": 36
+},
+{
+"candidatura": "vox",
+"cita": "De la sociedad de pequeños propietarios hemos pasado a la que discute qué hacer con los lanzamientos hipotecarios.",
+"orador": "Carlos Hernández Quero",
+"turno": 22,
+"pagina": 33
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Señora ministra, obviamente, apoyaremos este decreto, un decreto que hace que muchas familias esta noche puedan irse a dormir sin tener la angustia de si mañana les van a echar de su casa",
+"orador": "Alberto Ibáñez Mezquita",
+"turno": 20,
+"pagina": 32
+},
+{
+"candidatura": "podemos",
+"cita": "Esto es poco más que una tirita; es que no es ni siquiera un parche, es una tirita para afrontar una situación enormemente crítica de personas muy vulnerables.",
+"orador": "Ione Belarra Urteaga",
+"turno": 4,
+"pagina": 27
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Nosotros vamos a apoyar esta iniciativa en la medida en que no rompe esa dinámica de protección a los más desfavorecidos, pero creo es bueno ponerla en contexto.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 18,
+"pagina": 30
+},
+{
+"candidatura": "pnv",
+"cita": "Y, en cuanto al fondo, hay que señalar que la suspensión de desahucios hipotecarios se prorroga por otros cuatro años, hasta 2028.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 16,
+"pagina": 29
+},
+{
+"candidatura": "bng",
+"cita": "En todo caso, votaremos a favor, mais reclamamos ó Goberno medidas permanentes absolutamente necesarias para garantir realmente o dereito a unha vivenda digna para todo o mundo.",
+"orador": "Néstor Rego Candamil",
+"turno": 2,
+"pagina": 26
+}
+],
+"fecha": "2024-06-13",
+"voto": {
+"fecha": "2024-06-13",
+"titulo": "Real Decreto-ley 1/2024, de 14 de mayo, por el que se prorrogan las medidas de suspensión de lanzamientos sobre la vivienda habitual para la protección de los colectivos vulnerables.",
+"expediente": "130/000004",
+"si": 347,
+"no": 0,
+"abst": 1,
+"diario": null,
+"temas": [
+"vivienda",
+"pensiones"
+],
+"grupos": {
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 32,
+"Abstención": 1
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion046/20240613/Votacion024/VOT_20240613125236.json",
+"debates": [
+"48-3"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-de-regular-el-alquiler-de-temporada-y-de-habitaciones",
+"tema": "vivienda",
+"titulo": "Propuesta de regular el alquiler de temporada y de habitaciones",
+"que_es": [
+"Propuesta de Sumar para regular los contratos de alquiler de vivienda por temporada y por habitaciones.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: faltaron seis votos.",
+"despues_fuente": null,
+"debate": "62-2",
+"num": 62,
+"doc": "DSCD-15-PL-62.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Algunos propietarios quieren evitar someterse a la ley, quieren evitar someterse a las garantías que se ofrecen al inquilino por parte de la ley y buscan estos recovecos, y esta trampa y esta práctica se está viendo incrementada actualmente.",
+"orador": "Javier Rodríguez Palacios",
+"turno": 20,
+"pagina": 22
+},
+{
+"candidatura": "pp",
+"cita": "Tampoco han hablado de un síntoma que nos alerta y nos preocupa muchísimo: la falta de seguridad jurídica que sufren tanto los indefensos propietarios como las familias que guardan cola para acceder a una vivienda pública.",
+"orador": "María Soledad Cruz-Guzmán García",
+"turno": 22,
+"pagina": 23
+},
+{
+"candidatura": "vox",
+"cita": "Si los precios del alquiler y la vivienda se disparan, para ustedes la culpa es del pequeño propietario, que no sabe administrar correctamente su patrimonio.",
+"orador": "Ignacio Hoces Íñiguez",
+"turno": 18,
+"pagina": 20
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Demasiada gente sabe lo que es no encontrar casa en tu pueblo o en tu ciudad porque tienes la mala suerte de haber nacido en una zona turística en la que solo te hacen contratos de septiembre a junio",
+"orador": "Íñigo Errejón Galván",
+"turno": 0,
+"pagina": 6
+},
+{
+"candidatura": "podemos",
+"cita": "En este momento la regulación de precios del alquiler que ampara la ley de vivienda no se aplica en ninguna comunidad autónoma, salvo en Cataluña, donde gobernaba Esquerra Republicana de Catalunya.",
+"orador": "Ione Belarra Urteaga",
+"turno": 6,
+"pagina": 10
+},
+{
+"candidatura": "erc",
+"cita": "Ens va arribar aquesta proposta pel Sindicat de Llogateres",
+"orador": "Pilar Vallugera Balañà",
+"turno": 16,
+"pagina": 17
+},
+{
+"candidatura": "junts",
+"cita": "Creuen de veritat, com proposen, que és una bona idea equiparar el lloguer d’una habitació al d’un habitatge?",
+"orador": "Marta Madrenas i Mir",
+"turno": 12,
+"pagina": 14
+},
+{
+"candidatura": "pnv",
+"cita": "El 95 % de la vivienda en alquiler procede de particulares en el Estado.",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 8,
+"pagina": 11
+},
+{
+"candidatura": "bng",
+"cita": "Trátase de combater unha fraude crecente que se está a xeneralizar para evitar as obrigas que a LAU establece para arrendadores e arrendadoras",
+"orador": "Néstor Rego Candamil",
+"turno": 4,
+"pagina": 9
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Una de cada tres viviendas registradas desde el 2015, en términos de compra o nueva construcción, lo han sido por grandes propietarios.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 10,
+"pagina": 13
+}
+],
+"fecha": "2024-09-17",
+"voto": {
+"fecha": "2024-09-17",
+"titulo": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, relativa a la regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones.",
+"expediente": "122/000119",
+"si": 172,
+"no": 178,
+"abst": 0,
+"diario": null,
+"temas": [
+"vivienda"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+"debates": [
+"62-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "propuesta-del-pp-contra-la-ocupacion-ilegal-de-inmuebles",
+"tema": "vivienda",
+"titulo": "Propuesta del PP contra la ocupación ilegal de inmuebles",
+"que_es": [
+"Proposición de ley orgánica del Partido Popular contra la ocupación ilegal de inmuebles y para la convivencia vecinal.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite.",
+"despues_fuente": null,
+"debate": "185-1",
+"num": 185,
+"doc": "DSCD-15-PL-185.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Esto es lo que está pasando y está pasando porque el Gobierno trata de banalizar la okupación.",
+"orador": "Sergio Sayas López",
+"turno": 0,
+"pagina": 7
+},
+{
+"candidatura": "psoe",
+"cita": "Esta proposición de ley no tiene nada que ver con erradicar la okupación y, desde luego, no tiene nada que ver con el hecho de intentar mejorar la convivencia vecinal.",
+"orador": "Raúl Díaz Marín",
+"turno": 22,
+"pagina": 24
+},
+{
+"candidatura": "vox",
+"cita": "Mientras los españoles trabajan para tener un hogar, este Gobierno trabaja por los okupas, en vez de construir para que los españoles sean propietarios.",
+"orador": "Ignacio Hoces Íñiguez",
+"turno": 20,
+"pagina": 22
+},
+{
+"candidatura": "podemos",
+"cita": "Está usted confundiendo la okupación con el allanamiento.",
+"orador": "Ione Belarra Urteaga",
+"turno": 8,
+"pagina": 10
+},
+{
+"candidatura": "compromis",
+"cita": "Escuchándolos, parece que el gran problema sea que alguien baje a comprar el pan y a los cinco minutos le hayan okupado la casa.",
+"orador": "Àgueda Micó Micó",
+"turno": 2,
+"pagina": 9
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Ya llegará el momento de votar que no, pero no podemos seguir mirando a otro lado diciendo que la okupación no existe y no resolviendo nada en un debate ideológico que es lo que los ciudadanos en este momento no necesitan.",
+"orador": "Cristina Valido García",
+"turno": 6,
+"pagina": 10
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Plantean un endurecimiento de penas, en concreto, del artículo 245 del Código Penal.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 12,
+"pagina": 13
+},
+{
+"candidatura": "pnv",
+"cita": "Y tampoco, aun siendo un problema grave, que no lo negamos, que se diga que alcanza a centenares de miles de casos",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 10,
+"pagina": 11
+},
+{
+"candidatura": "junts",
+"cita": "I ho és, sobretot, perquè durant massa temps alguns han intentat convertir el fenomen de les okupacions en un debat fals, o bé negant el problema o bé utilitzant‑lo des del populisme penal més simplista.",
+"orador": "Marta Madrenas i Mir",
+"turno": 14,
+"pagina": 15
+},
+{
+"candidatura": "erc",
+"cita": "Senyories del Partit Popular, sens dubte hi ha casos d’okupacions que són problemàtiques i cal buscar‑hi solucions.",
+"orador": "Etna Estrems Fayos",
+"turno": 16,
+"pagina": 18
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Los fondo‑okupas, los banco‑okupas, que retienen vivienda vacía o que hostigan a sus inquilinos para echarlos y poder aumentarles el alquiler.",
+"orador": "Gerardo Pisarello Prados",
+"turno": 18,
+"pagina": 21
+}
+],
+"fecha": "2026-05-19",
+"voto": {
+"fecha": "2026-05-19",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica contra la ocupación ilegal de inmuebles y para la convivencia vecinal y la protección de la seguridad de las personas y cosas en las comunidades de propietarios.",
+"expediente": "122/000254",
+"si": 171,
+"no": 164,
+"abst": 11,
+"diario": null,
+"temas": [
+"vivienda"
+],
+"grupos": {
+"psoe": {
+"No": 119,
+"No vota": 2
+},
+"frente-amplio": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"junts": {
+"Abstención": 6,
+"No vota": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json",
+"debates": [
+"185-1"
+],
+"resultado": "Salió adelante"
+}
+}
+]

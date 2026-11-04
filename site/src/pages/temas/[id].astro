@@ -3,6 +3,8 @@ import Base from '../../layouts/Base.astro';
 import Acta from '../../components/Acta.astro';
 import Cita from '../../components/Cita.astro';
 import Chip from '../../components/Chip.astro';
+import Esencial from '../../components/Esencial.astro';
+import fichas from '../../data/fichas.json';
 import { COLORES } from '../../lib/color.js';
 import { declaraciones, votosTodos, debates } from '../../lib/archivo.js';
 import { temas, candidaturas, posiciones, dijo, votos, AVISOS, fecha } from '../../lib/datos.js';
@@ -15,6 +17,7 @@ const pos = posiciones.filter((p) => p.tema === tema.id);
 const dichos = dijo.filter((d) => d.tema === tema.id);
 const vs = votos.filter((v) => v.tema === tema.id);
 const aviso = AVISOS[tema.id];
+const esenciales = fichas.filter((f) => f.tema === tema.id);
 const frases = declaraciones().filter((d) => d.temas.includes(tema.id)).sort((a, b) => b.fecha.localeCompare(a.fecha));
 const nVotos = votosTodos().filter((v) => v.temas.includes(tema.id)).length;
 const nDebates = debates().filter((d) => d.temas.includes(tema.id)).length;
@@ -29,6 +32,14 @@ const delGobierno = frases.filter((f) => f.bando === 'gobierno').slice(0, 3);
     <nav class="temas-nav" aria-label="Otros temas">
       {temas.filter((t) => t.id !== tema.id).map((t) => <a href={`/temas/${t.id}/`}>{t.nombre}</a>)}
     </nav>
+
+    {esenciales.length > 0 && (
+      <section class="seccion">
+        <h2>Lo esencial</h2>
+        <p class="nota" style="margin-bottom:.75rem">Las votaciones clave, explicadas. Se eligen con <a href="/metodologia/#fichas">reglas públicas</a>.</p>
+        <Esencial lista={esenciales} />
+      </section>
+    )}
 
     <section class="seccion">
       <h2>Qué propone y qué ha dicho cada partido</h2>

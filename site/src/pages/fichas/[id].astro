@@ -1,0 +1,65 @@
+---
+import Base from '../../layouts/Base.astro';
+import Acta from '../../components/Acta.astro';
+import Chip from '../../components/Chip.astro';
+import fichas from '../../data/fichas.json';
+import { temas, porId, fecha } from '../../lib/datos.js';
+import { COLORES } from '../../lib/color.js';
+
+export function getStaticPaths() {
+  return fichas.map((f) => ({ params: { id: f.id }, props: { f } }));
+}
+const { f } = Astro.props;
+const tema = temas.find((t) => t.id === f.tema);
+const otras = fichas.filter((x) => x.tema === f.tema && x.id !== f.id);
+const nombre = (c) => porId[c].etiqueta_voto || porId[c].sigla;
+---
+<Base titulo={f.titulo} descripcion={f.que_es[0]}>
+  <div class="marco">
+    <header class="entrada">
+      <p class="nota"><a href={`/temas/${tema.id}/`}>{tema.nombre}</a></p>
+      <h1 class="h1-largo">{f.titulo}</h1>
+    </header>
+
+    <section class="ficha-seccion">
+      <h2>Qué era</h2>
+      <ul class="antecedentes">{f.que_es.map((q) => <li>{q}</li>)}</ul>
+      {f.fuente && <p class="fuente"><a href={f.fuente[1]} rel="noopener">{f.fuente[0]}</a></p>}
+    </section>
+
+    <section class="ficha-seccion">
+      <h2>Qué se votó</h2>
+      <Acta v={{ ...f.voto, corto: f.voto.resultado }} />
+    </section>
+
+    <section class="ficha-seccion">
+      <h2>Qué pasó después</h2>
+      <p class="prosa">{f.despues}{f.despues_fuente && <> <a href={f.despues_fuente[1]} rel="noopener">Fuente: {f.despues_fuente[0]}</a>.</>}</p>
+    </section>
+
+    <section class="ficha-seccion">
+      <h2>Qué dijo cada grupo</h2>
+      <p class="nota" style="margin-bottom:1rem">Una frase literal de cada grupo en el debate, en el idioma en que se dijo. Orden al azar en cada visita. Una frase no resume una postura: <a href={`/debates/${f.debate}/`}>lee el debate completo</a>.</p>
+      <ul class="filas" data-barajar>
+        {f.posturas.map((p) => (
+          <li class="con-banda" style={`--c:${COLORES[p.candidatura]}`}>
+            <p class="quien"><Chip id={p.candidatura} href={`/candidaturas/${p.candidatura}/`}>{nombre(p.candidatura)}</Chip></p>
+            <div>
+              <blockquote>«{p.cita}{/[.?!…]$/.test(p.cita) ? '' : '…'}»</blockquote>
+              <p class="fuente">{p.orador}. <a href={`/debates/${f.debate}/#t${p.turno}`}>Leer su intervención</a>, página {p.pagina} del <a href={`https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/${f.doc}#page=${p.pagina}`} rel="noopener">Diario de Sesiones</a>.</p>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    {otras.length > 0 && (
+      <section class="seccion">
+        <h2>Más sobre {tema.nombre.toLowerCase()}</h2>
+        <ul class="filas-simple">{otras.map((o) => <li><a href={`/fichas/${o.id}/`}>{o.titulo}</a></li>)}</ul>
+      </section>
+    )}
+
+    <p class="nota" style="margin-top:2.5rem">El resumen está redactado con ayuda de IA a partir de la fuente enlazada. Las citas y los votos se comprueban automáticamente. <a href="/correcciones/">Pide una corrección</a> si ves un error.</p>
+  </div>
+</Base>

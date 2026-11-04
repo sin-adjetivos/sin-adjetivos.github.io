@@ -1,0 +1,14 @@
+---
+import { fecha } from '../lib/datos.js';
+const { lista } = Astro.props;
+---
+<ul class="esencial">
+  {lista.map((f) => (
+    <li>
+      <a href={`/fichas/${f.id}/`}>
+        <span class="esencial-titulo">{f.titulo}</span>
+        <span class="esencial-dato">{fecha(f.fecha)}. {f.voto.resultado}: {f.voto.si} sí, {f.voto.no} no, {f.voto.abst} abstenciones.</span>
+      </a>
+    </li>
+  ))}
+</ul>

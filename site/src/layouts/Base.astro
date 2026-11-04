@@ -15,6 +15,17 @@ const menu = [['/actualidad/', 'Actualidad'], ['/temas/', 'Temas'], ['/candidatu
     <title>{titulo ? `${titulo}, Sin adjetivos` : 'Sin adjetivos. Elecciones del 29 de noviembre'}</title>
     <meta name="description" content={descripcion} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta property="og:site_name" content="Sin adjetivos" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:title" content={titulo ? `${titulo}, Sin adjetivos` : 'Sin adjetivos'} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site).href} />
+    <meta property="og:image" content={new URL('og.png', Astro.site).href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Logotipo de Sin adjetivos: la palabra Sin y una barra negra en una papeleta." />
+    <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body class:list={[{ conColor: color }]} style={color ? `--fondo:${color};--tintaHero:${tintaHero}` : undefined}>
     <a class="saltar" href="#contenido">Saltar al contenido</a>

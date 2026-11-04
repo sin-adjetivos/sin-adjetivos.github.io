@@ -1,0 +1,43 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:A;src:url(../../site/node_modules/@fontsource-variable/archivo/files/archivo-latin-standard-normal.woff2);font-weight:100 900;font-stretch:62% 125%}
+*{box-sizing:border-box;margin:0}
+html,body{background:transparent;font-family:A;color:#000}
+.lienzo{position:relative;overflow:hidden;display:none}
+.sepia{background:#c4a982}
+/* La papeleta: «Sin» y una barra negra donde iría el adjetivo. El ancho del texto se ajusta al de la barra. */
+.slip{position:absolute;background:#fff;border-style:solid;border-color:#000;display:flex;flex-direction:column;justify-content:center}
+.sin{display:block;font-weight:800;font-stretch:100%;line-height:.8;white-space:nowrap;letter-spacing:-.02em;transform-origin:0 0}
+.barra{display:block;background:#000}
+.nombre{position:absolute;font-weight:800;font-stretch:62%;line-height:.92;letter-spacing:-.015em}
+.lema{position:absolute;font-weight:500;font-stretch:100%;line-height:1.25}
+</style></head><body>
+<script>
+function papeleta(padre, x, y, w, h, borde){
+  const s=document.createElement('div'); s.className='slip';
+  Object.assign(s.style,{left:x+'px',top:y+'px',width:w+'px',height:h+'px',borderWidth:borde+'px',padding:`0 ${w*.1}px`});
+  const t=document.createElement('span'); t.className='sin'; t.textContent='Sin';
+  const b=document.createElement('i'); b.className='barra';
+  s.append(t,b); padre.appendChild(s);
+  const util=w*.8-borde*2+0; let fs=h*.5; t.style.fontSize=fs+'px';
+  document.fonts.ready.then(()=>{
+    const r=document.createRange(); r.selectNodeContents(t);
+    const ancho=r.getBoundingClientRect().width; fs=fs*util/ancho*1.04; t.style.fontSize=fs+'px'; t.style.marginLeft=(-util*.024)+'px';  // compensa el aire lateral de la S y la n
+    b.style.height=(fs*.3)+'px'; b.style.marginTop=(fs*.16)+'px';
+  });
+}
+const v=new URLSearchParams(location.search).get('v');
+const L={perfil:[1080,1080,1],logo:[1080,1080,0],banner:[1500,500,1],og:[1200,630,1]}[v];
+const c=document.createElement('div'); c.className='lienzo '+(L[2]?'sepia':''); c.id='c';
+Object.assign(c.style,{display:'block',width:L[0]+'px',height:L[1]+'px'}); document.body.appendChild(c);
+if(v==='perfil') papeleta(c,130,245,820,590,6);
+if(v==='logo') papeleta(c,40,190,1000,700,8);
+if(v==='banner'||v==='og'){
+  const k=v==='og'?1:0;
+  papeleta(c,k?70:90,k?135:95,k?420:400,k?360:310,k?4:4);
+  const n=document.createElement('div'); n.className='nombre'; n.textContent='Sin adjetivos';
+  Object.assign(n.style,{left:(k?550:560)+'px',top:(k?170:130)+'px',fontSize:(k?128:138)+'px',whiteSpace:'nowrap'});
+  const m=document.createElement('div'); m.className='lema'; m.innerHTML='Lo que proponen, votan y dicen los partidos.<br>Con la fuente al lado.';
+  Object.assign(m.style,{left:(k?554:564)+'px',top:(k?315:275)+'px',fontSize:(k?28:34)+'px'});
+  c.append(n,m);
+}
+</script></body></html>

@@ -40,8 +40,6 @@ jobs:
         run: python scripts/actualidad.py
       - name: Generar la web
         working-directory: site
-        env:
-          BASE_PATH: /sin-adjetivos
         run: |
           npm ci
           npm run build

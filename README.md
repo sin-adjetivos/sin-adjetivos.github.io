@@ -2,10 +2,10 @@
 
 Portal independiente con lo que los partidos proponen, votan y dicen, y con la fuente original al lado.
 
-**Web:** https://srcapuchino.github.io/sin-adjetivos
+**Web:** https://sin-adjetivos.github.io
 
-- [Cómo trabajamos](https://srcapuchino.github.io/sin-adjetivos/metodologia/)
-- [Pedir una corrección](https://github.com/SrCapuchino/sin-adjetivos/issues/new)
+- [Cómo trabajamos](https://sin-adjetivos.github.io/metodologia/)
+- [Pedir una corrección](https://github.com/sin-adjetivos/sin-adjetivos.github.io/issues/new)
 
 Este repositorio es público para que cualquiera pueda comprobar los datos, las reglas de extracción (`scripts/reglas.py`) y cada cambio de la web.
 

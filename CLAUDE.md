@@ -1,6 +1,6 @@
 # Sin adjetivos
 
-Portal independiente para informar a la ciudadanía sobre las elecciones generales del 29 de noviembre de 2026 y seguir informando después. Firma Sergio Capuchino, sin vinculación con partidos y sin presupuesto. Web: https://srcapuchino.github.io/sin-adjetivos/
+Portal independiente para informar a la ciudadanía sobre las elecciones generales del 29 de noviembre de 2026 y seguir informando después. Firma Sergio Capuchino, sin vinculación con partidos y sin presupuesto. Web: https://sin-adjetivos.github.io/. Repositorio: https://github.com/sin-adjetivos/sin-adjetivos.github.io
 
 ## Principios que no se negocian
 - **Objetividad comprobable:** mismo trato y mismas casillas para todos los partidos. Sin puntuaciones, rankings ni totales de casos por partido. Sin encuestas ni petición de voto.
@@ -20,7 +20,7 @@ Blanco y sepia de las papeletas en las páginas generales; color de cada partido
 - `scripts/actualidad.py`: titulares por RSS y agrupación, sin IA.
 - `sh build.sh`: comprueba citas y genera la web en local.
 - `.github/workflows/actualizar.yml`: con cada push a `main` y tres veces al día lee titulares, genera y publica en GitHub Pages.
-- Alojamiento: GitHub Pages, para no copiar a GitHub el token de Netlify, que da acceso a todos los sitios de la cuenta. La cuenta de Netlify es del plan antiguo (100 GB, sin créditos). `sin-adjetivos.netlify.app` solo redirige a Pages con un `_redirects` desplegado a mano. `site/scripts/base_path.mjs` añade el prefijo de subcarpeta; con dominio propio, quitar BASE_PATH del workflow.
+- Alojamiento: GitHub Pages, para no copiar a GitHub el token de Netlify, que da acceso a todos los sitios de la cuenta. La cuenta de Netlify es del plan antiguo (100 GB, sin créditos). `sin-adjetivos.netlify.app` solo redirige a Pages con un `_redirects` desplegado a mano. La organización de GitHub evita que el usuario personal aparezca en la dirección. `site/scripts/base_path.mjs` solo actúa si se define BASE_PATH.
 - `raw/` no va al repositorio: son copias de PDF y se vuelven a descargar.
 
 ## Plan

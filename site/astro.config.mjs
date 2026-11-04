@@ -1,8 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// BASE_PATH solo se define al publicar en GitHub Pages.
+// La web se publica en la raíz. BASE_PATH solo haría falta para publicar en una subcarpeta.
 export default defineConfig({
-  site: 'https://srcapuchino.github.io',
+  site: 'https://sin-adjetivos.github.io',
   base: process.env.BASE_PATH || '/',
 });

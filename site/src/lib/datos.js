@@ -53,7 +53,7 @@ export const AVISOS = {
   },
 };
 
-export const REPO = 'https://github.com/SrCapuchino/sin-adjetivos';
+export const REPO = 'https://github.com/sin-adjetivos/sin-adjetivos.github.io';
 export const CAUSAS_INTRO = 'Revisión en prensa hecha el 4 de noviembre de 2026.';
 export const SIN_CAUSA = 'No hemos localizado causas penales en las que figure como parte.';
 export const CAUSA_AVISO = '«No localizado» refleja nuestra búsqueda y no es un certificado: puede haber procedimientos que no hayamos encontrado.';

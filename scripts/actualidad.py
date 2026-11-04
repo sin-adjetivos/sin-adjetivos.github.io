@@ -15,7 +15,7 @@ FEEDS = {
 }
 SIN_FEED = ['El Debate', 'La Razón', 'Público', 'Vozpópuli']
 ALMACEN = 'data/noticias.json'; SALIDA = 'site/src/data/actualidad.json'
-UA = {'User-Agent': 'Mozilla/5.0 (compatible; SinAdjetivos/0.2; +https://srcapuchino.github.io/sin-adjetivos/metodologia/)'}
+UA = {'User-Agent': 'Mozilla/5.0 (compatible; SinAdjetivos/0.2; +https://sin-adjetivos.github.io/metodologia/)'}
 VACIAS = set("""a al algo ante antes como con contra cual cuando de del desde donde dos durante e el ella ellas ello ellos en entre era es esa ese eso esta este esto estos fue ha han hasta hay la las le les lo los mas me mi mientras muy ni no nos o otra otro para pero por porque que quien se sea segun ser si sin sobre son su sus tambien te tiene tras tu un una uno unos unas y ya yo va van dice dicen asi aun ahora hoy ayer este esta tras vez anos ano dia dias""".split())
 
 def llano(s):

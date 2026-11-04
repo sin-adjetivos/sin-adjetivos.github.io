@@ -1,15 +1,16 @@
 ---
 import Base from '../layouts/Base.astro';
+import { REPO } from '../lib/datos.js';
 ---
 <Base titulo="Correcciones">
   <div class="marco">
-    <header class="entrada"><h1>Correcciones</h1><p>Si algo está mal, se corrige aquí y queda a la vista lo que cambió y cuándo.</p></header>
+    <header class="entrada"><h1>Correcciones</h1><p>Si algo está mal, se corrige y queda a la vista lo que cambió y cuándo.</p></header>
     <div class="prosa">
       <h2>Cómo pedir una corrección</h2>
-      <p>Indica la página, qué es incorrecto y la fuente que lo demuestra. Las candidaturas y las personas citadas pueden pedir una rectificación por la misma vía.</p>
-      <p class="aviso">El canal para pedir correcciones está pendiente de activar.</p>
+      <p><a href={`${REPO}/issues/new?template=correccion.yml`} rel="noopener">Abre una corrección pública en GitHub</a>. Indica la página, qué es incorrecto y la fuente que lo demuestra. Necesitas una cuenta gratuita, y la petición y la respuesta quedan a la vista de todos.</p>
+      <p>Las candidaturas y las personas citadas pueden pedir una rectificación por la misma vía. Aún no tenemos otro canal de contacto.</p>
       <h2>Registro</h2>
-      <p>Todavía no hay correcciones publicadas.</p>
+      <p>Consulta <a href={`${REPO}/issues?q=is%3Aissue`} rel="noopener">todas las correcciones pedidas</a> y el <a href={`${REPO}/commits/main`} rel="noopener">historial de cambios de la web</a>.</p>
     </div>
   </div>
 </Base>

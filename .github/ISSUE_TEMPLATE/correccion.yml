@@ -1,0 +1,35 @@
+name: Pedir una corrección
+description: Algo en la web es incorrecto, está incompleto o falta contexto.
+title: "Corrección: "
+labels: ["correccion"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página
+      description: Enlace a la página donde está el error.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Qué es incorrecto
+      description: Copia el texto y explica el problema.
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Fuente que lo demuestra
+      description: Enlace a una resolución, documento oficial o noticia.
+    validations:
+      required: true
+  - type: dropdown
+    id: quien
+    attributes:
+      label: ¿Te afecta directamente?
+      options:
+        - No
+        - Sí, me citan o represento a quien citan
+    validations:
+      required: true

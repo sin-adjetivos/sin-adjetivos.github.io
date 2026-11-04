@@ -822,5 +822,1192 @@
 ],
 "resultado": "Salió adelante"
 }
+},
+{
+"id": "decreto-omnibus-de-2025-subida-de-pensiones-junto-a-otras-medidas",
+"tema": "pensiones",
+"titulo": "Decreto ómnibus de 2025: subida de pensiones junto a otras medidas",
+"que_es": [
+"Un único decreto reunía la subida del 2,8 % de las pensiones contributivas y del 6 % de las mínimas y no contributivas con otras medidas: ayudas al transporte, suspensión de desahucios a hogares vulnerables y prohibición de cortar suministros.",
+"También incluía medidas fiscales y la cesión de un edificio del Estado a un partido, que varios grupos usaron como argumento en contra."
+],
+"fuente": [
+"Resumen de Idealista",
+"https://www.idealista.com/news/node/828927"
+],
+"despues": "El Congreso lo rechazó y quedó derogado. El Gobierno aprobó días después otro decreto con parte de las medidas, entre ellas la subida de pensiones.",
+"despues_fuente": null,
+"debate": "92-1",
+"num": 92,
+"doc": "DSCD-15-PL-92.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Es urgente, señorías, porque ante la prórroga de los presupuestos urge garantizar y dar seguridad jurídica a políticas importantes de nuestro Estado del bienestar, como es el caso de la revalorización de las pensiones al IPC.",
+"orador": "Patricia Blanquer Alcaraz",
+"turno": 28,
+"pagina": 17
+},
+{
+"candidatura": "pp",
+"cita": "Nos han incorporado la revalorización de las pensiones, señor Bolaños, es cierto.",
+"orador": "Juan Bravo Baena",
+"turno": 32,
+"pagina": 19
+},
+{
+"candidatura": "vox",
+"cita": "Por eso incluyen y mezclan en un mismo texto normativo algo tan importante como son las pensiones con algo tan mezquino y deleznable como es regalar parte del patrimonio del Estado a un partido separatista o regar con dinero público la inmigración ilegal en Ceuta.",
+"orador": "Ignacio Hoces Íñiguez",
+"turno": 22,
+"pagina": 15
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Revalorización de doce millones de pensiones y prestaciones, la subida supone un incremento de las pensiones contributivas del 2,8 % y beneficiará a más de 12 millones de ciudadanos.",
+"orador": "Fèlix Alonso Cantorné",
+"turno": 20,
+"pagina": 14
+},
+{
+"candidatura": "erc",
+"cita": "Tot i això, hi votarem a favor perquè no s’entendria que després d’anys d’increment del cost de la vida i davant d’un horitzó econòmic incert, deixéssim tot el suport, deixéssim sense tot el suport possible la ciutadania, especialment la més vulnerable.",
+"orador": "Inés Granollers Cunillera",
+"turno": 18,
+"pagina": 11
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Hoy, Euskal Herria Bildu va a votar a favor de este decreto de escudo social, y lo vamos a hacer por una simple razón: los miles y miles de personas y familias que necesitan las medidas de apoyo y ayuda de este escudo social para poder desarrollar sus vidas.",
+"orador": "Mertxe Aizpurua Arzallus",
+"turno": 16,
+"pagina": 9
+},
+{
+"candidatura": "pnv",
+"cita": "Debatimos un decreto ómnibus que, como tal, cuenta con medidas con las que estamos de acuerdo y con otras con las que no tanto.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 12,
+"pagina": 7
+},
+{
+"candidatura": "bng",
+"cita": "Como vén xa sendo hábito deste goberno e un moi mal hábito utilizan a figura do real decreto lei ómnibus con excesiva frecuencia, o que dificulta a valoración e a posición de voto das forzas políticas.",
+"orador": "Néstor Rego Candamil",
+"turno": 8,
+"pagina": 6
+},
+{
+"candidatura": "podemos",
+"cita": "Hoy, presumiblemente, vamos a volver a prorrogar el escudo social, un escudo social por el que Podemos trabajó tanto durante la legislatura pasada y por el que seguimos trabajando en esta.",
+"orador": "Javier Sánchez Serna",
+"turno": 10,
+"pagina": 7
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Me pregunto si algún día pensionistas, jubilados y pensiones no contributivas no tendrán que temblar porque los intereses partidistas pueden hacer caer las medidas que necesitan.",
+"orador": "Cristina Valido García",
+"turno": 6,
+"pagina": 5
+}
+],
+"fecha": "2025-01-22",
+"voto": {
+"fecha": "2025-01-22",
+"titulo": "Real Decreto-ley 9/2024, de 23 de diciembre, por el que se adoptan medidas urgentes en materia económica, tributaria, de transporte, y de Seguridad Social, y se prorrogan determinadas medidas para hacer frente a situaciones de vulnerabilidad social.",
+"expediente": "130/000012",
+"si": 171,
+"no": 177,
+"abst": 1,
+"diario": null,
+"temas": [
+"pensiones",
+"impuestos"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"pnv": {
+"Sí": 5
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 120
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion001/VOT_20250122154425.json",
+"debates": [
+"92-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "segundo-decreto-de-2025-la-subida-de-pensiones-sale-adelante",
+"tema": "pensiones",
+"titulo": "Segundo decreto de 2025: la subida de pensiones sale adelante",
+"que_es": [
+"Tras la caída del decreto ómnibus, el Gobierno aprobó este en enero de 2025. Recuperaba la subida de pensiones, las ayudas al transporte y otras medidas, y dejaba fuera parte de las anteriores."
+],
+"fuente": null,
+"despues": "Se convalidó con el voto a favor de la mayoría de los grupos, incluidos PP y Junts, que habían votado en contra del anterior.",
+"despues_fuente": null,
+"debate": "95-17",
+"num": 95,
+"doc": "DSCD-15-PL-95.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Desde el primer momento, con el presidente del Gobierno a la cabeza, dijimos que íbamos a buscar votos hasta debajo de las piedras para aprobarlo y, una vez más, hemos cumplido.",
+"orador": "Patxi López Álvarez",
+"turno": 26,
+"pagina": 62
+},
+{
+"candidatura": "pp",
+"cita": "Hoy ha ocurrido lo mismo: diez minutos intentando convencernos de que aquel real decreto ómnibus es el mismo que el decreto microbús que han traído hoy.",
+"orador": "Jaime Eduardo de Olano Vela",
+"turno": 28,
+"pagina": 63
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Sí, solo una parte, porque hoy recuperamos el transporte público y la revalorización de las pensiones",
+"orador": "Cristina Valido García",
+"turno": 4,
+"pagina": 49
+},
+{
+"candidatura": "vox",
+"cita": "El incremento continuo del gasto en pensiones hace peligrar el sistema.",
+"orador": "José María Figaredo Álvarez-Sala",
+"turno": 24,
+"pagina": 61
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Hoy, por fin, aprobamos una subida de las pensiones que va a beneficiar a más de once millones y medio de personas.",
+"orador": "Verónica Martínez Barbero",
+"turno": 20,
+"pagina": 59
+},
+{
+"candidatura": "podemos",
+"cita": "Lo hemos visto, porque tenían toda la intención de desmantelar el escudo social, ese escudo social que Podemos puso en pie en su etapa en el Gobierno con tantísimo esfuerzo: la suspensión de los desahucios, las ayudas al transporte o el bono social eléctrico.",
+"orador": "Ione Belarra Urteaga",
+"turno": 10,
+"pagina": 50
+},
+{
+"candidatura": "junts",
+"cita": "S’aprovarà un reial decret amb mesures que Junts per Catalunya, des del primer moment va dir que donaria suport l’augment de les pensions, les bonificacions del transport públic, els ajuts a la dana",
+"orador": "Isidre Gavin i Valls",
+"turno": 16,
+"pagina": 54
+},
+{
+"candidatura": "pnv",
+"cita": "Hoy se hacen una autoenmienda al principal argumento que utilizaron para votar en contra de las principales medidas que hoy también se recogen aquí.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 12,
+"pagina": 51
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Unos y otros utilizaron diferentes excusas y relatos para intentar justificar el voto en contra que terminó tumbando este escudo social.",
+"orador": "Mertxe Aizpurua Arzallus",
+"turno": 14,
+"pagina": 53
+},
+{
+"candidatura": "bng",
+"cita": "Votou en contra da suba das pensións en 2,8 % en maior medida, 6 e 9 % das mínimas e non contributivas.",
+"orador": "Néstor Rego Candamil",
+"turno": 6,
+"pagina": 50
+},
+{
+"candidatura": "erc",
+"cita": "¿Ustedes saben el grado de sufrimiento que han infligido a esas personas que han visto cómo no les subían las pensiones, que iban a comprar un billete de Avant y veían que les costaba el doble, que debían comprar un abono de transporte habiendo perdido el descuento?",
+"orador": "Inés Granollers Cunillera",
+"turno": 18,
+"pagina": 57
+}
+],
+"fecha": "2025-02-12",
+"voto": {
+"fecha": "2025-02-12",
+"titulo": "Real Decreto-ley 1/2025, de 28 de enero, por el que se aprueban medidas urgentes en materia económica, de transporte, de Seguridad Social, y para hacer frente a situaciones de vulnerabilidad.",
+"expediente": "130/000015",
+"si": 315,
+"no": 33,
+"abst": 1,
+"diario": null,
+"temas": [
+"pensiones"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion012/VOT_20250212154047.json",
+"debates": [
+"95-17"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-omnibus-de-2026-pensiones-y-desahucios-otra-vez-juntos",
+"tema": "pensiones",
+"titulo": "Decreto ómnibus de 2026: pensiones y desahucios, otra vez juntos",
+"que_es": [
+"Reunía la subida de pensiones de 2026, del 2,7 %, con la prórroga de la suspensión de desahucios a hogares vulnerables, el bono social y medidas tributarias y de ayuda a comunidades autónomas."
+],
+"fuente": null,
+"despues": "El Congreso lo rechazó. En febrero de 2026 el Gobierno separó las medidas en varios decretos, y el de pensiones se convalidó con 317 votos a favor.",
+"despues_fuente": null,
+"debate": "161-1",
+"num": 161,
+"doc": "DSCD-15-PL-161.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Votamos a favor de las personas vulnerables, de los pensionistas, de los niños, de los forestales.",
+"orador": "Elisa Garrido Jiménez",
+"turno": 44,
+"pagina": 22
+},
+{
+"candidatura": "pp",
+"cita": "De nuevo, nos encontramos con un decreto ómnibus ―por llamarlo finamente― o un decreto trufado ―para que nos entienda todo el mundo―.",
+"orador": "Juan Bravo Baena",
+"turno": 46,
+"pagina": 23
+},
+{
+"candidatura": "vox",
+"cita": "Ustedes saben perfectamente que con cada subida de las pensiones que ustedes han prometido sin llevar a cabo las reformas necesarias del sistema lo que están haciendo es agotar el sistema de pensiones.",
+"orador": "José María Figaredo Álvarez-Sala",
+"turno": 36,
+"pagina": 20
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Cuando las pensiones se revalorizan y no pierden poder adquisitivo, eso significa seguridad vital.",
+"orador": "Aina Vidal Sáez",
+"turno": 26,
+"pagina": 18
+},
+{
+"candidatura": "podemos",
+"cita": "Si usted y yo hubiésemos pactado una suspensión de los desahucios de alquiler de cuatro años, como pactamos la de los desahucios hipotecarios, hoy no estaríamos así.",
+"orador": "Ione Belarra Urteaga",
+"turno": 12,
+"pagina": 8
+},
+{
+"candidatura": "compromis",
+"cita": "Compromís va a votar a favor, porque no vamos a dejar caer a nadie, obviamente.",
+"orador": "Àgueda Micó Micó",
+"turno": 4,
+"pagina": 5
+},
+{
+"candidatura": "junts",
+"cita": "Votarem que sí a la revalorització de les pensions quan les presentin, sense el xantatge de mantenir i permetre les okupacions i els impagaments que pateixen milers de famílies de Catalunya.",
+"orador": "Míriam Nogueras i Camero",
+"turno": 20,
+"pagina": 12
+},
+{
+"candidatura": "erc",
+"cita": "Pensionistes: es manté la revalorització del 2,7 %, s’actualitzen també les pensions mínimes i no contributives en els percentatges més alts.",
+"orador": "Jordi Salvador i Duch",
+"turno": 22,
+"pagina": 15
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Bueno, precisamente a que las personas y las familias vulnerables sin alternativa habitacional se puedan proteger, a prohibir los cortes de abastecimiento, alargar el bono social y también vamos a votar a favor de la subida de las pensiones.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 18,
+"pagina": 11
+},
+{
+"candidatura": "pnv",
+"cita": "Somos críticos con la forma en que se ha gestado el decreto y también con la prórroga de una medida muy controvertida, la suspensión de los desahucios tal y como está diseñada, porque no atiende a datos, sino a postulados ideológicos.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 14,
+"pagina": 9
+},
+{
+"candidatura": "bng",
+"cita": "Quero lembrar que a Galiza ten as segundas pensións máis baixas do estado.",
+"orador": "Néstor Rego Candamil",
+"turno": 10,
+"pagina": 7
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Insisto, nuestro voto hoy no va a cambiar el resultado, pero en el futuro podría hacerlo.",
+"orador": "Cristina Valido García",
+"turno": 8,
+"pagina": 7
+}
+],
+"fecha": "2026-01-27",
+"voto": {
+"fecha": "2026-01-27",
+"titulo": "Real Decreto-ley 16/2025, de 23 de diciembre, por el que se prorrogan determinadas medidas para hacer frente a situaciones de vulnerabilidad social, y se adoptan medidas urgentes en materia tributaria y de Seguridad Social.",
+"expediente": "130/000030",
+"si": 171,
+"no": 178,
+"abst": 0,
+"diario": null,
+"temas": [
+"pensiones",
+"impuestos"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"psoe": {
+"Sí": 120
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153134.json",
+"debates": [
+"161-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "decreto-de-febrero-de-2026-subida-de-pensiones-en-solitario",
+"tema": "pensiones",
+"titulo": "Decreto de febrero de 2026: subida de pensiones en solitario",
+"que_es": [
+"Tras caer el decreto ómnibus de enero, el Gobierno presentó la subida de pensiones de 2026 en un decreto separado, sin las medidas de vivienda.",
+"Según se expuso en el debate, las pensiones subían un 2,7 %."
+],
+"fuente": null,
+"despues": "Se convalidó con 317 votos a favor y 33 en contra.",
+"despues_fuente": null,
+"debate": "170-3",
+"num": 170,
+"doc": "DSCD-15-PL-170.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Ministra, señorías, hoy hablamos de la justicia intergeneracional y del respeto a la palabra dada a más de 13 millones de pensionistas; 13 millones de españoles a los que el Partido Popular y VOX quieren meter la mano en el bolsillo.",
+"orador": "Esther Peña Camarero",
+"turno": 30,
+"pagina": 55
+},
+{
+"candidatura": "pp",
+"cita": "Señora ministra, lo primero que quería preguntarle es cómo ha podido tener el descaro de decir que el Partido Popular no quería que se revalorizaran las pensiones según el IPC.",
+"orador": "Miguel Ángel Paniagua Núñez",
+"turno": 32,
+"pagina": 56
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Señorías, hoy volvemos a traer a votación a esta Cámara la revalorización de las pensiones por un motivo muy sencillo: el Grupo Popular, VOX y Junts votaron en contra de esta mejora para diez millones de pensionistas hace un mes.",
+"orador": "Lander Martínez Hierro",
+"turno": 26,
+"pagina": 53
+},
+{
+"candidatura": "vox",
+"cita": "No sé si alguien que esté en su casa escuchará el discurso que acaba de hacer el portavoz de SUMAR, pero realmente es un discurso que define cómo la izquierda lleva aproximándose a la cuestión de las pensiones durante décadas como una aproximación simplista.",
+"orador": "José María Figaredo Álvarez-Sala",
+"turno": 28,
+"pagina": 54
+},
+{
+"candidatura": "compromis",
+"cita": "Volen que deixem de creure en el sistema públic i que acabem posant els pocs estalvis que tenim en mans de fons privats de pensions.",
+"orador": "Àgueda Micó Micó",
+"turno": 2,
+"pagina": 43
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Señorías, la subida de las pensiones que apoyaremos hoy responde al mandato del Pacto de Toledo, no es un acto de generosidad del Gobierno de España.",
+"orador": "Cristina Valido García",
+"turno": 10,
+"pagina": 44
+},
+{
+"candidatura": "junts",
+"cita": "Tal com va passar el 2025, el govern Sánchez ha necessitat aprovar dos reials decrets lleis per revaloritzar les pensions, dos reials decrets llei per revaloritzar les del 2025 i dos reials decrets llei per revaloritzar les del 2026.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 22,
+"pagina": 49
+},
+{
+"candidatura": "erc",
+"cita": "Diputats i diputades, avui tenim l’obligació de defensar la pujada del sistema públic de pensions, la quantia de les pensions i aquest reial decret garanteix perfectament que valoritzin un 2,7 %, a totes les pensions.",
+"orador": "Jordi Salvador i Duch",
+"turno": 24,
+"pagina": 51
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Nosotros vamos a votar a favor de esta revalorización de las pensiones, como la hemos votado en ocasiones anteriores cuando iba con otras medidas igualmente necesarias, o ahora, que va en solitario.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 20,
+"pagina": 47
+},
+{
+"candidatura": "pnv",
+"cita": "Hoy debatimos la convalidación del real decreto ley de revalorización de las pensiones para 2026, una norma necesaria y socialmente imprescindible.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 18,
+"pagina": 46
+},
+{
+"candidatura": "podemos",
+"cita": "Señora ministra, hoy vamos a debatir este Real Decreto Ley 3/2026 para la revalorización de las pensiones.",
+"orador": "Noemí Santana Perera",
+"turno": 14,
+"pagina": 45
+},
+{
+"candidatura": "bng",
+"cita": "O PP votou en xaneiro en contra da suba das pensións e non sorprende, acostumado á suba de 0,25 % nos gobernos de Rajoy 2,7 debe parecerlles un exceso.",
+"orador": "Néstor Rego Candamil",
+"turno": 12,
+"pagina": 45
+}
+],
+"fecha": "2026-02-26",
+"voto": {
+"fecha": "2026-02-26",
+"titulo": "Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social.",
+"expediente": "130/000034",
+"si": 317,
+"no": 33,
+"abst": 0,
+"diario": null,
+"temas": [
+"pensiones"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 121
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion023/VOT_20260226153430.json",
+"debates": [
+"170-3"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "iniciativa-popular-para-una-regularizacion-extraordinaria",
+"tema": "inmigracion",
+"titulo": "Iniciativa popular para una regularización extraordinaria",
+"que_es": [
+"Iniciativa legislativa popular, promovida por ciudadanos y organizaciones, para que el Gobierno estableciera un procedimiento de regularización de personas extranjeras que ya estuvieran en España.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite con 310 votos a favor y 33 en contra.",
+"despues_fuente": null,
+"debate": "36-2",
+"num": 36,
+"doc": "DSCD-15-PL-36.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "En primer lugar, por supuesto, quiero agradecer la presencia en estas tribunas de aquellas personas que han trabajado esta ILP, porque hoy tenemos ante nosotros la oportunidad de debatir la toma en consideración de una iniciativa legislativa popular.",
+"orador": "Elisa Garrido Jiménez",
+"turno": 16,
+"pagina": 18
+},
+{
+"candidatura": "pp",
+"cita": "Por tanto, a través de esta concreta solo podemos instar al Gobierno de España a reglamentar vía real decreto una regularización extraordinaria de extranjeros.",
+"orador": "Sofía Acedo Reyes",
+"turno": 18,
+"pagina": 19
+},
+{
+"candidatura": "vox",
+"cita": "Y todos ustedes han aludido a los argumentos económicos, porque el sistema de fronteras abiertas y de inmigración masiva se dicta a las órdenes de unos poderes económicos.",
+"orador": "Rocío De Meer Méndez",
+"turno": 14,
+"pagina": 16
+},
+{
+"candidatura": "frente-amplio",
+"cita": "En lo que respecta a la ILP por la regularización y a la democracia de este país, creo que hoy estamos de celebración; contenida, pero de celebración.",
+"orador": "Gala Pin Ferrando",
+"turno": 12,
+"pagina": 15
+},
+{
+"candidatura": "podemos",
+"cita": "Señorías del Partido Socialista, si se oponen a la tramitación de esta ILP, no se extrañen de que crezca la desafección política en el bloque democrático",
+"orador": "Javier Sánchez Serna",
+"turno": 2,
+"pagina": 7
+},
+{
+"candidatura": "erc",
+"cita": "Avui compareixem davant d’aquest hemicicle amb una proposta clara i urgent: defensar la necessitat d’una regularització exprés per a més de mig milió de persones immigrades",
+"orador": "Jordi Salvador i Duch",
+"turno": 10,
+"pagina": 12
+},
+{
+"candidatura": "junts",
+"cita": "Avui, Junts per Catalunya no entrarem en el fons d’aquesta iniciativa i votarem a favor de la seva presa en consideració.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 8,
+"pagina": 11
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Desde Euskal Herria Bildu, como venimos solicitando en los últimos años, pedimos una regularización extraordinaria de todas —t‌odas— las personas que están en situación irregular en este momento, sea cual sea su origen y sea cual sea su situación.",
+"orador": "Jon Iñarritu García",
+"turno": 6,
+"pagina": 9
+},
+{
+"candidatura": "pnv",
+"cita": "Por eso, señorías, no existen regularizaciones generales en la Unión desde 2008.",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 4,
+"pagina": 8
+},
+{
+"candidatura": "bng",
+"cita": "O Goberno, mediante real decreto, establecerá no prazo de seis meses un procedemento para a regularización dos estranxeiros que se achen en territorio español antes do día 1 de novembro de 2021.",
+"orador": "Néstor Rego Candamil",
+"turno": 0,
+"pagina": 6
+}
+],
+"fecha": "2024-04-09",
+"voto": {
+"fecha": "2024-04-09",
+"titulo": "Proposición de Ley para una regularización extraordinaria para personas extranjeras en España (corresponde al número de expediente 120/000026/0000 de la XIV Legislatura).",
+"expediente": "120/000004",
+"si": 310,
+"no": 33,
+"abst": 0,
+"diario": null,
+"temas": [
+"inmigracion"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 1
+},
+"podemos": {
+"Sí": 3,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion034/20240409/Votacion001/VOT_20240409210631.json",
+"debates": [
+"36-2",
+"48-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "reforma-de-la-ley-de-extranjeria-sobre-menores-no-acompanados",
+"tema": "inmigracion",
+"titulo": "Reforma de la ley de extranjería sobre menores no acompañados",
+"que_es": [
+"Propuesta de PSOE, Sumar y Coalición Canaria para reformar la ley de extranjería y repartir entre comunidades autónomas la acogida de menores migrantes no acompañados.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite.",
+"despues_fuente": null,
+"debate": "58-2",
+"num": 58,
+"doc": "DSCD-15-PL-58.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "No engañen a los españoles, el drama de los menores no acompañados es solo la punta del iceberg de la emergencia migratoria que atraviesa nuestro país y que ustedes se empeñan en negar incluso con sus propios datos.",
+"orador": "Ana Isabel Alós López",
+"turno": 42,
+"pagina": 26
+},
+{
+"candidatura": "vox",
+"cita": "Porque, ahora mismo, tenemos unas leyes que el Gobierno no cumple, ni cumple ni hace cumplir.",
+"orador": "Andrés Alberto Rodríguez Almeida",
+"turno": 28,
+"pagina": 24
+},
+{
+"candidatura": "pnv",
+"cita": "Sin embargo, más allá de lo que se propone en ella, y que no deja de ser un parche necesario y urgente, el Gobierno está perdiendo una oportunidad para afrontar el reto de la migración de una forma responsable",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 12,
+"pagina": 16
+},
+{
+"candidatura": "psoe",
+"cita": "Y en el proyecto de ley hemos introducido propuestas del Partido Popular: los mecanismos de emergencia, urgencia o Protección Civil para la contratación por parte de las comunidades autónomas.",
+"orador": "Luc Andre Diouf Dioh",
+"turno": 0,
+"pagina": 8
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Este debate no va de quién aguanta más menores, no va de delincuencia, no va de identidad, va de derechos de la infancia.",
+"orador": "Nahuel González López",
+"turno": 4,
+"pagina": 10
+},
+{
+"candidatura": "podemos",
+"cita": "Hay fórmulas más humanitarias y vinculadas a las necesidades de las menores que nosotras entendemos que debieran explorarse y que la iniciativa que hoy nos traen aquí el Partido Socialista, SUMAR y Coalición Canaria no contemplan.",
+"orador": "Noemí Santana Perera",
+"turno": 10,
+"pagina": 15
+},
+{
+"candidatura": "junts",
+"cita": "El señor Illa tendrá que explicar muy bien por qué su partido apoya una ley española que a quien presiona y a quien tensa es a Cataluña.",
+"orador": "Míriam Nogueras i Camero",
+"turno": 20,
+"pagina": 19
+},
+{
+"candidatura": "erc",
+"cita": "Nuestro grupo considera imprescindible abordar la situación de los menores de edad que llegan al Estado después de un proceso migratorio largo, peligroso y traumático.",
+"orador": "Jordi Salvador i Duch",
+"turno": 26,
+"pagina": 22
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Esta proposición de ley la vemos de sentido común, la vemos lógica y, por ello, apoyaremos la toma en consideración.",
+"orador": "Jon Iñarritu García",
+"turno": 14,
+"pagina": 18
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Esto no es responsabilidad de ellos, somos nosotros los que tenemos que trabajar para dar una respuesta a uno de los grandes retos de este siglo, que Canarias vive en primer lugar",
+"orador": "Cristina Valido García",
+"turno": 6,
+"pagina": 13
+}
+],
+"fecha": "2024-07-23",
+"voto": {
+"fecha": "2024-07-23",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Socialista, Plurinacional SUMAR y Mixto, de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.",
+"expediente": "122/000123",
+"si": 171,
+"no": 177,
+"abst": 1,
+"diario": null,
+"temas": [
+"inmigracion"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/Votacion063/VOT_20240723221735.json",
+"debates": [
+"58-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "delegar-en-cataluna-competencias-de-inmigracion",
+"tema": "inmigracion",
+"titulo": "Delegar en Cataluña competencias de inmigración",
+"que_es": [
+"Propuesta de PSOE y Junts para delegar en la Generalitat de Cataluña facultades del Estado sobre inmigración, a través del artículo 150.2 de la Constitución.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: votaron a favor 173 y en contra 177.",
+"despues_fuente": null,
+"debate": "138-1",
+"num": 138,
+"doc": "DSCD-15-PL-138.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Estamos debatiendo sobre una delegación de competencias.",
+"orador": "José Zaragoza Alonso",
+"turno": 0,
+"pagina": 5
+},
+{
+"candidatura": "pp",
+"cita": "Y, cuando ustedes hacen eso que dice usted que no es un traspaso, sino una simple delegación, saben positivamente que lo que están haciendo es un traspaso.",
+"orador": "Nacho Martín Blanco",
+"turno": 4,
+"pagina": 11
+},
+{
+"candidatura": "vox",
+"cita": "En la forma, porque es mentira que las competencias en materia de extranjería sean delegables.",
+"orador": "María José Rodríguez de Millán Parro",
+"turno": 28,
+"pagina": 25
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Daremos nuestro apoyo a mejorar y agrandar el autogobierno siempre, porque el motor del autogobierno, cuando se garantiza la continuidad, es la sociedad catalana, no Junts.",
+"orador": "Aina Vidal Sáez",
+"turno": 26,
+"pagina": 22
+},
+{
+"candidatura": "podemos",
+"cita": "En lo que va de legislatura, esta Cámara ha debatido en más de treinta ocasiones sobre la inmigración y lo ha hecho siempre con un enfoque securitario, es decir, considerando la inmigración como un peligro social que hay que contener.",
+"orador": "Javier Sánchez Serna",
+"turno": 16,
+"pagina": 18
+},
+{
+"candidatura": "compromis",
+"cita": "Nosaltres votarem a favor de la presa en consideració d’aquesta proposició de llei, perquè creguem en l’autogovern.",
+"orador": "Àgueda Micó Micó",
+"turno": 10,
+"pagina": 15
+},
+{
+"candidatura": "junts",
+"cita": "I aquesta llei que avui es vota ens permetria a Catalunya augmentar el nostre autogovern i poder fer una gestió eficient i de proximitat, i també controlar l’actual desbordament, perquè les dades són molt clares.",
+"orador": "Míriam Nogueras i Camero",
+"turno": 2,
+"pagina": 7
+},
+{
+"candidatura": "erc",
+"cita": "Nosotros hoy no estamos defendiendo una ley o unas competencias de Junts.",
+"orador": "Gabriel Rufián Romero",
+"turno": 24,
+"pagina": 21
+},
+{
+"candidatura": "eh-bildu",
+"cita": "En primer lugar, en Euskal Herria Bildu creemos que la cesión de competencias a un territorio que así lo reclama mayoritariamente es algo de sentido común y algo positivo.",
+"orador": "Jon Iñarritu García",
+"turno": 22,
+"pagina": 20
+},
+{
+"candidatura": "pnv",
+"cita": "Debatimos el acuerdo recogido en una proposición de ley orgánica presentada por los Grupos Parlamentarios Socialista y Junts, para delegar en la Generalitat facultades del Estado en materia de inmigración a través del artículo 150.2 de la Constitución.",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 18,
+"pagina": 18
+},
+{
+"candidatura": "bng",
+"cita": "Escoitamos nestes días afirmacións sorprendentes, como que é racista que a política de inmigración e xestión de Cataluña, mais non debe selo se a xestión de Madrid porque, claro, esta é a orde natural das cousas.",
+"orador": "Néstor Rego Candamil",
+"turno": 14,
+"pagina": 17
+}
+],
+"fecha": "2025-09-23",
+"voto": {
+"fecha": "2025-09-23",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Socialista y Junts per Catalunya, Orgánica de delegación en la Comunidad Autónoma de Cataluña de competencias estatales en materia de inmigración.",
+"expediente": "122/000172",
+"si": 173,
+"no": 177,
+"abst": 0,
+"diario": null,
+"temas": [
+"inmigracion",
+"territorio"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"No": 2,
+"Sí": 24
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion133/20250923/Votacion001/VOT_20250923211048.json",
+"debates": [
+"138-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "propuesta-de-vox-para-restringir-la-regularizacion-por-arraigo",
+"tema": "inmigracion",
+"titulo": "Propuesta de Vox para restringir la regularización por arraigo",
+"que_es": [
+"Propuesta de Vox para reformar la ley de extranjería y restringir la regularización de inmigrantes en situación irregular a través del arraigo.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite.",
+"despues_fuente": null,
+"debate": "136-1",
+"num": 136,
+"doc": "DSCD-15-PL-136.PDF",
+"posturas": [
+{
+"candidatura": "vox",
+"cita": "Con esta proposición de ley se elimina la trampa del arraigo, ese coladero de regularizaciones masivas, esa vía de regalo indiscriminado de lo más valioso que tenemos: nuestra nación, nuestra pertenencia y nuestra identidad.",
+"orador": "Rocío De Meer Méndez",
+"turno": 0,
+"pagina": 5
+},
+{
+"candidatura": "pp",
+"cita": "Señorías, la inmigración ilegal está desbocada y la inmigración legal tampoco funciona.",
+"orador": "Maribel Sánchez Torregrosa",
+"turno": 14,
+"pagina": 15
+},
+{
+"candidatura": "psoe",
+"cita": "Primero, la inmigración se ha convertido en un factor decisivo del crecimiento económico de España.",
+"orador": "Luc Andre Diouf Dioh",
+"turno": 12,
+"pagina": 14
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Hoy, lo que pretenden con esta proposición es empezar con aquello que anunció su portavoz De Meer este verano, esa expulsión de esos más de ocho millones de inmigrantes que viven en nuestro país.",
+"orador": "Candela López Tagliafico",
+"turno": 10,
+"pagina": 12
+},
+{
+"candidatura": "podemos",
+"cita": "En esta proposición ustedes nos plantean endurecer los requisitos para regularizar inmigrantes, cargarse prácticamente el derecho de asilo y refugio, agilizar los expedientes de expulsión.",
+"orador": "Javier Sánchez Serna",
+"turno": 2,
+"pagina": 7
+},
+{
+"candidatura": "erc",
+"cita": "I aquesta també val: el 98 % de la població migrant no comet cap delicte.",
+"orador": "Jordi Salvador i Duch",
+"turno": 8,
+"pagina": 10
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Pero si examinamos los datos, lo que vemos es que todo lo que dicen ustedes es mentira, porque no hay datos que unan las migraciones con la delincuencia.",
+"orador": "Jon Iñarritu García",
+"turno": 6,
+"pagina": 9
+},
+{
+"candidatura": "pnv",
+"cita": "Es un fenómeno el migratorio que reclama en todo caso un esfuerzo y una cooperación en todas las áreas con los países de origen y tránsito y un abordaje en nuestro caso a nivel de la Unión.",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 4,
+"pagina": 8
+}
+],
+"fecha": "2025-09-16",
+"voto": {
+"fecha": "2025-09-16",
+"titulo": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, para restringir la regularización de inmigrantes ilegales a través del arraigo.",
+"expediente": "122/000191",
+"si": 169,
+"no": 177,
+"abst": 1,
+"diario": null,
+"temas": [
+"inmigracion"
+],
+"grupos": {
+"frente-amplio": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion131/20250916/Votacion001/VOT_20250916211204.json",
+"debates": [
+"136-1"
+],
+"resultado": "No salió adelante"
+}
 }
 ]

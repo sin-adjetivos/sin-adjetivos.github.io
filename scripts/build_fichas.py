@@ -3,12 +3,14 @@ import json, re, sys, unicodedata
 sys.path.insert(0, 'scripts')
 from lib_pdf import norm
 from fuente_fichas import FICHAS
+from fuente_fichas_2 import FICHAS_2
+FICHAS = FICHAS + FICHAS_2
 from seleccion_fichas import elegir
 
 VALORATIVAS = r'\b(polémic\w*|histórico|histórica|importante\w*|grave\w*|escandal\w*|enorme\w*|radical\w*|extremo|extrema|ultra\w*|duro|dura|valiente\w*|vergonz\w*|polarizad\w*|controvertid\w*|ambicios\w*|necesari\w*|buen\w*|mal[oa]s?)\b'
 errores = []; salida = []
 todos = json.load(open('site/build-data/votos_todos.json', encoding='utf-8'))
-sel = elegir(6)
+sel = elegir(8)
 elegidos = {(t, x.get('expediente')) for t, xs in sel.items() for x in xs}
 for f in FICHAS:
     d = json.load(open(f"site/build-data/debates/{f['debate']}.json", encoding='utf-8'))

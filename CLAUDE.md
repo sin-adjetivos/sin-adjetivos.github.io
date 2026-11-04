@@ -25,7 +25,7 @@ Blanco y sepia de las papeletas en las páginas generales; color de cada partido
 
 ## Plan
 1. Hecho: portal, colores, plenos con buscador, votaciones, Actualidad automática.
-2. Siguiente: fichas de unas 50 votaciones clave elegidas por reglas públicas, en lenguaje sencillo, con cita literal de cada postura. Empezar por vivienda, pensiones e inmigración.
+2. Fichas de votaciones clave (`scripts/fuente_fichas*.py`, verificadas por `build_fichas.py`): hechas vivienda, pensiones e inmigración. Faltan los otros 9 temas. Antes, revisar las reglas de `seleccion_fichas.py` para cada tema, porque aún cuelan títulos ajenos (por ejemplo, un impuesto en sanidad). Herramientas: `scripts/buscar_en_debate.py` y `scripts/leer_debate.py`.
 3. Revisar uno a uno los casos judiciales, empezando por los abiertos; hoy proceden de DatosClaros sin verificación propia.
 4. Añadir programas de 2026 cuando se publiquen. Votación de vivienda en Diputación Permanente prevista el 12 de noviembre.
 5. TikTok: guiones e imágenes verticales desde los datos, con formato fijo y registro público de cuántas veces sale cada partido.

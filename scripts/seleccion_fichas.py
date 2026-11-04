@@ -12,7 +12,7 @@ import json, re, sys
 ESTRICTO = {
  'vivienda': r'viviend|alquiler|arrendamiento|desahuci|lanzamientos|ocupaci[oó]n ilegal',
  'pensiones': r'pensi[oó]n|pensiones|revaloriz|jubilaci|Seguridad Social|Real Decreto-ley (9/2024|1/2025)',
- 'inmigracion': r'extranjer|regularizaci[oó]n|migrant|arraigo|competencias estatales en materia de inmigraci|asilo',
+ 'inmigracion': r'extranjer[ií]a|los extranjeros|personas extranjeras|regularizaci[oó]n|migrant|arraigo|competencias estatales en materia de inmigraci|asilo',
  'impuestos': r'impuesto|tributari|fiscal|IRPF|\bIVA\b|presupuestos generales',
  'empleo': r'salario m[ií]nimo|jornada|desempleo|despido|Estatuto de los Trabajadores|laboral|aut[oó]nomos',
  'sanidad': r'sanidad|sanitari|\bsalud\b|\bELA\b|Esclerosis|medicamento|enfermer|hospital|tabaco',

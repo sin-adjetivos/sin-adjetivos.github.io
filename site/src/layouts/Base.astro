@@ -14,7 +14,8 @@ const menu = [['/actualidad/', 'Actualidad'], ['/temas/', 'Temas'], ['/candidatu
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{titulo ? `${titulo}, Sin adjetivos` : 'Sin adjetivos. Elecciones del 29 de noviembre'}</title>
     <meta name="description" content={descripcion} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/icono-256.png" />
+    <link rel="apple-touch-icon" href="/icono-256.png" />
     <meta property="og:site_name" content="Sin adjetivos" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_ES" />
@@ -24,14 +25,14 @@ const menu = [['/actualidad/', 'Actualidad'], ['/temas/', 'Temas'], ['/candidatu
     <meta property="og:image" content={new URL('og.png', Astro.site).href} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Logotipo de Sin adjetivos: la palabra Sin y una barra negra en una papeleta." />
+    <meta property="og:image:alt" content="Logotipo de Sin adjetivos: la palabra sin y un trazo de rotulador debajo." />
     <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body class:list={[{ conColor: color }]} style={color ? `--fondo:${color};--tintaHero:${tintaHero}` : undefined}>
     <a class="saltar" href="#contenido">Saltar al contenido</a>
     <header class="cabecera">
       <div class="marco">
-        <a class="marca" href="/">Sin adjetivos</a>
+        <a class="marca" href="/"><img src="/icono-256.png" alt="" width="36" height="36" />Sin adjetivos</a>
         <nav class="menu" aria-label="Principal">
           {menu.map(([h, t]) => <a href={h} aria-current={ruta.startsWith(h) ? 'page' : undefined}>{t}</a>)}
         </nav>

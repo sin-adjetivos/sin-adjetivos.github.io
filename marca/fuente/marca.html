@@ -1,43 +1,31 @@
 <!doctype html><html><head><meta charset="utf-8"><style>
-@font-face{font-family:A;src:url(../../site/node_modules/@fontsource-variable/archivo/files/archivo-latin-standard-normal.woff2);font-weight:100 900;font-stretch:62% 125%}
+/* Logo: «sin» en Bricolage Grotesque y un trazo de rotulador en sepia donde iría el adjetivo. Se lee como una cara de expresión neutra. */
+@font-face{font-family:bric;src:url(bricolage-grotesque-latin-standard-normal.woff2);font-weight:200 800;font-stretch:75% 100%}
 *{box-sizing:border-box;margin:0}
-html,body{background:transparent;font-family:A;color:#000}
-.lienzo{position:relative;overflow:hidden;display:none}
-.sepia{background:#c4a982}
-/* La papeleta: «Sin» y una barra negra donde iría el adjetivo. El ancho del texto se ajusta al de la barra. */
-.slip{position:absolute;background:#fff;border-style:solid;border-color:#000;display:flex;flex-direction:column;justify-content:center}
-.sin{display:block;font-weight:800;font-stretch:100%;line-height:.8;white-space:nowrap;letter-spacing:-.02em;transform-origin:0 0}
-.barra{display:block;background:#000}
-.nombre{position:absolute;font-weight:800;font-stretch:62%;line-height:.92;letter-spacing:-.015em}
-.lema{position:absolute;font-weight:500;font-stretch:100%;line-height:1.25}
-</style></head><body>
+html,body{background:transparent}
+#c{position:relative;overflow:hidden}
+svg{display:block;position:absolute;left:0;top:0}
+</style></head><body><div id="c"></div>
 <script>
-function papeleta(padre, x, y, w, h, borde){
-  const s=document.createElement('div'); s.className='slip';
-  Object.assign(s.style,{left:x+'px',top:y+'px',width:w+'px',height:h+'px',borderWidth:borde+'px',padding:`0 ${w*.1}px`});
-  const t=document.createElement('span'); t.className='sin'; t.textContent='Sin';
-  const b=document.createElement('i'); b.className='barra';
-  s.append(t,b); padre.appendChild(s);
-  const util=w*.8-borde*2+0; let fs=h*.5; t.style.fontSize=fs+'px';
-  document.fonts.ready.then(()=>{
-    const r=document.createRange(); r.selectNodeContents(t);
-    const ancho=r.getBoundingClientRect().width; fs=fs*util/ancho*1.04; t.style.fontSize=fs+'px'; t.style.marginLeft=(-util*.024)+'px';  // compensa el aire lateral de la S y la n
-    b.style.height=(fs*.3)+'px'; b.style.marginTop=(fs*.16)+'px';
-  });
-}
+const SEPIA='#c4a982';
+const TRAZO=(x,y,w,h,c,rot=-2)=>`<g transform="rotate(${rot} ${x+w/2} ${y+h/2})"><path fill="${c}" d="M${x+h*.25},${y+h*.18} C${x+w*.2},${y-h*.06} ${x+w*.45},${y+h*.1} ${x+w*.62},${y+h*.02} S${x+w*.92},${y-h*.05} ${x+w-h*.1},${y+h*.16} C${x+w+h*.12},${y+h*.3} ${x+w+h*.06},${y+h*.72} ${x+w-h*.16},${y+h*.86} C${x+w*.78},${y+h*1.04} ${x+w*.55},${y+h*.84} ${x+w*.34},${y+h*.96} S${x+h*.3},${y+h*1.06} ${x+h*.08},${y+h*.82} C${x-h*.14},${y+h*.62} ${x-h*.04},${y+h*.3} ${x+h*.25},${y+h*.18} Z"/></g>`;
+// Marca en una caja de 360 × 360, centrada en el punto medio.
+const MARCA=(letra,acento)=>`<text x="180" y="188" font-family="bric" font-size="176" font-weight="800" fill="${letra}" text-anchor="middle" letter-spacing="-3">sin</text>${TRAZO(74,214,212,40,acento)}`;
 const v=new URLSearchParams(location.search).get('v');
-const L={perfil:[1080,1080,1],logo:[1080,1080,0],banner:[1500,500,1],og:[1200,630,1]}[v];
-const c=document.createElement('div'); c.className='lienzo '+(L[2]?'sepia':''); c.id='c';
-Object.assign(c.style,{display:'block',width:L[0]+'px',height:L[1]+'px'}); document.body.appendChild(c);
-if(v==='perfil') papeleta(c,130,245,820,590,6);
-if(v==='logo') papeleta(c,40,190,1000,700,8);
+const [W,H,fondo]={perfil:[1080,1080,'#000'],oscuro:[1080,1080,null],claro:[1080,1080,null],icono:[256,256,'#000'],banner:[1500,500,'#000'],og:[1200,630,'#000']}[v];
+const c=document.getElementById('c'); Object.assign(c.style,{width:W+'px',height:H+'px',background:fondo||'transparent'});
+let s='';
+if(v==='perfil'||v==='oscuro'||v==='icono') s=`<svg width="${W}" height="${H}" viewBox="0 0 360 360">${MARCA('#fff',SEPIA)}</svg>`;
+if(v==='claro') s=`<svg width="${W}" height="${H}" viewBox="0 0 360 360">${MARCA('#000',SEPIA)}</svg>`;
 if(v==='banner'||v==='og'){
-  const k=v==='og'?1:0;
-  papeleta(c,k?70:90,k?135:95,k?420:400,k?360:310,k?4:4);
-  const n=document.createElement('div'); n.className='nombre'; n.textContent='Sin adjetivos';
-  Object.assign(n.style,{left:(k?550:560)+'px',top:(k?170:130)+'px',fontSize:(k?128:138)+'px',whiteSpace:'nowrap'});
-  const m=document.createElement('div'); m.className='lema'; m.innerHTML='Lo que proponen, votan y dicen los partidos.<br>Con la fuente al lado.';
-  Object.assign(m.style,{left:(k?554:564)+'px',top:(k?315:275)+'px',fontSize:(k?28:34)+'px'});
-  c.append(n,m);
+  const k=v==='og';
+  const lado=k?430:410, x=k?60:70, y=(H-lado)/2, tx=k?500:500;
+  s=`<svg width="${lado}" height="${lado}" viewBox="0 0 360 360" style="left:${x}px;top:${y}px">${MARCA('#fff',SEPIA)}</svg>
+  <svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+   <text x="${tx}" y="${k?290:245}" font-family="bric" font-size="${k?94:112}" font-weight="800" fill="#fff" letter-spacing="-2">Sin adjetivos</text>
+   <text x="${tx+2}" y="${k?348:305}" font-family="bric" font-size="${k?29:33}" font-weight="500" fill="#fff">Lo que proponen, votan y dicen los partidos.</text>
+   <text x="${tx+2}" y="${k?388:348}" font-family="bric" font-size="${k?29:33}" font-weight="500" fill="${SEPIA}">Con la fuente al lado.</text>
+  </svg>`;
 }
+c.innerHTML=s;
 </script></body></html>

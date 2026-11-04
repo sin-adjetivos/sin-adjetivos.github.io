@@ -13,7 +13,7 @@ Portal independiente para informar a la ciudadanía sobre las elecciones general
 Blanco y sepia de las papeletas en las páginas generales; color de cada partido en sus páginas y etiquetas (`site/src/lib/color.js`). Lo que dicen otros va en Source Serif; lo nuestro, en Archivo. Evitar la estética típica de IA: mayúsculas en etiquetas, puntos medios, flechas, fuente monoespaciada.
 
 ## Marca
-Logo: papeleta blanca sobre sepia con «Sin» y una barra negra donde iría el adjetivo. Imágenes en `marca/`, generadas con `marca/fuente/generar.cjs`. La de vista previa se copia a `site/public/og.png`.
+Logo: «sin» blanco en Bricolage Grotesque sobre negro, con un trazo de rotulador sepia donde iría el adjetivo; se lee como una cara de expresión neutra. Lo eligió el dueño. Imágenes en `marca/`, generadas con `marca/fuente/generar.cjs`. La vista previa se copia a `site/public/og.png` y el icono a `site/public/icono-256.png`.
 
 ## Cómo funciona
 - `scripts/fuente_*.py`: datos escritos a mano (candidaturas, citas, etiquetas de votaciones).

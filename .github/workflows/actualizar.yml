@@ -54,4 +54,9 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/noticias.json site/src/data/actualidad.json
           git diff --cached --quiet || git commit -m "Actualidad: titulares del $(date -u +%F\ %H:%M) UTC"
-          git push
+          # Si alguien ha subido cambios mientras tanto, los titulares se recolocan encima; en estos dos archivos manda esta ejecución, que es la más reciente.
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            sleep 15
+          done
+          exit 1

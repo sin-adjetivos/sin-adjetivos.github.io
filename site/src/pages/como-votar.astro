@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+const LOREG = 'https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672';
+const RD = 'https://www.boe.es/eli/es/rd/1999/04/16/605/con';
+const JEC = 'https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf';
+const INTERIOR = 'https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx';
+---
+<Base titulo="Cómo votar" descripcion="Qué llevar, cómo son las papeletas y cómo pedir el voto por correo para las elecciones del 29 de noviembre de 2026, con los plazos oficiales.">
+  <div class="marco">
+    <header class="entrada">
+      <h1>Cómo votar</h1>
+      <p>Lo práctico para el 29 de noviembre. Sale de la ley electoral y del calendario oficial, enlazados al final. Comprobado el 4 de noviembre de 2026.</p>
+    </header>
+
+    <section class="seccion">
+      <h2>Fechas que te afectan</h2>
+      <dl class="fechas">
+        <dt>Hasta el 19 de noviembre</dt><dd>Pedir el voto por correo.</dd>
+        <dt>Hasta el 25 de noviembre</dt><dd>Enviar el voto por correo.</dd>
+        <dt>13 a 27 de noviembre</dt><dd>Campaña electoral.</dd>
+        <dt>28 de noviembre</dt><dd>Jornada de reflexión.</dd>
+        <dt>29 de noviembre</dt><dd>Votación, de 9:00 a 20:00.</dd>
+      </dl>
+    </section>
+
+    <div class="prosa">
+      <h2>Votar en persona</h2>
+      <p>Solo puedes votar en la mesa que te corresponde. Los ayuntamientos exponen las listas de secciones y mesas del 19 al 28 de noviembre, y también se publican en internet.</p>
+      <p>Lleva el DNI, el pasaporte o el permiso de conducir, con tu fotografía. Si eres extranjero, también vale la tarjeta de residencia.</p>
+
+      <h2>Las dos papeletas</h2>
+      <p><strong>Congreso, papeleta blanca.</strong> Eliges una candidatura entera y metes su papeleta en el sobre. No se pueden tachar ni añadir nombres, ni cambiar el orden.</p>
+      <p><strong>Senado, papeleta sepia.</strong> Hay una sola papeleta con todos los candidatos y marcas a quienes quieras: hasta tres en las provincias, hasta dos en Gran Canaria, Mallorca, Tenerife, Ceuta y Melilla, y uno en las demás islas. No hace falta que sean del mismo partido.</p>
+
+      <h2>Voto en blanco y voto nulo</h2>
+      <p><strong>En blanco</strong> es un voto válido: un sobre sin papeleta o, en el Senado, una papeleta sin ninguna marca.</p>
+      <p><strong>Nulo</strong> es un voto que no cuenta. Lo es, entre otros casos, si la papeleta o el sobre no son oficiales, si metes la papeleta sin sobre, si el sobre lleva papeletas de candidaturas distintas, si escribes o tachas algo en la papeleta, o si en el Senado marcas más nombres de los permitidos. Dos papeletas iguales de la misma candidatura cuentan como un solo voto.</p>
+
+      <h2 id="votar-por-correo">Votar por correo</h2>
+      <p>Puedes hacerlo si ese día no vas a estar en tu localidad o no puedes ir a votar. Si lo pides, ya no podrás votar en persona.</p>
+      <ol>
+        <li><strong>Pídelo hasta el 19 de noviembre.</strong> Ve a cualquier oficina de Correos con tu DNI original, no sirve una fotocopia. También puedes pedirlo en la web de Correos con DNI electrónico o certificado digital.</li>
+        <li><strong>Espera la documentación.</strong> La Oficina del Censo la envía del 9 al 22 de noviembre a la dirección que indiques: las papeletas, los sobres y el certificado de que estás en el censo.</li>
+        <li><strong>Prepara el voto.</strong> Mete la papeleta en el sobre de votación. Luego mete ese sobre y el certificado en el sobre dirigido a tu mesa. No metas ningún documento de identidad en el sobre de votación: anularía el voto.</li>
+        <li><strong>Envíalo hasta el 25 de noviembre.</strong> Llévalo a Correos, identifícate y envíalo por correo certificado, que es gratis. Mejor no esperar al último día.</li>
+      </ol>
+      <p><strong>Si por enfermedad o incapacidad no puedes ir a pedirlo,</strong> puede hacerlo otra persona con un certificado médico oficial y una autorización ante notario, ambos gratuitos. Cada persona solo puede representar a un elector.</p>
+
+      <h2>Si trabajas ese día</h2>
+      <p>La norma prevé que dispongas de hasta cuatro horas libres y retribuidas dentro de tu horario para votar, menos si tienes jornada reducida. También prevé tiempo para pedir y enviar el voto por correo si trabajas lejos de casa.</p>
+
+      <h2>Si estás en el extranjero</h2>
+      <p><strong>Si resides fuera y estás inscrito en el censo de residentes,</strong> puedes enviar el voto por correo a tu consulado hasta el 24 de noviembre o depositarlo en la urna del consulado del 21 al 26 de noviembre.</p>
+      <p><strong>Si estás fuera temporalmente,</strong> el plazo para pedirlo acabó el 31 de octubre. Quien lo pidió debe enviar su voto por correo certificado no más tarde del 25 de noviembre.</p>
+
+      <h2>Voto en braille</h2>
+      <p>El plazo para pedir la documentación en braille acabó el 2 de noviembre.</p>
+
+      <h2>Fuentes</h2>
+      <ul>
+        <li><a href={JEC} rel="noopener">Calendario de la Junta Electoral Central</a>.</li>
+        <li><a href={LOREG} rel="noopener">Ley Orgánica del Régimen Electoral General</a>: artículos 72 y 73 (voto por correo), 85 y 86 (identificación y mesa), 96 (votos nulos y en blanco) y 166 (Senado).</li>
+        <li><a href={RD} rel="noopener">Real Decreto 605/1999</a>: color de las papeletas y artículo 13 (horas libres para votar).</li>
+        <li><a href={INTERIOR} rel="noopener">Nota del Ministerio del Interior sobre el voto por correo</a>.</li>
+        <li><a href="https://infoelectoral.interior.gob.es/es/proceso-electoral/Elecciones-Generales-29-N/" rel="noopener">Información oficial del Ministerio del Interior sobre estas elecciones</a>. Ante cualquier duda, lo que diga la administración electoral prevalece sobre esta página.</li>
+      </ul>
+      <p>¿Has visto un error? <a href="/correcciones/">Pide una corrección</a>.</p>
+    </div>
+  </div>
+</Base>

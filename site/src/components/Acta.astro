@@ -21,8 +21,9 @@ const ficha = v.ficha ?? (v.expediente ? `https://www.congreso.es/busqueda-de-in
       ))}
     </dl>
   ) : (
-    <p class="nota" style="margin-top:.5rem">No mostramos el voto por grupo: en las votaciones por llamamiento, los datos abiertos del Congreso solo dan el total.</p>
+    <p class="nota" style="margin-top:.5rem">No mostramos el voto por grupo: los datos abiertos del Congreso solo dan el total y la lista nominal del Diario no cuadra con él.</p>
   )}
+  {v.origen_grupos === 'diario' && <p class="nota" style="margin-top:.5rem">Votación por llamamiento. El voto por grupo lo hemos contado a partir de la lista nominal del Diario de Sesiones, y la suma coincide con el total oficial.</p>}
   <p class="acta-enlaces">
     {ficha && <a href={ficha} rel="noopener">Ficha del Congreso</a>}
     {v.json && <a href={v.json} rel="noopener">Voto de cada diputado</a>}

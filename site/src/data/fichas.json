@@ -121,8 +121,46 @@
 "temas": [
 "vivienda"
 ],
-"grupos": null,
+"grupos": {
+"pnv": {
+"Sí": 5
+},
+"psoe": {
+"Sí": 121
+},
+"frente-amplio": {
+"Sí": 26
+},
+"eh-bildu": {
+"Sí": 6
+},
+"erc": {
+"Sí": 7
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"compromis": {
+"Sí": 1
+},
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 32
+},
+"junts": {
+"No": 7
+}
+},
 "json": null,
+"origen_grupos": "diario",
 "debates": [
 "210-1"
 ],
@@ -228,8 +266,46 @@
 "temas": [
 "vivienda"
 ],
-"grupos": null,
+"grupos": {
+"psoe": {
+"Sí": 121
+},
+"frente-amplio": {
+"Sí": 26
+},
+"eh-bildu": {
+"Sí": 6
+},
+"erc": {
+"Sí": 7
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"compromis": {
+"Sí": 1
+},
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 32
+},
+"pnv": {
+"No": 5
+},
+"junts": {
+"No": 7
+},
+"coalicion-canaria": {
+"No": 1
+}
+},
 "json": null,
+"origen_grupos": "diario",
 "debates": [
 "210-2"
 ],
@@ -3895,8 +3971,46 @@
 "temas": [
 "territorio"
 ],
-"grupos": null,
+"grupos": {
+"pnv": {
+"Sí": 5
+},
+"psoe": {
+"Sí": 120
+},
+"frente-amplio": {
+"Sí": 26
+},
+"eh-bildu": {
+"Sí": 6
+},
+"junts": {
+"Sí": 7
+},
+"erc": {
+"Sí": 7
+},
+"podemos": {
+"Sí": 3
+},
+"bng": {
+"Sí": 1
+},
+"compromis": {
+"Sí": 1
+},
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"coalicion-canaria": {
+"No": 1
+}
+},
 "json": null,
+"origen_grupos": "diario",
 "debates": [
 "12-1",
 "16-4",

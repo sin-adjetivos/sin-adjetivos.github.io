@@ -4,6 +4,7 @@ sys.path.insert(0, 'scripts')
 from parse_ds import turnos, casa, es_presidencia, apellidos
 from lib_pdf import norm
 from reglas import TEMA_RX, VOTO_RX, PROPUESTA_RX, GRUPOS, MIXTO, GOBIERNO_RX
+from llamamientos import diputados, grupos_de
 
 OUT = 'site/build-data'; shutil.rmtree(OUT, ignore_errors=True); os.makedirs(f'{OUT}/debates')
 filas = json.load(open('raw/congreso/interv/IntervencionesCronologicamente.json', encoding='utf-8'))
@@ -139,7 +140,7 @@ idx = json.load(open('data/votaciones_todas.json', encoding='utf-8'))
 por_exp = collections.defaultdict(list)
 for m in indice:
     for e in m['expedientes']: por_exp[e].append(m['id'])
-votos = []; faltan = 0; expediente_a = 0
+votos = []; faltan = 0; expediente_a = 0; dips = diputados()
 for v in idx:
     if v['si'] is None: continue
     rec = {k: v.get(k) for k in ('fecha', 'titulo', 'expediente', 'si', 'no', 'abst', 'diario')}
@@ -158,6 +159,10 @@ for v in idx:
                 if k: g[k][x['voto']] += 1
             rec['grupos'] = {k: dict(c) for k, c in g.items()}
         else: faltan += 1
+    else:
+        rec['grupos'], motivo = grupos_de(v, dips)
+        if rec['grupos']: rec['origen_grupos'] = 'diario'; stats['llamamientos_contados'] += 1
+        elif v.get('diario'): print('Sin voto por grupo:', v['fecha'], v['titulo'][:70], '|', motivo[:120])
     deb = por_exp.get(v.get('expediente') or '', [])
     rec['debates'] = deb
     if deb: expediente_a += 1

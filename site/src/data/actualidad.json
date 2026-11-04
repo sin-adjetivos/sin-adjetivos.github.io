@@ -1,22 +1,22 @@
 {
-"actualizado": "2026-11-04T13:44+00:00",
+"actualizado": "2026-11-04T16:29+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 117,
-"El Confidencial": 12,
+"COPE": 116,
+"El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 51,
 "El País": 19,
 "Europa Press": 10,
-"infoLibre": 52,
+"infoLibre": 53,
 "La Vanguardia": 100,
 "Libertad Digital": 72,
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 31
+"20minutos": 32
 },
 "sin_feed": [
 "El Debate",
@@ -28,17 +28,19 @@
 {
 "medios": 9,
 "desde": "2026-11-04T08:28+00:00",
-"hasta": "2026-11-04T11:00+00:00",
-"temas": [],
+"hasta": "2026-11-04T14:57+00:00",
+"temas": [
+"sanidad"
+],
 "comunes": [
-"cuerpo",
 "transportes",
+"cuerpo",
 "carlos",
+"sanchez",
+"cartera",
 "oscar",
 "puente",
-"dimision",
-"cartera",
-"sanchez"
+"dimision"
 ],
 "titulares": [
 {
@@ -78,12 +80,6 @@
 "fecha": "2026-11-04T08:28+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Dimisión de Óscar Puente, última hora en directo: reacciones a Carlos Cuerpo como ministro de Transportes en funciones",
-"url": "https://www.lavanguardia.com/politica/20261104/11675606/dimision-oscar-puente-accidente-tren-toledo-reacciones-ultima-hora-hoy-en-directo.html",
-"fecha": "2026-11-04T10:57+00:00"
-},
-{
 "medio": "Libertad Digital",
 "titulo": "Pedro Sánchez anuncia que Carlos Cuerpo va a ser ministro de Transportes \"de forma transitoria\"",
 "url": "https://www.libertaddigital.com/espana/politica/2026-11-04/pedro-sanchez-anuncia-que-carlos-cuerpo-va-a-ser-el-nuevo-ministro-de-transportes-7486332/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
@@ -94,30 +90,103 @@
 "titulo": "Sánchez nombra nuevo ministro de Transportes al vicepresidente Cuerpo",
 "url": "https://okdiario.com/espana/sanchez-nombra-nuevo-ministro-transportes-vicepresidente-cuerpo-20696473",
 "fecha": "2026-11-04T09:00+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Cuerpo agradece a Sánchez asumir Transportes: «Una enorme responsabilidad»",
+"url": "https://theobjective.com/espana/politica/2026-11-04/cuerpo-agradece-sanchez-asumir-transportes-enorme-responsabilidad/",
+"fecha": "2026-11-04T14:57+00:00"
+}
+]
+},
+{
+"medios": 8,
+"desde": "2026-11-04T14:25+00:00",
+"hasta": "2026-11-04T16:07+00:00",
+"temas": [
+"justicia"
+],
+"comunes": [
+"aldama",
+"koldo",
+"000",
+"abalos",
+"647",
+"supremo",
+"euros",
+"requiere"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "El Supremo requiere a Ábalos, Koldo y Aldama que paguen 647.000 euros por la condena de las mascarillas",
+"url": "https://www.abc.es/espana/supremo-requiere-abalos-koldo-aldama-paguen-647000-20261104170720-nt.html",
+"fecha": "2026-11-04T16:07+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El Suprem dona quinze dies a Ábalos, Koldo i Aldama perquè paguin els 647.000 euros de la sentència del cas mascaretes",
+"url": "https://www.ara.cat/politica/suprem-dona-quinze-dies-abalos-koldo-aldama-perque-paguin-647-000-euros-sentencia-cas-mascaretes_25_5900069.html",
+"fecha": "2026-11-04T15:18+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El TS requiere a Ábalos, Koldo y Aldama pagar 647.000 € por su condena en el caso mascarillas",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-pago-caso-mascarillas-1tps_4458868/",
+"fecha": "2026-11-04T14:44+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El TS requiere al exministro socialista Ábalos, Koldo García y Aldama al pago de 647.000 € por sus delitos de corrupción",
+"url": "https://www.elespanol.com/espana/tribunales/20261104/ts-requiere-exministro-socialista-abalos-koldo-garcia-aldama-pago-eur-delitos-corrupcion/1003744446125_0.html",
+"fecha": "2026-11-04T14:42+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo García y Aldama",
+"url": "https://www.lavanguardia.com/politica/20261104/11676090/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama.html",
+"fecha": "2026-11-04T15:24+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El Tribunal Supremo requiere a Ábalos, Koldo y Aldama el pago de 647.000 euros por su condena en el caso Koldo",
+"url": "https://www.libertaddigital.com/espana/2026-11-04/el-tribunal-supremo-requiere-a-abalos-koldo-y-aldama-el-pago-de-647-000-euros-por-su-condena-en-el-caso-koldo-7486623/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T14:50+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El Supremo exige a Ábalos, Koldo y Aldama devolver 430.298 € de las mordidas y pagar más de 170.000 en multas",
+"url": "https://okdiario.com/espana/supremo-exige-abalos-koldo-aldama-devolver-430-298-mordidas-pagar-mas-170-000-multas-20700450",
+"fecha": "2026-11-04T14:25+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Supremo ejecuta el fallo del ‘caso mascarillas’ y pide 650.000 euros a Ábalos, Aldama y Koldo",
+"url": "https://theobjective.com/espana/tribunales/2026-11-04/supremo-caso-mascarillas-abalos-aldama-koldo/",
+"fecha": "2026-11-04T14:40+00:00"
 }
 ]
 },
 {
 "medios": 7,
-"desde": "2026-11-03T13:22+00:00",
-"hasta": "2026-11-03T16:18+00:00",
+"desde": "2026-11-03T13:49+00:00",
+"hasta": "2026-11-04T16:10+00:00",
 "temas": [],
 "comunes": [
 "joyas",
 "zapatero",
-"pide",
 "juez",
-"autor",
-"identifique",
-"marca",
-"policia"
+"saudi",
+"arabia",
+"calama",
+"pide"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "El juez pide a la Policía que identifique al autor de la marca tallada en las joyas de Zapatero",
-"url": "https://www.20minutos.es/nacional/juez-caso-plus-ultra-pide-policia-que-identifique-autor-punzon-las-joyas-zapatero_7056659_0.html",
-"fecha": "2026-11-03T14:05+00:00"
+"medio": "ABC",
+"titulo": "Zapatero dice que el juez le investiga a partir de una «sospecha» y recurre que no pida a Arabia Saudí explicaciones sobre las joyas",
+"url": "https://www.abc.es/espana/zapatero-dice-juez-investiga-partir-sospecha-recurre-20261104164429-nt.html",
+"fecha": "2026-11-04T15:44+00:00"
 },
 {
 "medio": "COPE",
@@ -126,22 +195,16 @@
 "fecha": "2026-11-03T13:56+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "El juez pide a la UDEF que identifique al autor de la marca grabada en las joyas de Zapatero para intentar revelar su origen",
-"url": "https://www.elespanol.com/espana/tribunales/20261103/juez-pide-udef-identifique-autor-marca-grabada-joyas-zapatero-intentar-revelar-origen/1003744444476_0.html",
-"fecha": "2026-11-03T13:22+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero",
-"url": "https://www.elmundo.es/espana/2026/11/03/6ae9e24b21efa01e778b45a9.html",
-"fecha": "2026-11-03T16:18+00:00"
-},
-{
 "medio": "elDiario.es",
 "titulo": "El juez del caso Plus Ultra pide a la Policía que identifique al autor del punzón de las joyas de Zapatero",
 "url": "https://www.eldiario.es/politica/juez-caso-plus-ultra-pide-policia-identifique-autor-punzon-joyas-zapatero_1_13634445.html",
 "fecha": "2026-11-03T13:53+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Zapatero asegura que no conserva documentación de las joyas y ve \"pertinente\" pedir información a Arabia Saudí",
+"url": "https://www.europapress.es/nacional/noticia-zapatero-asegura-no-conserva-documentacion-joyas-ve-pertinente-pedir-informacion-arabia-saudi-20261104171017.html",
+"fecha": "2026-11-04T16:10+00:00"
 },
 {
 "medio": "La Vanguardia",
@@ -154,6 +217,12 @@
 "titulo": "Calama pide identificar al autor de las marcas en las joyas de Zapatero",
 "url": "https://www.libertaddigital.com/espana/2026-11-03/calama-pide-identificar-al-autor-de-las-marcas-en-la-joyas-de-zapatero-7485952/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-03T13:51+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Zapatero insiste al juez Calama en que pida información a Arabia Saudí de sus joyas",
+"url": "https://theobjective.com/espana/tribunales/2026-11-04/zapatero-juez-calama-informacion-arabia-saudi-joyas/",
+"fecha": "2026-11-04T15:08+00:00"
 }
 ]
 },
@@ -165,13 +234,13 @@
 "territorio"
 ],
 "comunes": [
-"puigdemont",
 "llarena",
+"puigdemont",
 "amnistia",
 "juez",
+"efecto",
 "procesamiento",
-"deja",
-"efecto"
+"deja"
 ],
 "titulares": [
 {
@@ -213,6 +282,61 @@
 ]
 },
 {
+"medios": 6,
+"desde": "2026-11-04T10:18+00:00",
+"hasta": "2026-11-04T11:30+00:00",
+"temas": [
+"territorio"
+],
+"comunes": [
+"junqueras",
+"turull",
+"romeva",
+"constitucional",
+"recursos",
+"amnistia",
+"supremo"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El Constitucional rechaza los recursos de Junqueras, Turull y Romeva porque el Supremo ya les ha aplicado la amnistía",
+"url": "https://www.20minutos.es/nacional/constitucional-rechaza-los-recursos-junqueras-turull-romeva-porque-supremo-ya-les-ha-aplicado-amnistia_7057050_0.html",
+"fecha": "2026-11-04T11:12+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El TC da por amnistiados a Turull, Romeva y Junqueras sin necesidad de ver ya sus amparos",
+"url": "https://www.abc.es/espana/tc-amnistiados-turull-romeva-junqueras-necesidad-ver-20261104120002-nt.html",
+"fecha": "2026-11-04T11:30+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El Constitucional dona carpetada als recursos de Turull, Junqueras i Romeva contra l'amnistia perquè el Suprem ja li ha fet cas",
+"url": "https://www.ara.cat/politica/constitucional-dona-carpetada-als-recursos-turull-junqueras-romeva-l-amnistia-perque-suprem-ja-li-fet-cas_25_5899706.html",
+"fecha": "2026-11-04T10:29+00:00"
+},
+{
+"medio": "El País",
+"titulo": "El Constitucional archiva los recursos de los líderes del ‘procés’ después de que el Supremo les haya aplicado la amnistía",
+"url": "https://elpais.com/espana/2026-11-04/el-constitucional-archiva-los-recursos-de-los-lideres-del-proces-despues-de-que-el-supremo-les-haya-aplicado-la-amnistia.html",
+"fecha": "2026-11-04T10:59+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El Constitucional da por amnistiados a Junqueras, Turull y Romeva después de que el Supremo aplicara el perdón",
+"url": "https://www.europapress.es/nacional/noticia-constitucional-da-amnistiados-junqueras-turull-romeva-despues-supremo-aplicara-perdon-20261104111818.html",
+"fecha": "2026-11-04T10:18+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El TC extingue los recursos de Junqueras, Turull y Romeva tras acatar Llarena la amnistía a los golpistas del 1-O",
+"url": "https://www.libertaddigital.com/espana/2026-11-04/el-tc-extingue-los-recursos-de-junqueras-turrull-y-romeva-tras-acatar-llarena-la-amnistia-a-los-golpistas-del-1-o-7486421/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T10:54+00:00"
+}
+]
+},
+{
 "medios": 5,
 "desde": "2026-11-03T08:30+00:00",
 "hasta": "2026-11-03T23:18+00:00",
@@ -225,9 +349,9 @@
 "huelga",
 "pide",
 "feijoo",
-"error",
-"grave",
 "accidente",
+"grave",
+"error",
 "urda"
 ],
 "titulares": [
@@ -265,48 +389,6 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-03T20:16+00:00",
-"hasta": "2026-11-03T21:22+00:00",
-"temas": [],
-"comunes": [
-"oscar",
-"puente",
-"ministro",
-"listas",
-"renuncia",
-"dimite",
-"transportes",
-"dimision"
-],
-"titulares": [
-{
-"medio": "El Español",
-"titulo": "Óscar Puente dimite como ministro de Transportes y renuncia a ir en las listas para el 29-N tras la tragedia de Urda",
-"url": "https://www.elespanol.com/espana/politica/20261103/oscar-puente-dimite-no-puedo-continuar-accidentes-gravedad-ano/1003744445161_0.html",
-"fecha": "2026-11-03T20:19+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Dimite Óscar Puente como ministro de Transportes y renuncia a ir en las listas del PSOE en las próximas elecciones",
-"url": "https://www.elmundo.es/espana/2026/11/03/6aea169221efa078728b45b5.html",
-"fecha": "2026-11-03T21:22+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Óscar Puente anuncia su dimisión como ministro y su renuncia a ir en las listas el 29N",
-"url": "https://www.eldiario.es/politica/oscar-puente-anuncia-dimision-ministro-comparecencia-congreso_1_13635747.html",
-"fecha": "2026-11-03T20:16+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Óscar Puente dimite como ministro de Transportes, última hora en directo | Reacciones y noticias de la dimisión y las elecciones generales del 29-N",
-"url": "https://okdiario.com/espana/oscar-puente-dimite-como-ministro-transportes-ultima-hora-directo-reacciones-noticias-dimision-elecciones-generales-del-29-n-20686190",
-"fecha": "2026-11-03T20:27+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-03T09:39+00:00",
 "hasta": "2026-11-04T11:15+00:00",
 "temas": [
@@ -314,13 +396,13 @@
 ],
 "comunes": [
 "iberoamericana",
-"lula",
 "cumbre",
+"lula",
 "sheinbaum",
 "madrid",
-"sanchez",
 "milei",
-"participaran"
+"sanchez",
+"delcy"
 ],
 "titulares": [
 {
@@ -350,6 +432,128 @@
 ]
 },
 {
+"medios": 4,
+"desde": "2026-11-03T15:30+00:00",
+"hasta": "2026-11-04T12:13+00:00",
+"temas": [],
+"comunes": [
+"electoral",
+"saber",
+"mesa",
+"tocado"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Cómo saber si te ha tocado mesa electoral: hay diferentes formas en cada ayuntamiento",
+"url": "https://www.20minutos.es/nacional/como-saber-tocado-mesa-electoral-hay-diferentes-formas-cada-ayuntamiento_7056688_0.html",
+"fecha": "2026-11-04T04:00+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Cómo saber si le ha tocado estar en una mesa electoral en las elecciones del 29-N y qué pasa si no puede acudir",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-04/como-saber-si-le-ha-tocado-estar-en-una-mesa-electoral-en-las-elecciones-del-29-n-y-que-pasa-si-no-puede-acudir.html",
+"fecha": "2026-11-04T12:13+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Cómo saber si te ha tocado ser mesa electoral en las generales de 2026 y qué motivos justifican la renuncia",
+"url": "https://www.eldiario.es/politica/si-mesa-electoral-generales-2026-motivos-justifican-renuncia_1_13634778.html",
+"fecha": "2026-11-03T15:30+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Cómo saber si te ha tocado ser miembro de una mesa electoral el 29-N: dónde consultar si has sido elegido para ser presidente o vocal",
+"url": "https://okdiario.com/espana/como-saber-si-tocado-ser-miembro-mesa-electoral-29-n-donde-consultar-si-has-sido-elegido-ser-presidente-o-vocal-20692259",
+"fecha": "2026-11-04T12:12+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-03T20:27+00:00",
+"hasta": "2026-11-04T12:15+00:00",
+"temas": [],
+"comunes": [
+"hora",
+"oscar",
+"puente",
+"ultima",
+"reacciones",
+"dimision",
+"transportes",
+"dimite"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Óscar Puente dimite y deja solo a Sánchez: sigue la última hora con las reacciones a esta decisión",
+"url": "https://www.cope.es/actualidad/espana/al-minuto/oscar-puente-dimite-deja-sanchez-sigue-ultima-hora-reacciones-decision-20261104_3468062.html",
+"fecha": "2026-11-04T11:24+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Última hora sobre la dimisión de Óscar Puente y la actualidad política",
+"url": "https://www.eldiario.es/politica/ultima-hora-dimision-oscar-puente-actualidad-politica_6_13636217.html",
+"fecha": "2026-11-04T07:26+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Dimisión de Óscar Puente, última hora en directo: reacciones a Carlos Cuerpo como ministro de Transportes en funciones",
+"url": "https://www.lavanguardia.com/politica/20261104/11675606/dimision-oscar-puente-accidente-tren-toledo-reacciones-ultima-hora-hoy-en-directo.html",
+"fecha": "2026-11-04T10:57+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Óscar Puente dimite como ministro de Transportes, última hora en directo | Reacciones y noticias de la dimisión y las elecciones generales del 29-N",
+"url": "https://okdiario.com/espana/oscar-puente-dimite-como-ministro-transportes-ultima-hora-directo-reacciones-noticias-dimision-elecciones-generales-del-29-n-20686190",
+"fecha": "2026-11-03T20:27+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-03T13:22+00:00",
+"hasta": "2026-11-04T15:27+00:00",
+"temas": [],
+"comunes": [
+"zapatero",
+"joyas",
+"autor",
+"marca",
+"pide",
+"juez",
+"grabada",
+"identifique"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El juez pide a la Policía que identifique al autor de la marca tallada en las joyas de Zapatero",
+"url": "https://www.20minutos.es/nacional/juez-caso-plus-ultra-pide-policia-que-identifique-autor-punzon-las-joyas-zapatero_7056659_0.html",
+"fecha": "2026-11-03T14:05+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El juez pide a la UDEF que identifique al autor de la marca grabada en las joyas de Zapatero para intentar revelar su origen",
+"url": "https://www.elespanol.com/espana/tribunales/20261103/juez-pide-udef-identifique-autor-marca-grabada-joyas-zapatero-intentar-revelar-origen/1003744444476_0.html",
+"fecha": "2026-11-03T13:22+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El juez pide investigar quién es el autor de la marca con una 'T' grabada en las joyas de Zapatero",
+"url": "https://www.elmundo.es/espana/2026/11/03/6ae9e24b21efa01e778b45a9.html",
+"fecha": "2026-11-03T16:18+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Zapatero defiende que no declaró las joyas como hizo con otros regalos por ser un obsequio \"estrictamente personal\"",
+"url": "https://www.eldiario.es/politica/zapatero-defiende-no-declaro-joyas-hizo-regalos-obsequio-estrictamente-personal_1_13638219.html",
+"fecha": "2026-11-04T14:55+00:00"
+}
+]
+},
+{
 "medios": 3,
 "desde": "2026-11-03T10:35+00:00",
 "hasta": "2026-11-03T17:46+00:00",
@@ -357,10 +561,10 @@
 "comunes": [
 "biedma",
 "intento",
+"eliminarla",
+"cite",
 "juez",
 "pedraz",
-"cite",
-"eliminarla",
 "clan"
 ],
 "titulares": [
@@ -386,14 +590,49 @@
 },
 {
 "medios": 3,
+"desde": "2026-11-03T20:16+00:00",
+"hasta": "2026-11-03T21:22+00:00",
+"temas": [],
+"comunes": [
+"ministro",
+"oscar",
+"puente",
+"renuncia",
+"listas",
+"transportes",
+"dimite"
+],
+"titulares": [
+{
+"medio": "El Español",
+"titulo": "Óscar Puente dimite como ministro de Transportes y renuncia a ir en las listas para el 29-N tras la tragedia de Urda",
+"url": "https://www.elespanol.com/espana/politica/20261103/oscar-puente-dimite-no-puedo-continuar-accidentes-gravedad-ano/1003744445161_0.html",
+"fecha": "2026-11-03T20:19+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Dimite Óscar Puente como ministro de Transportes y renuncia a ir en las listas del PSOE en las próximas elecciones",
+"url": "https://www.elmundo.es/espana/2026/11/03/6aea169221efa078728b45b5.html",
+"fecha": "2026-11-03T21:22+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Óscar Puente anuncia su dimisión como ministro y su renuncia a ir en las listas el 29N",
+"url": "https://www.eldiario.es/politica/oscar-puente-anuncia-dimision-ministro-comparecencia-congreso_1_13635747.html",
+"fecha": "2026-11-03T20:16+00:00"
+}
+]
+},
+{
+"medios": 3,
 "desde": "2026-11-03T07:15+00:00",
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
 "llega",
-"116",
-"muertos",
 "tarde",
+"muertos",
+"116",
 "puente",
 "dimision"
 ],
@@ -426,14 +665,14 @@
 "defensa"
 ],
 "comunes": [
+"accidente",
 "urda",
 "funeral",
+"toledo",
 "victimas",
 "catedral",
-"toledo",
-"accidente",
 "celebrara",
-"asistiran"
+"reyes"
 ],
 "titulares": [
 {
@@ -458,14 +697,51 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-03T18:35+00:00",
-"hasta": "2026-11-04T12:11+00:00",
+"desde": "2026-11-04T10:16+00:00",
+"hasta": "2026-11-04T12:29+00:00",
 "temas": [],
 "comunes": [
+"robo",
+"cable",
+"madrid",
+"ave",
+"barcelona",
+"retrasos",
+"provoca",
+"linea"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Un robo de cable en la línea de alta velocidad Madrid-Barcelona provoca retrasos de hasta 15 minutos",
+"url": "https://www.20minutos.es/nacional/alta-velocidad-madrid-barcelona-acumula-retrasos-hasta-15-minutos-por-un-robo-cable_7057024_0.html",
+"fecha": "2026-11-04T10:30+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Lo que le faltaba al AVE por Zaragoza: un robo de cable provoca retrasos en la línea",
+"url": "https://www.abc.es/espana/aragon/faltaba-ave-zaragoza-robo-cable-provoca-retrasos-20261104132936-nt.html",
+"fecha": "2026-11-04T12:29+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Nuevo caos en Renfe: el robo de cable retrasa los trenes AVE entre Madrid y Barcelona",
+"url": "https://www.libertaddigital.com/madrid/2026-11-04/nuevo-caos-en-renfe-el-robo-de-cable-retrasa-los-trenes-ave-entre-madrid-y-barcelona-7486370/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T10:16+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-03T18:35+00:00",
+"hasta": "2026-11-04T13:27+00:00",
+"temas": [],
+"comunes": [
+"cubas",
+"cristina",
 "cervantes",
 "fernandez",
-"cristina",
-"cubas"
+"premio"
 ],
 "titulares": [
 {
@@ -481,45 +757,233 @@
 "fecha": "2026-11-03T18:35+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "Cristina Fernández Cubas, un Cervantes que \"ha hecho muchísimo por dar al cuento el prestigio que se merece\"",
-"url": "https://www.infolibre.es/cultura/cristina-fernandez-cubas-cervantes-hecho-dar-cuento-prestigio-merece_1_2239461.html",
-"fecha": "2026-11-03T19:14+00:00"
+"medio": "Libertad Digital",
+"titulo": "Lo que los medios no cuentan de Cristina Fernández Cubas, premio Cervantes",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-04/lo-que-los-medios-no-cuentan-de-cristina-fernandez-cubas-premio-cervantes-7486530/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T13:27+00:00"
 }
 ]
 },
 {
 "medios": 3,
-"desde": "2026-11-04T04:00+00:00",
-"hasta": "2026-11-04T12:13+00:00",
+"desde": "2026-11-04T11:37+00:00",
+"hasta": "2026-11-04T13:38+00:00",
 "temas": [],
 "comunes": [
-"mesa",
-"tocado",
-"saber",
-"electoral"
+"gobierno",
+"acampada",
+"reclama",
+"delegacion",
+"ayuso",
+"sol",
+"euros",
+"750"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Ayuso reclama a la Delegación del Gobierno los gastos derivados de la acampada en Sol",
+"url": "https://www.abc.es/espana/madrid/ayuso-reclama-delegacion-gobierno-gastos-derivados-acampada-20261104123704-nt.html",
+"fecha": "2026-11-04T11:37+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Ayuso cifra en 750.000 euros el impacto de la acampada en Metro y reclamará a la delegación del Gobierno los costes",
+"url": "https://www.libertaddigital.com/madrid/2026-11-04/ayuso-cifra-en-750-000-euros-el-impacto-de-la-acampada-en-metro-y-reclamara-a-la-delegacion-del-gobierno-los-costes-7486575/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T13:38+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Comunidad de Madrid reclama al Gobierno 750.00 euros por la acampada en Sol",
+"url": "https://theobjective.com/espana/politica/2026-11-04/comunidad-madrid-gobierno-750-00-euros-acampada-sol/",
+"fecha": "2026-11-04T11:51+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-04T12:40+00:00",
+"hasta": "2026-11-04T13:40+00:00",
+"temas": [],
+"comunes": [
+"navidad",
+"sol",
+"arbol",
+"lunes",
+"comenzara"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "El árbol de Navidad de Sol comenzará a instalarse el próximo lunes",
+"url": "https://www.abc.es/espana/madrid/arbol-navidad-sol-comenzara-instalarse-proximo-lunes-20261104134911-nt.html",
+"fecha": "2026-11-04T12:50+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El árbol de Navidad más alto de Madrid llega a Sol tras el desalojo de la plaza",
+"url": "https://www.libertaddigital.com/madrid/2026-11-04/el-arbol-de-navidad-mas-alto-de-madrid-llega-a-sol-tras-el-desalojo-de-la-plaza-7486543/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T13:40+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La instalación del árbol de Navidad de la Puerta del Sol comenzará el lunes",
+"url": "https://theobjective.com/espana/madrid/2026-11-04/arbol-navidad-sol/",
+"fecha": "2026-11-04T12:40+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-04T13:55+00:00",
+"hasta": "2026-11-04T14:20+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"sanchez",
+"ceuta",
+"vox",
+"pedro",
+"supremo",
+"ministros",
+"masiva",
+"entrada"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "El TS archiva una querella de Vox contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-archiva-querella-ceuta-1tps_4458859/",
+"fecha": "2026-11-04T14:20+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
+"url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
+"fecha": "2026-11-04T13:55+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El Supremo archiva una querella de Vox contra Pedro Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
+"fecha": "2026-11-04T13:56+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-04T14:29+00:00",
+"hasta": "2026-11-04T15:32+00:00",
+"temas": [
+"empleo",
+"territorio"
+],
+"comunes": [
+"mueren",
+"fosa",
+"navarra",
+"tres",
+"granja",
+"purines",
+"personas",
+"quedar"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Mueren tres trabajadores al quedar atrapados en una fosa de purines en una granja en Pitillas (Navarra)",
+"url": "https://www.abc.es/espana/navarra/mueren-tres-trabajadores-accidente-instalacion-ganadera-pitillas-20261104160752-nt.html",
+"fecha": "2026-11-04T15:32+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Mueren tres personas en una fosa de purines de una granja de Caparroso (Navarra)",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/accidente-laboral-fosa-purines-granja-caparroso-1tna_4458865/",
+"fecha": "2026-11-04T14:29+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Mueren tres personas en una granja de Navarra tras quedar atrapadas en una fosa de purines",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-04/muertos-granja-navarra-fosa-purines/",
+"fecha": "2026-11-04T15:11+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-04T15:47+00:00",
+"hasta": "2026-11-04T15:58+00:00",
+"temas": [],
+"comunes": [
+"falsear",
+"menor",
+"atestado",
+"acusados",
+"cuatro",
+"policias",
+"absueltos",
+"agredir"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Absueltos los cuatro policías acusados de haber agredido a un menor extranjero y falsear el atestado",
+"url": "https://www.abc.es/espana/absueltos-cuatro-policias-acusados-haber-agredido-menor-20261104165351-nt.html",
+"fecha": "2026-11-04T15:53+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Absueltos cuatro policías acusados de agredir a un menor marroquí y falsear el atestado para ocultarlo",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/absueltos-cuatro-policias-acusados-de-agredir-a-un-menor-marroqui-y-falsear-el-atestado-para-ocultarlo_4458966/",
+"fecha": "2026-11-04T15:47+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Absuelven a cuatro agentes de la Policía Nacional acusados de agredir a un menor en Madrid y falsear el atestado",
+"url": "https://www.elespanol.com/espana/tribunales/20261104/absuelven-agentes-policia-nacional-acusados-agredir-menor-madrid-falsear-atestado/1003744446221_0.html",
+"fecha": "2026-11-04T15:58+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-04T15:34+00:00",
+"hasta": "2026-11-04T16:10+00:00",
+"temas": [
+"sanidad"
+],
+"comunes": [
+"convoca",
+"presidente",
+"adif",
+"cuerpo",
+"estado",
+"horas",
+"ministerio",
+"despues"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Cómo saber si te ha tocado mesa electoral: hay diferentes formas en cada ayuntamiento",
-"url": "https://www.20minutos.es/nacional/como-saber-tocado-mesa-electoral-hay-diferentes-formas-cada-ayuntamiento_7056688_0.html",
-"fecha": "2026-11-04T04:00+00:00"
+"titulo": "Cuerpo convoca al secretario de Estado de Transportes y al presidente Adif horas después de asumir el Ministerio",
+"url": "https://www.20minutos.es/nacional/cuerpo-convoca-secretario-estado-transportes-presidente-adif-horas-despues-asumir-ministerio_7057232_0.html",
+"fecha": "2026-11-04T15:34+00:00"
 },
 {
-"medio": "El País",
-"titulo": "Cómo saber si le ha tocado estar en una mesa electoral en las elecciones del 29-N y qué pasa si no puede acudir",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-04/como-saber-si-le-ha-tocado-estar-en-una-mesa-electoral-en-las-elecciones-del-29-n-y-que-pasa-si-no-puede-acudir.html",
-"fecha": "2026-11-04T12:13+00:00"
+"medio": "ABC",
+"titulo": "Cuerpo convoca a una reunión en el Ministerio al presidente de Adif y al secretario de Estado",
+"url": "https://www.abc.es/espana/cuerpo-convoca-reunion-ministerio-presidente-adif-secretario-20261104153943-nt.html",
+"fecha": "2026-11-04T16:01+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "Cómo saber si te ha tocado ser miembro de una mesa electoral el 29-N: dónde consultar si has sido elegido para ser presidente o vocal",
-"url": "https://okdiario.com/espana/como-saber-si-tocado-ser-miembro-mesa-electoral-29-n-donde-consultar-si-has-sido-elegido-ser-presidente-o-vocal-20692259",
-"fecha": "2026-11-04T12:12+00:00"
+"medio": "The Objective",
+"titulo": "Cuerpo convoca de urgencia al presidente de ADIF horas después de asumir Transportes",
+"url": "https://theobjective.com/espana/politica/2026-11-04/cuerpo-convoca-urgencia-presidente-adif-urda/",
+"fecha": "2026-11-04T16:10+00:00"
 }
 ]
 }
 ],
-"recogidas": 596
+"recogidas": 699
 }

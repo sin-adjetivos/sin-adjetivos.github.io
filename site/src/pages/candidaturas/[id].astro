@@ -21,7 +21,7 @@ const nFrases = declaraciones().filter((d) => d.bando === c.id).length;
   </div>
   <div class="marco hoja">
     <header class="entrada">
-      <p>{c.nombre}.</p>
+      {c.nombre !== c.sigla && <p>{c.nombre}.</p>}
       <div class="ficha-cab">
         <p>Cabeza de lista por {c.circ_nombre}</p>
         <strong>{c.cabeza}</strong>

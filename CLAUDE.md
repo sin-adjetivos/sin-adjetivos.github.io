@@ -28,10 +28,10 @@ Logo: «sin» blanco en Bricolage Grotesque sobre negro, con un trazo de rotulad
 
 ## Plan
 1. Hecho: portal, colores, plenos con buscador, votaciones, Actualidad automática.
-2. Fichas de votaciones clave (`scripts/fuente_fichas*.py`, verificadas por `build_fichas.py`): hechas vivienda, pensiones e inmigración. Faltan los otros 9 temas. Antes, revisar las reglas de `seleccion_fichas.py` para cada tema, porque aún cuelan títulos ajenos (por ejemplo, un impuesto en sanidad). Herramientas: `scripts/buscar_en_debate.py` y `scripts/leer_debate.py`.
+2. Fichas de votaciones clave (`scripts/fuente_fichas*.py`, verificadas por `build_fichas.py`): hay de los 12 temas. Mejorar las citas poco informativas y ampliar. Herramientas: `scripts/buscar_en_debate.py` y `scripts/leer_debate.py`.
 3. Revisar uno a uno los casos judiciales, empezando por los abiertos; hoy proceden de DatosClaros sin verificación propia.
 4. Añadir programas de 2026 cuando se publiquen. Votación de vivienda en Diputación Permanente prevista el 12 de noviembre.
-5. TikTok: guiones e imágenes verticales desde los datos, con formato fijo y registro público de cuántas veces sale cada partido.
+5. TikTok: guiones en `marca/tiktok/guiones.md` e imágenes con `marca/tiktok/generar.cjs`. Formato fijo y equilibrio: alternar votaciones en las que perdió cada bloque.
 6. Faltan medios en Actualidad: El Debate, La Razón, Público y Vozpópuli.
 7. Tras el 29-N: resultados, pactos frente a promesas, y evolución hacia un periódico de datos. Dominio y correo propios cuando haya dinero.
 

@@ -20,6 +20,7 @@
 "https://www.legaltoday.com/opinion/articulos-de-opinion/los-decretos-leyes-de-vivienda-derogacion-reaprobacion-y-convalidacion-en-plena-disolucion-2026-10-08/"
 ],
 "debate": "210-1",
+"debate_fecha": "2026-10-02",
 "num": 210,
 "doc": "DSCD-15-PL-210.PDF",
 "posturas": [
@@ -147,6 +148,7 @@
 "https://www.legaltoday.com/opinion/articulos-de-opinion/los-decretos-leyes-de-vivienda-derogacion-reaprobacion-y-convalidacion-en-plena-disolucion-2026-10-08/"
 ],
 "debate": "210-2",
+"debate_fecha": "2026-10-02",
 "num": 210,
 "doc": "DSCD-15-PL-210.PDF",
 "posturas": [
@@ -246,6 +248,7 @@
 "despues": "El Congreso no lo convalidó.",
 "despues_fuente": null,
 "debate": "181-3",
+"debate_fecha": "2026-04-28",
 "num": 181,
 "doc": "DSCD-15-PL-181.PDF",
 "posturas": [
@@ -406,6 +409,7 @@
 "despues": "Se convalidó con 347 votos a favor y ninguno en contra.",
 "despues_fuente": null,
 "debate": "48-3",
+"debate_fecha": "2024-06-13",
 "num": 48,
 "doc": "DSCD-15-PL-48.PDF",
 "posturas": [
@@ -539,6 +543,7 @@
 "despues": "No se admitió a trámite: faltaron seis votos.",
 "despues_fuente": null,
 "debate": "62-2",
+"debate_fecha": "2024-09-17",
 "num": 62,
 "doc": "DSCD-15-PL-62.PDF",
 "posturas": [
@@ -682,6 +687,7 @@
 "despues": "Se admitió a trámite.",
 "despues_fuente": null,
 "debate": "185-1",
+"debate_fecha": "2026-05-19",
 "num": 185,
 "doc": "DSCD-15-PL-185.PDF",
 "posturas": [
@@ -838,6 +844,7 @@
 "despues": "El Congreso lo rechazó y quedó derogado. El Gobierno aprobó días después otro decreto con parte de las medidas, entre ellas la subida de pensiones.",
 "despues_fuente": null,
 "debate": "92-1",
+"debate_fecha": "2025-01-22",
 "num": 92,
 "doc": "DSCD-15-PL-92.PDF",
 "posturas": [
@@ -981,6 +988,7 @@
 "despues": "Se convalidó con el voto a favor de la mayoría de los grupos, incluidos PP y Junts, que habían votado en contra del anterior.",
 "despues_fuente": null,
 "debate": "95-17",
+"debate_fecha": "2025-02-12",
 "num": 95,
 "doc": "DSCD-15-PL-95.PDF",
 "posturas": [
@@ -1131,6 +1139,7 @@
 "despues": "El Congreso lo rechazó. En febrero de 2026 el Gobierno separó las medidas en varios decretos, y el de pensiones se convalidó con 317 votos a favor.",
 "despues_fuente": null,
 "debate": "161-1",
+"debate_fecha": "2026-01-27",
 "num": 161,
 "doc": "DSCD-15-PL-161.PDF",
 "posturas": [
@@ -1289,6 +1298,7 @@
 "despues": "Se convalidó con 317 votos a favor y 33 en contra.",
 "despues_fuente": null,
 "debate": "170-3",
+"debate_fecha": "2026-02-26",
 "num": 170,
 "doc": "DSCD-15-PL-170.PDF",
 "posturas": [
@@ -1446,6 +1456,7 @@
 "despues": "Se admitió a trámite con 310 votos a favor y 33 en contra.",
 "despues_fuente": null,
 "debate": "36-2",
+"debate_fecha": "2024-04-09",
 "num": 36,
 "doc": "DSCD-15-PL-36.PDF",
 "posturas": [
@@ -1595,6 +1606,7 @@
 "despues": "No se admitió a trámite.",
 "despues_fuente": null,
 "debate": "58-2",
+"debate_fecha": "2024-07-23",
 "num": 58,
 "doc": "DSCD-15-PL-58.PDF",
 "posturas": [
@@ -1739,6 +1751,7 @@
 "despues": "No se admitió a trámite: votaron a favor 173 y en contra 177.",
 "despues_fuente": null,
 "debate": "138-1",
+"debate_fecha": "2025-09-23",
 "num": 138,
 "doc": "DSCD-15-PL-138.PDF",
 "posturas": [
@@ -1891,6 +1904,7 @@
 "despues": "No se admitió a trámite.",
 "despues_fuente": null,
 "debate": "136-1",
+"debate_fecha": "2025-09-16",
 "num": 136,
 "doc": "DSCD-15-PL-136.PDF",
 "posturas": [
@@ -2006,6 +2020,2679 @@
 "json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion131/20250916/Votacion001/VOT_20250916211204.json",
 "debates": [
 "136-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "la-reduccion-de-la-jornada-a-37-5-horas",
+"tema": "empleo",
+"titulo": "La reducción de la jornada a 37,5 horas",
+"que_es": [
+"Proyecto de ley del Gobierno para bajar la jornada máxima de 40 a 37,5 horas semanales, reforzar el registro horario y garantizar el derecho a la desconexión.",
+"Junts, Vox y PP presentaron enmiendas para devolver el texto al Gobierno. Por eso, votar sí en esta votación era frenar la ley."
+],
+"fuente": null,
+"despues": "Las enmiendas salieron adelante y el proyecto volvió al Gobierno: no siguió su tramitación.",
+"despues_fuente": null,
+"debate": "135-24",
+"debate_fecha": "2025-09-10",
+"num": 135,
+"doc": "DSCD-15-PL-135.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Empezó Feijóo el verano diciendo que las vacaciones estaban sobrevaloradas, siguió diciendo que el salario mínimo interprofesional iba a acabar con la economía y terminó hace unos días, en Barcelona, diciendo que estaba en contra de la reducción de la jornada.",
+"orador": "Alberto Mayoral de Lamo",
+"turno": 45,
+"pagina": 149
+},
+{
+"candidatura": "pp",
+"cita": "Este es un proyecto que nace sin diálogo, que ignora la realidad del tejido productivo y que, de aplicarse tal y como ustedes plantean, supondrá un duro golpe para el empleo, para los propios trabajadores y para las empresas.",
+"orador": "Juan Bravo Baena",
+"turno": 4,
+"pagina": 125
+},
+{
+"candidatura": "vox",
+"cita": "Ustedes vienen aquí y nos dicen que hay que trabajar menos, pero si analizamos las horas cotizadas en España en el año 2025 veremos que se cotizan en total menos horas que en el año 2008 a pesar de que hay casi un millón de personas empleadas más.",
+"orador": "José María Figaredo Álvarez-Sala",
+"turno": 2,
+"pagina": 123
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Lo único que no ha cambiado es la jornada máxima legal.",
+"orador": "Verónica Martínez Barbero",
+"turno": 24,
+"pagina": 136
+},
+{
+"candidatura": "podemos",
+"cita": "Hace ya mucho tiempo que en nuestro país gozamos de las 40 horas semanales en nuestra jornada laboral, y eso, evidentemente, como aquí se ha dicho, fue gracias a la lucha de las clases trabajadoras",
+"orador": "Noemí Santana Perera",
+"turno": 38,
+"pagina": 143
+},
+{
+"candidatura": "compromis",
+"cita": "Més d’un segle després d’haver aconseguit la jornada de vuit hores, amb tota la tecnologia i els avanços aconseguits continuem exactament igual.",
+"orador": "Àgueda Micó Micó",
+"turno": 32,
+"pagina": 141
+},
+{
+"candidatura": "junts",
+"cita": "I avui som aquí perquè vostès, i no a la inversa, han traslladat la necessitat de la reducció de la jornada al carrer, fent creure que aquesta era la solució a les dificultats de les persones treballadores.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 0,
+"pagina": 119
+},
+{
+"candidatura": "erc",
+"cita": "I la reducció de jornada de treball, mitja hora al dia",
+"orador": "Jordi Salvador i Duch",
+"turno": 43,
+"pagina": 147
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Es verdad también que la reducción de la jornada laboral de 40 a 37,5 nos impactaría mucho menos a nosotros y nosotras, a los ciudadanos y ciudadanas de Bizkaia, Araba, Gipuzkoa y Nafarroa, que en otros lugares.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 41,
+"pagina": 145
+},
+{
+"candidatura": "pnv",
+"cita": "Precisamente por eso nosotros creemos que no es incompatible hablar de su tramitación para mejorarlo vía enmiendas.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 39,
+"pagina": 144
+},
+{
+"candidatura": "bng",
+"cita": "Se non se enuncia ese obxectivo, non se vai chegar nunca el mesmo de 37,5, pois parece, como digo absolutamente revolucionario.",
+"orador": "Néstor Rego Candamil",
+"turno": 36,
+"pagina": 142
+}
+],
+"fecha": "2025-09-10",
+"voto": {
+"fecha": "2025-09-10",
+"titulo": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley para la reducción de la duración máxima de la jornada ordinaria de trabajo y la garantía del registro de jornada y el derecho a la desconexión, presentadas por los Grupos Parlamentarios Junts per Catalunya, VOX y Popular en el Congreso.",
+"expediente": "121/000058",
+"si": 178,
+"no": 170,
+"abst": 0,
+"diario": null,
+"temas": [
+"empleo"
+],
+"grupos": {
+"frente-amplio": {
+"No": 26
+},
+"psoe": {
+"No": 119,
+"No vota": 1
+},
+"erc": {
+"No": 7
+},
+"eh-bildu": {
+"No": 5,
+"No vota": 1
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Sí": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion130/20250910/Votacion010/VOT_20250910213544.json",
+"debates": [
+"135-24"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-del-bng-de-jornada-de-35-horas",
+"tema": "empleo",
+"titulo": "Propuesta del BNG de jornada de 35 horas",
+"que_es": [
+"Propuesta presentada desde el Grupo Mixto por el BNG para bajar la jornada máxima a 35 horas semanales.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite.",
+"despues_fuente": null,
+"debate": "142-1",
+"debate_fecha": "2025-10-14",
+"num": 142,
+"doc": "DSCD-15-PL-142.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Hoy vuelve al Congreso la opción sobre la reducción de la jornada máxima y, por tanto, mi grupo va a apoyar la toma en consideración de esta proposición de ley.",
+"orador": "Ana Cobo Carmona",
+"turno": 14,
+"pagina": 19
+},
+{
+"candidatura": "pp",
+"cita": "No se puede utilizar un tema tan importante como bandera populista y electoral con el único objetivo de enfrentar a trabajadores y a empresarios y de demonizar al tejido empresarial.",
+"orador": "María Isabel Prieto Serrano",
+"turno": 16,
+"pagina": 21
+},
+{
+"candidatura": "vox",
+"cita": "Pretende reducir la jornada laboral como si el trabajo se multiplicara por decreto.",
+"orador": "Juan José Aizcorbe Torra",
+"turno": 12,
+"pagina": 18
+},
+{
+"candidatura": "frente-amplio",
+"cita": "La reducción de la jornada laboral hoy es una demanda de la mayoría de la sociedad, incluidas las personas que dieron su voto a unas derechas que las traicionaron.",
+"orador": "Verónica Martínez Barbero",
+"turno": 10,
+"pagina": 15
+},
+{
+"candidatura": "junts",
+"cita": "És evident que el nostre posicionament respecte a la reducció de la jornada setmanal màxima per llei, no ha canviat ni per la de 37 hores i mitja ni per la de 55.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 6,
+"pagina": 11
+},
+{
+"candidatura": "erc",
+"cita": "Per no repetir el mateix discurs que vaig fer fa poques setmanes davant la proposició del Govern de baixar a 37 i mitja, doncs igual que llavors, per ser coherent, votarem que sí, aquesta proposició de llei que ens presenta el BNG.",
+"orador": "Jordi Salvador i Duch",
+"turno": 8,
+"pagina": 13
+},
+{
+"candidatura": "bng",
+"cita": "Anunciabamos tamén que traeriamos aquí a debate esta proposición que recolle a redución a 35 horas semanais",
+"orador": "Néstor Rego Candamil",
+"turno": 0,
+"pagina": 4
+},
+{
+"candidatura": "pnv",
+"cita": "Hoy debatimos una proposición de ley que propone reducir la jornada laboral máxima a 35 horas semanales.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 2,
+"pagina": 8
+}
+],
+"fecha": "2025-10-14",
+"voto": {
+"fecha": "2025-10-14",
+"titulo": "Proposición de Ley del Grupo Parlamentario Mixto, para la reducción de la duración máxima de la jornada ordinaria de trabajo a 35 horas semanales.",
+"expediente": "122/000159",
+"si": 162,
+"no": 178,
+"abst": 6,
+"diario": null,
+"temas": [
+"empleo"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion137/20251014/Votacion001/VOT_20251014202757.json",
+"debates": [
+"142-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "decreto-de-2023-sobre-subsidio-de-desempleo-y-conciliacion",
+"tema": "empleo",
+"titulo": "Decreto de 2023 sobre subsidio de desempleo y conciliación",
+"que_es": [
+"Decreto del Gobierno que adaptaba una directiva europea de conciliación y reformaba el subsidio de desempleo, reduciendo sus modalidades.",
+"Parte del debate se centró en cómo afectaba a los mayores de 52 años que cobran el subsidio."
+],
+"fuente": null,
+"despues": "El Congreso no lo convalidó. En mayo de 2024 el Gobierno aprobó otro decreto sobre el subsidio, que salió adelante.",
+"despues_fuente": null,
+"debate": "16-3",
+"debate_fecha": "2024-01-10",
+"num": 16,
+"doc": "DSCD-15-PL-16.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "En este caso, un decreto con claro ADN socialista: proteger al más débil con la ampliación y mejora del subsidio por desempleo",
+"orador": "Esther Peña Camarero",
+"turno": 24,
+"pagina": 39
+},
+{
+"candidatura": "pp",
+"cita": "Este real decreto continúa, a partir de la trasposición de la directiva europea, con la reforma de los subsidios por desempleo",
+"orador": "Irene Garrido Valenzuela",
+"turno": 26,
+"pagina": 40
+},
+{
+"candidatura": "frente-amplio",
+"cita": "En concreto, este decreto del subsidio de desempleo supone avances en tres aspectos muy importantes.",
+"orador": "Marta Lois González",
+"turno": 18,
+"pagina": 36
+},
+{
+"candidatura": "podemos",
+"cita": "Nos preocupan muchos aspectos, especialmente aquellos recortes que afectan a las personas mayores de 52 años y que son perceptoras del subsidio de desempleo.",
+"orador": "Noemí Santana Perera",
+"turno": 10,
+"pagina": 30
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Vamos a votar a favor de este decreto, a pesar de que creemos que puede ser modificado.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 14,
+"pagina": 32
+},
+{
+"candidatura": "erc",
+"cita": "Dit això, com deia abans, votarem a favor d’aquest reial decret llei.",
+"orador": "Jordi Salvador i Duch",
+"turno": 16,
+"pagina": 34
+},
+{
+"candidatura": "pnv",
+"cita": "Hoy nos traen un decreto en materia de empleo cuyas medidas vienen a modificar básicamente lo que ya se ha dicho: el régimen de lactancia, la prestación y el subsidio por desempleo.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 12,
+"pagina": 30
+},
+{
+"candidatura": "bng",
+"cita": "Tamén consideramos positiva a reforma que introduce o decreto lei no nivel asistencial de protección por desemprego",
+"orador": "Néstor Rego Candamil",
+"turno": 8,
+"pagina": 28
+}
+],
+"fecha": "2024-01-10",
+"voto": {
+"fecha": "2024-01-10",
+"titulo": "Real Decreto-ley 7/2023, de 19 de diciembre, por el que se adoptan medidas urgentes, para completar la transposición de la Directiva (UE) 2019/1158, del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo, y para la simplificación y mejora del nivel asistencial de la protección por desempleo.",
+"expediente": "130/000002",
+"si": 167,
+"no": 176,
+"abst": 0,
+"diario": null,
+"temas": [
+"empleo"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"Sí": 25
+},
+"psoe": {
+"Sí": 121
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"compromis": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"bng": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"junts": {
+"No vota": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/Votacion003/VOT_20240111114814.json",
+"debates": [
+"16-3"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "impuesto-minimo-a-multinacionales-e-impuesto-a-la-banca",
+"tema": "impuestos",
+"titulo": "Impuesto mínimo a multinacionales e impuesto a la banca",
+"que_es": [
+"Ley que creaba un impuesto complementario para garantizar una tributación mínima de los grandes grupos empresariales, un impuesto sobre el margen de intereses y comisiones de entidades financieras y otro sobre los líquidos de cigarrillos electrónicos.",
+"El impuesto mínimo procede de un mandato de la Unión Europea."
+],
+"fuente": null,
+"despues": "Se aprobó el dictamen por 178 votos a favor y 171 en contra.",
+"despues_fuente": null,
+"debate": "82-3",
+"debate_fecha": "2024-11-21",
+"num": 82,
+"doc": "DSCD-15-PL-82.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Estamos hoy aquí para fortalecer nuestro estado del bienestar, exactamente para eso, en esta ocasión, debatiendo sobre cómo mejorar la recaudación y evitar el fraude fiscal.",
+"orador": "Alicia Álvarez González",
+"turno": 14,
+"pagina": 58
+},
+{
+"candidatura": "pp",
+"cita": "Estamos debatiendo hoy un tema fiscal importante: la implantación de un impuesto mínimo en España a las grandes multinacionales, de acuerdo con un mandato que viene de la Unión Europea",
+"orador": "Pedro Puy Fraga",
+"turno": 24,
+"pagina": 64
+},
+{
+"candidatura": "vox",
+"cita": "Luego, el impuesto a las energéticas aquí no está, no está.",
+"orador": "José María Figaredo Álvarez-Sala",
+"turno": 12,
+"pagina": 57
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Hoy votamos la trasposición de una importante directiva y también un importante paquete fiscal.",
+"orador": "Carlos Martín Urriza",
+"turno": 10,
+"pagina": 56
+},
+{
+"candidatura": "podemos",
+"cita": "En este punto, creo que es crucial entender que las empresas energéticas son las más contaminantes de nuestro país",
+"orador": "Ione Belarra Urteaga",
+"turno": 4,
+"pagina": 51
+},
+{
+"candidatura": "junts",
+"cita": "En quedarà que, gràcies a Junts per Catalunya, es reduirà la pressió fiscal a les microempreses i les petites i mitjanes empreses i a les cooperatives",
+"orador": "Josep Maria Cruset Domènech",
+"turno": 22,
+"pagina": 61
+},
+{
+"candidatura": "erc",
+"cita": "És important recordar que fa dos anys es va aprovar en aquest congrés la llei que permetia o que imposava els gravàmens temporals sobre les empreses energètiques, sobre la banca i sobre les grans fortunes.",
+"orador": "Pilar Vallugera Balañà",
+"turno": 8,
+"pagina": 53
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Es verdad que ellos sí cuentan con bufetes de abogados y asesores que buscarán las formas de crear ingeniería fiscal",
+"orador": "Oskar Matute García de Jalón",
+"turno": 6,
+"pagina": 52
+},
+{
+"candidatura": "pnv",
+"cita": "En este sentido, el Partido Nacionalista Vasco, nosotros, llegamos a un acuerdo dentro de ese común denominador, con la condición de que aquellos impuestos que se aprueben sean concertados y de atajar el fraude del IVA en los hidrocarburos.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 20,
+"pagina": 60
+}
+],
+"fecha": "2024-11-21",
+"voto": {
+"fecha": "2024-11-21",
+"titulo": "Votación del dictamen del Proyecto de Ley por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias (antes denominado Proyecto de Ley por la que se establece un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud).",
+"expediente": "121/000023",
+"si": 178,
+"no": 171,
+"abst": 0,
+"diario": null,
+"temas": [
+"impuestos",
+"sanidad"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 137
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion079/20241121/Votacion062/VOT_20241121173859.json",
+"debates": [
+"82-3",
+"91-4"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-de-febrero-de-2026-vivienda-energia-y-fiscalidad",
+"tema": "impuestos",
+"titulo": "Decreto de febrero de 2026: vivienda, energía y fiscalidad",
+"que_es": [
+"Decreto que reunía medidas para situaciones de vulnerabilidad, como la suspensión de desahucios y el bono social, junto a medidas tributarias y de financiación territorial.",
+"Es uno de los decretos en que el Gobierno dividió el que el Congreso había rechazado en enero."
+],
+"fuente": null,
+"despues": "El Congreso no lo convalidó: 172 votos a favor y 177 en contra.",
+"despues_fuente": null,
+"debate": "170-2",
+"debate_fecha": "2026-02-26",
+"num": 170,
+"doc": "DSCD-15-PL-170.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "este real decreto es para los más de tres millones de personas que necesitan el bono social térmico para poder pagar la luz y el gas.",
+"orador": "Montse Mínguez García",
+"turno": 30,
+"pagina": 38
+},
+{
+"candidatura": "pp",
+"cita": "Este real decreto ley que hoy nos traen vuelve a ser testimonio de su nivel y su carácter antidemocrático.",
+"orador": "José Vicente Marí Bosó",
+"turno": 32,
+"pagina": 39
+},
+{
+"candidatura": "vox",
+"cita": "La legislatura de la vivienda prometida, jamás producida y mucho menos entregada.",
+"orador": "Carlos Hernández Quero",
+"turno": 26,
+"pagina": 36
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Ayer me contactaron tres trabajadoras de servicios sociales de tres ayuntamientos distintos, las tres muy alarmadas, y me contaban que desde la caída del escudo social están recibiendo un alud de peticiones por desahucio.",
+"orador": "Aina Vidal Sáez",
+"turno": 22,
+"pagina": 34
+},
+{
+"candidatura": "compromis",
+"cita": "És un respir temporal per a les persones vulnerables, un sostre per a qui no el té i un subministrament per a qui el necessita.",
+"orador": "Àgueda Micó Micó",
+"turno": 2,
+"pagina": 23
+},
+{
+"candidatura": "junts",
+"cita": "Els vam advertir que tot barrejat no ho votaríem a favor.",
+"orador": "Marta Madrenas i Mir",
+"turno": 14,
+"pagina": 28
+},
+{
+"candidatura": "erc",
+"cita": "Hoy nuestro voto es un sí rotundo a este real decreto, y lo digo desde la primera frase para evitar cualquier intento de distorsión.",
+"orador": "Jordi Salvador i Duch",
+"turno": 16,
+"pagina": 31
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Hoy, se vota que no se pueda cortar la luz, el agua y la electricidad a gente que no puede pagarlas.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 12,
+"pagina": 27
+},
+{
+"candidatura": "pnv",
+"cita": "Señorías, hoy debatimos un decreto que incluye medidas en vivienda, energía, empleo, fiscalidad y financiación territorial.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 10,
+"pagina": 26
+},
+{
+"candidatura": "bng",
+"cita": "Se algunha crítica se lle pode debe facer a este Real Decreto Lei —‌o BNG faina— é que incorpora a medidas necesarias mais non suficientes",
+"orador": "Néstor Rego Candamil",
+"turno": 6,
+"pagina": 24
+}
+],
+"fecha": "2026-02-26",
+"voto": {
+"fecha": "2026-02-26",
+"titulo": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial.",
+"expediente": "130/000033",
+"si": 172,
+"no": 177,
+"abst": 1,
+"diario": null,
+"temas": [
+"impuestos"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"psoe": {
+"Sí": 121
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion022/VOT_20260226153428.json",
+"debates": [
+"170-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "creacion-de-la-agencia-estatal-de-salud-publica",
+"tema": "sanidad",
+"titulo": "Creación de la Agencia Estatal de Salud Pública",
+"que_es": [
+"Proyecto de ley del Gobierno para crear una agencia estatal dedicada a la salud pública y modificar la Ley General de Salud Pública."
+],
+"fuente": null,
+"despues": "En esta votación el dictamen no salió adelante: 167 votos a favor, 176 en contra y 2 abstenciones.",
+"despues_fuente": null,
+"debate": "105-1",
+"debate_fecha": "2025-03-20",
+"num": 105,
+"doc": "DSCD-15-PL-105.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Certificamos que la salud pública salva vidas y que su financiación debe ser una prioridad",
+"orador": "Carmen Martínez Ramírez",
+"turno": 30,
+"pagina": 16
+},
+{
+"candidatura": "pp",
+"cita": "El Partido Popular propuso una agencia que tenía un modelo de organismo autónomo, una autoridad sanitaria, cuando el Gobierno lo que nos estaba proponiendo era algo parecido a un departamento dependiente del Ministerio de Sanidad.",
+"orador": "María del Mar Vázquez Jiménez",
+"turno": 20,
+"pagina": 9
+},
+{
+"candidatura": "vox",
+"cita": "Esta agencia venía a corregir algunos de esos errores, como la falta de respuesta rápida, de preparación y de coordinación",
+"orador": "David García Gomis",
+"turno": 18,
+"pagina": 7
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Por eso, nosotros apoyamos la agencia, pero no sin haber manifestado, a través de las enmiendas oportunas, nuestra preocupación respecto a posibles tentaciones de centralización",
+"orador": "Cristina Valido García",
+"turno": 16,
+"pagina": 7
+},
+{
+"candidatura": "pnv",
+"cita": "Se partía también de un proyecto de ley con una gran indefinición en cuanto a sus fines y funciones y a su configuración dentro de la estructura de la salud pública en el ámbito estatal",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 22,
+"pagina": 10
+},
+{
+"candidatura": "erc",
+"cita": "Vaya por delante que el interés de mi grupo en aprobar agencias españolas, pactos nacionales españoles y todo este tipo de cosas es más bien cero",
+"orador": "Etna Estrems Fayos",
+"turno": 26,
+"pagina": 12
+},
+{
+"candidatura": "bng",
+"cita": "Este proyecto de ley, mediante el cual se crea la Agencia Estatal de Salud Pública y se modifica la Ley General de Salud Pública, generó, al comienzo del trámite legislativo, muchas dudas para el BNG",
+"orador": "Néstor Rego Candamil",
+"turno": 12,
+"pagina": 6
+}
+],
+"fecha": "2025-03-20",
+"voto": {
+"fecha": "2025-03-20",
+"titulo": "Votación del dictamen del Proyecto de Ley por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+"expediente": "121/000007",
+"si": 167,
+"no": 176,
+"abst": 2,
+"diario": null,
+"temas": [
+"sanidad"
+],
+"grupos": {
+"pp": {
+"No": 135,
+"No vota": 2
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"psoe": {
+"No": 1,
+"Sí": 119
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 6,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"compromis": {
+"Sí": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"bng": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion101/20250320/Votacion019/VOT_20250320125720.json",
+"debates": [
+"105-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "ley-para-personas-con-ela-y-otras-enfermedades",
+"tema": "sanidad",
+"titulo": "Ley para personas con ELA y otras enfermedades",
+"que_es": [
+"Ley para mejorar la calidad de vida de las personas con esclerosis lateral amiotrófica y otras enfermedades o procesos de alta complejidad, fruto de varias propuestas unidas en un texto."
+],
+"fuente": null,
+"despues": "Se aprobó por unanimidad de los votos emitidos: 344 a favor.",
+"despues_fuente": null,
+"debate": "69-1",
+"debate_fecha": "2024-10-10",
+"num": 69,
+"doc": "DSCD-15-PL-69.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Todas las personas afectadas por ELA sois un ejemplo de resiliencia y dignidad.",
+"orador": "Maribel García López",
+"turno": 20,
+"pagina": 18
+},
+{
+"candidatura": "pp",
+"cita": "Sé que no es esta la primera ocasión en que el Congreso recibe a pacientes de ELA, y lamento que haya hecho falta tantas visitas",
+"orador": "Alberto Núñez Feijóo",
+"turno": 24,
+"pagina": 20
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Lo decíamos muchas veces, Fernando, la ley es el principio.",
+"orador": "Rafael Cofiño Fernández",
+"turno": 16,
+"pagina": 15
+},
+{
+"candidatura": "podemos",
+"cita": "Si algo hemos reiterado por parte de nuestro grupo cada vez que se traía una proposición de ley ELA a este Pleno era la necesidad de fusionar todas esas propuestas en un solo texto consensuado.",
+"orador": "Noemí Santana Perera",
+"turno": 6,
+"pagina": 7
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Hoy, por fin, vamos a aprobar esta ley, que viene a reforzar la protección para las personas con ELA, para sus familias y para todo el entorno de apoyo de vuestras familias.",
+"orador": "Iñaki Ruiz de Pinedo Undiano",
+"turno": 10,
+"pagina": 9
+},
+{
+"candidatura": "erc",
+"cita": "Quan s’aprovi, esperem que per unanimitat, la Llei de l’ELA a l’hemicicle, serà un dia per ser celebrat.",
+"orador": "Jordi Salvador i Duch",
+"turno": 14,
+"pagina": 13
+}
+],
+"fecha": "2024-10-10",
+"voto": {
+"fecha": "2024-10-10",
+"titulo": "Votación del dictamen de la Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible (antes denominada Proposición de Ley para mejorar la calidad de vida de personas con Esclerosis Lateral Amiotrófica y otras enfermedades o procesos neurológicos de alta complejidad y curso irreversible).",
+"expediente": "122/000128",
+"si": 344,
+"no": 0,
+"abst": 0,
+"diario": null,
+"temas": [
+"sanidad"
+],
+"grupos": {
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion066/20241010/Votacion015/VOT_20241010194930.json",
+"debates": [
+"69-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-del-pp-contra-la-violencia-a-sanitarios",
+"tema": "sanidad",
+"titulo": "Propuesta del PP contra la violencia a sanitarios",
+"que_es": [
+"Propuesta del Partido Popular para crear un marco específico que proteja a los profesionales sanitarios frente a las agresiones.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: 171 votos a favor y 173 en contra.",
+"despues_fuente": null,
+"debate": "94-3",
+"debate_fecha": "2025-02-11",
+"num": 94,
+"doc": "DSCD-15-PL-94.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Señorías, los profesionales en el ámbito sanitario somos el principal activo del Sistema Nacional de Salud.",
+"orador": "Elvira Velasco Morillo",
+"turno": 0,
+"pagina": 17
+},
+{
+"candidatura": "psoe",
+"cita": "El riesgo de violencia extrema en el lugar de trabajo afecta a muchos de nuestros servicios públicos, como la educación o el transporte, también al que nos ocupa hoy, la sanidad.",
+"orador": "Carmen Martínez Ramírez",
+"turno": 20,
+"pagina": 31
+},
+{
+"candidatura": "vox",
+"cita": "Miren, hoy no vengo a hablarles de posicionamientos políticos ni de partidistas, sino de la realidad que atañe a todos nuestros sanitarios",
+"orador": "David García Gomis",
+"turno": 18,
+"pagina": 29
+},
+{
+"candidatura": "podemos",
+"cita": "Esta tarde vamos a hablar de un tema muy preocupante, como son las agresiones a nuestras y nuestros sanitarios.",
+"orador": "Noemí Santana Perera",
+"turno": 6,
+"pagina": 21
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Si fuera su objetivo erradicar esta forma de violencia el contenido sería diferente.",
+"orador": "Iñaki Ruiz de Pinedo Undiano",
+"turno": 10,
+"pagina": 23
+},
+{
+"candidatura": "bng",
+"cita": "Digo isto non porque o problema da violencia no ámbito sanitario non exista e non haxa que resolvelo, porque infelizmente existe.",
+"orador": "Néstor Rego Candamil",
+"turno": 4,
+"pagina": 20
+},
+{
+"candidatura": "pnv",
+"cita": "El Grupo Popular presenta para su debate y toma en consideración una proposición de ley que ya presentó la pasada legislatura",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 8,
+"pagina": 22
+}
+],
+"fecha": "2025-02-11",
+"voto": {
+"fecha": "2025-02-11",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la violencia en el ámbito sanitario.",
+"expediente": "122/000141",
+"si": 171,
+"no": 173,
+"abst": 0,
+"diario": null,
+"temas": [
+"sanidad"
+],
+"grupos": {
+"pnv": {
+"No": 5
+},
+"frente-amplio": {
+"No": 24,
+"No vota": 2
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 3
+},
+"bng": {
+"No": 1
+},
+"eh-bildu": {
+"No": 5,
+"No vota": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion090/20250211/Votacion002/VOT_20250211202649.json",
+"debates": [
+"94-3"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "propuesta-del-pp-sobre-alumnado-con-necesidades-especiales",
+"tema": "educacion",
+"titulo": "Propuesta del PP sobre alumnado con necesidades especiales",
+"que_es": [
+"Propuesta del Partido Popular sobre la escolarización del alumnado con necesidades educativas especiales, a raíz de la ley educativa conocida como LOMLOE o ley Celaá.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: 170 votos a favor y 177 en contra.",
+"despues_fuente": null,
+"debate": "134-2",
+"debate_fecha": "2025-09-09",
+"num": 134,
+"doc": "DSCD-15-PL-134.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Señorías, el Grupo Parlamentario Popular presenta una proposición de ley para la defensa y garantía de aquellos principios fundamentales de nuestro Estado de Derecho que han de imperar en el sistema educativo.",
+"orador": "María Sandra Moneo Díez",
+"turno": 0,
+"pagina": 6
+},
+{
+"candidatura": "psoe",
+"cita": "Señorías, comenzar el curso político hablando de educación es muy adecuado.",
+"orador": "Maribel García López",
+"turno": 18,
+"pagina": 19
+},
+{
+"candidatura": "vox",
+"cita": "En el conjunto de leyes sectarias, mal diseñadas y peor ejecutadas de la pasada legislatura, la LOMLOE, la denominada ley Celaá, tiene un lugar especial.",
+"orador": "José Ramírez del Río",
+"turno": 16,
+"pagina": 18
+},
+{
+"candidatura": "podemos",
+"cita": "Señorías, comenzamos un nuevo curso político y el Partido Popular desempolva los viejos bulos sobre la ley de educación",
+"orador": "Javier Sánchez Serna",
+"turno": 4,
+"pagina": 9
+},
+{
+"candidatura": "junts",
+"cita": "I és en aquest aspecte on cal posar el focus i no com fa el grup popular, amb una proposta que s’allunya de la inclusió i s’acosta a la segregació.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 10,
+"pagina": 13
+},
+{
+"candidatura": "erc",
+"cita": "La inclusió educativa no és una opció, és un dret fonamental.",
+"orador": "Etna Estrems Fayos",
+"turno": 12,
+"pagina": 15
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Si de verdad lo que se quisiera proteger fuera el interés superior del menor, optarían por la educación inclusiva",
+"orador": "Marije Fullaondo la Cruz",
+"turno": 8,
+"pagina": 12
+},
+{
+"candidatura": "pnv",
+"cita": "Conceptos como integración y compensación de desigualdades han sido superados por los de inclusión y equidad.",
+"orador": "Joseba Andoni (GV (EAJ-PNV)) Agirretxea Urresti",
+"turno": 6,
+"pagina": 10
+}
+],
+"fecha": "2025-09-09",
+"voto": {
+"fecha": "2025-09-09",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, relativa a la escolarización del alumnado con necesidades educativas especiales (Orgánica).",
+"expediente": "122/000189",
+"si": 170,
+"no": 177,
+"abst": 0,
+"diario": null,
+"temas": [
+"educacion"
+],
+"grupos": {
+"frente-amplio": {
+"No": 26
+},
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 118,
+"No vota": 2
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion129/20250909/Votacion001/VOT_20250909221758.json",
+"debates": [
+"134-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "reforma-de-la-ley-de-universidades-sobre-practicas",
+"tema": "educacion",
+"titulo": "Reforma de la ley de universidades sobre prácticas",
+"que_es": [
+"Propuesta del PSOE para modificar la ley de universidades y la de ciencia. Gran parte del debate se centró en las prácticas externas y en las universidades privadas.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite: 177 votos a favor y 168 en contra.",
+"despues_fuente": null,
+"debate": "118-2",
+"debate_fecha": "2025-05-27",
+"num": 118,
+"doc": "DSCD-15-PL-118.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Permítanme que me aventure, porque casi seguro que no me equivoco: ustedes no hablarán hoy aquí de nada que tenga que ver con la universidad, todo con tal de dañar al Gobierno.",
+"orador": "Roberto García Morís",
+"turno": 0,
+"pagina": 14
+},
+{
+"candidatura": "pp",
+"cita": "Que la Universidad de Oviedo está infradotada económicamente por su Gobierno.",
+"orador": "Pedro Navarro López",
+"turno": 30,
+"pagina": 30
+},
+{
+"candidatura": "vox",
+"cita": "Incluso, en el caso de Murcia, se pide a las universidades privadas que financien estas prácticas externas de la universidad.",
+"orador": "Joaquín Robles López",
+"turno": 2,
+"pagina": 16
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Hoy hablamos en esta tribuna de universidades, de educación, de igualdad de oportunidades.",
+"orador": "Candela López Tagliafico",
+"turno": 24,
+"pagina": 28
+},
+{
+"candidatura": "podemos",
+"cita": "El Grupo Socialista nos presenta una proposición de ley para modificar tanto la ley de universidades como la ley de ciencia.",
+"orador": "Noemí Santana Perera",
+"turno": 8,
+"pagina": 20
+},
+{
+"candidatura": "junts",
+"cita": "Nosaltres, en canvi, el que volem és més flexibilitat, més especialització, més creativitat, més i més col·laboració publicoprivada",
+"orador": "Josep Pagès i Massó",
+"turno": 14,
+"pagina": 23
+},
+{
+"candidatura": "erc",
+"cita": "La proposta parla explícitament de les pràctiques de les universitats privades",
+"orador": "Etna Estrems Fayos",
+"turno": 20,
+"pagina": 26
+},
+{
+"candidatura": "eh-bildu",
+"cita": "En lo que se refiere a las prácticas externas curriculares, por un lado, es evidente que estas prácticas benefician tanto a la universidad como al estudiantado",
+"orador": "Marije Fullaondo la Cruz",
+"turno": 12,
+"pagina": 22
+}
+],
+"fecha": "2025-05-27",
+"voto": {
+"fecha": "2025-05-27",
+"titulo": "Proposición de Ley del Grupo Parlamentario Socialista, Orgánica por la que se modifica la Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario.",
+"expediente": "122/000186",
+"si": 177,
+"no": 168,
+"abst": 0,
+"diario": null,
+"temas": [
+"educacion"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 134,
+"Sí": 2,
+"No vota": 1
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 24,
+"No vota": 2
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 6,
+"No vota": 1
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion114/20250527/Votacion002/VOT_20250527201601.json",
+"debates": [
+"118-2"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-tras-el-apagon-para-reforzar-el-sistema-electrico",
+"tema": "energia",
+"titulo": "Decreto tras el apagón para reforzar el sistema eléctrico",
+"que_es": [
+"Decreto aprobado tras el apagón del 28 de abril de 2025, con medidas para reforzar el sistema eléctrico y otras sobre regulación del sector."
+],
+"fuente": null,
+"despues": "El Congreso no lo convalidó: 165 votos a favor y 183 en contra.",
+"despues_fuente": null,
+"debate": "132-7",
+"debate_fecha": "2025-07-22",
+"num": 132,
+"doc": "DSCD-15-PL-132.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Y no digamos nada de la presidenta de Red Eléctrica, Beatriz Corredor, que continúa sonriendo en el cargo como si con ella no fuera.",
+"orador": "Guillermo Mariscal Anaya",
+"turno": 40,
+"pagina": 92
+},
+{
+"candidatura": "psoe",
+"cita": "De verdad, señorías, qué pena tan grande que haya grupos de izquierda en esta Cámara que vayan a unir sus votos a la antipolítica",
+"orador": "María de las Nieves Ramírez Moreno",
+"turno": 38,
+"pagina": 90
+},
+{
+"candidatura": "vox",
+"cita": "¿Sabe, señor de SUMAR, quiénes han enviado correos en masa pidiendo que se vote a favor de este decreto?",
+"orador": "José María Figaredo Álvarez-Sala",
+"turno": 36,
+"pagina": 88
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Para abordar este real decreto, creo que antes tenemos que hablar de lo que ocurrió el pasado 28 de abril.",
+"orador": "Eloi Badia Casas",
+"turno": 34,
+"pagina": 87
+},
+{
+"candidatura": "podemos",
+"cita": "Señorías, en 2024, hace solo un año, el sector eléctrico obtuvo unos beneficios de 7700 millones de euros: no olvidemos este dato durante todo este debate.",
+"orador": "Martina Velarde Gómez",
+"turno": 18,
+"pagina": 77
+},
+{
+"candidatura": "compromis",
+"cita": "Vicepresidenta, este real decreto avanza en cuestiones de transparencia y control y es un buen punto de partida, pero también hay deficiencias en el sector que no podemos ignorar.",
+"orador": "Àgueda Micó Micó",
+"turno": 4,
+"pagina": 74
+},
+{
+"candidatura": "junts",
+"cita": "En aquests reials decrets, Junts per Catalunya, també, va votar que no.",
+"orador": "Míriam Nogueras i Camero",
+"turno": 30,
+"pagina": 81
+},
+{
+"candidatura": "erc",
+"cita": "Votarem a favor de la convalidació d’aquest Reial decret llei.",
+"orador": "Teresa Jordà i Roura",
+"turno": 32,
+"pagina": 84
+},
+{
+"candidatura": "eh-bildu",
+"cita": "nosotros hacíamos hincapié en que el apagón no podía ser una excusa para ralentizar o dar pasos atrás en la transición",
+"orador": "Mikel Otero Gabirondo",
+"turno": 28,
+"pagina": 80
+},
+{
+"candidatura": "pnv",
+"cita": "Hoy debatimos la respuesta del Gobierno al apagón, que recoge algunas medidas para reforzar la estabilidad y la supervisión, pero, sin embargo, el grueso de las medidas poco tiene que ver con el apagón",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 26,
+"pagina": 78
+},
+{
+"candidatura": "bng",
+"cita": "Señora ministra, non nos sorprende que as empresas eléctricas presionasen a determinadas forzas políticas para que este real decreto sexa aprobado.",
+"orador": "Néstor Rego Candamil",
+"turno": 12,
+"pagina": 76
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Señorías, este decreto recoge también parte del trabajo que Coalición Canaria ha hecho a lo largo del último mes con el secretario de Estado de Transición Energética",
+"orador": "Cristina Valido García",
+"turno": 10,
+"pagina": 75
+}
+],
+"fecha": "2025-07-22",
+"voto": {
+"fecha": "2025-07-22",
+"titulo": "Real Decreto-ley 7/2025, de 24 de junio, por el que se aprueban medidas urgentes para el refuerzo del sistema eléctrico.",
+"expediente": "130/000021",
+"si": 165,
+"no": 183,
+"abst": 0,
+"diario": null,
+"temas": [
+"energia"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"No": 1,
+"Sí": 25
+},
+"bng": {
+"No": 1
+},
+"junts": {
+"No": 6,
+"No vota": 1
+},
+"psoe": {
+"Sí": 120
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 5,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/Votacion017/VOT_20250722200830.json",
+"debates": [
+"132-7"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "propuesta-del-pp-sobre-la-energia-nuclear",
+"tema": "energia",
+"titulo": "Propuesta del PP sobre la energía nuclear",
+"que_es": [
+"Propuesta del Partido Popular para garantizar la aportación de la energía nuclear a la descarbonización, frente al calendario de cierre de centrales acordado en 2019.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite: 171 votos a favor, 166 en contra y 7 abstenciones.",
+"despues_fuente": null,
+"debate": "123-2",
+"debate_fecha": "2025-06-17",
+"num": 123,
+"doc": "DSCD-15-PL-123.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Pues bien, frente a eso, el Partido Popular introdujo en el debate político que la energía nuclear era fundamental para la transición energética",
+"orador": "Juan Diego Requena Ruiz",
+"turno": 9,
+"pagina": 8
+},
+{
+"candidatura": "psoe",
+"cita": "Ya les han dicho que ustedes también vienen de un pasado, de un pasado en el que el señor Maroto, en 2017, se alegraba de tantos y tantos años de trabajar y conseguir finalmente el cierre de una central nuclear, la de Garoña.",
+"orador": "Andreu Martín Martínez",
+"turno": 29,
+"pagina": 24
+},
+{
+"candidatura": "frente-amplio",
+"cita": "La receta es muy fácil: ustedes sitúan que España está al borde del caos y que necesita el suministro nuclear para luego imponer esa continuidad de las centrales.",
+"orador": "Eloi Badia Casas",
+"turno": 25,
+"pagina": 21
+},
+{
+"candidatura": "podemos",
+"cita": "Señoría del Partido Popular, para intentar ser portavoz del lobby nuclear, ha perdido hoy más de cuatro minutos para defender esta iniciativa.",
+"orador": "Martina Velarde Gómez",
+"turno": 15,
+"pagina": 12
+},
+{
+"candidatura": "junts",
+"cita": "I és que serveix per enviar un missatge, un missatge als operadors de les nuclears i al Govern.",
+"orador": "Pilar Calvo Gómez",
+"turno": 21,
+"pagina": 16
+},
+{
+"candidatura": "erc",
+"cita": "L’any 2019, d’això en fa justament sis anys, Espanya va acordar un calendari de tancament de les centrals nuclears.",
+"orador": "Teresa Jordà i Roura",
+"turno": 23,
+"pagina": 18
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Después de la lata que han dado con la prolongación nuclear, se podría pensar que traerían las cosas un poco más trabajadas, pero no.",
+"orador": "Mikel Otero Gabirondo",
+"turno": 19,
+"pagina": 15
+},
+{
+"candidatura": "pnv",
+"cita": "La nuclear, por tanto, seguirá aportando hasta el año 2035",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 17,
+"pagina": 13
+}
+],
+"fecha": "2025-06-17",
+"voto": {
+"fecha": "2025-06-17",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, para garantizar la aportación de la energía nuclear en la descarbonización del sistema energético.",
+"expediente": "122/000179",
+"si": 171,
+"no": 166,
+"abst": 7,
+"diario": null,
+"temas": [
+"energia"
+],
+"grupos": {
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"psoe": {
+"No": 117,
+"No vota": 2
+},
+"erc": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 3,
+"No vota": 1
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 137
+},
+"vox": {
+"Sí": 33
+},
+"junts": {
+"Abstención": 7
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion119/20250617/Votacion001/VOT_20250617203251.json",
+"debates": [
+"123-2"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "ley-de-amnistia",
+"tema": "territorio",
+"titulo": "Ley de amnistía",
+"que_es": [
+"Ley orgánica propuesta por el Grupo Socialista para amnistiar hechos relacionados con el proceso independentista de Cataluña.",
+"Junts recuerda en el debate que era condición previa para que sus siete votos facilitaran la investidura de Pedro Sánchez."
+],
+"fuente": null,
+"despues": "Se aprobó definitivamente el 30 de mayo de 2024 y se publicó como Ley Orgánica 1/2024. Su aplicación por los tribunales sigue dando noticias.",
+"despues_fuente": [
+"Texto en el BOE",
+"https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776"
+],
+"debate": "12-1",
+"debate_fecha": "2023-12-12",
+"num": 12,
+"doc": "DSCD-15-PL-12.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "¿Que esta Cámara cumpla su papel y haga leyes es malo para la democracia?",
+"orador": "Patxi López Álvarez",
+"turno": 0,
+"pagina": 7
+},
+{
+"candidatura": "pp",
+"cita": "Pero sí lo es para la gran mayoría de españoles que no estamos dispuestos a que nos arrebaten ni nuestros derechos ni nuestra democracia ni nuestra Constitución.",
+"orador": "Alberto Núñez Feijóo",
+"turno": 4,
+"pagina": 10
+},
+{
+"candidatura": "vox",
+"cita": "Es un golpe contra la Constitución, señorías, porque, como ya les recordé, ustedes mismos saben que en ella no cabe la ley de amnistía, aunque ahora digan lo contrario.",
+"orador": "Santiago Abascal Conde",
+"turno": 34,
+"pagina": 28
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Esta votación no es solo la tramitación de una ley.",
+"orador": "Aina Vidal Sáez",
+"turno": 32,
+"pagina": 25
+},
+{
+"candidatura": "podemos",
+"cita": "Señorías del Partido Popular, ponen ustedes en cuestión la constitucionalidad de esta ley de amnistía y saben ustedes que la Constitución no prohíbe esta institución.",
+"orador": "Martina Velarde Gómez",
+"turno": 22,
+"pagina": 17
+},
+{
+"candidatura": "junts",
+"cita": "Avui, i en català, encarem la presa en consideració de la Llei Orgànica d’amnistia presentada pel Grup Socialista com a condició prèvia perquè els set vots de Junts facilitessin la investidura de Pedro Sánchez.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 28,
+"pagina": 21
+},
+{
+"candidatura": "erc",
+"cita": "Vostè em pregunta si jo, a partir d’ara, per l’aprovació de la llei d’amnistia, seré o em sentiré més espanyol.",
+"orador": "Gabriel Rufián Romero",
+"turno": 30,
+"pagina": 23
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Miren, en Euskal Herria Bildu, como ya hemos venido diciendo, creemos que esta ley es un paso importante, es un paso en positivo, una medida necesaria y justa que vuelve a traer a la política lo que nunca debió salir de ella.",
+"orador": "Jon Iñarritu García",
+"turno": 26,
+"pagina": 19
+},
+{
+"candidatura": "pnv",
+"cita": "Llevamos meses de retórica inflamada, de retórica de la humillación y del agravio en torno a la tramitación de una ley de amnistía",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 24,
+"pagina": 18
+},
+{
+"candidatura": "bng",
+"cita": "O que hoxe imos aprobar é a lei de amnistía, un avance democrático importante no marco dun réxime de 78 que ten, sen dúbida, severos déficits desde o punto de vista democrático.",
+"orador": "Néstor Rego Candamil",
+"turno": 20,
+"pagina": 16
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Y nos parece grave que diseñen esa ley quienes van a beneficiarse de la misma y fuera del Estado español.",
+"orador": "Cristina Valido García",
+"turno": 18,
+"pagina": 15
+}
+],
+"fecha": "2024-05-30",
+"voto": {
+"fecha": "2024-05-30",
+"titulo": "Proposición de Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña. (Pública por llamamiento).",
+"expediente": "122/000019",
+"si": 177,
+"no": 172,
+"abst": 0,
+"diario": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-45.PDF?#page=25",
+"temas": [
+"territorio"
+],
+"grupos": null,
+"json": null,
+"debates": [
+"12-1",
+"16-4",
+"20-2",
+"32-1",
+"45-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-sobre-gaza-y-comercio-de-armas-con-israel",
+"tema": "defensa",
+"titulo": "Decreto sobre Gaza y comercio de armas con Israel",
+"que_es": [
+"El decreto se titula «medidas urgentes contra el genocidio en Gaza y de apoyo a la población palestina». Esa calificación es del propio texto y fue parte de la discusión.",
+"El debate giró en torno a esa calificación y al embargo de armas."
+],
+"fuente": null,
+"despues": "Se convalidó con 178 votos a favor, 169 en contra y 1 abstención.",
+"despues_fuente": null,
+"debate": "140-3",
+"debate_fecha": "2025-10-07",
+"num": 140,
+"doc": "DSCD-15-PL-140.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Señorías, quiero que mis primeras palabras, porque es de justicia, sean de gratitud y de reconocimiento a los integrantes de la flotilla que navegaron hacia Gaza.",
+"orador": "Sergio Gutiérrez Prieto",
+"turno": 33,
+"pagina": 55
+},
+{
+"candidatura": "pp",
+"cita": "Señorías, un 7 de octubre, en el aniversario de la mayor matanza de judíos desde el genocidio nazi, traen al Congreso un decreto que llama genocida a Israel.",
+"orador": "Cayetana Álvarez de Toledo Peralta-Ramos",
+"turno": 37,
+"pagina": 56
+},
+{
+"candidatura": "vox",
+"cita": "El real decreto que debatimos empieza mal en su exposición de motivos al calificar al conflicto entre Israel y Hamás como genocidio",
+"orador": "Alberto Asarta Cuevas",
+"turno": 29,
+"pagina": 53
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Cumplían el mandato del derecho internacional de llevar ayuda humanitaria al pueblo palestino, víctima de un brutal genocidio.",
+"orador": "Enrique Fernando Santiago Romero",
+"turno": 27,
+"pagina": 52
+},
+{
+"candidatura": "compromis",
+"cita": "Senyories, la situació a Gaza ens obliga a mirar de cara una realitat que ha sigut ignorada durant molt de temps.",
+"orador": "Àgueda Micó Micó",
+"turno": 2,
+"pagina": 41
+},
+{
+"candidatura": "junts",
+"cita": "Ahora bien, es cierto que no podemos obviar que el real decreto que se nos presenta tiene carencias claras, señor ministro.",
+"orador": "Marta Madrenas i Mir",
+"turno": 20,
+"pagina": 47
+},
+{
+"candidatura": "erc",
+"cita": "Señora Madrenas, si la he entendido bien, usted está a favor de la paz y, como está a favor de la paz, pide un embargo de armas para intentar la paz.",
+"orador": "Gabriel Rufián Romero",
+"turno": 24,
+"pagina": 50
+},
+{
+"candidatura": "pnv",
+"cita": "Tras ese fatídico día, el Gobierno de Israel comenzó una ofensiva militar que en estos veinticuatro meses ha dejado una Gaza destruida con más de 65 000 muertos e incontables personas heridas.",
+"orador": "Maribel (GV (EAJ-PNV)) Vaquero Montero",
+"turno": 14,
+"pagina": 44
+}
+],
+"fecha": "2025-10-08",
+"voto": {
+"fecha": "2025-10-08",
+"titulo": "Real Decreto-ley 10/2025, de 23 de septiembre, por el que se adoptan medidas urgentes contra el genocidio en Gaza y de apoyo a la población palestina.",
+"expediente": "130/000024",
+"si": 178,
+"no": 169,
+"abst": 1,
+"diario": null,
+"temas": [
+"defensa"
+],
+"grupos": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 33
+},
+"pnv": {
+"Sí": 4,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 120
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion087/VOT_20251008195359.json",
+"debates": [
+"140-3"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-de-vox-de-ampliar-las-misiones-de-las-fuerzas-armadas",
+"tema": "defensa",
+"titulo": "Propuesta de Vox de ampliar las misiones de las Fuerzas Armadas",
+"que_es": [
+"Propuesta de Vox para modificar la Ley de la Defensa Nacional. Según se expuso en el debate, añadía entre las misiones de las Fuerzas Armadas la lucha contra el terrorismo y la inmigración ilegal.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: 168 votos a favor y 178 en contra.",
+"despues_fuente": null,
+"debate": "204-1",
+"debate_fecha": "2026-09-15",
+"num": 204,
+"doc": "DSCD-15-PL-204.PDF",
+"posturas": [
+{
+"candidatura": "vox",
+"cita": "Esta modificación consiste en añadir a la letra c) de dicho artículo 16, sobre los tipos de operaciones que las Fuerzas Armadas pueden llevar a cabo",
+"orador": "José María Sánchez García",
+"turno": 0,
+"pagina": 6
+},
+{
+"candidatura": "psoe",
+"cita": "Lo que estamos discutiendo es algo mucho más concreto: ¿es necesario convertir la inmigración irregular en una misión expresamente incorporada a la Ley Orgánica de la Defensa Nacional?",
+"orador": "José Antonio Rodríguez Salas",
+"turno": 14,
+"pagina": 16
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Su reforma propone modificar el artículo 16 de la Ley de la Defensa Nacional incorporando",
+"orador": "Txema Guijarro García",
+"turno": 12,
+"pagina": 15
+},
+{
+"candidatura": "pnv",
+"cita": "Ahora bien, señorías, no confundamos las competencias que por naturaleza corresponden a las Fuerzas Armadas en función de su formación con las que corresponden a las fuerzas y cuerpos de seguridad",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 8,
+"pagina": 11
+},
+{
+"candidatura": "erc",
+"cita": "El Grup Republicà votarà no a aquesta proposició de llei de VOX per molts motius i vaig a fer una certa enumeració.",
+"orador": "Francesc-Marc Álvaro Vidal",
+"turno": 10,
+"pagina": 12
+},
+{
+"candidatura": "bng",
+"cita": "No fondo é unha maneira de avanzar tamén nesa proposta de militarización da sociedade.",
+"orador": "Néstor Rego Candamil",
+"turno": 4,
+"pagina": 9
+}
+],
+"fecha": "2026-09-15",
+"voto": {
+"fecha": "2026-09-15",
+"titulo": "Proposición de Ley del Grupo Parlamentario VOX, Orgánica de modificación de la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional.",
+"expediente": "122/000012",
+"si": 168,
+"no": 178,
+"abst": 0,
+"diario": null,
+"temas": [
+"defensa"
+],
+"grupos": {
+"erc": {
+"No": 7
+},
+"psoe": {
+"No": 120,
+"No vota": 1
+},
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"compromis": {
+"No": 1
+},
+"podemos": {
+"No": 4
+},
+"bng": {
+"No": 1
+},
+"coalicion-canaria": {
+"No": 1
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 31,
+"No vota": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion197/20260915/Votacion001/VOT_20260915204520.json",
+"debates": [
+"204-1"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "pacto-de-pp-y-psoe-sobre-el-poder-judicial",
+"tema": "justicia",
+"titulo": "Pacto de PP y PSOE sobre el Poder Judicial",
+"que_es": [
+"Propuesta conjunta de PP y PSOE para reformar la Ley del Poder Judicial y el Estatuto del Ministerio Fiscal, ligada al acuerdo para renovar el Consejo General del Poder Judicial.",
+"Incluía causas de incompatibilidad para ser fiscal general tras haber ocupado cargos públicos.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite con 258 votos a favor y siguió adelante en julio de 2024.",
+"despues_fuente": null,
+"debate": "55-2",
+"debate_fecha": "2024-07-04",
+"num": 55,
+"doc": "DSCD-15-PL-55.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Por eso, el Partido Popular se negó a llegar a un acuerdo de renovación del Consejo General del Poder Judicial como los de siempre.",
+"orador": "Miguel Tellado Filgueira",
+"turno": 0,
+"pagina": 3
+},
+{
+"candidatura": "psoe",
+"cita": "Para los socialistas hoy es un gran día",
+"orador": "Patxi López Álvarez",
+"turno": 2,
+"pagina": 5
+},
+{
+"candidatura": "vox",
+"cita": "¿Es este un acuerdo bueno para el Partido Popular?",
+"orador": "María José Rodríguez de Millán Parro",
+"turno": 26,
+"pagina": 18
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Abandonen sus exigencias de que los jueces elijan a los jueces.",
+"orador": "Enrique Fernando Santiago Romero",
+"turno": 24,
+"pagina": 17
+},
+{
+"candidatura": "podemos",
+"cita": "Hoy el Grupo Socialista trae a esta Cámara el primer gran acuerdo de la legislatura, y no lo hace de la mano de sus socios de investidura, lo hace de la mano del Grupo Popular.",
+"orador": "Ione Belarra Urteaga",
+"turno": 10,
+"pagina": 9
+},
+{
+"candidatura": "junts",
+"cita": "Que presentin el pacte sobre el Consejo General del Poder Judicial, on res no canvia, abans que el senyor Sánchez anunciï mesures de regeneració democràtica",
+"orador": "Míriam Nogueras i Camero",
+"turno": 16,
+"pagina": 13
+},
+{
+"candidatura": "eh-bildu",
+"cita": "No consideramos positivo ni el acuerdo alcanzado para la renovación del Consejo General del Poder Judicial ni la propuesta del Grupo Socialista y del Grupo Popular para su modificación",
+"orador": "Mertxe Aizpurua Arzallus",
+"turno": 14,
+"pagina": 11
+},
+{
+"candidatura": "pnv",
+"cita": "Y en lo que se refiere al Ministerio Fiscal, se establecen causas de abstención y recusación y su procedimiento",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 12,
+"pagina": 10
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Presidenta, señorías, ignoro si, como dicen algunos, hay algún otro motivo o motivos para este acuerdo.",
+"orador": "Cristina Valido García",
+"turno": 6,
+"pagina": 8
+}
+],
+"fecha": "2024-07-04",
+"voto": {
+"fecha": "2024-07-04",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Popular en el Congreso y Socialista, Orgánica de reforma de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial y de reforma de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.",
+"expediente": "122/000118",
+"si": 258,
+"no": 43,
+"abst": 33,
+"diario": null,
+"temas": [
+"impuestos",
+"justicia"
+],
+"grupos": {
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"podemos": {
+"No": 3,
+"No vota": 1
+},
+"junts": {
+"No": 7
+},
+"erc": {
+"No": 1,
+"No vota": 6
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"frente-amplio": {
+"Abstención": 26
+},
+"pnv": {
+"Abstención": 5
+},
+"compromis": {
+"Abstención": 1
+},
+"eh-bildu": {
+"No vota": 6
+},
+"bng": {
+"No vota": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion053/20240704/Votacion001/VOT_20240704135014.json",
+"debates": [
+"55-2",
+"56-3",
+"58-3"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-de-sumar-de-una-oficina-de-prevencion-de-la-corrupcion",
+"tema": "justicia",
+"titulo": "Propuesta de Sumar de una Oficina de prevención de la corrupción",
+"que_es": [
+"Propuesta del Grupo Sumar para crear una Oficina de prevención de la corrupción.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: 170 votos a favor, 176 en contra y 1 abstención.",
+"despues_fuente": null,
+"debate": "136-2",
+"debate_fecha": "2025-09-16",
+"num": 136,
+"doc": "DSCD-15-PL-136.PDF",
+"posturas": [
+{
+"candidatura": "frente-amplio",
+"cita": "Señores y señoras diputadas, no hay cortina de humo que tape la corrupción.",
+"orador": "Enrique Fernando Santiago Romero",
+"turno": 0,
+"pagina": 17
+},
+{
+"candidatura": "psoe",
+"cita": "Tampoco somos iguales ante la corrupción, y esto ha quedado demostradísimo.",
+"orador": "Pepe Mercadal Baquero",
+"turno": 24,
+"pagina": 31
+},
+{
+"candidatura": "pp",
+"cita": "Porque ustedes prefieren los sillones del Gobierno a combatir la corrupción",
+"orador": "Edurne Uriarte Bengoechea",
+"turno": 26,
+"pagina": 32
+},
+{
+"candidatura": "vox",
+"cita": "Señorías de SUMAR, tomen nota de que esa manera de actuar sí que es luchar contra la corrupción.",
+"orador": "Andrés Alberto Rodríguez Almeida",
+"turno": 22,
+"pagina": 29
+},
+{
+"candidatura": "podemos",
+"cita": "Señorías, la verdad es que es indignante solo el hecho de tener que volver a hablar de corrupción una vez más en este hemiciclo.",
+"orador": "Martina Velarde Gómez",
+"turno": 6,
+"pagina": 20
+},
+{
+"candidatura": "junts",
+"cita": "La proposta que es presenta avui situa encertadament la corrupció com un problema polític de primer ordre.",
+"orador": "Josep Pagès i Massó",
+"turno": 14,
+"pagina": 24
+},
+{
+"candidatura": "pnv",
+"cita": "Lo cierto, señorías, es que nada de esto se ha hecho con carácter previo a la Oficina de prevención de la corrupción que se nos propone en la iniciativa debatida.",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 10,
+"pagina": 21
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Pero también creo que hay que señalar que no cabe la ingenuidad",
+"orador": "Oskar Matute García de Jalón",
+"turno": 12,
+"pagina": 22
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Señorías, miren que llevamos años buscando la forma de atajar la corrupción.",
+"orador": "Cristina Valido García",
+"turno": 4,
+"pagina": 20
+}
+],
+"fecha": "2025-09-16",
+"voto": {
+"fecha": "2025-09-16",
+"titulo": "Proposición de Ley del Grupo Parlamentario Plurinacional SUMAR, de creación de la Oficina de prevención de la corrupción.",
+"expediente": "122/000086",
+"si": 170,
+"no": 176,
+"abst": 1,
+"diario": null,
+"temas": [
+"justicia"
+],
+"grupos": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 33
+},
+"junts": {
+"No": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"erc": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion131/20250916/Votacion002/VOT_20250916211206.json",
+"debates": [
+"136-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "reforma-de-la-ley-de-seguridad-ciudadana-la-ley-mordaza",
+"tema": "justicia",
+"titulo": "Reforma de la ley de seguridad ciudadana, la «ley mordaza»",
+"que_es": [
+"Propuesta de PSOE, Sumar, EH Bildu y PNV para reformar la Ley de Protección de la Seguridad Ciudadana de 2015, conocida como «ley mordaza».",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite: 176 votos a favor y 170 en contra. En diciembre de 2024 no prosperó una enmienda a la totalidad con 169 votos a favor y 176 en contra.",
+"despues_fuente": null,
+"debate": "74-2",
+"debate_fecha": "2024-10-29",
+"num": 74,
+"doc": "DSCD-15-PL-74.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Voy a utilizar la solidez de sus argumentos para justificar por qué debemos reformar esta ley; sus mismos argumentos.",
+"orador": "David Serrada Pariente",
+"turno": 0,
+"pagina": 6
+},
+{
+"candidatura": "pp",
+"cita": "Por lo tanto, Pedro Sánchez, Grande-Marlaska y Rafael Pérez saben que este cambio va a suponer un mayor riesgo para los agentes",
+"orador": "Miguel Tellado Filgueira",
+"turno": 12,
+"pagina": 15
+},
+{
+"candidatura": "vox",
+"cita": "Señorías del Grupo Socialista, ¿cómo pueden ustedes pervertir tanto el lenguaje y denominar o titular esta ley: para la protección de las libertades y la seguridad ciudadana?",
+"orador": "Ignacio Hoces Íñiguez",
+"turno": 38,
+"pagina": 28
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Por ello, es una urgencia democrática reformar la Ley de Protección de la Seguridad Ciudadana",
+"orador": "Enrique Fernando Santiago Romero",
+"turno": 2,
+"pagina": 8
+},
+{
+"candidatura": "podemos",
+"cita": "Señorías, nueve años con la ley mordaza que Sánchez prometió derogar hace ya seis años, y aún no lo ha cumplido.",
+"orador": "Martina Velarde Gómez",
+"turno": 32,
+"pagina": 23
+},
+{
+"candidatura": "erc",
+"cita": "Señorías, hoy corregimos y ponemos punto final a un terrible error político: la que fue bautizada como ley mordaza no tendría que haberse aprobado jamás.",
+"orador": "Francesc-Marc Álvaro Vidal",
+"turno": 36,
+"pagina": 26
+},
+{
+"candidatura": "junts",
+"cita": "«La derogación de la ley mordaza es absolutamente imprescindible», va dir el senyor Antonio Hernando, portaveu del PSOE l’any 2016",
+"orador": "Josep Pagès i Massó",
+"turno": 34,
+"pagina": 23
+},
+{
+"candidatura": "pnv",
+"cita": "Señorías, será la tercera vez que debatamos en la Cámara la toma en consideración de una proposición de ley de reforma de la Ley Orgánica de Protección de la Seguridad Ciudadana.",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 10,
+"pagina": 13
+}
+],
+"fecha": "2024-10-29",
+"voto": {
+"fecha": "2024-10-29",
+"titulo": "Proposición de Ley de los Grupos Parlamentarios Socialista, Plurinacional SUMAR, Euskal Herria Bildu y Vasco (EAJ-PNV), Orgánica de protección de las libertades y seguridad ciudadana.",
+"expediente": "122/000131",
+"si": 176,
+"no": 170,
+"abst": 0,
+"diario": null,
+"temas": [
+"energia",
+"justicia"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion071/20241029/Votacion001/VOT_20241029212331.json",
+"debates": [
+"74-2",
+"88-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "ley-de-paridad-entre-mujeres-y-hombres",
+"tema": "igualdad",
+"titulo": "Ley de paridad entre mujeres y hombres",
+"que_es": [
+"Proyecto de ley orgánica del Gobierno sobre representación paritaria y presencia equilibrada de mujeres y hombres."
+],
+"fuente": null,
+"despues": "Se aprobó en la votación final de conjunto: 178 votos a favor y 171 en contra.",
+"despues_fuente": null,
+"debate": "25-1",
+"debate_fecha": "2024-02-22",
+"num": 25,
+"doc": "DSCD-15-PL-25.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Y otro cortocircuito ya les adelanto: el feminismo ha beneficiado a todas las mujeres, incluso a las que no lo defienden",
+"orador": "María Guijarro Ceballos",
+"turno": 6,
+"pagina": 8
+},
+{
+"candidatura": "vox",
+"cita": "Esta ley, señora ministra, es para las mujeres directivas, es para las élites, es para las ministras, es para las mujeres de los rascacielos",
+"orador": "Rocío De Meer Méndez",
+"turno": 4,
+"pagina": 6
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Señora presidenta, señora ministra, señorías, hoy nos toca reflexionar sobre un principio fundamental que da forma a la democracia y a la equidad, la ley de paridad.",
+"orador": "Esther Gil de Reboleño Lastortres",
+"turno": 26,
+"pagina": 15
+},
+{
+"candidatura": "podemos",
+"cita": "Hoy, de manera absolutamente sorpresiva, la señora De Meer se ha subido a esta tribuna a decir que ella defiende a las mujeres de la calle frente a Ana Patricia Botín.",
+"orador": "Ione Belarra Urteaga",
+"turno": 22,
+"pagina": 13
+},
+{
+"candidatura": "pnv",
+"cita": "Tal y como explica la exposición de motivos de esta ley, esta proposición hace referencia a lo que decían las disposiciones oficiales de otra ley y lo que quiere es una representación paritaria",
+"orador": "Joseba Andoni (GV (EAJ-PNV)) Agirretxea Urresti",
+"turno": 24,
+"pagina": 14
+},
+{
+"candidatura": "bng",
+"cita": "Avanzo, por tanto, que o BNG vai votar en contra da emenda á totalidade presentada pola ultradereita.",
+"orador": "Néstor Rego Candamil",
+"turno": 20,
+"pagina": 12
+},
+{
+"candidatura": "coalicion-canaria",
+"cita": "Por suerte, la dedicación y el empeño de mujeres muy valientes a lo largo de la historia nos han traído hoy hasta aquí",
+"orador": "Cristina Valido García",
+"turno": 18,
+"pagina": 11
+}
+],
+"fecha": "2024-07-23",
+"voto": {
+"fecha": "2024-07-23",
+"titulo": "Votación de conjunto del Proyecto de Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres, por tener la misma carácter orgánico.",
+"expediente": "121/000001",
+"si": 178,
+"no": 171,
+"abst": 0,
+"diario": null,
+"temas": [
+"igualdad"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"eh-bildu": {
+"Sí": 6
+},
+"podemos": {
+"Sí": 4
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/Votacion068/VOT_20240723221740.json",
+"debates": [
+"25-1",
+"54-1",
+"58-6"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-del-pp-sobre-juzgados-de-violencia-contra-la-mujer",
+"tema": "igualdad",
+"titulo": "Propuesta del PP sobre juzgados de violencia contra la mujer",
+"que_es": [
+"Propuesta del Partido Popular sobre el funcionamiento de las secciones de los Tribunales de Instancia que atienden la violencia contra la mujer.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: 149 votos a favor y 196 en contra.",
+"despues_fuente": null,
+"debate": "106-2",
+"debate_fecha": "2025-03-25",
+"num": 106,
+"doc": "DSCD-15-PL-106.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Señorías, comencemos por lo obvio, aunque algunos no lo quieran ver: la violencia contra la mujer es la mayor y la más cruel manifestación de desigualdad que existe en nuestra sociedad.",
+"orador": "Patricia Rodríguez Calleja",
+"turno": 0,
+"pagina": 19
+},
+{
+"candidatura": "psoe",
+"cita": "la semana pasada, el Grupo Socialista en el Senado presentó una moción en la que solicitaba fortalecer los juzgados de violencia.",
+"orador": "Alicia Álvarez González",
+"turno": 20,
+"pagina": 30
+},
+{
+"candidatura": "vox",
+"cita": "Con la finalidad de quitar carga de trabajo a los juzgados de violencia contra la mujer, que también sabemos que están colapsados, quieren excluir de ellos los delitos de matrimonios forzados, mutilación genital femenina y trata de seres humanos.",
+"orador": "Rocío Aguirre Gil de Biedma",
+"turno": 14,
+"pagina": 28
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Si no conociéramos bien su historial, quizá podríamos creer que con esta iniciativa realmente buscan solucionar un problema grave",
+"orador": "Esther Gil de Reboleño Lastortres",
+"turno": 12,
+"pagina": 27
+},
+{
+"candidatura": "podemos",
+"cita": "A nosotras esta proposición de ley que presenta el Grupo Popular nos resulta un retroceso en la lucha contra las violencias que se ejercen hacia las mujeres",
+"orador": "Noemí Santana Perera",
+"turno": 4,
+"pagina": 22
+},
+{
+"candidatura": "junts",
+"cita": "Nosotros en una cuestión como la protección afectiva de las víctimas de violencia de género intentaremos evitar el argumento ad personam",
+"orador": "Josep Pagès i Massó",
+"turno": 10,
+"pagina": 25
+},
+{
+"candidatura": "bng",
+"cita": "Lograr a especialización dos órganos xudiciais é unha medida fundamental na loita contra a violencia machista e para mellorar a atención ás vítimas.",
+"orador": "Néstor Rego Candamil",
+"turno": 2,
+"pagina": 21
+}
+],
+"fecha": "2025-03-25",
+"voto": {
+"fecha": "2025-03-25",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica para garantizar el funcionamiento de las secciones de los Tribunales de Instancia y de las Audiencias provinciales en materia de violencia sobre la mujer, así como la especialización de los jueces y magistrados destinados en ellas.",
+"expediente": "122/000149",
+"si": 149,
+"no": 196,
+"abst": 0,
+"diario": null,
+"temas": [
+"justicia",
+"igualdad"
+],
+"grupos": {
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"psoe": {
+"No": 119,
+"No vota": 1
+},
+"podemos": {
+"No": 4
+},
+"coalicion-canaria": {
+"No": 1
+},
+"erc": {
+"No": 7
+},
+"frente-amplio": {
+"No": 24,
+"No vota": 2
+},
+"compromis": {
+"No": 1
+},
+"bng": {
+"No": 1
+},
+"eh-bildu": {
+"No": 6
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"junts": {
+"Sí": 7
+},
+"pnv": {
+"Sí": 5
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion102/20250325/Votacion002/VOT_20250325212232.json",
+"debates": [
+"106-2"
 ],
 "resultado": "No salió adelante"
 }

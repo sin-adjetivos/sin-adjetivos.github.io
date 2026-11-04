@@ -39,7 +39,7 @@ const nombre = (c) => porId[c].etiqueta_voto || porId[c].sigla;
 
     <section class="ficha-seccion">
       <h2>Qué dijo cada grupo</h2>
-      <p class="nota" style="margin-bottom:1rem">Una frase literal de cada grupo en el debate, en el idioma en que se dijo. Orden al azar en cada visita. Una frase no resume una postura: <a href={`/debates/${f.debate}/`}>lee el debate completo</a>.</p>
+      <p class="nota" style="margin-bottom:1rem">Una frase literal de cada grupo en el debate{f.debate_fecha !== f.fecha ? ` del ${fecha(f.debate_fecha)}, anterior a esta votación` : ''}, en el idioma en que se dijo. Orden al azar en cada visita. Una frase no resume una postura: <a href={`/debates/${f.debate}/`}>lee el debate completo</a>.</p>
       <ul class="filas" data-barajar>
         {f.posturas.map((p) => (
           <li class="con-banda" style={`--c:${COLORES[p.candidatura]}`}>

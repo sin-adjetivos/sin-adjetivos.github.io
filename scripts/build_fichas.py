@@ -4,19 +4,22 @@ sys.path.insert(0, 'scripts')
 from lib_pdf import norm
 from fuente_fichas import FICHAS
 from fuente_fichas_2 import FICHAS_2
-FICHAS = FICHAS + FICHAS_2
+from fuente_fichas_3 import FICHAS_3
+from fuente_fichas_4 import FICHAS_4
+FICHAS = FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4
 from seleccion_fichas import elegir
 
 VALORATIVAS = r'\b(polémic\w*|histórico|histórica|importante\w*|grave\w*|escandal\w*|enorme\w*|radical\w*|extremo|extrema|ultra\w*|duro|dura|valiente\w*|vergonz\w*|polarizad\w*|controvertid\w*|ambicios\w*|necesari\w*|buen\w*|mal[oa]s?)\b'
 errores = []; salida = []
 todos = json.load(open('site/build-data/votos_todos.json', encoding='utf-8'))
-sel = elegir(8)
+sel = elegir(20)
 elegidos = {(t, x.get('expediente')) for t, xs in sel.items() for x in xs}
 for f in FICHAS:
     d = json.load(open(f"site/build-data/debates/{f['debate']}.json", encoding='utf-8'))
     if (f['tema'], f['expediente']) not in elegidos:
         errores.append(f"{f['expediente']} no sale de las reglas de selección en {f['tema']}")
-    vs = [v for v in todos if v.get('expediente') == f['expediente'] and f['debate'] in (v.get('debates') or []) and not re.search('enmienda', v['titulo'], re.I)]
+    vs = [v for v in todos if v.get('expediente') == f['expediente'] and f['debate'] in (v.get('debates') or []) and not re.search(r'(?<!las )enmiendas? (?!a la totalidad)|^Votaci[oó]n de la enmienda', v['titulo'], re.I)]
+    if f.get('voto_fecha'): vs = [x for x in vs if x['fecha'] == f['voto_fecha']]
     if not vs: errores.append(f"{f['expediente']}: sin votación"); continue
     v = next((x for x in vs if re.search(r'^Real Decreto-ley|conjunto|dictamen', x['titulo'], re.I)), vs[0])
     for texto in f['que_es'] + [f['despues'], f['titulo']]:
@@ -38,7 +41,7 @@ for f in FICHAS:
     faltan = sorted(hablaron - set(f['citas']))
     if faltan: print(f"AVISO {f['expediente']}: intervinieron sin cita en la ficha: {faltan}")
     sl = re.sub(r'[^a-z0-9]+', '-', unicodedata.normalize('NFKD', f['titulo'].lower()).encode('ascii', 'ignore').decode()).strip('-')[:70].strip('-')
-    salida.append(dict(id=sl, tema=f['tema'], titulo=f['titulo'], que_es=f['que_es'], fuente=f.get('fuente'), despues=f['despues'], despues_fuente=f.get('despues_fuente'), debate=f['debate'], num=d['num'], doc=d['doc'], posturas=posturas, fecha=v['fecha'], voto=v))
+    salida.append(dict(id=sl, tema=f['tema'], titulo=f['titulo'], que_es=f['que_es'], fuente=f.get('fuente'), despues=f['despues'], despues_fuente=f.get('despues_fuente'), debate=f['debate'], debate_fecha=d['fecha'], num=d['num'], doc=d['doc'], posturas=posturas, fecha=v['fecha'], voto=v))
 if errores:
     print('\n'.join(errores)); print(f'{len(errores)} errores. No se generan fichas.'); sys.exit(1)
 json.dump(salida, open('site/src/data/fichas.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)

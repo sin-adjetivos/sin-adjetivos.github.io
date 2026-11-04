@@ -211,3 +211,5 @@ body.conColor .cabecera { background: var(--papel); }
 
 .marca { display: inline-flex; align-items: center; gap: .5rem; }
 .marca img { border-radius: 50%; }
+
+.cabecera .marco { align-items: center; }

@@ -77,3 +77,78 @@ Imágenes: `04-pensiones-omnibus/`. Ficha: https://sin-adjetivos.github.io/ficha
 > Días después, el Gobierno aprobó otro decreto con parte de las medidas. Y esta vez salió adelante con 315 votos, incluidos los de PP y Junts.
 
 **Texto de la publicación:** Votaciones del 22 de enero y el 12 de febrero de 2025. Fuente y citas en la web.
+
+## 05. Cómo votar por correo
+Imágenes: `05-voto-por-correo/`. Página: https://sin-adjetivos.github.io/como-votar/
+
+Es de plazo: publícalo cuanto antes, y como muy tarde unos días antes del 19 de noviembre.
+
+> ¿No vas a estar el 29 de noviembre? Puedes votar por correo, pero tienes hasta el 19 de noviembre para pedirlo.
+>
+> Vas a cualquier oficina de Correos con tu DNI original, no vale una fotocopia. También se puede pedir en su web, con DNI electrónico o certificado digital.
+>
+> Te llegan las papeletas a la dirección que indiques. Lo preparas, lo llevas a Correos y lo envías certificado, que es gratis. Hasta el 25 de noviembre, y mejor no apurar.
+>
+> Ojo: si lo pides, ya no podrás votar en persona.
+
+**Texto de la publicación:** Plazos oficiales de la Junta Electoral Central. Todos los pasos en la web.
+
+## 06. El decreto de desahucios
+Imágenes: `06-decreto-desahucios/`. Ficha: https://sin-adjetivos.github.io/fichas/decreto-de-vivienda-desahucios-compras-especulativas-y-alquiler-de-tem/
+
+Es de plazo: tiene sentido antes del 12 de noviembre. Antes de publicarlo, comprueba que esa votación sigue prevista.
+
+> ¿Quién tumbó el decreto de desahucios?
+>
+> Suspendía hasta 2030 los desahucios de personas sin alternativa de vivienda cuando quien demanda es una entidad de inversión especulativa. También regulaba el alquiler de temporada.
+>
+> Votaron no PP, Vox y Junts. Votaron sí PSOE, Sumar, ERC, EH Bildu, PNV, Podemos, Compromís, BNG y Coalición Canaria.
+>
+> Resultado: 172 a 178. No se convalidó.
+>
+> El PP dijo que la vivienda se abarata con más vivienda. Junts, que el decreto permite que los fondos sigan comprando. El Gobierno aprobó otro que lo reproduce en lo sustancial, y está previsto que se vote el 12 de noviembre.
+
+**Texto de la publicación:** Votación del 2 de octubre de 2026, por llamamiento. Voto por grupo contado de la lista nominal del Diario de Sesiones.
+
+## 07. La AP-9
+Imágenes: `07-autopista-ap9/`. Ficha: https://sin-adjetivos.github.io/fichas/traspaso-de-la-autopista-ap-9-a-galicia/
+
+> La autopista AP-9: el PP apoyó tramitar su traspaso a Galicia en 2024, y en 2026 votó en contra.
+>
+> Era una petición del Parlamento gallego. Durante la tramitación, PSOE, BNG y Sumar pactaron cambios en el texto. El PP dijo que esos cambios ponían en riesgo la seguridad jurídica y la viabilidad financiera del traspaso.
+>
+> Resultado: 179 a 169. Votaron no PP y Vox.
+>
+> Salió adelante y ya es ley. Galicia la asumirá cuando se cierre el acuerdo de traspaso.
+
+**Texto de la publicación:** Votación del 25 de junio de 2026. Ley Orgánica 3/2026 en el BOE. Fuente y citas en la web.
+
+## 08. Las socimis
+Imágenes: `08-especulacion-vivienda/`. Ficha: https://sin-adjetivos.github.io/fichas/propuesta-de-erc-de-medidas-fiscales-contra-la-especulacion-inmobiliar/
+
+> Quitar ventajas fiscales a las socimis, las sociedades de inversión inmobiliaria: esta propuesta cayó por 8 votos.
+>
+> La presentó ERC, con otras medidas como suprimir la exención de IVA en alquileres turísticos. Se votaba solo si empezaba a tramitarse.
+>
+> Votaron a favor PSOE, Sumar, ERC, EH Bildu, Podemos, Compromís y BNG. En contra, PP y Vox. Se abstuvieron PNV, Junts y Coalición Canaria.
+>
+> Resultado: 163 a 171, con 13 abstenciones. Junts dijo que tenía dudas de que la ley hiciera frente a la especulación. Vox, que no aborda las causas de las dificultades de acceso a la vivienda.
+
+**Texto de la publicación:** Votación del 11 de noviembre de 2025. Se decidía si empezaba a tramitarse.
+
+## 09. La amnistía
+Imágenes: `09-amnistia/`. Ficha: https://sin-adjetivos.github.io/fichas/ley-de-amnistia/
+
+Es el tema con más carga. Lee la ficha antes de grabar y no añadas nada que no esté aquí.
+
+> La ley de amnistía: quién votó qué.
+>
+> La propuso el PSOE para amnistiar hechos del proceso independentista de Cataluña. Junts recordó en el debate que era condición para sus votos en la investidura.
+>
+> En la votación final hacían falta 176 votos. Votaron sí PSOE, Sumar, Junts, ERC, EH Bildu, PNV, Podemos, BNG y Compromís. Votaron no PP, Vox y Coalición Canaria.
+>
+> Resultado: 177 a 172. Salió adelante y se publicó como Ley Orgánica 1/2024.
+>
+> Vox dijo que en la Constitución no cabe. EH Bildu, que es una medida necesaria y justa. Lo que dijo cada grupo, literal, en la web.
+
+**Texto de la publicación:** Votación del 30 de mayo de 2024, por llamamiento. Voto por grupo contado de la lista nominal del Diario de Sesiones.

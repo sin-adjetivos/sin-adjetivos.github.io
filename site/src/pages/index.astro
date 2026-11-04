@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { temas, provincias } from '../lib/datos.js';
 import { COLORES } from '../lib/color.js';
+import AVISOS from '../data/avisos_papeleta.json';
 import act from '../data/actualidad.json';
 import fichas from '../data/fichas.json';
 import Esencial from '../components/Esencial.astro';
@@ -21,6 +22,7 @@ const portada = act.grupos.slice(0, 3);
         </select>
       </div>
       </div>
+      <p class="aviso" id="aviso-prov" hidden></p>
       <noscript><p style="margin-top:1rem"><a href="/papeleta/">Ver todas las provincias</a></p></noscript>
     </div>
     <div class="mazo" id="mazo" aria-live="polite">
@@ -87,9 +89,9 @@ const portada = act.grupos.slice(0, 3);
     </section>
   </div>
 
-  <script is:inline define:vars={{ COLORES }}>
+  <script is:inline define:vars={{ COLORES, AVISOS }}>
     (function () {
-      var sel = document.getElementById('prov'), mazo = document.getElementById('mazo');
+      var sel = document.getElementById('prov'), mazo = document.getElementById('mazo'), avisoProv = document.getElementById('aviso-prov');
       function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
       function papeleta(c, prov, i) {
         var nombres = c.lista.map(function (n) { return '<li>' + esc(n) + '</li>'; }).join('');
@@ -104,6 +106,9 @@ const portada = act.grupos.slice(0, 3);
           '<p class="papeleta-pie">' + pie + '</p></article>';
       }
       function cargar(slug) {
+        var a = AVISOS[slug];
+        avisoProv.hidden = !a;
+        avisoProv.textContent = a ? a.texto : '';
         if (!slug) return;
         fetch('/datos/papeleta/' + slug + '.json').then(function (r) {
           if (!r.ok) throw new Error(r.status);

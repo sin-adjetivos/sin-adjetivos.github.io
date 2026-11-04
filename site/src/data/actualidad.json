@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-04T21:13+00:00",
+"actualizado": "2026-11-04T22:04+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -26,20 +26,98 @@
 ],
 "grupos": [
 {
-"medios": 9,
-"desde": "2026-11-04T08:28+00:00",
-"hasta": "2026-11-04T17:46+00:00",
+"medios": 10,
+"desde": "2026-11-04T14:22+00:00",
+"hasta": "2026-11-04T18:11+00:00",
 "temas": [
-"sanidad"
+"justicia"
 ],
 "comunes": [
-"cuerpo",
+"000",
+"abalos",
+"aldama",
+"koldo",
+"647",
+"euros",
+"supremo",
+"caso"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo García y Aldama por las mordidas de las mascarillas",
+"url": "https://www.20minutos.es/nacional/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama-por-las-mordidas-las-mascarillas_7057340_0.html",
+"fecha": "2026-11-04T18:11+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Supremo requiere a Ábalos, Koldo y Aldama que paguen 647.000 euros por la condena de las mascarillas",
+"url": "https://www.abc.es/espana/supremo-requiere-abalos-koldo-aldama-paguen-647000-20261104170720-nt.html",
+"fecha": "2026-11-04T16:07+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El Suprem dona quinze dies a Ábalos, Koldo i Aldama perquè paguin els 647.000 euros de la sentència del cas mascaretes",
+"url": "https://www.ara.cat/politica/suprem-dona-quinze-dies-abalos-koldo-aldama-perque-paguin-647-000-euros-sentencia-cas-mascaretes_25_5900069.html",
+"fecha": "2026-11-04T15:18+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El TS requiere a Ábalos, Koldo y Aldama pagar 647.000 € por su condena en el caso mascarillas",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-pago-caso-mascarillas-1tps_4458868/",
+"fecha": "2026-11-04T14:44+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo y Aldama por su condena en el caso mascarillas",
+"url": "https://www.eldebate.com/espana/20261104/supremo-reclama-647000-euros-abalos-koldo-aldama-condena-caso-mascarillas_477251.html",
+"fecha": "2026-11-04T15:06+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El TS requiere al exministro socialista Ábalos, Koldo García y Aldama al pago de 647.000 € por sus delitos de corrupción",
+"url": "https://www.elespanol.com/espana/tribunales/20261104/ts-requiere-exministro-socialista-abalos-koldo-garcia-aldama-pago-eur-delitos-corrupcion/1003744446125_0.html",
+"fecha": "2026-11-04T14:42+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El Supremo ejecuta la sentencia del “caso Koldo”: requiere a Ábalos, su exasesor y Aldama el pago de 647.000 euros en indemnizaciones",
+"url": "https://www.larazon.es/espana/supremo-ejecuta-sentencia-caso-koldo-requiere-abalos-exasesor-aldama-pago-647000-euros-indemnizaciones_202611046aeb3f944196933d7ed06b5f.html",
+"fecha": "2026-11-04T14:22+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo García y Aldama",
+"url": "https://www.lavanguardia.com/politica/20261104/11676090/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama.html",
+"fecha": "2026-11-04T15:24+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El Tribunal Supremo requiere a Ábalos, Koldo y Aldama el pago de 647.000 euros por su condena en el caso Koldo",
+"url": "https://www.libertaddigital.com/espana/2026-11-04/el-tribunal-supremo-requiere-a-abalos-koldo-y-aldama-el-pago-de-647-000-euros-por-su-condena-en-el-caso-koldo-7486623/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T14:50+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Supremo ejecuta el fallo del ‘caso mascarillas’ y pide 650.000 euros a Ábalos, Aldama y Koldo",
+"url": "https://theobjective.com/espana/tribunales/2026-11-04/supremo-caso-mascarillas-abalos-aldama-koldo/",
+"fecha": "2026-11-04T14:40+00:00"
+}
+]
+},
+{
+"medios": 8,
+"desde": "2026-11-04T08:28+00:00",
+"hasta": "2026-11-04T11:00+00:00",
+"temas": [],
+"comunes": [
 "transportes",
+"cuerpo",
 "carlos",
-"cartera",
-"dimision",
 "puente",
+"dimision",
 "oscar",
+"cartera",
 "sanchez"
 ],
 "titulares": [
@@ -90,86 +168,6 @@
 "titulo": "Sánchez nombra nuevo ministro de Transportes al vicepresidente Cuerpo",
 "url": "https://okdiario.com/espana/sanchez-nombra-nuevo-ministro-transportes-vicepresidente-cuerpo-20696473",
 "fecha": "2026-11-04T09:00+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Carlos Cuerpo destituye al presidente de ADIF tras asumir la cartera de Transportes",
-"url": "https://theobjective.com/economia/transporte/2026-11-04/carlos-cuerpo-destituye-presidente-adif/",
-"fecha": "2026-11-04T17:46+00:00"
-}
-]
-},
-{
-"medios": 9,
-"desde": "2026-11-04T14:22+00:00",
-"hasta": "2026-11-04T18:11+00:00",
-"temas": [
-"justicia"
-],
-"comunes": [
-"koldo",
-"aldama",
-"abalos",
-"000",
-"647",
-"supremo",
-"euros",
-"requiere"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo García y Aldama por las mordidas de las mascarillas",
-"url": "https://www.20minutos.es/nacional/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama-por-las-mordidas-las-mascarillas_7057340_0.html",
-"fecha": "2026-11-04T18:11+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "El Supremo requiere a Ábalos, Koldo y Aldama que paguen 647.000 euros por la condena de las mascarillas",
-"url": "https://www.abc.es/espana/supremo-requiere-abalos-koldo-aldama-paguen-647000-20261104170720-nt.html",
-"fecha": "2026-11-04T16:07+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "El TS requiere a Ábalos, Koldo y Aldama pagar 647.000 € por su condena en el caso mascarillas",
-"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-pago-caso-mascarillas-1tps_4458868/",
-"fecha": "2026-11-04T14:44+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo y Aldama por su condena en el caso mascarillas",
-"url": "https://www.eldebate.com/espana/20261104/supremo-reclama-647000-euros-abalos-koldo-aldama-condena-caso-mascarillas_477251.html",
-"fecha": "2026-11-04T15:06+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "El TS requiere al exministro socialista Ábalos, Koldo García y Aldama al pago de 647.000 € por sus delitos de corrupción",
-"url": "https://www.elespanol.com/espana/tribunales/20261104/ts-requiere-exministro-socialista-abalos-koldo-garcia-aldama-pago-eur-delitos-corrupcion/1003744446125_0.html",
-"fecha": "2026-11-04T14:42+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "El Supremo ejecuta la sentencia del “caso Koldo”: requiere a Ábalos, su exasesor y Aldama el pago de 647.000 euros en indemnizaciones",
-"url": "https://www.larazon.es/espana/supremo-ejecuta-sentencia-caso-koldo-requiere-abalos-exasesor-aldama-pago-647000-euros-indemnizaciones_202611046aeb3f944196933d7ed06b5f.html",
-"fecha": "2026-11-04T14:22+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo García y Aldama",
-"url": "https://www.lavanguardia.com/politica/20261104/11676090/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama.html",
-"fecha": "2026-11-04T15:24+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "El Tribunal Supremo requiere a Ábalos, Koldo y Aldama el pago de 647.000 euros por su condena en el caso Koldo",
-"url": "https://www.libertaddigital.com/espana/2026-11-04/el-tribunal-supremo-requiere-a-abalos-koldo-y-aldama-el-pago-de-647-000-euros-por-su-condena-en-el-caso-koldo-7486623/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-04T14:50+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Supremo ejecuta el fallo del ‘caso mascarillas’ y pide 650.000 euros a Ábalos, Aldama y Koldo",
-"url": "https://theobjective.com/espana/tribunales/2026-11-04/supremo-caso-mascarillas-abalos-aldama-koldo/",
-"fecha": "2026-11-04T14:40+00:00"
 }
 ]
 },
@@ -181,13 +179,13 @@
 "territorio"
 ],
 "comunes": [
-"llarena",
 "puigdemont",
+"llarena",
 "amnistia",
 "juez",
 "efecto",
-"procesamiento",
-"deja"
+"deja",
+"procesamiento"
 ],
 "titulares": [
 {
@@ -236,14 +234,14 @@
 "inmigracion"
 ],
 "comunes": [
-"ceuta",
 "sanchez",
+"ceuta",
 "supremo",
 "archiva",
 "vox",
+"masiva",
 "entrada",
-"ministros",
-"masiva"
+"ministros"
 ],
 "titulares": [
 {
@@ -293,8 +291,8 @@
 "joyas",
 "zapatero",
 "juez",
-"arabia",
 "saudi",
+"arabia",
 "calama",
 "pide"
 ],
@@ -346,13 +344,13 @@
 "empleo"
 ],
 "comunes": [
-"sindicatos",
 "huelga",
+"sindicatos",
 "feijoo",
 "pide",
+"grave",
 "error",
 "accidente",
-"grave",
 "urda"
 ],
 "titulares": [
@@ -400,13 +398,13 @@
 "hasta": "2026-11-04T17:54+00:00",
 "temas": [],
 "comunes": [
-"ultima",
 "hora",
+"ultima",
 "puente",
 "oscar",
-"dimision",
 "directo",
-"reacciones"
+"reacciones",
+"dimision"
 ],
 "titulares": [
 {
@@ -448,6 +446,57 @@
 ]
 },
 {
+"medios": 6,
+"desde": "2026-11-04T15:18+00:00",
+"hasta": "2026-11-04T20:36+00:00",
+"temas": [],
+"comunes": [
+"cumbre",
+"iberoamericana",
+"inauguracion",
+"milei",
+"xxx"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Sigue en directo la inauguración de la XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno",
+"url": "https://www.abc.es/espana/sigue-directo-inauguracion-xxx-cumbre-iberoamericana-jefes-20261104174933-nt.html",
+"fecha": "2026-11-04T19:28+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Inauguración de la XXX Cumbre Iberoamericana, en directo",
+"url": "https://www.eldebate.com/espana/20261104/inauguracion-xxx-cumbre-iberoamericana-directo_477306.html",
+"fecha": "2026-11-04T17:16+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Milei no acudirá a la inauguración de la cumbre ni a la cena con los Reyes, pero se reunirá con Abascal",
+"url": "https://www.larazon.es/espana/milei-acudira-inauguracion-cumbre-cena-reyes-pero-reunira-abascal_202611046aeb5ce1ea8d89799778f73a.html",
+"fecha": "2026-11-04T16:27+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Milei planta al Rey en el arranque de la Cumbre Iberoamericana y se reúne con Abascal",
+"url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
+"fecha": "2026-11-04T16:51+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "¡Vacíos de la XXX Cumbre Iberoamericana!",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-04/agapito-maestre-vacios-de-la-xxx-cumbre-iberoamericana-7486732/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T20:36+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Milei no asistirá a la inauguración de la Cumbre Iberoamericana ni a la cena con los Reyes",
+"url": "https://theobjective.com/internacional/2026-11-04/milei-no-asistira-inauguracion-cumbre-iberoamericana-ni-cena-reyes/",
+"fecha": "2026-11-04T15:18+00:00"
+}
+]
+},
+{
 "medios": 5,
 "desde": "2026-11-04T10:18+00:00",
 "hasta": "2026-11-04T11:30+00:00",
@@ -456,13 +505,13 @@
 ],
 "comunes": [
 "turull",
-"romeva",
 "junqueras",
+"romeva",
 "constitucional",
 "amnistia",
 "recursos",
-"supremo",
-"amnistiados"
+"amnistiados",
+"supremo"
 ],
 "titulares": [
 {
@@ -503,10 +552,10 @@
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
-"mesa",
-"tocado",
 "electoral",
-"saber"
+"tocado",
+"saber",
+"mesa"
 ],
 "titulares": [
 {
@@ -547,11 +596,11 @@
 "hasta": "2026-11-04T15:40+00:00",
 "temas": [],
 "comunes": [
-"joyas",
 "zapatero",
+"joyas",
 "personal",
-"arabia",
 "saudi",
+"arabia",
 "declaro",
 "regalo"
 ],
@@ -598,9 +647,9 @@
 "comunes": [
 "funeral",
 "toledo",
+"victimas",
 "catedral",
 "urda",
-"victimas",
 "accidente",
 "reyes",
 "noviembre"
@@ -646,13 +695,13 @@
 "territorio"
 ],
 "comunes": [
-"torpedo",
 "submarino",
 "hunde",
-"isaac",
+"torpedo",
 "peral",
-"patrullero",
+"isaac",
 "antiguo",
+"patrullero",
 "armada"
 ],
 "titulares": [
@@ -691,17 +740,17 @@
 {
 "medios": 5,
 "desde": "2026-11-04T10:08+00:00",
-"hasta": "2026-11-04T19:19+00:00",
+"hasta": "2026-11-04T19:27+00:00",
 "temas": [],
 "comunes": [
 "todos",
+"somos",
 "sanchez",
 "iguales",
-"somos",
 "minuto",
 "alvarez",
 "toledo",
-"manchadas"
+"replica"
 ],
 "titulares": [
 {
@@ -737,62 +786,14 @@
 ]
 },
 {
-"medios": 5,
-"desde": "2026-11-04T15:18+00:00",
-"hasta": "2026-11-04T19:50+00:00",
-"temas": [],
-"comunes": [
-"cumbre",
-"inauguracion",
-"iberoamericana",
-"milei",
-"cena",
-"reyes",
-"abascal",
-"directo"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Sigue en directo la inauguración de la XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno",
-"url": "https://www.abc.es/espana/sigue-directo-inauguracion-xxx-cumbre-iberoamericana-jefes-20261104174933-nt.html",
-"fecha": "2026-11-04T19:28+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Inauguración de la XXX Cumbre Iberoamericana, en directo",
-"url": "https://www.eldebate.com/espana/20261104/inauguracion-xxx-cumbre-iberoamericana-directo_477306.html",
-"fecha": "2026-11-04T17:16+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Milei no acudirá a la inauguración de la cumbre ni a la cena con los Reyes, pero se reunirá con Abascal",
-"url": "https://www.larazon.es/espana/milei-acudira-inauguracion-cumbre-cena-reyes-pero-reunira-abascal_202611046aeb5ce1ea8d89799778f73a.html",
-"fecha": "2026-11-04T16:27+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Milei planta al Rey en el arranque de la Cumbre Iberoamericana y se reúne con Abascal",
-"url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
-"fecha": "2026-11-04T16:51+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Milei no asistirá a la inauguración de la Cumbre Iberoamericana ni a la cena con los Reyes",
-"url": "https://theobjective.com/internacional/2026-11-04/milei-no-asistira-inauguracion-cumbre-iberoamericana-ni-cena-reyes/",
-"fecha": "2026-11-04T15:18+00:00"
-}
-]
-},
-{
 "medios": 4,
 "desde": "2026-11-03T07:15+00:00",
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
-"116",
 "tarde",
 "llega",
+"116",
 "puente",
 "muertos",
 "dimision"
@@ -831,9 +832,9 @@
 "temas": [],
 "comunes": [
 "acampada",
+"ayuso",
 "sol",
 "gobierno",
-"ayuso",
 "750",
 "delegacion",
 "reclama",
@@ -873,12 +874,12 @@
 "temas": [],
 "comunes": [
 "sol",
-"navidad",
 "arbol",
+"navidad",
 "lunes",
-"comenzara",
+"puerta",
 "instalacion",
-"puerta"
+"comenzara"
 ],
 "titulares": [
 {
@@ -918,8 +919,8 @@
 "comunes": [
 "navarra",
 "fosa",
-"purines",
 "tres",
+"purines",
 "mueren",
 "granja",
 "personas",
@@ -958,14 +959,14 @@
 "hasta": "2026-11-03T16:18+00:00",
 "temas": [],
 "comunes": [
-"juez",
-"joyas",
+"marca",
 "pide",
 "zapatero",
-"marca",
+"joyas",
+"juez",
 "autor",
-"grabada",
-"identifique"
+"identifique",
+"grabada"
 ],
 "titulares": [
 {
@@ -990,50 +991,15 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-03T10:35+00:00",
-"hasta": "2026-11-03T17:46+00:00",
-"temas": [],
-"comunes": [
-"biedma",
-"pedraz",
-"juez",
-"intento",
-"cite",
-"eliminarla",
-"clan"
-],
-"titulares": [
-{
-"medio": "COPE",
-"titulo": "La juez Biedma pide citar a la miembro de un clan que habló de un intento de eliminarla",
-"url": "https://www.cope.es/emisoras/extremadura/noticias/juez-biedma-pide-citar-miembro-clan-hablo-intento-eliminarla-20261103_3467645.html",
-"fecha": "2026-11-03T13:41+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "La juez Biedma solicita a Pedraz que cite a declarar a Cintia Rocho como testigo en el intento de \"eliminarla\"",
-"url": "https://www.elmundo.es/espana/extremadura/2026/11/03/6ae9b2c2e9cf4aa4208b4580.html",
-"fecha": "2026-11-03T10:35+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "La jueza Biedma aviva la tesis del plan para atentar contra ella e insiste a Pedraz en que cite ya a la jefa de un clan de Badajoz",
-"url": "https://www.eldiario.es/politica/jueza-biedma-aviva-tesis-plan-atentar-e-insiste-pedraz-cite-jefa-clan-badajoz_1_13635383.html",
-"fecha": "2026-11-03T17:46+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-03T20:16+00:00",
 "hasta": "2026-11-03T21:22+00:00",
 "temas": [],
 "comunes": [
 "puente",
-"oscar",
-"ministro",
 "renuncia",
+"ministro",
 "listas",
+"oscar",
 "dimite",
 "transportes"
 ],
@@ -1064,8 +1030,8 @@
 "hasta": "2026-11-04T11:05+00:00",
 "temas": [],
 "comunes": [
-"feijoo",
 "2027",
+"feijoo",
 "primer",
 "primavera",
 "2028",
@@ -1099,14 +1065,14 @@
 "hasta": "2026-11-04T11:15+00:00",
 "temas": [],
 "comunes": [
+"iberoamericana",
 "delcy",
 "lula",
-"iberoamericana",
-"sheinbaum",
 "cumbre",
-"participaran",
+"sheinbaum",
 "rodriguez",
-"madrid"
+"madrid",
+"participaran"
 ],
 "titulares": [
 {
@@ -1137,11 +1103,11 @@
 "impuestos"
 ],
 "comunes": [
+"nacional",
 "prioridad",
 "impuestos",
-"nacional",
-"vox",
-"presupuesto"
+"presupuesto",
+"vox"
 ],
 "titulares": [
 {
@@ -1170,9 +1136,9 @@
 "hasta": "2026-11-04T13:27+00:00",
 "temas": [],
 "comunes": [
+"cervantes",
 "cristina",
 "cubas",
-"cervantes",
 "fernandez",
 "premio"
 ],
@@ -1203,13 +1169,13 @@
 "hasta": "2026-11-04T14:58+00:00",
 "temas": [],
 "comunes": [
+"retrasos",
 "robo",
 "cable",
 "provoca",
-"retrasos",
-"linea",
-"barcelona",
 "madrid",
+"barcelona",
+"linea",
 "ave"
 ],
 "titulares": [
@@ -1239,12 +1205,12 @@
 "hasta": "2026-11-04T15:00+00:00",
 "temas": [],
 "comunes": [
-"bolanos",
 "aldama",
 "febrero",
+"bolanos",
+"acusar",
 "juicio",
-"sera",
-"acusar"
+"sera"
 ],
 "titulares": [
 {
@@ -1275,12 +1241,12 @@
 "justicia"
 ],
 "comunes": [
-"cofia",
-"obligar",
-"empleadas",
+"000",
 "catering",
 "llevar",
-"000",
+"cofia",
+"empleadas",
+"obligar",
 "empresa",
 "euros"
 ],
@@ -1313,9 +1279,9 @@
 "energia"
 ],
 "comunes": [
-"bebe",
-"miedo",
 "madre",
+"miedo",
+"bebe",
 "alega",
 "cambia",
 "version",
@@ -1348,11 +1314,11 @@
 "hasta": "2026-11-04T15:58+00:00",
 "temas": [],
 "comunes": [
-"acusados",
-"atestado",
 "cuatro",
+"atestado",
 "menor",
 "falsear",
+"acusados",
 "absueltos",
 "policias",
 "agredir"
@@ -1384,13 +1350,13 @@
 "hasta": "2026-11-04T16:10+00:00",
 "temas": [],
 "comunes": [
-"documentacion",
 "conserva",
+"documentacion",
 "joyas",
 "zapatero",
 "juez",
-"reconoce",
-"justificantes"
+"justificantes",
+"reconoce"
 ],
 "titulares": [
 {
@@ -1419,14 +1385,14 @@
 "hasta": "2026-11-04T17:33+00:00",
 "temas": [],
 "comunes": [
-"edil",
+"delegado",
 "gobierno",
 "cantabria",
-"delegado",
+"edil",
 "denuncia",
+"agresion",
 "verbal",
-"fisica",
-"agresion"
+"fisica"
 ],
 "titulares": [
 {
@@ -1457,14 +1423,14 @@
 "igualdad"
 ],
 "comunes": [
-"concejal",
 "almeria",
 "psoe",
 "violencia",
+"concejal",
 "genero",
-"detenido",
 "adra",
-"caso"
+"detenido",
+"presunto"
 ],
 "titulares": [
 {
@@ -1495,14 +1461,14 @@
 "sanidad"
 ],
 "comunes": [
-"cuerpo",
 "convoca",
+"cuerpo",
 "presidente",
 "adif",
-"asumir",
-"secretario",
 "estado",
-"horas"
+"asumir",
+"horas",
+"ministerio"
 ],
 "titulares": [
 {
@@ -1524,7 +1490,39 @@
 "fecha": "2026-11-04T16:10+00:00"
 }
 ]
+},
+{
+"medios": 3,
+"desde": "2026-11-04T19:05+00:00",
+"hasta": "2026-11-04T19:17+00:00",
+"temas": [],
+"comunes": [
+"entregados",
+"urda",
+"restos",
+"familias"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Entregados a sus familias los cuerpos de 65 de los 69 fallecidos en el accidente ferroviario de Urda",
+"url": "https://www.20minutos.es/nacional/entregados-sus-familias-los-cuerpos-65-los-69-fallecidos-accidente-ferroviario-urda_7057363_0.html",
+"fecha": "2026-11-04T19:17+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Entregados a sus familias los restos de 65 de las 69 víctimas del choque de trenes en Urda",
+"url": "https://www.libertaddigital.com/espana/2026-11-04/entregados-a-sus-familias-los-restos-de-65-de-las-69-victimas-del-choque-de-trenes-en-urda-7486825/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-04T19:05+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Entregados a sus familiares los restos mortales de 65 de los 69 muertos en Urda",
+"url": "https://theobjective.com/sociedad/2026-11-04/entregados-familiares-restos-mortales-65-de-69-muertos-urda/",
+"fecha": "2026-11-04T19:09+00:00"
+}
+]
 }
 ],
-"recogidas": 1049
+"recogidas": 1077
 }

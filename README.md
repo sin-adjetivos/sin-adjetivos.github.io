@@ -2,9 +2,9 @@
 
 Portal independiente con lo que los partidos proponen, votan y dicen, y con la fuente original al lado.
 
-**Web:** https://sin-adjetivos.github.io
+**Web:** https://sinadjetivos.es
 
-- [Cómo trabajamos](https://sin-adjetivos.github.io/metodologia/)
+- [Cómo trabajamos](https://sinadjetivos.es/metodologia/)
 - [Pedir una corrección](https://github.com/sin-adjetivos/sin-adjetivos.github.io/issues/new)
 
 Este repositorio es público para que cualquiera pueda comprobar los datos, las reglas de extracción (`scripts/reglas.py`) y cada cambio de la web.

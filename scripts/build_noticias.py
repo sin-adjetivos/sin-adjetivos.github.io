@@ -11,7 +11,7 @@ if BORRADOR and os.path.exists('scripts/borrador_noticias.py'):
     from borrador_noticias import BORRADORES
     NOTICIAS = NOTICIAS + BORRADORES
 CACHE = 'raw/noticias'; SALIDA = 'site/src/data/noticias_propias.json'
-UA = {'User-Agent': 'Mozilla/5.0 (compatible; SinAdjetivos/0.2; +https://sin-adjetivos.github.io/metodologia/)'}
+UA = {'User-Agent': 'Mozilla/5.0 (compatible; SinAdjetivos/0.2; +https://sinadjetivos.es/metodologia/)'}
 VALORATIVAS = r'\b(polémic\w*|histórico|histórica|importante\w*|grave\w*|escandal\w*|escándalo\w*|enorme\w*|radical\w*|extremo|extrema|ultra\w*|duro|dura|valiente\w*|vergonz\w*|polarizad\w*|controvertid\w*|ambicios\w*|necesari\w*|buen\w*|mal[oa]s?|tragedia\w*|trágic\w*|dramátic\w*|brutal\w*|bochorn\w*|clamor\w*|golpista\w*|huy\w+|sorprendente\w*|encuesta\w*|sondeo\w*)\b'
 CANDIDATURAS = {c['id'] for c in json.load(open('site/src/data/candidaturas.json', encoding='utf-8'))} | {'gobierno'}
 FICHAS = {f['id']: f for f in json.load(open('site/src/data/fichas.json', encoding='utf-8'))}

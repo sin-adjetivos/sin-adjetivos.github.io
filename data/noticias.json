@@ -1,15 +1,87 @@
 [
 {
+"medio": "The Objective",
+"titulo": "En Sumario de tarde: de la limpia de Cuerpo en ADIF a las falsificaciones del consulado en México",
+"url": "https://theobjective.com/espana/2026-11-04/sumario-tarde-limpia-cuerpo-adif-consulado-mexico/",
+"fecha": "2026-11-04T19:01+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Rey afirma que toda España sigue «sumida en el dolor y la consternación» por el accidente de Urda",
+"url": "https://www.eldebate.com/espana/casa-real/20261104/rey-afirma-toda-espana-sigue-sumida-dolor-consternacion-accidente-urda_477358.html",
+"fecha": "2026-11-04T19:01+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Miguel Ángel Revilla, político, sobre la dimisión de Óscar Puente: \"Un gesto coherente ante los graves accidentes que ha sufrido la red ferroviaria en el último año\"",
+"url": "https://www.larazon.es/espana/miguel-angel-revilla-politico-dimision-oscar-puente-gesto-coherente-graves-accidentes-que-sufrido-red-ferroviaria-ultimo-ano-p7m_202611046aeb80c3d3bddc0868a51791.html",
+"fecha": "2026-11-04T19:00+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Los Reyes presiden la cena de inauguración de la XXX Cumbre Iberoamericana",
+"url": "https://www.larazon.es/espana/reyes-presiden-cena-inauguracion-xxx-cumbre-iberoamericana_202611046aeb1e079a31a65adccf5d6f.html",
+"fecha": "2026-11-04T19:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La secretaria de Estado de Comunicación estuvo en la sala donde se descargó el audio que publicaron medios afines al Gobierno",
+"url": "https://www.eldebate.com/espana/20261104/secretaria-estado-comunicacion-estuvo-sala-donde-descargo-audio-publicaron-medios-afines-gobierno_477215.html",
+"fecha": "2026-11-04T18:58+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "\"No lo hagas\": Sánchez intentó evitar en el último momento la dimisión de Puente contra la opinión dominante en el PSOE",
+"url": "https://www.elespanol.com/espana/politica/20261104/no-hagas-sanchez-intento-evitar-ultimo-momento-dimision-puente-opinion-dominante-psoe/1003744446598_0.html",
+"fecha": "2026-11-04T18:56+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Cargos del PSOE reciben con alivio la dimisión de Puente y esperan que sirva para \"remontar\" en la campaña electoral",
+"url": "https://www.europapress.es/nacional/noticia-cargos-psoe-reciben-alivio-dimision-puente-esperan-sirva-remontar-campana-electoral-20261104195339.html",
+"fecha": "2026-11-04T18:53+00:00"
+},
+{
 "medio": "La Razón",
 "titulo": "Siga en directo LA RAZÓN de... Alberto Núñez Feijóo",
 "url": "https://www.larazon.es/espana/siga-directo-razon-alberto-nunez-feijoo_202611046aeb6b3f03bbf30bb03f8747.html",
 "fecha": "2026-11-04T18:51+00:00"
 },
 {
+"medio": "20minutos",
+"titulo": "El submarino 'Isaac Peral' de la Armada lanza un torpedo y hunde al antiguo patrullero 'Infanta Elena'",
+"url": "https://www.20minutos.es/nacional/submarino-isaac-peral-armada-lanza-un-torpedo-hunde-antiguo-patrullero-infanta-elena_7057350_0.html",
+"fecha": "2026-11-04T18:49+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "\"Els estatunidencs han entès que Trump és perjudicial per als seus interessos\"",
+"url": "https://www.ara.cat/internacional/estats-units/estatunidencs-han-entes-trump-perjudicial-als-interessos_128_5900236.html",
+"fecha": "2026-11-04T18:46+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "La respuesta de Sánchez al último mensaje de Óscar Puente antes de dimitir como ministro de Transportes: \"Ni se te ocurra, no lo hagas\"",
+"url": "https://www.20minutos.es/nacional/respuesta-sanchez-ultimo-mensaje-oscar-puente-antes-dimitir-como-ministro-transportes-ni-se-te-ocurra-no-hagas_7057351_0.html",
+"fecha": "2026-11-04T18:46+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "La plantilla de Mahle irá a la huelga contra el nuevo ERE que pretende destruir 170 empleos",
 "url": "https://www.abc.es/espana/castilla-la-mancha/plantilla-mahle-ira-huelga-nuevo-ere-pretende-20261104194456-nt.html",
 "fecha": "2026-11-04T18:44+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Figaredo en Utrera (Sevilla): «Que Óscar Puente dimita no nos sirve de nada; tiene que ponerse a disposición judicial»",
+"url": "https://okdiario.com/andalucia/figaredo-utrera-sevilla-que-oscar-puente-dimita-no-nos-sirve-nada-tiene-que-ponerse-disposicion-judicial-20702493",
+"fecha": "2026-11-04T18:44+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Dimite el presidente de Adif un día después de la renuncia de Puente por el accidente de Urda",
+"url": "https://www.20minutos.es/nacional/dimite-presidente-adif-un-dia-despues-renuncia-puente-por-accidente-urda_7057308_0.html",
+"fecha": "2026-11-04T18:39+00:00"
 },
 {
 "medio": "ABC",
@@ -30,16 +102,40 @@
 "fecha": "2026-11-04T18:35+00:00"
 },
 {
+"medio": "20minutos",
+"titulo": "¿Qué le pides al próximo Gobierno? Las prioridades de los ciudadanos de cara las elecciones generales",
+"url": "https://www.20minutos.es/nacional/que-le-pides-proximo-gobierno-las-prioridades-los-ciudadanos-cara-las-elecciones-generales_7047021_4.html",
+"fecha": "2026-11-04T18:34+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Gonzalo Bernardos sobre la dimisión de Óscar Puente: «Nunca te ha interesado el Ministerio de Transportes, has sido el ministro de X»",
+"url": "https://okdiario.com/espana/gonzalo-bernardos-sobre-dimision-oscar-puente-nunca-te-interesado-ministerio-transportes-has-sido-ministro-x-20701173",
+"fecha": "2026-11-04T18:33+00:00"
+},
+{
 "medio": "La Razón",
 "titulo": "Echenique pone en duda el relevo de Óscar Puente y lanza una pregunta que incendia las redes: “¿Qué va a cambiar?”",
 "url": "https://www.larazon.es/espana/echenique-pone-duda-relevo-oscar-puente-lanza-pregunta-que-incendia-redes-que-cambiar_202611046aeb79b69a31a65adccfb483.html",
 "fecha": "2026-11-04T18:30+00:00"
 },
 {
+"medio": "OKdiario",
+"titulo": "Fundación Naturgy convierte la ayuda tras la DANA en nuevas oportunidades para cerca de 47.000 personas en la Comunidad Valenciana",
+"url": "https://okdiario.com/comunidad-valenciana/fundacion-naturgy-convierte-ayuda-dana-nuevas-oportunidades-cerca-47-000-personas-comunidad-valenciana-20701583",
+"fecha": "2026-11-04T18:28+00:00"
+},
+{
 "medio": "El Debate",
 "titulo": "Absuelto un marroquí por enfermedad mental tras violar a una paciente en el hospital de Ibiza",
 "url": "https://www.eldebate.com/espana/baleares/20261104/absuelto-marroqui-enfermedad-mental-violar-paciente-hospital-ibiza_477401.html",
 "fecha": "2026-11-04T18:27+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Trump reconoce la derrota republicana en las ‘midterms’ pero dice que volvería a atacar Irán",
+"url": "https://theobjective.com/internacional/2026-11-04/trump-reaparece-publico-tras-midterms-mostrar-obras-casa-blanca/",
+"fecha": "2026-11-04T18:25+00:00"
 },
 {
 "medio": "COPE",
@@ -144,10 +240,28 @@
 "fecha": "2026-11-04T18:11+00:00"
 },
 {
+"medio": "The Objective",
+"titulo": "El Gobierno autoriza 2.300 millones para blindar los sistemas de posicionamiento militar",
+"url": "https://theobjective.com/tecnologia/2026-11-04/gobierno-blindar-sistemas-militar/",
+"fecha": "2026-11-04T18:11+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "El Supremo reclama 647.000 euros a Ábalos, Koldo García y Aldama por las mordidas de las mascarillas",
+"url": "https://www.20minutos.es/nacional/supremo-reclama-647-000-euros-abalos-koldo-garcia-aldama-por-las-mordidas-las-mascarillas_7057340_0.html",
+"fecha": "2026-11-04T18:11+00:00"
+},
+{
 "medio": "El Debate",
 "titulo": "Condenada la okupa de un edificio propiedad del Obispado de Mallorca: sólo pagará 540 euros",
 "url": "https://www.eldebate.com/espana/baleares/20261104/condenada-okupa-edificio-propiedad-obispado-mallorca-solo-pagara-540-euros_477379.html",
 "fecha": "2026-11-04T18:09+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "La Cumbre Iberoamericana arranca con un minuto de silencio por los 69 fallecidos en el accidente de Urda",
+"url": "https://www.europapress.es/nacional/noticia-cumbre-iberoamericana-arranca-minuto-silencio-69-fallecidos-accidente-urda-20261104190828.html",
+"fecha": "2026-11-04T18:08+00:00"
 },
 {
 "medio": "COPE",
@@ -240,6 +354,18 @@
 "fecha": "2026-11-04T17:48+00:00"
 },
 {
+"medio": "The Objective",
+"titulo": "Ouigo prolonga la cancelación de sus trenes Madrid-Andalucía al menos hasta el día 15",
+"url": "https://theobjective.com/actualidad/2026-11-04/ouigo-prolonga-cancelacion-trenes-madrid-andalucia/",
+"fecha": "2026-11-04T17:48+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Carlos Cuerpo destituye al presidente de ADIF tras asumir la cartera de Transportes",
+"url": "https://theobjective.com/economia/transporte/2026-11-04/carlos-cuerpo-destituye-presidente-adif/",
+"fecha": "2026-11-04T17:46+00:00"
+},
+{
 "medio": "OKdiario",
 "titulo": "Los empresarios de Iberoamérica aplauden a todos en Las Ventas menos a Sánchez",
 "url": "https://okdiario.com/espana/empresarios-iberoamerica-aplauden-todos-ventas-menos-sanchez-20701740",
@@ -288,6 +414,24 @@
 "fecha": "2026-11-04T17:34+00:00"
 },
 {
+"medio": "The Objective",
+"titulo": "La UE, EEUU y la OTAN estudian cómo financiar Ucrania tras la guerra",
+"url": "https://theobjective.com/internacional/2026-11-04/ue-eeuu-otan-financiar-ucrania-guerra/",
+"fecha": "2026-11-04T17:33+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El PP no actuará contra el edil acusado de agredir al delegado del Gobierno en Cantabria",
+"url": "https://theobjective.com/espana/politica/2026-11-04/pp-no-actuara-contra-edil-acusado-agredir-delegado-gobierno-cantabria/",
+"fecha": "2026-11-04T17:33+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "EEUU castiga a Trump",
+"url": "https://theobjective.com/espana/2026-11-04/objetivo-directo-eeuu-castigo-trump/",
+"fecha": "2026-11-04T17:32+00:00"
+},
+{
 "medio": "COPE",
 "titulo": "Tragedia laboral en Navarra: tres fallecidos en una fosa de purines en Pitillas",
 "url": "https://www.cope.es/emisoras/navarra/noticias/tragedia-laboral-navarra-tres-fallecidos-fosa-purines-pitillas-20261104_3468666.html",
@@ -303,6 +447,12 @@
 "medio": "La Razón",
 "titulo": "Defensa moviliza 4.200 millones para modernizar las Fuerzas Armadas: menos dependencia del GPS, más munición y nuevas capacidades aéreas",
 "url": "https://www.larazon.es/espana/defensa/defensa-moviliza-4200-millones-modernizar-fuerzas-armadas-menos-dependencia-gps-mas-municion-nuevas-capacidades-aereas_202611046aeb6ba84196933d7ed09577.html",
+"fecha": "2026-11-04T17:30+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El submarino S-81 Isaac Peral hunde por primera vez un buque con un único torpedo",
+"url": "https://theobjective.com/espana/2026-11-04/submarino-s81-buque-torpedo/",
 "fecha": "2026-11-04T17:30+00:00"
 },
 {
@@ -334,6 +484,24 @@
 "titulo": "El Rey expresa su \"profunda tristeza\" por la muerte de Fátima Báñez en el accidente de Urda: \"Hoy estaría aquí con nosotros\"",
 "url": "https://www.elespanol.com/espana/20261104/rey-expresa-profunda-tristeza-muerte-fatima-banez-accidente-urda-hoy/1003744446480_0.html",
 "fecha": "2026-11-04T17:22+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Radicales lanzan huevos contra Abascal durante una rueda de prensa en Ciudad Real",
+"url": "https://theobjective.com/espana/politica/2026-11-04/radicales-lanzan-huevos-abascal-ciudad-real/",
+"fecha": "2026-11-04T17:20+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Rey aboga por la alianza público-privada y la economía abierta ante la inestabilidad global",
+"url": "https://theobjective.com/economia/2026-11-04/rey-aboga-alianza-publico-privada-economia-abierta-inestabilidad-global/",
+"fecha": "2026-11-04T17:17+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Nortia y Gencom convierten en la adquisición del hotel Rosewood London",
+"url": "https://theobjective.com/economia/2026-11-04/nortia-gencom-hotel-londres/",
+"fecha": "2026-11-04T17:17+00:00"
 },
 {
 "medio": "El Debate",
@@ -432,6 +600,12 @@
 "fecha": "2026-11-04T17:00+00:00"
 },
 {
+"medio": "The Objective",
+"titulo": "Raphinha renueva con el FC Barcelona hasta junio de 2030",
+"url": "https://theobjective.com/deportes/futbol/laliga/2026-11-04/raphinha-renueva-fc-barcelona-junio-2030/",
+"fecha": "2026-11-04T17:00+00:00"
+},
+{
 "medio": "El Debate",
 "titulo": "Víctor Torres asegura que «en los próximos días» se desmantelarán algunos de los campamentos en Ceuta",
 "url": "https://www.eldebate.com/espana/20261104/victor-torres-asegura-proximos-dias-desmantelaran-algunos-campamentos-ceuta_477351.html",
@@ -468,10 +642,22 @@
 "fecha": "2026-11-04T16:53+00:00"
 },
 {
+"medio": "The Objective",
+"titulo": "Madrid lidera la libre elección sanitaria y refuerza el empoderamiento del paciente",
+"url": "https://theobjective.com/sanidad/2026-11-04/madrid-libre-eleccion-sanitaria/",
+"fecha": "2026-11-04T16:52+00:00"
+},
+{
 "medio": "La Vanguardia",
 "titulo": "Milei planta al Rey en el arranque de la Cumbre Iberoamericana y se reúne con Abascal",
 "url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
 "fecha": "2026-11-04T16:51+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "UGT acusa a Feijóo y Abascal de «amenazar» a los sindicatos por convocar la huelga general",
+"url": "https://theobjective.com/economia/2026-11-04/ugt-feijoo-abascal-sindicatos-por-huelga-general/",
+"fecha": "2026-11-04T16:50+00:00"
 },
 {
 "medio": "El Debate",

@@ -6,11 +6,12 @@ from fuente_fichas import FICHAS
 from fuente_fichas_2 import FICHAS_2
 from fuente_fichas_3 import FICHAS_3
 from fuente_fichas_4 import FICHAS_4
+from fuente_fichas_5 import FICHAS_5
 OTRA_LENGUA = r"\b(els|les|amb|aquest\w*|aquesta|però|perquè|hem|vostès|senyor\w*|també|així|unha|nós|mais|polo|pola|deste|desta|ao|xa|non|moi|tamén|porque non|están a|gràcies|grazas)\b"
 FORMULA = r'^(Señor|Gracias|Muchas gracias|Buen|Hoy (debatimos|hablamos|discutimos|traemos)|Debatimos|Presidenta|Presidente)'
 n = int(sys.argv[2]) if len(sys.argv) > 2 else 4
 pedidos = [l.split() for l in open(sys.argv[1], encoding='utf-8') if l.strip()]
-fichas = {f['expediente']: f for f in FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4}
+fichas = {f['expediente']: f for f in FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4 + FICHAS_5}
 ultimo = None
 for exp, g in pedidos:
     f = fichas[exp]

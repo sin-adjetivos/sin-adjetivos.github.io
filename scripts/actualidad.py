@@ -12,8 +12,9 @@ FEEDS = {
  'Europa Press': 'https://www.europapress.es/rss/rss.aspx?ch=00066', 'infoLibre': 'https://www.infolibre.es/rss', 'La Vanguardia': 'https://www.lavanguardia.com/rss/politica.xml',
  'Libertad Digital': 'https://feeds2.feedburner.com/libertaddigital/nacional', 'OKdiario': 'https://okdiario.com/espana/feed', 'RTVE': 'https://api2.rtve.es/rss/temas_espana.xml',
  'The Objective': 'https://theobjective.com/feed/', '20minutos': 'https://www.20minutos.es/rss/nacional/',
+ 'El Debate': 'https://www.eldebate.com/rss/espana.xml', 'La Razón': 'https://www.larazon.es/espana/?outputType=xml',
 }
-SIN_FEED = ['El Debate', 'La Razón', 'Público', 'Vozpópuli']
+SIN_FEED = ['Público', 'Vozpópuli']
 ALMACEN = 'data/noticias.json'; SALIDA = 'site/src/data/actualidad.json'
 UA = {'User-Agent': 'Mozilla/5.0 (compatible; SinAdjetivos/0.2; +https://sin-adjetivos.github.io/metodologia/)'}
 VACIAS = set("""a al algo ante antes como con contra cual cuando de del desde donde dos durante e el ella ellas ello ellos en entre era es esa ese eso esta este esto estos fue ha han hasta hay la las le les lo los mas me mi mientras muy ni no nos o otra otro para pero por porque que quien se sea segun ser si sin sobre son su sus tambien te tiene tras tu un una uno unos unas y ya yo va van dice dicen asi aun ahora hoy ayer este esta tras vez anos ano dia dias""".split())

@@ -4920,5 +4920,1350 @@
 ],
 "resultado": "No salió adelante"
 }
+},
+{
+"id": "traspaso-de-la-autopista-ap-9-a-galicia",
+"tema": "territorio",
+"titulo": "Traspaso de la autopista AP-9 a Galicia",
+"que_es": [
+"Propuesta del Parlamento de Galicia para transferir a la comunidad autónoma la titularidad de la autopista del Atlántico y las competencias sobre su concesión.",
+"En 2024 el Congreso aceptó tramitarla por 309 votos a 33. En 2026 PSOE, BNG y Sumar pactaron cambios en el texto; el PP votó en contra porque, según dijo, alteraban el acuerdo del Parlamento gallego."
+],
+"fuente": null,
+"despues": "Se publicó como Ley Orgánica 3/2026. El traspaso no es inmediato: Galicia asume la competencia cuando se cierre el acuerdo en la Comisión Mixta de Transferencias.",
+"despues_fuente": [
+"Texto en el BOE",
+"https://www.boe.es/eli/es/lo/2026/07/29/3"
+],
+"debate": "197-2",
+"debate_fecha": "2026-06-25",
+"num": 197,
+"doc": "DSCD-15-PL-197.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Los cambios introducidos ponen en riesgo la seguridad jurídica y la viabilidad financiera del traspaso y no los podemos apoyar.",
+"orador": "Pedro Puy Fraga",
+"turno": 0,
+"pagina": 26
+},
+{
+"candidatura": "psoe",
+"cita": "Por tanto, en cuanto a la transferencia de la titularidad de la AP‑9 este Gobierno es el que pone soluciones encima de la mesa con bonificaciones históricas.",
+"orador": "Patricia Otero Rodríguez",
+"turno": 10,
+"pagina": 38
+},
+{
+"candidatura": "vox",
+"cita": "Ese es el problema de fondo, es el precio de una investidura, es una pieza más de ese mercadeo permanente con el que Sánchez compra apoyos para mantenerse en el poder.",
+"orador": "Carina Mejías Sánchez",
+"turno": 8,
+"pagina": 36
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Votar a favor de esta proposición de ley es dar la respuesta correcta a una demanda generalizada de la sociedad gallega.",
+"orador": "Manuel Lago Peñas",
+"turno": 6,
+"pagina": 34
+},
+{
+"candidatura": "junts",
+"cita": "Vamos a votar a favor del traspaso de una infraestructura al Gobierno gallego, una nación sin Estado, con ambición de autogobernarse, por descontado que sí.",
+"orador": "Isidre Gavin i Valls",
+"turno": 4,
+"pagina": 31
+},
+{
+"candidatura": "bng",
+"cita": "Por tanto, no hay ninguna razón para no votar a favor, salvo que, efectivamente, sea que ustedes no quieren.",
+"orador": "Néstor Rego Candamil",
+"turno": 2,
+"pagina": 28
+}
+],
+"fecha": "2026-06-25",
+"voto": {
+"fecha": "2026-06-25",
+"titulo": "Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia. Votación de conjunto de la Proposición de Ley Orgánica de transferencia de la titularidad y competencias de la autopista del Atlántico (AP-9) a la Comunidad Autónoma de Galicia, por tener la misma carácter orgánico.",
+"expediente": "125/000005",
+"si": 179,
+"no": 169,
+"abst": 0,
+"diario": null,
+"temas": [
+"territorio"
+],
+"grupos": {
+"pp": {
+"No": 136,
+"No vota": 1
+},
+"vox": {
+"No": 32,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 121
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"coalicion-canaria": {
+"Sí": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/Votacion024/VOT_20260625150821.json",
+"debates": [
+"46-2",
+"197-2",
+"199-4"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "reforma-del-concierto-economico-con-el-pais-vasco",
+"tema": "territorio",
+"titulo": "Reforma del Concierto Económico con el País Vasco",
+"que_es": [
+"Proyecto de ley que modifica el Concierto Económico, el sistema por el que las instituciones vascas regulan y recaudan la mayoría de sus impuestos.",
+"Según el PNV, permite no adelantar en aduanas el IVA de las importaciones y añade varios impuestos al Concierto, entre ellos el de multinacionales. Vox presentó una enmienda para devolver el texto, que se rechazó por 33 votos a 316."
+],
+"fuente": null,
+"despues": "Se aprobó con 312 votos a favor, 34 en contra y 3 abstenciones, en lectura única: las Cortes pueden ratificar o devolver el acuerdo, no cambiarlo.",
+"despues_fuente": null,
+"debate": "110-4",
+"debate_fecha": "2025-04-10",
+"num": 110,
+"doc": "DSCD-15-PL-110.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Y tenemos que decir que el Concierto Económico vasco, el convenio navarro, los presupuestos generales del Estado y las leyes fiscales son vasos comunicantes y requieren de estabilidad y certezas para ser eficaces.",
+"orador": "Carmelo Barrio Baroja",
+"turno": 18,
+"pagina": 77
+},
+{
+"candidatura": "psoe",
+"cita": "presentan una enmienda a la totalidad a este proyecto de ley que no viene más que a dar cumplimiento al mandato constitucional.",
+"orador": "María Luisa García Gurrutxaga",
+"turno": 16,
+"pagina": 76
+},
+{
+"candidatura": "vox",
+"cita": "Presentamos una enmienda a la totalidad a su contenido porque se cede toda competencia en materia del impuesto de la renta de los no residentes.",
+"orador": "Pablo Sáez Alonso-Muñumer",
+"turno": 4,
+"pagina": 70
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Por eso vamos a apoyar esta reforma, porque nace del acuerdo, porque mejora la justicia fiscal y porque es coherente con el país que queremos construir, un país donde nadie impone y donde nada se impone.",
+"orador": "Lander Martínez Hierro",
+"turno": 14,
+"pagina": 75
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Así pues, con nuestras reservas, apoyaremos estas modificaciones porque nos parece positivo que nuestras instituciones forales puedan contar con nuevas figuras fiscales",
+"orador": "Mertxe Aizpurua Arzallus",
+"turno": 10,
+"pagina": 73
+},
+{
+"candidatura": "pnv",
+"cita": "El Concierto Económico es un instrumento clave del autogobierno vasco.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 8,
+"pagina": 72
+}
+],
+"fecha": "2025-04-10",
+"voto": {
+"fecha": "2025-04-10",
+"titulo": "Votación de conjunto del texto del Proyecto de Ley por la que se modifica la Ley 12/2002, de 23 de mayo, por la que se aprueba el Concierto Económico con la Comunidad Autónoma del País Vasco, por tramitarse en lectura única, teniendo en cuenta las observaciones técnicas distribuidas.",
+"expediente": "121/000051",
+"si": 312,
+"no": 34,
+"abst": 3,
+"diario": null,
+"temas": [
+"territorio"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"eh-bildu": {
+"No": 1,
+"Sí": 5
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 25,
+"Abstención": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/Votacion020/VOT_20250410155201.json",
+"debates": [
+"108-4",
+"110-4"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "reforma-del-convenio-economico-con-navarra",
+"tema": "territorio",
+"titulo": "Reforma del Convenio Económico con Navarra",
+"que_es": [
+"Proyecto de ley que modifica el Convenio Económico, el sistema equivalente al Concierto vasco por el que Navarra regula y recauda la mayoría de sus impuestos.",
+"Vox presentó una enmienda para devolver el texto, que se rechazó por 32 votos a 313, y propuso suprimir lo que llama privilegios amparados en derechos históricos."
+],
+"fuente": null,
+"despues": "Se aprobó con 310 votos a favor, 33 en contra y 2 abstenciones, en lectura única.",
+"despues_fuente": null,
+"debate": "128-2",
+"debate_fecha": "2025-06-26",
+"num": 128,
+"doc": "DSCD-15-PL-128.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Un instrumento que siempre nos ha servido para atraer empresas y para hacer de Navarra una tierra pujante, ahora mismo lo estamos usando al contrario.",
+"orador": "Sergio Sayas López",
+"turno": 14,
+"pagina": 33
+},
+{
+"candidatura": "psoe",
+"cita": "Por lo tanto, hoy actualizamos, si así sus señorías lo votan, un impulso al Convenio Económico de la Comunidad Foral de Navarra, dentro del marco de la Constitución.",
+"orador": "Adriana Maldonado López",
+"turno": 12,
+"pagina": 32
+},
+{
+"candidatura": "vox",
+"cita": "Por eso planteamos una enmienda de totalidad al fondo, porque proponemos suprimir todos los privilegios legales y fiscales amparados en supuestos derechos históricos que provocan desigualdad entre los territorios.",
+"orador": "Pablo Sáez Alonso-Muñumer",
+"turno": 2,
+"pagina": 25
+},
+{
+"candidatura": "frente-amplio",
+"cita": "SUMAR va a votar a favor porque creemos en la pluralidad y la corresponsabilidad y porque queremos un país en el que todos los pueblos puedan avanzar sin tutelas, sin privilegios, pero con respeto y con justicia.",
+"orador": "Eloi Badia Casas",
+"turno": 10,
+"pagina": 30
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Hoy hablamos sobre la modificación del acuerdo del Convenio Económico para que la Comunidad Foral de Navarra tenga la opción de gestionar su fiscalidad.",
+"orador": "Mertxe Aizpurua Arzallus",
+"turno": 8,
+"pagina": 29
+},
+{
+"candidatura": "pnv",
+"cita": "Porque, señor Sáez, hoy debatimos la modificación del Convenio navarro, no debatimos ni el cupo ni el concierto ni la aportación económica a Navarra.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 6,
+"pagina": 28
+}
+],
+"fecha": "2025-06-26",
+"voto": {
+"fecha": "2025-06-26",
+"titulo": "Votación de conjunto del texto del Proyecto de Ley por la que se modifica la Ley 28/1990, de 26 de diciembre, por la que se aprueba el Convenio Económico entre el Estado y la Comunidad Foral de Navarra, por tramitarse en lectura única, teniendo en cuenta las observaciones técnicas distribuidas.",
+"expediente": "121/000061",
+"si": 310,
+"no": 33,
+"abst": 2,
+"diario": null,
+"temas": [
+"territorio"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"psoe": {
+"Sí": 119,
+"No vota": 1
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 6,
+"No vota": 1
+},
+"frente-amplio": {
+"Sí": 25,
+"Abstención": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"compromis": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion124/20250626/Votacion014/VOT_20250626120543.json",
+"debates": [
+"128-2"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "reforma-del-estatuto-de-autonomia-de-castilla-la-mancha",
+"tema": "territorio",
+"titulo": "Reforma del Estatuto de Autonomía de Castilla-La Mancha",
+"que_es": [
+"Propuesta de las Cortes de Castilla-La Mancha para reformar su Estatuto. Entre otros puntos, eleva el máximo de diputados autonómicos de 35 a 55 y mantiene el mínimo en 25, y prevé un organismo propio de gestión tributaria.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se aceptó tramitarla con 288 votos a favor, 34 en contra y 13 abstenciones.",
+"despues_fuente": null,
+"debate": "149-1",
+"debate_fecha": "2025-11-11",
+"num": 149,
+"doc": "DSCD-15-PL-149.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Si no somos capaces de ponernos de acuerdo en la norma fundamental básica de la Comunidad Autónoma de Castilla-La Mancha, mandaremos un mensaje a la población de que nos sumamos también al discurso del odio.",
+"orador": "Enrique Belda Pérez-Pedrero",
+"turno": 16,
+"pagina": 13
+},
+{
+"candidatura": "psoe",
+"cita": "Supieron aprovechar la autonomía para crear una región de bienestar y de oportunidades, y eso, además, me hace sentir orgullo como socialista.",
+"orador": "Sergio Gutiérrez Prieto",
+"turno": 14,
+"pagina": 12
+},
+{
+"candidatura": "vox",
+"cita": "Y cuando VOX gobierne en Castilla-La Mancha, derogaremos este estatuto.",
+"orador": "Manuel Mariscal Zabala",
+"turno": 12,
+"pagina": 10
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Nosotras, desde una posición plurinacional, apoyaremos siempre los avances en la autogestión que mejoren los derechos de la ciudadanía, en Castilla-La Mancha o en cualquier punto del Estado.",
+"orador": "Engracia Rivera Arias",
+"turno": 10,
+"pagina": 9
+},
+{
+"candidatura": "podemos",
+"cita": "Hoy Podemos se va a abstener en esta propuesta para facilitar la discusión, pero les digo una cosa: si ustedes no permiten ninguna modificación a este estatuto bipartidista, desde luego los votos de Podemos acabarán siendo negativos.",
+"orador": "Javier Sánchez Serna",
+"turno": 8,
+"pagina": 8
+}
+],
+"fecha": "2025-11-11",
+"voto": {
+"fecha": "2025-11-11",
+"titulo": "Propuesta de reforma del Estatuto de Autonomía para Castilla-La Mancha.",
+"expediente": "127/000002",
+"si": 288,
+"no": 34,
+"abst": 13,
+"diario": null,
+"temas": [
+"territorio"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"pp": {
+"Sí": 137
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"frente-amplio": {
+"Sí": 26
+},
+"pnv": {
+"Sí": 5
+},
+"podemos": {
+"Abstención": 4
+},
+"erc": {
+"Abstención": 7
+},
+"bng": {
+"Abstención": 1
+},
+"compromis": {
+"Abstención": 1
+},
+"junts": {
+"No vota": 7
+},
+"eh-bildu": {
+"No vota": 6
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion144/20251111/Votacion001/VOT_20251111210354.json",
+"debates": [
+"149-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-de-2024-sobre-el-subsidio-de-desempleo",
+"tema": "empleo",
+"titulo": "Decreto de 2024 sobre el subsidio de desempleo",
+"que_es": [
+"Segundo decreto del Gobierno para reformar el subsidio de desempleo, después de que el Congreso rechazara el anterior en enero de 2024.",
+"Según el PSOE, sube las cuantías en 90 euros al mes y permite compatibilizar subsidio y empleo. El decreto cierra además la adaptación de una directiva europea de conciliación."
+],
+"fuente": null,
+"despues": "Se convalidó con 178 votos a favor, ninguno en contra y 171 abstenciones, las de PP y Vox.",
+"despues_fuente": null,
+"debate": "51-1",
+"debate_fecha": "2024-06-20",
+"num": 51,
+"doc": "DSCD-15-PL-51.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Pues, como muestra este real decreto ley, incrementando las cuantías del subsidio por desempleo en 90 euros mensuales y compatibilizando los subsidios y prestaciones por desempleo con la actividad laboral.",
+"orador": "Sonia Guerra López",
+"turno": 18,
+"pagina": 21
+},
+{
+"candidatura": "pp",
+"cita": "Y con la barrabasada que han colado hoy aquí, no podemos apoyar esta convalidación.",
+"orador": "Ángel Ibáñez Hernando",
+"turno": 22,
+"pagina": 24
+},
+{
+"candidatura": "vox",
+"cita": "No obstante, este real decreto ley, que será aprobado, no deja de ser un espejismo, un burdo engaño, señora ministra.",
+"orador": "Juan José Aizcorbe Torra",
+"turno": 16,
+"pagina": 20
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Esta norma es muy importante para nosotras, es trascendental para SUMAR porque está pensada para nuestra gente.",
+"orador": "Verónica Martínez Barbero",
+"turno": 14,
+"pagina": 18
+},
+{
+"candidatura": "podemos",
+"cita": "Hoy, este real decreto ley, que corrige esos recortes, por supuesto que va a contar con el apoyo de Podemos.",
+"orador": "Noemí Santana Perera",
+"turno": 4,
+"pagina": 10
+},
+{
+"candidatura": "junts",
+"cita": "Junts tiene siete votos en esta Cámara, siete votos para hacer respetar y fortalecer a Cataluña con cada una de las leyes e iniciativas que le requieren.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 10,
+"pagina": 14
+},
+{
+"candidatura": "erc",
+"cita": "Todos aquellos que dicen defender o que afirman defender los intereses de la clase trabajadora no pueden renunciar a dar apoyo hoy a este texto.",
+"orador": "Jordi Salvador i Duch",
+"turno": 12,
+"pagina": 15
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Votamos también a favor por lo que supone de defensa y blindaje a la protección de los mayores de 52 años que se encuentran en situación de desempleo.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 8,
+"pagina": 12
+},
+{
+"candidatura": "pnv",
+"cita": "Asimismo, el decreto, entre otras cosas, implementa la reforma del subsidio por desempleo para proteger a aquellos colectivos con más dificultades y, a la vez, estimular la búsqueda de empleo y reducir desigualdades.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 6,
+"pagina": 11
+},
+{
+"candidatura": "bng",
+"cita": "Apoyaremos la convalidación, pero continuaremos reclamando permisos de conciliación retribuidos y blindados, porque es necesario avanzar en derechos para los trabajadores y trabajadoras.",
+"orador": "Néstor Rego Candamil",
+"turno": 2,
+"pagina": 8
+}
+],
+"fecha": "2024-06-20",
+"voto": {
+"fecha": "2024-06-20",
+"titulo": "Real Decreto-ley 2/2024, de 21 de mayo, por el que se adoptan medidas urgentes para la simplificación y mejora del nivel asistencial de la protección por desempleo, y para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo.",
+"expediente": "130/000005",
+"si": 178,
+"no": 0,
+"abst": 171,
+"diario": null,
+"temas": [
+"empleo"
+],
+"grupos": {
+"eh-bildu": {
+"Sí": 6
+},
+"podemos": {
+"Sí": 4
+},
+"psoe": {
+"Sí": 120
+},
+"frente-amplio": {
+"Sí": 25,
+"No vota": 1
+},
+"pnv": {
+"Sí": 5
+},
+"erc": {
+"Sí": 7
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"pp": {
+"Abstención": 137
+},
+"vox": {
+"Abstención": 33
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion049/20240620/Votacion019/VOT_20240620132741.json",
+"debates": [
+"51-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-que-amplia-el-permiso-de-nacimiento",
+"tema": "empleo",
+"titulo": "Decreto que amplía el permiso de nacimiento",
+"que_es": [
+"Decreto del Gobierno que amplía el permiso de nacimiento y cuidado de 16 a 19 semanas, dos de ellas de uso flexible.",
+"Según Vox, en familias monoparentales pasa de 16 a 32 semanas. Varios grupos dijeron que no cumple del todo la directiva europea, que pide ocho semanas de permiso parental retribuido."
+],
+"fuente": null,
+"despues": "Se convalidó con 313 votos a favor, ninguno en contra y 33 abstenciones, las de Vox. Se acordó tramitarlo además como proyecto de ley, lo que permite presentar enmiendas.",
+"despues_fuente": null,
+"debate": "134-4",
+"debate_fecha": "2025-09-09",
+"num": 134,
+"doc": "DSCD-15-PL-134.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Vamos a votar a ampliar en tres semanas el permiso por nacimiento y cuidados, de tal manera que vamos a pasar de las 16 a las 19 semanas, además, dos de ellas con flexibilidad.",
+"orador": "Elisa Garrido Jiménez",
+"turno": 20,
+"pagina": 50
+},
+{
+"candidatura": "pp",
+"cita": "Incumplen el permiso parental retribuido de ocho semanas porque hay dos de ellas que las incorporan en el permiso por nacimiento.",
+"orador": "Carmen Fúnez de Gregorio",
+"turno": 22,
+"pagina": 52
+},
+{
+"candidatura": "vox",
+"cita": "Quiero recordarle a la señora Díaz que hoy nos traen ustedes este real decreto por imperativo europeo, acorralados por la sanción que nos han impuesto, no por voluntad propia.",
+"orador": "María de la Cabeza Ruiz Solás",
+"turno": 18,
+"pagina": 49
+},
+{
+"candidatura": "frente-amplio",
+"cita": "¿Qué motivos hay para no apoyar una ampliación de derechos que evita penalizar la carrera profesional de las mujeres, que son las que tradicionalmente asumen los permisos no retribuidos?",
+"orador": "Júlia Boada Danés",
+"turno": 16,
+"pagina": 47
+},
+{
+"candidatura": "podemos",
+"cita": "Es así porque nos prometieron ocho semanas remuneradas y, al final, tenemos tres y si aceptamos pulpo como animal de compañía.",
+"orador": "Noemí Santana Perera",
+"turno": 6,
+"pagina": 40
+},
+{
+"candidatura": "compromis",
+"cita": "Por ello, hoy apoyaremos este real decreto ley, porque es un paso hacia adelante.",
+"orador": "Àgueda Micó Micó",
+"turno": 2,
+"pagina": 38
+},
+{
+"candidatura": "junts",
+"cita": "También se ve fomentada la corresponsabilidad y aumentada la seguridad jurídica de la familia, porque se minimiza el impacto en sus ingresos y se garantizan las cotizaciones para no perjudicar la futura pensión.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 12,
+"pagina": 43
+},
+{
+"candidatura": "erc",
+"cita": "Y ahora voy a explicar cuáles eran esos permisos que se votaron y que creemos que el Gobierno debería haberlos incorporado para acabar de hacer una ley mucho más redonda y mucho más plausible.",
+"orador": "Jordi Salvador i Duch",
+"turno": 14,
+"pagina": 45
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Hoy, nosotras, nuestro grupo va a validar este real decreto ley presentado por el Gobierno, dado que da luz verde a la ampliación de los permisos por nacimiento y cuidado de hijos e hijas y, por tanto, a la ampliación de derechos.",
+"orador": "Mertxe Aizpurua Arzallus",
+"turno": 10,
+"pagina": 42
+},
+{
+"candidatura": "pnv",
+"cita": "La directiva no establece limitaciones por fecha de nacimiento, precisamente porque su objetivo es facilitar la conciliación a todas las familias con hijos pequeños.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 8,
+"pagina": 40
+},
+{
+"candidatura": "bng",
+"cita": "Evidentemente, apoyaremos el real decreto ley, pero exigimos que se tramite como proyecto de ley para poder modificarlo y mejorarlo de forma que realmente se avance en la conciliación y en el bienestar.",
+"orador": "Néstor Rego Candamil",
+"turno": 4,
+"pagina": 39
+}
+],
+"fecha": "2025-09-09",
+"voto": {
+"fecha": "2025-09-09",
+"titulo": "Real Decreto-ley 9/2025, de 29 de julio, por el que se amplía el permiso de nacimiento y cuidado, mediante la modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, y el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo.",
+"expediente": "130/000023",
+"si": 313,
+"no": 0,
+"abst": 33,
+"diario": null,
+"temas": [
+"pensiones",
+"empleo"
+],
+"grupos": {
+"pp": {
+"Sí": 135,
+"No vota": 2
+},
+"psoe": {
+"Sí": 118,
+"No vota": 2
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"vox": {
+"Abstención": 33
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion129/20250909/Votacion003/VOT_20250909221801.json",
+"debates": [
+"134-4"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "propuesta-de-erc-de-medidas-fiscales-contra-la-especulacion-inmobiliar",
+"tema": "impuestos",
+"titulo": "Propuesta de ERC de medidas fiscales contra la especulación inmobiliaria",
+"que_es": [
+"Propuesta de ERC con medidas fiscales sobre vivienda. En el debate se citan estas: quitar ventajas fiscales a las socimis (sociedades de inversión inmobiliaria), gravar la segunda vivienda, suprimir la exención de IVA en alquileres turísticos de corta duración y reducir el IVA de compra a menores de 35 años.",
+"En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "No se admitió a trámite: 163 votos a favor, 171 en contra y 13 abstenciones.",
+"despues_fuente": null,
+"debate": "149-2",
+"debate_fecha": "2025-11-11",
+"num": 149,
+"doc": "DSCD-15-PL-149.PDF",
+"posturas": [
+{
+"candidatura": "erc",
+"cita": "Nosotros no estamos en contra de que la gente se haga rica, pero que no sea con la vivienda, sobre todo cuando hay gente sin techo.",
+"orador": "Gabriel Rufián Romero",
+"turno": 2,
+"pagina": 15
+},
+{
+"candidatura": "pp",
+"cita": "La ley de vivienda de 2023 ―apoyada por el Gobierno y sus socios, los mismos que hoy presentan esta iniciativa― no ha frenado los precios ni ha aumentado la oferta.",
+"orador": "Raúl Cuevas Larrosa",
+"turno": 26,
+"pagina": 30
+},
+{
+"candidatura": "psoe",
+"cita": "Porque este Gobierno sabe poner en práctica políticas efectivas de vivienda.",
+"orador": "Ignasi Conesa Coma",
+"turno": 24,
+"pagina": 29
+},
+{
+"candidatura": "vox",
+"cita": "Lo peor es que estamos también ante una chapuza en el fondo, porque la proposición de ley no aborda ni una sola de las causas que están detrás de las dificultades de acceso a la vivienda en España.",
+"orador": "Carlos Hernández Quero",
+"turno": 20,
+"pagina": 28
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Dicho de otra forma, la propuesta que hoy trae aquí Esquerra Republicana de Catalunya es una propuesta a favor del 96 % de la población catalana, señora Madrenas.",
+"orador": "Alberto Ibáñez Mezquita",
+"turno": 16,
+"pagina": 26
+},
+{
+"candidatura": "podemos",
+"cita": "La vivienda es el principal problema de esta legislatura y parece que el único que no se ha dado cuenta es el propio Gobierno de España.",
+"orador": "Javier Sánchez Serna",
+"turno": 8,
+"pagina": 20
+},
+{
+"candidatura": "compromis",
+"cita": "Vamos a ver si todo el mundo se atreve a aprobar esta proposición de ley, porque lo que necesita la sociedad son más derechos y menos especulación.",
+"orador": "Àgueda Micó Micó",
+"turno": 4,
+"pagina": 17
+},
+{
+"candidatura": "junts",
+"cita": "Nosotros tenemos dudas serias de que esta ley vaya a hacer frente a la especulación y a la expulsión vecinal.",
+"orador": "Marta Madrenas i Mir",
+"turno": 14,
+"pagina": 23
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Por eso, nosotros estamos de acuerdo con las cuatro situaciones que se plantean en esta proposición de ley.",
+"orador": "Oskar Matute García de Jalón",
+"turno": 12,
+"pagina": 22
+},
+{
+"candidatura": "pnv",
+"cita": "También apoyamos la supresión de la exención del IVA para los arrendamientos turísticos de corta duración, ya que esas estancias generan presión sobre el mercado residencial.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 10,
+"pagina": 20
+},
+{
+"candidatura": "bng",
+"cita": "Sin duda, como bien refleja la propuesta del Grupo Republicano, la cuestión de la vivienda ha pasado de ser un problema estructural en el Estado español a ser una auténtica emergencia social.",
+"orador": "Néstor Rego Candamil",
+"turno": 6,
+"pagina": 18
+}
+],
+"fecha": "2025-11-11",
+"voto": {
+"fecha": "2025-11-11",
+"titulo": "Proposición de Ley del Grupo Parlamentario Republicano, de medidas fiscales para combatir la especulación inmobiliaria.",
+"expediente": "122/000218",
+"si": 163,
+"no": 171,
+"abst": 13,
+"diario": null,
+"temas": [
+"impuestos"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"frente-amplio": {
+"Sí": 26
+},
+"erc": {
+"Sí": 7
+},
+"psoe": {
+"Sí": 117,
+"No vota": 3
+},
+"eh-bildu": {
+"Sí": 6
+},
+"compromis": {
+"Sí": 1
+},
+"podemos": {
+"Sí": 4
+},
+"bng": {
+"Sí": 1
+},
+"pnv": {
+"Abstención": 5
+},
+"junts": {
+"Abstención": 7
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion144/20251111/Votacion002/VOT_20251111210356.json",
+"debates": [
+"149-2"
+],
+"resultado": "No salió adelante"
+}
+},
+{
+"id": "propuesta-del-pp-sobre-el-envio-de-ayuda-militar-al-extranjero",
+"tema": "defensa",
+"titulo": "Propuesta del PP sobre el envío de ayuda militar al extranjero",
+"que_es": [
+"Propuesta del PP para reformar la Ley de la Defensa Nacional y regular en ella el envío de ayuda y material militar a otros países, como el que se ha enviado a Ucrania, con más intervención del Congreso.",
+"PNV y BNG señalaron en el debate que una propuesta igual del PP ya se tramitaba tras llegar del Senado. En esta votación se decidía si empezaba a tramitarse, no si se aprobaba como ley."
+],
+"fuente": null,
+"despues": "Se admitió a trámite con 174 votos a favor, 144 en contra y 30 abstenciones. Podemos votó a favor junto a PP y Vox.",
+"despues_fuente": null,
+"debate": "72-1",
+"debate_fecha": "2024-10-22",
+"num": 72,
+"doc": "DSCD-15-PL-72.PDF",
+"posturas": [
+{
+"candidatura": "pp",
+"cita": "Debemos garantizar, por tanto, un debate democrático sobre los envíos de material militar a otros países.",
+"orador": "Alberto Fabra Part",
+"turno": 0,
+"pagina": 5
+},
+{
+"candidatura": "psoe",
+"cita": "No obstante, hay una parte de su iniciativa que nos parece correcta y la podríamos apoyar si no fuera por el dislate final.",
+"orador": "José Antonio Rodríguez Salas",
+"turno": 14,
+"pagina": 16
+},
+{
+"candidatura": "vox",
+"cita": "Señorías, mi grupo votará a favor de la toma en consideración de esta iniciativa que ya ha sido explicada por el grupo proponente, sin perjuicio de las posibles enmiendas que puedan plantearse durante la tramitación parlamentaria.",
+"orador": "Alberto Asarta Cuevas",
+"turno": 12,
+"pagina": 14
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Eso es una mera excusa con un objetivo clarísimo, que es dividir al Gobierno y a los partidos que apoyan al Gobierno con una cláusula que pretende ser más democrática.",
+"orador": "Agustín Santos Maraver",
+"turno": 10,
+"pagina": 13
+},
+{
+"candidatura": "podemos",
+"cita": "Y, sobre todo, para que España no pueda enviar material militar a aquellos países que estén cometiendo genocidio y no respeten los derechos humanos, como es el caso de Israel.",
+"orador": "Javier Sánchez Serna",
+"turno": 4,
+"pagina": 9
+},
+{
+"candidatura": "erc",
+"cita": "Nos encontramos ante una proposición de ley que quiere darle el protagonismo al Parlamento, un enfoque que compartiríamos por principio como grupo si no fuera porque el PP en realidad no pretende esto.",
+"orador": "Francesc-Marc Álvaro Vidal",
+"turno": 8,
+"pagina": 10
+},
+{
+"candidatura": "pnv",
+"cita": "Es decir, se nos propone tomar en consideración una iniciativa que ya se encuentra en trámite de enmiendas en esta Cámara y en ambos casos a instancia del Grupo Parlamentario Popular, primero en el Senado y ahora en el Congreso.",
+"orador": "Mikel (GV (EAJ-PNV)) Legarda Uriarte",
+"turno": 6,
+"pagina": 10
+},
+{
+"candidatura": "bng",
+"cita": "Tampoco se opusieron, más bien al contrario, al envío de tanques y ayuda militar por más de 1000 millones de euros a Ucrania, decisiones que no pasaron previamente por este Congreso",
+"orador": "Néstor Rego Candamil",
+"turno": 2,
+"pagina": 7
+}
+],
+"fecha": "2024-10-22",
+"voto": {
+"fecha": "2024-10-22",
+"titulo": "Proposición de Ley del Grupo Parlamentario Popular en el Congreso, Orgánica relativa a la reforma de la Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional, para el envío de ayuda militar al extranjero.",
+"expediente": "122/000116",
+"si": 174,
+"no": 144,
+"abst": 30,
+"diario": null,
+"temas": [
+"defensa"
+],
+"grupos": {
+"psoe": {
+"No": 119,
+"No vota": 1
+},
+"erc": {
+"No": 7
+},
+"junts": {
+"No": 7
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"No": 5
+},
+"pp": {
+"Sí": 136,
+"No vota": 1
+},
+"vox": {
+"Sí": 33
+},
+"podemos": {
+"Sí": 4
+},
+"frente-amplio": {
+"Abstención": 26
+},
+"compromis": {
+"Abstención": 1
+},
+"bng": {
+"Abstención": 1
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion069/20241022/Votacion001/VOT_20241022211822.json",
+"debates": [
+"72-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "decreto-de-ayudas-al-coche-electrico-moves-iii-de-2025",
+"tema": "energia",
+"titulo": "Decreto de ayudas al coche eléctrico (MOVES III) de 2025",
+"que_es": [
+"Decreto del Gobierno que renueva para 2025 las ayudas a la compra de vehículos eléctricos e híbridos y a los puntos de recarga. Según Podemos, con 400 millones de euros, en su mayoría de fondos europeos."
+],
+"fuente": null,
+"despues": "Se convalidó con 180 votos a favor, 33 en contra (Vox) y 137 abstenciones (PP). Se acordó tramitarlo además como proyecto de ley.",
+"despues_fuente": null,
+"debate": "110-1",
+"debate_fecha": "2025-04-10",
+"num": 110,
+"doc": "DSCD-15-PL-110.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Como les decía, este Gobierno cumple y ha venido adoptando medidas regulatorias, incentivos económicos, y, sobre todo, un marco adecuado para que la movilidad eléctrica se desarrolle y genere seguridad en el sector.",
+"orador": "María Montserrat García Chavarría",
+"turno": 22,
+"pagina": 21
+},
+{
+"candidatura": "pp",
+"cita": "Porque se acabó el tiempo de los buenos deseos y de las buenas intenciones pensando que la neutralidad tecnológica no es el principio adecuado.",
+"orador": "Francisco José Conde López",
+"turno": 24,
+"pagina": 22
+},
+{
+"candidatura": "vox",
+"cita": "Señora ministra, la realidad es que el plan MOVES III incumple la neutralidad tecnológica que deberían tener las Administraciones públicas, ya que incentiva exclusivamente la adquisición de vehículos eléctricos y sus puntos de recarga.",
+"orador": "Andrés Alberto Rodríguez Almeida",
+"turno": 20,
+"pagina": 19
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Por tanto, la limitada disponibilidad de recarga y el sistema fragmentado crean un mayor temor a la falta de autonomía que hay que atajar.",
+"orador": "Júlia Boada Danés",
+"turno": 18,
+"pagina": 18
+},
+{
+"candidatura": "podemos",
+"cita": "En cuanto a la renovación del plan MOVES III en sí misma, nos parece positiva.",
+"orador": "Javier Sánchez Serna",
+"turno": 6,
+"pagina": 9
+},
+{
+"candidatura": "junts",
+"cita": "Así que utilizaron el desafortunado real decreto ómnibus para prorrogar el plan anterior hasta mediados de 2025, porque entonces sí que tendrían a punto el plan MOVES IV.",
+"orador": "Josep Maria Cruset Domènech",
+"turno": 14,
+"pagina": 13
+},
+{
+"candidatura": "erc",
+"cita": "Ahora bien, seamos claros, porque esto no es un nuevo plan, es una ampliación del MOVES III, y la realidad nos exige un MOVES IV con cara y ojos pensado para el momento actual.",
+"orador": "Inés Granollers Cunillera",
+"turno": 16,
+"pagina": 16
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Voy a empezar diciendo que vamos a votar a favor, porque creemos que es mejor esto que nada.",
+"orador": "Mikel Otero Gabirondo",
+"turno": 10,
+"pagina": 11
+},
+{
+"candidatura": "pnv",
+"cita": "Lo cierto es que hoy en día sigue siendo imprescindible contar con un marco de ayudas, porque, sin estas, las ventas de coches eléctricos se resienten y mucho.",
+"orador": "Idoia (GV (EAJ-PNV)) Sagastizabal Unzetabarrenetxea",
+"turno": 8,
+"pagina": 10
+}
+],
+"fecha": "2025-04-10",
+"voto": {
+"fecha": "2025-04-10",
+"titulo": "Real Decreto-ley 3/2025, de 1 de abril, por el que se establece el programa de incentivos ligados a la movilidad eléctrica (MOVES III) para el año 2025.",
+"expediente": "130/000017",
+"si": 180,
+"no": 33,
+"abst": 137,
+"diario": null,
+"temas": [
+"energia"
+],
+"grupos": {
+"vox": {
+"No": 33
+},
+"psoe": {
+"Sí": 120
+},
+"podemos": {
+"Sí": 4
+},
+"coalicion-canaria": {
+"Sí": 1
+},
+"erc": {
+"Sí": 7
+},
+"frente-amplio": {
+"Sí": 26
+},
+"compromis": {
+"Sí": 1
+},
+"bng": {
+"Sí": 1
+},
+"junts": {
+"Sí": 7
+},
+"eh-bildu": {
+"Sí": 6
+},
+"pnv": {
+"Sí": 5
+},
+"pp": {
+"Abstención": 137
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/Votacion013/VOT_20250410155152.json",
+"debates": [
+"110-1"
+],
+"resultado": "Salió adelante"
+}
+},
+{
+"id": "ley-de-condiciones-del-profesorado-y-ratios",
+"tema": "educacion",
+"titulo": "Ley de condiciones del profesorado y ratios",
+"que_es": [
+"Proyecto de ley del Gobierno que reforma la ley de educación para reducir la jornada lectiva y las ratios, con otras medidas de mejora de la docencia.",
+"PNV y Junts pidieron devolver el texto al Gobierno porque, según dijeron, invade competencias autonómicas. Por eso, en esta votación, votar sí era frenar la ley."
+],
+"fuente": null,
+"despues": "La devolución se rechazó y el proyecto siguió su tramitación. El 30 de septiembre de 2026 el Pleno acordó, por 342 votos a 5, reservarse la votación final.",
+"despues_fuente": null,
+"debate": "194-5",
+"debate_fecha": "2026-06-18",
+"num": 194,
+"doc": "DSCD-15-PL-194.PDF",
+"posturas": [
+{
+"candidatura": "psoe",
+"cita": "Por eso la ley establece que el alumnado con necesidades específicas de apoyo educativo compute doble a efectos de ratio.",
+"orador": "María Luz Martínez Seijo",
+"turno": 20,
+"pagina": 102
+},
+{
+"candidatura": "pp",
+"cita": "La garantía de la calidad educativa, la dignificación de la profesión docente y la mejora de sus condiciones laborales exige planificación, negociación y recursos, no iniciativas tardías, incompletas y sin financiación.",
+"orador": "Cristina Teniente Sánchez",
+"turno": 22,
+"pagina": 104
+},
+{
+"candidatura": "vox",
+"cita": "El Grupo Vasco y Junts se oponen a esta reforma, pero no por su contenido, sino porque invade el marco competencial.",
+"orador": "Joaquín Robles López",
+"turno": 18,
+"pagina": 101
+},
+{
+"candidatura": "frente-amplio",
+"cita": "Medidas de mejora de la docencia, reduciendo la jornada lectiva y acabando con esta situación de desigualdad entre el profesorado de distintas Administraciones educativas.",
+"orador": "Juan Antonio Valero Morales",
+"turno": 16,
+"pagina": 99
+},
+{
+"candidatura": "podemos",
+"cita": "Creo que la situación de la educación pública en España es muy seria y que no se puede tomar el pelo a la gente.",
+"orador": "Ione Belarra Urteaga",
+"turno": 10,
+"pagina": 93
+},
+{
+"candidatura": "compromis",
+"cita": "Por eso, el profesorado valenciano sí que ha tenido la capacidad de defender lo que quiere, y lo están haciendo no solo como una protesta, es un diagnóstico colectivo en estos momentos de lo que está pasándonos.",
+"orador": "Àgueda Micó Micó",
+"turno": 6,
+"pagina": 91
+},
+{
+"candidatura": "junts",
+"cita": "Pero, señorías, no es solo eso, hay otra cuestión igualmente preocupante, porque, a pesar de la lluvia de millones recitada a título de propaganda por la ministra, este proyecto no solo invade competencias, también traslada costes.",
+"orador": "Josep Maria Cervera Pinart",
+"turno": 4,
+"pagina": 87
+},
+{
+"candidatura": "erc",
+"cita": "Antes de entrar en el fondo del asunto, quisiera dejar claro que en Esquerra Republicana compartimos plenamente la necesidad de mejorar las condiciones de la docencia en todo su conjunto.",
+"orador": "Etna Estrems Fayos",
+"turno": 14,
+"pagina": 97
+},
+{
+"candidatura": "eh-bildu",
+"cita": "Por lo tanto, como decíamos, favoreceremos la tramitación del proyecto de ley y votaremos en contra de las enmiendas a la totalidad presentadas.",
+"orador": "Marije Fullaondo la Cruz",
+"turno": 12,
+"pagina": 94
+},
+{
+"candidatura": "pnv",
+"cita": "Por eso rechazamos que decisiones que afectan de forma directa a nuestro sistema educativo se adopten sin contar desde el inicio con las instituciones que tienen la responsabilidad de gestionarlo.",
+"orador": "Joseba Andoni (GV (EAJ-PNV)) Agirretxea Urresti",
+"turno": 2,
+"pagina": 84
+},
+{
+"candidatura": "bng",
+"cita": "Pero hoy estamos ante una propuesta que mejora y, por tanto, vamos a votar a favor.",
+"orador": "Néstor Rego Candamil",
+"turno": 8,
+"pagina": 92
+}
+],
+"fecha": "2026-06-18",
+"voto": {
+"fecha": "2026-06-18",
+"titulo": "Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto de Ley por la que se modifican la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y la Ley 4/2019, de 7 de marzo, de mejora de las condiciones para el desempeño de la docencia y la enseñanza en el ámbito de la educación no universitaria, y se adoptan otras medidas para la mejora del sistema educativo, presentadas por los Grupos Parlamentarios Junts per Catalunya y Vasco (EAJ-PNV).",
+"expediente": "121/000092",
+"si": 11,
+"no": 329,
+"abst": 7,
+"diario": null,
+"temas": [
+"educacion"
+],
+"grupos": {
+"pp": {
+"No": 137
+},
+"vox": {
+"No": 33
+},
+"psoe": {
+"No": 121
+},
+"podemos": {
+"No": 4
+},
+"frente-amplio": {
+"No": 25,
+"No vota": 1
+},
+"compromis": {
+"No": 1
+},
+"bng": {
+"No": 1
+},
+"eh-bildu": {
+"No": 6
+},
+"pnv": {
+"Sí": 5
+},
+"junts": {
+"Sí": 6,
+"No vota": 1
+},
+"erc": {
+"Abstención": 6,
+"No vota": 1
+},
+"coalicion-canaria": {
+"Abstención": 1
+}
+},
+"json": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion021/VOT_20260618162244.json",
+"debates": [
+"194-5"
+],
+"resultado": "No salió adelante"
+}
 }
 ]

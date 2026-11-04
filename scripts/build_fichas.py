@@ -6,7 +6,8 @@ from fuente_fichas import FICHAS
 from fuente_fichas_2 import FICHAS_2
 from fuente_fichas_3 import FICHAS_3
 from fuente_fichas_4 import FICHAS_4
-FICHAS = FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4
+from fuente_fichas_5 import FICHAS_5
+FICHAS = FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4 + FICHAS_5
 from seleccion_fichas import elegir
 
 VALORATIVAS = r'\b(polémic\w*|histórico|histórica|importante\w*|grave\w*|escandal\w*|enorme\w*|radical\w*|extremo|extrema|ultra\w*|duro|dura|valiente\w*|vergonz\w*|polarizad\w*|controvertid\w*|ambicios\w*|necesari\w*|buen\w*|mal[oa]s?)\b'
@@ -21,7 +22,7 @@ for f in FICHAS:
     vs = [v for v in todos if v.get('expediente') == f['expediente'] and f['debate'] in (v.get('debates') or []) and not re.search(r'(?<!las )enmiendas? (?!a la totalidad)|^Votaci[oó]n de la enmienda', v['titulo'], re.I)]
     if f.get('voto_fecha'): vs = [x for x in vs if x['fecha'] == f['voto_fecha']]
     if not vs: errores.append(f"{f['expediente']}: sin votación"); continue
-    v = next((x for x in vs if re.search(r'^Real Decreto-ley|conjunto|dictamen', x['titulo'], re.I)), vs[0])
+    v = next((x for x in vs if re.search(r'de conjunto', x['titulo'], re.I)), next((x for x in vs if re.search(r'^Real Decreto-ley|conjunto|dictamen', x['titulo'], re.I)), vs[0]))
     for texto in f['que_es'] + [f['despues'], f['titulo']]:
         m = re.search(VALORATIVAS, texto, re.I)
         if m: errores.append(f"{f['expediente']}: palabra valorativa «{m.group(0)}» en: {texto[:60]}")

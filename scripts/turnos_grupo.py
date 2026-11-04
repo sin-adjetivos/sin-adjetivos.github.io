@@ -6,9 +6,10 @@ from fuente_fichas import FICHAS
 from fuente_fichas_2 import FICHAS_2
 from fuente_fichas_3 import FICHAS_3
 from fuente_fichas_4 import FICHAS_4
+from fuente_fichas_5 import FICHAS_5
 exp = sys.argv[1] if len(sys.argv) > 1 else None
 grupo = sys.argv[2] if len(sys.argv) > 2 else None
-for f in FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4:
+for f in FICHAS + FICHAS_2 + FICHAS_3 + FICHAS_4 + FICHAS_5:
     if exp and f['expediente'] != exp: continue
     d = json.load(open(f"site/build-data/debates/{f['debate']}.json", encoding='utf-8'))
     turnos = [t for t in d['intervenciones'] if not t['presidencia'] and t.get('bando') and t['bando'] != 'gobierno']

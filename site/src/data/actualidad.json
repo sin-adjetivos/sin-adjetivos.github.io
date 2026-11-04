@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-04T16:47+00:00",
+"actualizado": "2026-11-04T16:50+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -111,14 +111,14 @@
 "justicia"
 ],
 "comunes": [
-"abalos",
-"koldo",
 "000",
+"koldo",
+"abalos",
 "aldama",
 "647",
 "euros",
 "supremo",
-"caso"
+"requiere"
 ],
 "titulares": [
 {
@@ -178,63 +178,6 @@
 ]
 },
 {
-"medios": 7,
-"desde": "2026-11-03T13:49+00:00",
-"hasta": "2026-11-04T16:10+00:00",
-"temas": [],
-"comunes": [
-"joyas",
-"zapatero",
-"saudi",
-"arabia",
-"juez"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Zapatero insiste en preguntar a Arabia Saudí por el origen de sus joyas y reitera que nunca se planteó cuál era \"su valor material\"",
-"url": "https://www.20minutos.es/nacional/zapatero-insiste-preguntar-arabia-saudi-por-origen-sus-joyas-reitera-que-nunca-se-planteo-cual-era-su-valor-material_7057217_0.html",
-"fecha": "2026-11-04T15:27+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Zapatero dice que el juez le investiga a partir de una «sospecha» y recurre que no pida a Arabia Saudí explicaciones sobre las joyas",
-"url": "https://www.abc.es/espana/zapatero-dice-juez-investiga-partir-sospecha-recurre-20261104164429-nt.html",
-"fecha": "2026-11-04T15:44+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Zapatero defiende que no declaró las joyas como hizo con otros regalos por ser un obsequio \"estrictamente personal\"",
-"url": "https://www.eldiario.es/politica/zapatero-defiende-no-declaro-joyas-hizo-regalos-obsequio-estrictamente-personal_1_13638219.html",
-"fecha": "2026-11-04T14:55+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Zapatero asegura que no conserva documentación de las joyas y ve \"pertinente\" pedir información a Arabia Saudí",
-"url": "https://www.europapress.es/nacional/noticia-zapatero-asegura-no-conserva-documentacion-joyas-ve-pertinente-pedir-informacion-arabia-saudi-20261104171017.html",
-"fecha": "2026-11-04T16:10+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Zapatero explica que no declaró las joyas porque son un regalo personal que \"jamás se han usado\"",
-"url": "https://www.larazon.es/espana/zapatero-explica-que-declaro-joyas-porque-eran-regalo-personal-que-jamas-han-usado_202611046aeb51dbd3bddc0868a4ebf4.html",
-"fecha": "2026-11-04T15:40+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El juez sospecha que las joyas de Rodríguez Zapatero no son de Arabia Saudí",
-"url": "https://www.lavanguardia.com/politica/20261103/11675084/juez-sospecha-marcas-estampadas-joyas-rodriguez-zapatero.html",
-"fecha": "2026-11-03T13:49+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Zapatero insiste al juez Calama en que pida información a Arabia Saudí de sus joyas",
-"url": "https://theobjective.com/espana/tribunales/2026-11-04/zapatero-juez-calama-informacion-arabia-saudi-joyas/",
-"fecha": "2026-11-04T15:08+00:00"
-}
-]
-},
-{
 "medios": 6,
 "desde": "2026-11-03T13:59+00:00",
 "hasta": "2026-11-03T14:40+00:00",
@@ -246,9 +189,9 @@
 "llarena",
 "amnistia",
 "juez",
-"efecto",
 "procesamiento",
-"deja"
+"deja",
+"efecto"
 ],
 "titulares": [
 {
@@ -297,12 +240,12 @@
 "territorio"
 ],
 "comunes": [
-"turull",
-"junqueras",
 "romeva",
+"junqueras",
+"turull",
 "constitucional",
-"recursos",
 "amnistia",
+"recursos",
 "supremo"
 ],
 "titulares": [
@@ -346,57 +289,52 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-04T13:55+00:00",
-"hasta": "2026-11-04T14:20+00:00",
-"temas": [
-"inmigracion"
-],
+"desde": "2026-11-03T13:49+00:00",
+"hasta": "2026-11-04T16:10+00:00",
+"temas": [],
 "comunes": [
-"ceuta",
-"sanchez",
-"vox",
-"supremo",
-"entrada",
-"masiva",
-"archiva",
-"ministros"
+"joyas",
+"zapatero",
+"saudi",
+"arabia",
+"juez"
 ],
 "titulares": [
 {
-"medio": "Ara",
-"titulo": "El Suprem rebutja les peticions de Vox i Manos Limpias d'investigar Sánchez per la crisi de Ceuta",
-"url": "https://www.ara.cat/politica/suprem-arxiva-querella-vox-denuncia-manos-limpias-sanchez-diversos-ministres-crisi-ceuta_25_5900010.html",
-"fecha": "2026-11-04T13:55+00:00"
+"medio": "20minutos",
+"titulo": "Zapatero insiste en preguntar a Arabia Saudí por el origen de sus joyas y reitera que nunca se planteó cuál era \"su valor material\"",
+"url": "https://www.20minutos.es/nacional/zapatero-insiste-preguntar-arabia-saudi-por-origen-sus-joyas-reitera-que-nunca-se-planteo-cual-era-su-valor-material_7057217_0.html",
+"fecha": "2026-11-04T15:27+00:00"
 },
 {
-"medio": "El Confidencial",
-"titulo": "El TS archiva una querella de Vox contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
-"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-archiva-querella-ceuta-1tps_4458859/",
-"fecha": "2026-11-04T14:20+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El Supremo archiva una denuncia de Vox contra Sánchez por la entrada masiva en Ceuta",
-"url": "https://www.eldebate.com/espana/20261104/supremo-archiva-denuncia-vox-contra-sanchez-entrada-masiva-ceuta_477221.html",
-"fecha": "2026-11-04T13:57+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
-"url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
-"fecha": "2026-11-04T13:55+00:00"
+"medio": "ABC",
+"titulo": "Zapatero dice que el juez le investiga a partir de una «sospecha» y recurre que no pida a Arabia Saudí explicaciones sobre las joyas",
+"url": "https://www.abc.es/espana/zapatero-dice-juez-investiga-partir-sospecha-recurre-20261104164429-nt.html",
+"fecha": "2026-11-04T15:44+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "El Supremo archiva una querella de Vox contra Pedro Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
-"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
-"fecha": "2026-11-04T13:56+00:00"
+"titulo": "Zapatero asegura que no conserva documentación de las joyas y ve \"pertinente\" pedir información a Arabia Saudí",
+"url": "https://www.europapress.es/nacional/noticia-zapatero-asegura-no-conserva-documentacion-joyas-ve-pertinente-pedir-informacion-arabia-saudi-20261104171017.html",
+"fecha": "2026-11-04T16:10+00:00"
 },
 {
-"medio": "La Razón",
-"titulo": "El Supremo archiva cuatro denuncias contra Sánchez y sus ministros por la entrada masiva de inmigrantes en Ceuta",
-"url": "https://www.larazon.es/espana/supremo-archiva-cuatro-denuncias-sanchez-sus-ministros-entrada-masiva-inmigrantes-ceuta_202611046aeb3d7bd3bddc0868a4d8c1.html",
-"fecha": "2026-11-04T14:13+00:00"
+"medio": "La Vanguardia",
+"titulo": "El juez sospecha que las joyas de Rodríguez Zapatero no son de Arabia Saudí",
+"url": "https://www.lavanguardia.com/politica/20261103/11675084/juez-sospecha-marcas-estampadas-joyas-rodriguez-zapatero.html",
+"fecha": "2026-11-03T13:49+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Zapatero admite al juez que no conserva pruebas que acrediten que las joyas fueron un «regalo personal» de Arabia Saudí",
+"url": "https://okdiario.com/espana/zapatero-admite-juez-que-no-conserva-pruebas-que-acrediten-que-joyas-fueron-regalo-personal-arabia-saudi-20700989",
+"fecha": "2026-11-04T15:27+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Zapatero insiste al juez Calama en que pida información a Arabia Saudí de sus joyas",
+"url": "https://theobjective.com/espana/tribunales/2026-11-04/zapatero-juez-calama-informacion-arabia-saudi-joyas/",
+"fecha": "2026-11-04T15:08+00:00"
 }
 ]
 },
@@ -457,8 +395,8 @@
 "hasta": "2026-11-04T12:13+00:00",
 "temas": [],
 "comunes": [
-"electoral",
 "saber",
+"electoral",
 "mesa",
 "tocado"
 ],
@@ -497,18 +435,68 @@
 },
 {
 "medios": 5,
+"desde": "2026-11-04T13:55+00:00",
+"hasta": "2026-11-04T14:20+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"sanchez",
+"ceuta",
+"vox",
+"supremo",
+"masiva",
+"archiva",
+"entrada",
+"ministros"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "El TS archiva una querella de Vox contra Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/tribunal-supremo-archiva-querella-ceuta-1tps_4458859/",
+"fecha": "2026-11-04T14:20+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Supremo archiva una denuncia de Vox contra Sánchez por la entrada masiva en Ceuta",
+"url": "https://www.eldebate.com/espana/20261104/supremo-archiva-denuncia-vox-contra-sanchez-entrada-masiva-ceuta_477221.html",
+"fecha": "2026-11-04T13:57+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "El Supremo rechaza imputar a Pedro Sánchez por la crisis de Ceuta a petición de Vox y Manos Limpias",
+"url": "https://www.eldiario.es/politica/supremo-rechaza-imputar-pedro-sanchez-crisis-ceuta-peticion-vox-manos-limpias_1_13637976.html",
+"fecha": "2026-11-04T13:55+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El Supremo archiva una querella de Vox contra Pedro Sánchez y el Consejo de Ministros por la entrada masiva en Ceuta",
+"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-querella-vox-contra-pedro-sanchez-consejo-ministros-entrada-masiva-ceuta-20261104145600.html",
+"fecha": "2026-11-04T13:56+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El Supremo archiva cuatro denuncias contra Sánchez y sus ministros por la entrada masiva de inmigrantes en Ceuta",
+"url": "https://www.larazon.es/espana/supremo-archiva-cuatro-denuncias-sanchez-sus-ministros-entrada-masiva-inmigrantes-ceuta_202611046aeb3d7bd3bddc0868a4d8c1.html",
+"fecha": "2026-11-04T14:13+00:00"
+}
+]
+},
+{
+"medios": 5,
 "desde": "2026-11-03T20:27+00:00",
 "hasta": "2026-11-04T16:20+00:00",
 "temas": [],
 "comunes": [
-"puente",
-"hora",
 "oscar",
+"hora",
+"puente",
 "ultima",
-"reacciones",
 "dimision",
+"reacciones",
 "directo",
-"ministro"
+"generales"
 ],
 "titulares": [
 {
@@ -553,12 +541,12 @@
 "comunes": [
 "toledo",
 "funeral",
-"catedral",
 "urda",
+"catedral",
 "victimas",
 "accidente",
 "reyes",
-"noviembre"
+"celebrara"
 ],
 "titulares": [
 {
@@ -599,11 +587,11 @@
 "hasta": "2026-11-03T21:31+00:00",
 "temas": [],
 "comunes": [
-"llega",
-"tarde",
 "116",
-"puente",
+"tarde",
+"llega",
 "muertos",
+"puente",
 "dimision"
 ],
 "titulares": [
@@ -641,13 +629,13 @@
 "defensa"
 ],
 "comunes": [
-"sheinbaum",
+"lula",
 "cumbre",
 "iberoamericana",
-"lula",
+"sheinbaum",
 "delcy",
 "aliados",
-"dejan",
+"sanchez",
 "solo"
 ],
 "titulares": [
@@ -684,13 +672,13 @@
 "temas": [],
 "comunes": [
 "acampada",
-"gobierno",
 "ayuso",
+"gobierno",
 "sol",
 "750",
-"reclama",
 "gastos",
-"delegacion"
+"delegacion",
+"reclama"
 ],
 "titulares": [
 {
@@ -725,13 +713,13 @@
 "hasta": "2026-11-04T15:53+00:00",
 "temas": [],
 "comunes": [
-"navidad",
 "arbol",
+"navidad",
 "sol",
 "lunes",
-"instalacion",
+"puerta",
 "comenzara",
-"puerta"
+"instalacion"
 ],
 "titulares": [
 {
@@ -767,12 +755,12 @@
 "temas": [],
 "comunes": [
 "joyas",
-"pide",
 "zapatero",
-"calama",
+"pide",
 "autor",
-"juez",
-"policia"
+"calama",
+"policia",
+"juez"
 ],
 "titulares": [
 {
@@ -802,11 +790,11 @@
 "temas": [],
 "comunes": [
 "biedma",
-"pedraz",
-"juez",
 "eliminarla",
+"juez",
 "intento",
 "cite",
+"pedraz",
 "clan"
 ],
 "titulares": [
@@ -836,13 +824,13 @@
 "hasta": "2026-11-03T21:22+00:00",
 "temas": [],
 "comunes": [
-"puente",
-"ministro",
 "renuncia",
-"oscar",
 "listas",
-"transportes",
-"dimite"
+"ministro",
+"puente",
+"oscar",
+"dimite",
+"transportes"
 ],
 "titulares": [
 {
@@ -871,11 +859,11 @@
 "hasta": "2026-11-04T11:05+00:00",
 "temas": [],
 "comunes": [
-"2027",
 "feijoo",
-"2028",
+"2027",
 "presupuestos",
 "primavera",
+"2028",
 "primer",
 "presentara"
 ],
@@ -907,9 +895,9 @@
 "temas": [],
 "comunes": [
 "cristina",
-"cubas",
-"fernandez",
 "cervantes",
+"fernandez",
+"cubas",
 "premio"
 ],
 "titulares": [
@@ -940,13 +928,13 @@
 "temas": [],
 "comunes": [
 "joyas",
-"pide",
-"autor",
-"juez",
 "zapatero",
 "marca",
-"identifique",
-"grabada"
+"juez",
+"pide",
+"autor",
+"grabada",
+"identifique"
 ],
 "titulares": [
 {
@@ -977,11 +965,11 @@
 "comunes": [
 "provoca",
 "retrasos",
-"robo",
 "cable",
-"linea",
-"madrid",
+"robo",
 "barcelona",
+"madrid",
+"linea",
 "ave"
 ],
 "titulares": [
@@ -1014,9 +1002,9 @@
 "febrero",
 "aldama",
 "bolanos",
-"sera",
 "acusar",
-"juicio"
+"juicio",
+"sera"
 ],
 "titulares": [
 {
@@ -1047,14 +1035,14 @@
 "justicia"
 ],
 "comunes": [
-"cofia",
-"llevar",
-"obligar",
+"000",
 "catering",
 "empleadas",
-"000",
-"empresa",
-"euros"
+"obligar",
+"llevar",
+"cofia",
+"euros",
+"empresa"
 ],
 "titulares": [
 {
@@ -1087,11 +1075,11 @@
 ],
 "comunes": [
 "tres",
-"mueren",
 "purines",
-"granja",
 "fosa",
+"granja",
 "navarra",
+"mueren",
 "personas",
 "quedar"
 ],
@@ -1122,13 +1110,13 @@
 "hasta": "2026-11-04T15:58+00:00",
 "temas": [],
 "comunes": [
+"acusados",
+"falsear",
 "cuatro",
 "menor",
-"acusados",
 "atestado",
-"falsear",
-"agredir",
 "policias",
+"agredir",
 "absueltos"
 ],
 "titulares": [
@@ -1162,12 +1150,12 @@
 "comunes": [
 "convoca",
 "cuerpo",
-"presidente",
 "adif",
-"ministerio",
+"presidente",
+"asumir",
 "horas",
-"transportes",
-"asumir"
+"despues",
+"estado"
 ],
 "titulares": [
 {
@@ -1191,5 +1179,5 @@
 ]
 }
 ],
-"recogidas": 838
+"recogidas": 841
 }

@@ -8,6 +8,7 @@ const nombre = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
 const hora = (iso) => new Date(iso).toLocaleString('es-ES', { timeZone: 'Europe/Madrid', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' });
 const fallan = Object.entries(act.estado).filter(([, v]) => typeof v === 'string').map(([k]) => k);
 const VISIBLES = 3;
+const manana = propias.find((n) => n.tipo === 'balance');
 // Si hemos escrito sobre lo que cuentan estos titulares, el grupo enlaza a nuestra noticia.
 const explicada = (g) => propias.find((n) => g.comunes.some((c) => n.claves.includes(c)));
 ---
@@ -18,10 +19,17 @@ const explicada = (g) => propias.find((n) => g.comunes.some((c) => n.claves.incl
       <p>Lo que ha pasado, contado con hechos y con sus fuentes a la vista. Debajo, cómo lo titula cada medio.</p>
     </header>
 
+    {manana && (
+      <section class="esta-manana">
+        <h2><a href={`/actualidad/${manana.id}/`}>{manana.titulo}</a></h2>
+        <p>{manana.entradilla} <a href={`/actualidad/${manana.id}/`}>Leer el resumen</a>.</p>
+      </section>
+    )}
+
     {propias.length > 0 && (
       <section class="seccion-primera" aria-label="Noticias de Sin adjetivos">
         <div class="tarjetas">
-          {propias.map((n, i) => <TarjetaNoticia n={n} grande={i === 0} />)}
+          {propias.filter((n) => n.tipo !== 'balance').map((n, i) => <TarjetaNoticia n={n} grande={i === 0} />)}
         </div>
         <p class="nota" style="margin-top:1rem"><a href="#como-escribimos">Cómo escribimos estas noticias</a>.</p>
       </section>
@@ -63,6 +71,7 @@ const explicada = (g) => propias.find((n) => g.comunes.some((c) => n.claves.incl
         <li>Empezamos por las noticias que publican más medios, sin mirar a qué partido afectan. Podemos saltarnos guías prácticas y sucesos sin interés público.</li>
         <li>La noticia que abre la portada la decide quien firma, con ese mismo criterio: la que más medios han publicado ese día.</li>
         <li>Reservamos un hueco para las propuestas de campaña, que suelen tener menos titulares que los casos judiciales o las dimisiones. Empezamos por la candidatura que lleva más tiempo sin una, si tiene alguna nueva y hay fuentes suficientes. Contamos qué propone, con su frase literal, y enlazamos lo que ha votado sobre ese tema.</li>
+        <li>Cada mañana publicamos un resumen de lo que está pasando, con las mismas reglas que las noticias: hechos con fuente y sin opinión.</li>
         <li>Solo contamos lo que está en una fuente. Cada párrafo lleva sus notas, y al final están todos los enlaces. Si existe el documento oficial, lo enlazamos.</li>
         <li>Cada noticia usa al menos tres medios distintos. Si no coinciden, lo decimos.</li>
         <li>Un programa comprueba que cada frase entre comillas y cada cifra aparecen en las fuentes de ese párrafo, y rechaza palabras valorativas en nuestro texto.</li>

@@ -1,5 +1,817 @@
 [
 {
+"id": "milei-falta-apertura-cumbre-iberoamericana-abascal-sanchez",
+"fecha": "2026-11-05",
+"tema": "defensa",
+"etiqueta": "Exterior",
+"claves": [
+"milei",
+"iberoamericana"
+],
+"titulo": "Milei falta a la apertura de la Cumbre Iberoamericana, se reúne con Abascal y saluda a Sánchez sin hablar con él",
+"entradilla": "El presidente argentino había pedido una audiencia con el Rey y llegó a Madrid sin respuesta. Este jueves habló en la sesión de trabajo de la cumbre, y no hay prevista ninguna reunión entre Sánchez y él.",
+"imagen": {
+"archivo": "teatro-real-madrid.jpg",
+"alt": "Fachada del Teatro Real de Madrid, con banderas en el balcón.",
+"pie": "Teatro Real de Madrid, donde se inauguró la cumbre. Foto de archivo de 2025.",
+"autor": "Fernando",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Teatro_Real_de_Madrid_2025.jpg"
+},
+"esencial": [
+"Javier Milei no fue a la inauguración de la Cumbre Iberoamericana ni a la cena con los Reyes, y esa noche se reunió con Santiago Abascal.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>",
+"Argentina había pedido una audiencia con el Rey, y el Gobierno no había respondido cuando Milei llegó a Madrid.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Este jueves, según Europa Press, Milei saludó con cercanía al Rey y a Sánchez le dio un saludo corto y <span class=\"cita-linea\">«sin intercambiar palabra»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "La Cumbre Iberoamericana reúne en Madrid a representantes de 22 países de América y Europa. Se inauguró en el Teatro Real, con el Rey como presidente del acto, y siguió con una cena en el Palacio Real. Milei llegó a Madrid esa misma tarde y no acudió a ninguno de los dos actos.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Esa noche se reunió con Abascal, líder de Vox y candidato a las elecciones. La oficina de Milei difundió una foto del encuentro.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> Hacía unas semanas no habían podido verse en persona, y hablaron por videollamada.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Este jueves, Milei sí fue a la sesión de trabajo de la cumbre. Europa Press cuenta que en el saludo inicial habló con el Rey, y que con Sánchez el saludo fue corto y sin palabras.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> La Vanguardia escribió que no está prevista ninguna reunión entre los dos.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El Rey abrió la sesión pidiendo <span class=\"cita-linea\">«diálogo»</span>, según El Mundo. En su turno, Milei defendió el liberalismo económico y comparó socialismo y fascismo, y dijo que los dos comparten el <span class=\"cita-linea\">«odio por el libre mercado»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Por qué no fue: hay varias versiones"
+},
+{
+"tipo": "p",
+"html": "Lo que coinciden en contar los medios es que Argentina pidió por vía oficial una audiencia con el Rey, y que no tuvo respuesta. El Mundo fecha la petición el 30 de octubre y explica que es el Gobierno quien tiene que autorizar ese encuentro.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> ABC escribe que Sánchez la ha vetado.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> Las fuentes de El Mundo no descartaban aún un encuentro al margen de la cumbre.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Fuentes consultadas por La Vanguardia ofrecen otros motivos: que a Milei no le gustan los actos sociales y que acababa de hacer un viaje de quince horas.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Son fuentes que no se identifican y no hemos podido comprobarlo."
+},
+{
+"tipo": "p",
+"html": "El Rey sí tuvo reuniones con los presidentes de Chile, Costa Rica, Guatemala y Honduras.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "De dónde viene el choque"
+},
+{
+"tipo": "p",
+"html": "El 21 de octubre, en otra visita a Madrid, Milei llamó a Sánchez <span class=\"cita-linea\">«delincuente, ladrón»</span>, según recoge El Mundo.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> El 2 de noviembre, en el foro World in Progress, Sánchez dijo que España se gobierna desde España y citó Buenos Aires entre las capitales desde las que no se gobierna. C5N lo presenta como una respuesta a Milei.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Quién ha venido a la cumbre"
+},
+{
+"tipo": "p",
+"html": "De los 22 países, diez están representados por su máximo dirigente.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Son España, Portugal y Andorra, y siete de América: Argentina, Bolivia, Chile, Costa Rica, Guatemala, Honduras y República Dominicana. No han ido, entre otros, Lula da Silva, de Brasil; Claudia Sheinbaum, de México, y Delcy Rodríguez, de Venezuela.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> En la cumbre anterior, en Ecuador hace dos años, fueron cuatro.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "vox",
+"rotulo": "Justicia",
+"quien": "Santiago Abascal, líder de Vox, en la red social X, el 4 de noviembre",
+"cita": "Esta noche me he reunido con mi amigo y aliado Javier Milei, presidente de la República Argentina, a quien he agradecido su presencia en la Cumbre Iberoamericana",
+"traduccion": null,
+"fuente": 6,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/encuentro-entre-santiago-abascal-javier-milei-madrid-me-he-reunido-con-mi-amigo-aliado_7057411_0.html"
+},
+{
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Pedro Sánchez, presidente del Gobierno, en el foro World in Progress, el 2 de noviembre",
+"cita": "España se gobierna desde España, no desde Washington, Tel Aviv, Moscú o Buenos Aires",
+"traduccion": null,
+"fuente": 8,
+"medio": "C5N",
+"url": "https://www.c5n.com/mundo/en-la-previa-la-cumbre-pedro-sanchez-cruzo-javier-milei-espana-se-gobierna-aqui-no-buenos-aires-n253219"
+},
+{
+"candidatura": null,
+"rotulo": "Presidente de Argentina",
+"quien": "Javier Milei, en la sesión de la cumbre, el 5 de noviembre",
+"cita": "Estas equivalencias entre socialistas y fascistas no es casual",
+"traduccion": null,
+"fuente": 2,
+"medio": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html"
+}
+],
+"sin_voz": "No hemos localizado una explicación pública de La Moncloa ni de la Casa Real sobre la audiencia que pidió Argentina, ni reacciones de otros partidos a la reunión con Abascal.",
+"no_sabemos": [
+"Por qué no se respondió a la petición de audiencia, y si el Rey y Milei llegarán a reunirse.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Por qué Milei no acudió a la inauguración ni a la cena. Hay versiones distintas y él no lo ha explicado, que sepamos.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
+"De qué hablaron Milei y Abascal. Las dos partes han difundido el encuentro, sin dar detalles que hayamos localizado.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-milei-mantienen-frio-saludo-inicio-cumbre-iberoamericana-madrid-20261105093924.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "El Mundo, sobre la sesión del 5 de noviembre",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec3c2821efa0b2518b4597.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/04/6aeb5882e9cf4a6a0c8b458e.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "ABC",
+"url": "https://www.abc.es/espana/milei-acorta-agenda-cumbre-tras-impedirle-sanchez-20261104190422-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/encuentro-entre-santiago-abascal-javier-milei-madrid-me-he-reunido-con-mi-amigo-aliado_7057411_0.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261105/abascal-milei-reencuentran-madrid-menos-mes-29n_477424.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "C5N",
+"url": "https://www.c5n.com/mundo/en-la-previa-la-cumbre-pedro-sanchez-cruzo-javier-milei-espana-se-gobierna-aqui-no-buenos-aires-n253219",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
+"id": "amnistia-internacional-28-casos-mas-migrantes-ceuta-defensa",
+"fecha": "2026-11-05",
+"tema": "inmigracion",
+"etiqueta": "Inmigración",
+"claves": [
+"militares",
+"regulares"
+],
+"titulo": "Amnistía Internacional documenta 28 casos más de malos tratos a migrantes en Ceuta y dice que continuaron tras anunciar Defensa una investigación",
+"entradilla": "La organización los atribuye a militares y recoge también siete casos de Policía Nacional y Guardia Civil. Son denuncias de una ONG, con partes médicos y testimonios; varios juzgados de Ceuta investigan y no hemos localizado ninguna resolución.",
+"imagen": {
+"archivo": "comandancia-general-ceuta.jpg",
+"alt": "Edificio blanco y rojo de la Comandancia General de Ceuta, con una bandera de España.",
+"pie": "Comandancia General de Ceuta. Foto de archivo de 2015.",
+"autor": "Diego Delso",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Comandancia_General,_Ceuta,_Espa%C3%B1a,_2015-12-10,_DD_06.JPG"
+},
+"esencial": [
+"Amnistía Internacional ha publicado una segunda investigación sobre Ceuta, con 28 casos más. Suma ya 50 desde el 30 de julio.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
+"De los 28 casos, 18 ocurrieron después de que Defensa anunciara una investigación interna, y 13 afectan a menores, según la organización.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
+"Amnistía dice que no le consta ningún militar investigado o apartado. Defensa trasladó la primera denuncia a la Fiscalía y al juzgado.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Amnistía Internacional visitó Ceuta del 23 al 26 de octubre, tras una primera investigación publicada el 30 de septiembre. Dice haber documentado 28 casos más de golpes, humillaciones y robos contra migrantes que siguen en la ciudad tras la entrada masiva de finales de julio.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Se apoya en testimonios, fotografías y partes médicos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> Describe agresiones de noche a personas que dormían en la calle, con puñetazos, patadas, porras y táser, y las atribuye a militares, generalmente de la unidad de Regulares.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Protege a las víctimas con una inicial.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "De esos casos, 18 son posteriores al anuncio de la investigación de Defensa, y otros diez son anteriores.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Cuatro de esos diez, dice la organización, <span class=\"cita-linea\">«pueden constituir tortura»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> También recoge siete casos de malos tratos atribuidos a la Policía Nacional y la Guardia Civil.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué han hecho las autoridades"
+},
+{
+"tipo": "p",
+"html": "Tras la primera denuncia, Defensa trasladó el informe a la Fiscalía y al Juzgado de Guardia de Ceuta.<sup class=\"ref\"><a href=\"#f7\">7</a></sup> Anunció también una investigación interna, y varios juzgados de Ceuta han abierto diligencias.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Según El País, varios militares identificados en vídeos declararon hace semanas en la Comandancia General de Ceuta.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> Amnistía dice que, tras consultar a la Fiscalía y a Defensa, no le consta ningún soldado concreto investigado o apartado del servicio.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> También dice que ha escrito a Presidencia del Gobierno y no ha obtenido respuesta.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Por otro lado, el Juzgado de Instrucción número 6 de Ceuta investiga ataques a militares y agentes ocurridos entre el 27 y el 29 de agosto.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> El Supremo archivó el 4 de noviembre una querella de Vox contra el Gobierno por la entrada masiva: lo contamos en <a href=\"/actualidad/supremo-archiva-querella-vox-sanchez-ceuta/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué pide Amnistía Internacional"
+},
+{
+"tipo": "p",
+"html": "Que se ordene el cese de estos actos, que se aparte de forma cautelar a los militares implicados y que se investiguen los hechos.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup> Pide además a la Fiscalía que apoye permisos temporales de residencia para quienes denuncien o declaren como testigos.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Y critica a la Fiscalía de Ceuta por pedir prisión provisional para dos activistas.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "En qué no coinciden los medios"
+},
+{
+"tipo": "p",
+"html": "El País habla de 18 casos, solo los posteriores al anuncio de Defensa. 20minutos y El Mundo dan los 28 y el total de 50.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup> 20minutos y El Mundo titulan <span class=\"cita-linea\">«de militares»</span>, pero infoLibre explica que los 50 incluyen también a Policía Nacional y Guardia Civil.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"rotulo": "Amnistía Internacional",
+"quien": "Esteban Beltrán, director de Amnistía Internacional España",
+"cita": "El personal militar involucrado en hechos de violencia no parece haber sido apartado de sus puestos",
+"traduccion": null,
+"fuente": 1,
+"medio": "Amnistía Internacional",
+"url": "https://www.es.amnesty.org/en-que-estamos/noticias/noticia/articulo/amnistia-internacional-denuncia-nuevos-casos-de-tortura-y-malos-tratos-por-parte-de-militares-a-migrantes-en-ceuta-a-pesar-del-anuncio-de-defensa-de-investigar-estas-violaciones-de-derechos-humanos/"
+},
+{
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Ministerio de Defensa, sobre su investigación interna, según El País",
+"cita": "dilucidar responsabilidades",
+"traduccion": null,
+"fuente": 2,
+"medio": "El País",
+"url": "https://elpais.com/espana/2026-11-04/amnistia-internacional-denuncia-nuevas-presuntas-agresiones-de-militares-a-migrantes-en-ceuta.html"
+}
+],
+"sin_voz": "No hemos localizado una respuesta del Ministerio de Defensa ni de la Fiscalía a esta segunda investigación, ni declaraciones de partidos sobre ella. Lo que propone y vota cada grupo sobre inmigración está en <a href=\"/temas/inmigracion/\">Temas</a>.",
+"no_sabemos": [
+"Si los hechos ocurrieron como los describe Amnistía Internacional y quién los cometió. Lo tienen que determinar los juzgados.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Qué ha concluido la investigación interna de Defensa. Amnistía dice no tener información.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Si los 28 casos nuevos incluyen los siete atribuidos a Policía Nacional y Guardia Civil. Las fuentes que hemos leído no lo dejan claro.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Amnistía Internacional, nota sobre su nueva investigación",
+"url": "https://www.es.amnesty.org/en-que-estamos/noticias/noticia/articulo/amnistia-internacional-denuncia-nuevos-casos-de-tortura-y-malos-tratos-por-parte-de-militares-a-migrantes-en-ceuta-a-pesar-del-anuncio-de-defensa-de-investigar-estas-violaciones-de-derechos-humanos/",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "El País",
+"url": "https://elpais.com/espana/2026-11-04/amnistia-internacional-denuncia-nuevas-presuntas-agresiones-de-militares-a-migrantes-en-ceuta.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/un-nuevo-informe-amnistia-internacional-eleva-50-los-casos-documentados-maltrato-militares-inmigrantes-ceuta_7057422_0.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "infoLibre",
+"url": "https://www.infolibre.es/politica/amnistia-denuncia-nuevos-casos-malos-tratos-militares-personas-migrantes-ceuta_1_2239486.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec4463e85ece1b2d8b4598.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "La Razón",
+"url": "https://www.larazon.es/espana/agresiones-militares-ceuta-juez-rechaza-investigar-habia-radicales-inmigrantes_202611056aeb6f1d4196933d7ed09a25.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "Artículo 14",
+"url": "https://www.articulo14.es/internacional/que-ha-denunciado-amnistia-internacional-en-ceuta-para-que-defensa-haya-llevado-el-caso-ante-la-justicia-20261001.html",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
+"id": "nueve-docentes-encierran-consejeria-educacion-madrid-zarzalejo",
+"fecha": "2026-11-05",
+"tema": "educacion",
+"etiqueta": "Educación",
+"claves": [
+"zarzalejo",
+"docentes",
+"profesores"
+],
+"titulo": "Nueve docentes se encierran en la Consejería de Educación de Madrid para exigir una reunión, el día en que Zarzalejo comparece por la huelga",
+"entradilla": "Los docentes de la pública madrileña están en huelga indefinida desde el 14 de octubre. La consejera dice que sus peticiones son inasumibles, y el comité de huelga amenaza con ir a los tribunales si no se le recibe.",
+"imagen": {
+"archivo": "asamblea-madrid.jpg",
+"alt": "Sede de la Asamblea de Madrid, un edificio de cristal y piedra entre árboles.",
+"pie": "Sede de la Asamblea de Madrid. Foto de archivo de 2011.",
+"autor": "Luis García (Zaqarbal)",
+"licencia": "CC BY-SA 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Sede_de_la_Asamblea_de_Madrid_(Espa%C3%B1a)_01.jpg"
+},
+"esencial": [
+"Nueve docentes se han encerrado en una sede de la Consejería de Educación y dicen que no saldrán hasta que la consejera se reúna con ellos, según El Debate.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Mercedes Zarzalejo, consejera de Educación del Gobierno de Isabel Díaz Ayuso (PP), comparece este jueves en la Asamblea de Madrid por la huelga.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>",
+"Los docentes piden menos horas de clase, menos alumnos por aula y 600 euros más al mes, entre otras cosas. Zarzalejo las llama <span class=\"cita-linea\">«totalmente inasumibles»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Nueve docentes de la pública madrileña se encerraron en la mañana del jueves 5 de noviembre en la sede de recursos humanos de la Consejería de Educación, según El Debate. Dicen que no se irán hasta que la consejera se reúna con ellos. Fuera se concentró otra decena de personas, y los del interior han bloqueado las puertas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El mismo día, la consejera vuelve a comparecer en el Pleno de la Asamblea de Madrid, como ya hizo el 15 de octubre.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> La huelga indefinida empezó el 14 de octubre en la educación pública no universitaria. Están llamados 65.000 docentes, que dan clase a más de 666.000 alumnos.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La convocan CCOO, UGT, STEM, CGT, CNT y Solidaridad Obrera. CSIF mantiene una huelga paralela.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> El 4 y el 5 de noviembre se han sumado las seis universidades públicas de la región, por su financiación.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué piden"
+},
+{
+"tipo": "p",
+"html": "Reducir las horas de clase a 17 periodos semanales en Secundaria y FP y a 22 en Primaria, bajar el número de alumnos por aula y reforzar la atención a la diversidad. Una subida de 600 euros mensuales. Un auxiliar administrativo por centro, climatización de las aulas y retirada del amianto.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué responde la Consejería"
+},
+{
+"tipo": "p",
+"html": "Zarzalejo llamó a esta protesta <span class=\"cita-linea\">«huelga política y revolucionaria»</span> y ha dicho que no puede aceptar un acuerdo que suponga <span class=\"cita-linea\">«la quiebra del sistema educativo madrileño»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> En una carta al profesorado escribió que la Consejería <span class=\"cita-linea\">«nunca ha dejado de dialogar y trabajar en acuerdos con los sindicatos»</span>, y citó el acuerdo del 4 de abril de 2025 con CCOO, ANPE, CSIF y UGT.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El comité de huelga responde que ese acuerdo no le afecta, porque su mandato sale de una asamblea del 24 de junio. Ha presentado un requerimiento para exigir una negociación y dice que, si no la hay, irá a los tribunales.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> La Consejería no reconoce a ese comité como interlocutor, según El Salto.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Cuánta gente la sigue"
+},
+{
+"tipo": "tabla",
+"titulo": "Seguimiento de la huelga según cada parte",
+"columnas": [
+"Día",
+"Convocantes",
+"Consejería"
+],
+"filas": [
+[
+"15 de octubre",
+"62 %",
+"32,2 %"
+],
+[
+"3 de noviembre",
+"40 %",
+"6,4 %"
+]
+],
+"nota": "Ninguna de las dos cifras es independiente. CSIF calculó un 45 % el 15 de octubre.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Las protestas"
+},
+{
+"tipo": "p",
+"html": "El 3 de noviembre, más de un centenar de docentes cortaron la A-42 en Madrid durante unos 40 minutos y se retiraron al llegar la policía.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> Ese mismo día, cuatro personas interrumpieron un programa en directo de Telemadrid.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> La noche del 21 al 22 de octubre, un grupo de docentes de Rivas Vaciamadrid se encerró en el colegio Jarama para pedir que la consejera los reciba.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué dicen los partidos"
+},
+{
+"tipo": "p",
+"html": "En la comparecencia de octubre, según Europa Press, toda la oposición respaldó las demandas, aunque Vox considera que no debería ser <span class=\"cita-linea\">«un comité de huelga»</span> quien redacte las políticas educativas. Más Madrid y PSOE acusan a la consejera de optar por el <span class=\"cita-linea\">«insulto»</span> y el <span class=\"cita-linea\">«desprecio»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Mercedes Zarzalejo, consejera de Educación de la Comunidad de Madrid, el 3 de noviembre",
+"cita": "Yo no sé si estas plataformas y sindicatos convocantes se han parado a valorar económicamente lo que suponen sus reivindicaciones",
+"traduccion": null,
+"fuente": 2,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/madrid/noticia-asamblea-aprueba-jueves-ley-abogacia-pleno-volvera-comparecer-zarzalejo-huelga-20261105055954.html"
+},
+{
+"candidatura": null,
+"rotulo": "Comité de huelga",
+"quien": "Comité de huelga, en un comunicado",
+"cita": "El acuerdo suscrito el 4 de abril de 2025 con la mesa sectorial no incumbe a este comité",
+"traduccion": null,
+"fuente": 6,
+"medio": "El Salto",
+"url": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse"
+}
+],
+"sin_voz": "Esta noticia se escribe antes de la comparecencia de hoy. Cuando tengamos lo que se ha dicho en el Pleno, lo añadiremos e indicaremos el cambio. No hemos localizado una respuesta de la Consejería al encierro.",
+"no_sabemos": [
+"Cuánto durará el encierro y si la consejera recibirá a estos docentes. Lo actualizaremos.",
+"Qué dirá hoy la consejera y si anunciará algún cambio. Lo actualizaremos.",
+"Cuánto costarían las peticiones. Zarzalejo dice que son inasumibles, y no hemos localizado una cifra de ninguna de las partes.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Cuánta gente sigue la huelga de verdad. Solo tenemos las cifras de las dos partes, muy distintas.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
+"Si el comité acudirá finalmente a los tribunales.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "El Debate, sobre el encierro",
+"url": "https://www.eldebate.com/espana/madrid/20261105/nueve-profesores-encierran-consejeria-educacion-exigir-reunion-comunidad-madrid_477478.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/madrid/noticia-asamblea-aprueba-jueves-ley-abogacia-pleno-volvera-comparecer-zarzalejo-huelga-20261105055954.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "Telemadrid",
+"url": "https://www.telemadrid.es/noticias/madrid/profesores-cortan-42-cuarta-semana_1_2788693.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Madridiario",
+"url": "https://www.madridiario.es/profesores-protestas-42-reclaman-zarzalejo-negociar",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/madrid/20261015/cientos-profesores-claman-ante-consejeria-educacion-madrid-segundo-dia-huelga_469968.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "El Salto",
+"url": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "infoLibre",
+"url": "https://www.infolibre.es/politica/universidad-publica-completa-circulo-huelga-educativa-comunidad-madrid_1_2239421.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "Diario de Rivas",
+"url": "https://www.diarioderivas.es/encierro-ceip-jarama-comunidad-educativa",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
+"id": "buenos-dias-5-noviembre-2026",
+"fecha": "2026-11-05",
+"tema": null,
+"etiqueta": "Buenos días",
+"claves": [],
+"titulo": "Buenos días. Es jueves, 5 de noviembre, y quedan 24 días para votar",
+"entradilla": "Una operación bajo secreto en el caso Koldo, Milei en Madrid, otra denuncia sobre Ceuta, nueve docentes encerrados en la Consejería de Educación de Madrid y un impuesto que propone Colau.",
+"imagen": null,
+"esencial": [],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Lo que está pasando"
+},
+{
+"tipo": "p",
+"html": "Empezamos por lo que aún se está moviendo. La Guardia Civil ha hecho este jueves una operación dentro de una parte secreta del caso Koldo, en la Audiencia Nacional, con la Fiscalía Anticorrupción.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> El Mundo, citando fuentes de la investigación, escribe que incluye registros en domicilios y empresas, y que los agentes se han personado en la casa del exministro José Luis Ábalos en Valencia.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> El Español lo cuenta citando un programa de televisión.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> No hemos localizado una confirmación oficial, porque esa parte está bajo secreto. Una investigación no es una condena."
+},
+{
+"tipo": "p",
+"html": "En Madrid sigue la Cumbre Iberoamericana. Javier Milei faltó a la apertura y a la cena con los Reyes, se reunió con Santiago Abascal y este jueves saludó a Pedro Sánchez sin hablar con él, según Europa Press. Hay varias versiones de por qué.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup> <a href=\"/actualidad/milei-falta-apertura-cumbre-iberoamericana-abascal-sanchez/\">Lo contamos aquí</a>."
+},
+{
+"tipo": "p",
+"html": "Amnistía Internacional ha publicado otra investigación sobre Ceuta: 28 casos más de malos tratos a migrantes, que atribuye a militares, y 18 de ellos después de que Defensa anunciara una investigación. También recoge siete casos de Policía Nacional y Guardia Civil. Son denuncias de una ONG y los juzgados aún no han resuelto.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup> <a href=\"/actualidad/amnistia-internacional-28-casos-mas-migrantes-ceuta-defensa/\">Lo contamos aquí</a>."
+},
+{
+"tipo": "p",
+"html": "En Madrid, nueve docentes se han encerrado en una sede de la Consejería de Educación para exigir una reunión con la consejera, Mercedes Zarzalejo, según El Debate.<sup class=\"ref\"><a href=\"#f9\">9</a></sup> La huelga indefinida de la pública madrileña va por su cuarta semana, y Zarzalejo comparece hoy en la Asamblea. El comité de huelga pide negociar y ella dice que lo que piden es inasumible.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> <a href=\"/actualidad/nueve-docentes-encierran-consejeria-educacion-madrid-zarzalejo/\">Lo contamos aquí</a>."
+},
+{
+"tipo": "p",
+"html": "Y una propuesta de campaña: Ada Colau, de Frente Amplio, plantea un impuesto anual del 2 % a los patrimonios de más de un millón de euros y del 3 % a los de más de 50 millones. Dice que recaudaría más de 10.000 millones.<sup class=\"ref\"><a href=\"#f11\">11</a></sup> <a href=\"/actualidad/colau-propone-impuesto-patrimonios-mas-un-millon/\">Lo contamos aquí</a>."
+},
+{
+"tipo": "p",
+"html": "En el caso de las mascarillas, ya juzgado, José Luis Ábalos ha pedido al Tribunal Constitucional que anule su condena de 24 años y la suspenda mientras decide.<sup class=\"ref\"><a href=\"#f12\">12</a></sup><sup class=\"ref\"><a href=\"#f13\">13</a></sup> <a href=\"/actualidad/supremo-reclama-647000-euros-abalos-koldo-aldama/\">Lo hemos añadido aquí</a>."
+},
+{
+"tipo": "h",
+"texto": "Lo que viene"
+},
+{
+"tipo": "p",
+"html": "Hoy, el Pleno de la Asamblea de Madrid y el segundo día de huelga en las universidades públicas madrileñas.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> A las 12 hay convocada una concentración ante la Consejería de Educación, y por la tarde una manifestación desde Atocha hasta la Puerta del Sol.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Faltan 8 días para que empiece la campaña electoral, el 13 de noviembre. Y quedan 14 para pedir el voto por correo: el plazo acaba el 19. <a href=\"/como-votar/\">Cómo votar</a>.<sup class=\"ref\"><a href=\"#f14\">14</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Lo que no sabemos esta mañana"
+},
+{
+"tipo": "p",
+"html": "A quién más afecta la operación del caso Koldo y qué se investiga en esa parte secreta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Si Defensa contestará a Amnistía Internacional. Qué dirá hoy Zarzalejo y si recibirá a los docentes encerrados. Lo iremos contando."
+}
+],
+"voces": [],
+"sin_voz": "",
+"no_sabemos": [],
+"fuentes": [
+{
+"n": 1,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/uco-operacion-nueva-pieza-secreta-caso-koldo/",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/uco-despliega-operacion-secreto-caso-koldo-investiga-audiencia-nacional_1_13639620.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "El Español",
+"url": "https://www.elespanol.com/espana/tribunales/20261105/audiencia-nacional-ordena-uco-registrar-casa-abalos-valencia-nueva-operacion-caso-koldo/1003744446921_0.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-milei-mantienen-frio-saludo-inicio-cumbre-iberoamericana-madrid-20261105093924.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/un-nuevo-informe-amnistia-internacional-eleva-50-los-casos-documentados-maltrato-militares-inmigrantes-ceuta_7057422_0.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "El País",
+"url": "https://elpais.com/espana/2026-11-04/amnistia-internacional-denuncia-nuevas-presuntas-agresiones-de-militares-a-migrantes-en-ceuta.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "El Debate, sobre el encierro",
+"url": "https://www.eldebate.com/espana/madrid/20261105/nueve-profesores-encierran-consejeria-educacion-exigir-reunion-comunidad-madrid_477478.html",
+"tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/madrid/noticia-asamblea-aprueba-jueves-ley-abogacia-pleno-volvera-comparecer-zarzalejo-huelga-20261105055954.html",
+"tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/colau-propone-impuesto-tax-the-rich-gravar-patrimonios-millon-euros_1_13639759.html",
+"tipo": "prensa"
+},
+{
+"n": 12,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/abalos-pide-amparo-constitucional-anular-sentencia-apoya-aldama-coacusado-premiado_1_13639710.html",
+"tipo": "prensa"
+},
+{
+"n": 13,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261105/abalos-pide-constitucional-anular-condena-suspender-cumplimiento-prision_477480.html",
+"tipo": "prensa"
+},
+{
+"n": 14,
+"nombre": "Cómo votar, con el calendario de la Junta Electoral Central",
+"url": "/como-votar/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": "balance",
+"partido": null
+},
+{
+"id": "colau-propone-impuesto-patrimonios-mas-un-millon",
+"fecha": "2026-11-05",
+"tema": "impuestos",
+"etiqueta": "Propuesta",
+"claves": [
+"colau",
+"ultrarricos"
+],
+"titulo": "Colau propone un impuesto anual del 2 % a los patrimonios de más de un millón de euros y del 3 % a los de más de 50 millones",
+"entradilla": "La candidata de Frente Amplio calcula que recaudaría más de 10.000 millones de euros. Según elDiario.es, irá en el programa de su formación, que todavía no hemos localizado publicado.",
+"imagen": {
+"archivo": "ada-colau-2022.jpg",
+"alt": "Retrato de Ada Colau con chaqueta oscura.",
+"pie": "Ada Colau, candidata de Frente Amplio. Foto de archivo de 2022.",
+"autor": "Laura Guerrero",
+"licencia": "CC BY 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Ada_Colau,_2022.jpg"
+},
+"esencial": [
+"Ada Colau propone que los patrimonios de más de un millón de euros paguen cada año un 2 % de su valor total, y un 3 % los de más de 50 millones.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Dice que recaudaría más de 10.000 millones para servicios públicos y pensiones. No hemos visto el cálculo.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Propone además quitar desgravaciones a la banca y a las grandes empresas, y un impuesto a quienes tengan más de cuatro viviendas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué propone"
+},
+{
+"tipo": "p",
+"html": "Colau lo explicó el 5 de noviembre en un desayuno informativo de Nueva Economía Fórum, en Madrid.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Lo llamó <span class=\"cita-linea\">«tax the rich»</span>, en inglés, gravar a los ricos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "tabla",
+"titulo": "El impuesto propuesto",
+"columnas": [
+"Patrimonio",
+"Pago cada año sobre el total"
+],
+"filas": [
+[
+"Más de 1 millón de euros",
+"2 %"
+],
+[
+"Más de 50 millones de euros",
+"3 %"
+]
+],
+"nota": "Propuesta de Frente Amplio, no una ley.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Para la banca y las grandes empresas, propone revisar las desgravaciones, las rebajas que reducen lo que pagan, para subir su tipo efectivo: lo que pagan de verdad sobre sus beneficios. Colau dice que hoy pagan entre un 7 % y un 9 %, y las pequeñas y medianas empresas entre un 19 % y un 20 %.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "También defendió un impuesto para quienes tengan más de cuatro viviendas, con el objetivo de llevar unas 500.000 al alquiler asequible. Quienes rebajen el alquiler un 30 % quedarían exentos, según Europa Press, que describe el objetivo de ese impuesto como disuasorio y no recaudatorio.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué argumenta"
+},
+{
+"tipo": "p",
+"html": "Colau dice que la presión fiscal en España está entre tres y cuatro puntos por debajo de la media europea y que por eso hay margen para subirla.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> Es su afirmación: no la hemos comprobado para esta noticia."
+},
+{
+"tipo": "h",
+"texto": "Qué ha votado su grupo sobre este tema"
+},
+{
+"tipo": "p",
+"html": "Frente Amplio no tenía grupo propio en el Congreso que termina. Sus votos son los del Grupo Sumar, que es su antecedente. El 21 de noviembre de 2024, el Congreso aprobó con 178 votos a favor y 171 en contra una ley con un impuesto mínimo a las multinacionales y un impuesto a la banca. Sumar votó a favor con sus 26 diputados, igual que PSOE, ERC, Junts, Bildu y PNV, entre otros. PP y Vox votaron en contra. Lo explicamos en <a href=\"/fichas/impuesto-minimo-a-multinacionales-e-impuesto-a-la-banca/\">esta ficha</a>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Esa ley no creó un impuesto como el que propone ahora. Lo que propone y vota cada partido sobre impuestos está en <a href=\"/temas/impuestos/\">Temas</a>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "frente-amplio",
+"rotulo": "Justicia",
+"quien": "Ada Colau, candidata de Frente Amplio, el 5 de noviembre",
+"cita": "no existe el derecho a acumular riqueza, pero sí a la salud, a la educación y a la vida digna",
+"traduccion": null,
+"fuente": 2,
+"medio": "elDiario.es",
+"url": "https://www.eldiario.es/politica/colau-propone-impuesto-tax-the-rich-gravar-patrimonios-millon-euros_1_13639759.html"
+},
+{
+"candidatura": "frente-amplio",
+"rotulo": "Justicia",
+"quien": "Ada Colau, candidata de Frente Amplio, el 5 de noviembre",
+"cita": "Lo que queremos es que devuelvan un poco de lo que la sociedad les ha dado",
+"traduccion": null,
+"fuente": 2,
+"medio": "elDiario.es",
+"url": "https://www.eldiario.es/politica/colau-propone-impuesto-tax-the-rich-gravar-patrimonios-millon-euros_1_13639759.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de otros partidos a esta propuesta.",
+"no_sabemos": [
+"Cómo se ha calculado la recaudación de más de 10.000 millones. No hemos localizado el cálculo.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Cómo convivirá con los impuestos actuales sobre el patrimonio, y si cuenta la vivienda habitual. Los medios que hemos leído no lo detallan.",
+"El programa completo de Frente Amplio, que no hemos localizado publicado.",
+"Cuándo se aplicaría y con qué apoyos. Colau no lo detalla en lo que hemos leído."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-colau-propone-impuesto-ultrarricos-recaudar-10000-millones-elevar-tributacion-banca-20261105100844.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/colau-propone-impuesto-tax-the-rich-gravar-patrimonios-millon-euros_1_13639759.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/colau-propone-tax-the-rich-un-impuesto-patrimonio-neto-los-ultrarricos-para-quienes-acumulen-mas-un-millon-euros_7057506_0.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Nuestra ficha de la votación, con datos oficiales del Congreso",
+"url": "/fichas/impuesto-minimo-a-multinacionales-e-impuesto-a-la-banca/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": "propuesta",
+"partido": "frente-amplio"
+},
+{
 "id": "puente-deja-transportes-accidente-urda",
 "fecha": "2026-11-04",
 "tema": null,
@@ -965,6 +1777,10 @@
 "html": "Es una condena, no una investigación. El Supremo rechazó en octubre los incidentes de nulidad, y las defensas pueden acudir al Tribunal Constitucional.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> El caso está en <a href=\"/causas/#koldo_mascarillas\">Causas judiciales</a>."
 },
 {
+"tipo": "p",
+"html": "Ábalos ya lo ha hecho. Ha presentado un recurso de amparo ante el Tribunal Constitucional, en el que pide anular la sentencia y suspender la condena mientras decide.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup> Su defensa alega que se le condenó por la declaración de Aldama sin datos que la corroboren, y que el Supremo no debía juzgarle porque había dejado de ser diputado.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
 "tipo": "h",
 "texto": "Qué se les reclama"
 },
@@ -1054,7 +1870,7 @@
 ],
 "sin_voz": "No hemos localizado declaraciones de los condenados, de sus defensas ni de los partidos sobre este auto.",
 "no_sabemos": [
-"Si los condenados tienen con qué pagar, o si han presentado o presentarán recurso ante el Tribunal Constitucional.",
+"Si los condenados tienen con qué pagar, si el Tribunal Constitucional admitirá el recurso de Ábalos y si García y Aldama también recurrirán.",
 "El texto exacto del auto. No hemos podido leerlo: lo que contamos viene de la prensa que lo recoge, y dos medios lo citan con palabras algo distintas."
 ],
 "fuentes": [
@@ -1081,9 +1897,32 @@
 "nombre": "Artículo 14, sobre los incidentes de nulidad",
 "url": "https://www.articulo14.es/politica/el-supremo-confirma-las-condenas-de-abalos-y-koldo-y-abre-la-puerta-a-que-puedan-recurrir-al-constitucional-20261014.html",
 "tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "El Debate, sobre el recurso de Ábalos",
+"url": "https://www.eldebate.com/espana/20261105/abalos-pide-constitucional-anular-condena-suspender-cumplimiento-prision_477480.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "elDiario.es, sobre el recurso de Ábalos",
+"url": "https://www.eldiario.es/politica/abalos-pide-amparo-constitucional-anular-sentencia-apoya-aldama-coacusado-premiado_1_13639710.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "OKdiario, sobre el recurso de Ábalos",
+"url": "https://okdiario.com/espana/abalos-pide-constitucional-que-anule-condena-suspenda-cumplimiento-prision-20704970",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Añadimos que Ábalos ha recurrido ante el Tribunal Constitucional."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,

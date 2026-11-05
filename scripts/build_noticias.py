@@ -15,7 +15,13 @@ UA = {'User-Agent': 'Mozilla/5.0 (compatible; SinAdjetivos/0.2; +https://sinadje
 VALORATIVAS = r'\b(polémic\w*|histórico|histórica|importante\w*|grave\w*|escandal\w*|escándalo\w*|enorme\w*|radical\w*|extremo|extrema|ultra\w*|duro|dura|valiente\w*|vergonz\w*|polarizad\w*|controvertid\w*|ambicios\w*|necesari\w*|buen\w*|mal[oa]s?|tragedia\w*|trágic\w*|dramátic\w*|brutal\w*|bochorn\w*|clamor\w*|golpista\w*|huy\w+|sorprendente\w*|encuesta\w*|sondeo\w*)\b'
 CANDIDATURAS = {c['id'] for c in json.load(open('site/src/data/candidaturas.json', encoding='utf-8'))} | {'gobierno'}
 FICHAS = {f['id']: f for f in json.load(open('site/src/data/fichas.json', encoding='utf-8'))}
+# Nombres y términos que contienen palabras de la lista anterior sin valorar nada.
+NO_VALORAN = ('Plus Ultra', 'Buenos Aires', 'Buenos días', 'malos tratos')
 errores = []
+
+def valorativa(s):
+    for x in NO_VALORAN: s = s.replace(x, '')
+    return re.search(VALORATIVAS, s, re.I)
 
 def texto_de(fuente):
     if fuente.get('local'): return json.dumps(FICHAS[fuente['local']], ensure_ascii=False)
@@ -49,7 +55,7 @@ def comprobar(n, texto, donde, textos, exigir_fuente=True):
     for q in re.findall(r'«([^»]+)»', pelado):
         if norm(q) not in base: errores.append(f"{n['id']}: «{q[:60]}» no está en las fuentes de {donde}")
     sin_citas = re.sub(r'«[^»]+»', '', pelado)
-    m = re.search(VALORATIVAS, sin_citas.replace('Plus Ultra', ''), re.I)
+    m = valorativa(sin_citas)
     if m: errores.append(f"{n['id']}: palabra valorativa «{m.group(0)}» en {donde}: {texto[:60]}")
     for x in numeros(sin_citas):
         if x in n.get('calculos', {}): continue
@@ -65,7 +71,7 @@ def a_html(texto, orden):
     return t
 
 salida = []
-fotos = [n['imagen']['archivo'] for n in NOTICIAS]
+fotos = [n['imagen']['archivo'] for n in NOTICIAS if n.get('imagen')]
 for x in {x for x in fotos if fotos.count(x) > 1}: errores.append(f'la foto {x} se repite en varias noticias')
 for n in NOTICIAS:
     textos = {}
@@ -78,14 +84,16 @@ for n in NOTICIAS:
     if n.get('tipo') == 'propuesta':
         if n.get('partido') not in CANDIDATURAS - {'gobierno'}: errores.append(f"{n['id']}: una propuesta debe indicar su partido")
         if not any(v['c'] == n.get('partido') for v in n['voces']): errores.append(f"{n['id']}: una propuesta debe llevar una frase literal de su partido")
-    elif n.get('tipo') or n.get('partido'): errores.append(f"{n['id']}: tipo desconocido; tipo y partido solo sirven para propuestas")
+    elif n.get('partido') or n.get('tipo') not in (None, 'balance'): errores.append(f"{n['id']}: tipo desconocido; partido solo sirve para propuestas")
     medios = {f['nombre'].split(',')[0] for f in n['fuentes'].values() if f.get('tipo') not in (OFICIAL, PROPIA)}
     if len(medios) < 3: errores.append(f"{n['id']}: solo {len(medios)} medios distintos entre las fuentes")
-    if not os.path.exists(f"site/public/noticias/{n['imagen']['archivo']}"): errores.append(f"{n['id']}: falta la imagen")
-    for campo in ('autor', 'licencia', 'origen', 'alt', 'pie'):
-        if not n['imagen'].get(campo): errores.append(f"{n['id']}: la imagen no indica {campo}")
+    # El resumen de la mañana es la única pieza sin foto: sale cada día y remite a las noticias.
+    if n.get('tipo') != 'balance':
+        if not os.path.exists(f"site/public/noticias/{n['imagen']['archivo']}"): errores.append(f"{n['id']}: falta la imagen")
+        for campo in ('autor', 'licencia', 'origen', 'alt', 'pie'):
+            if not n['imagen'].get(campo): errores.append(f"{n['id']}: la imagen no indica {campo}")
     for campo in ('titulo', 'entradilla'):
-        m = re.search(VALORATIVAS, n[campo], re.I)
+        m = valorativa(n[campo])
         if m: errores.append(f"{n['id']}: palabra valorativa «{m.group(0)}» en {campo}")
     for i, x in enumerate(n['esencial']): comprobar(n, x, f'esencial {i}', textos)
     bloques = []
@@ -120,7 +128,7 @@ for n in NOTICIAS:
         voces.append(dict(candidatura=v['c'], rotulo=v.get('rotulo', 'Justicia'), quien=v['quien'], cita=v['cita'], traduccion=v.get('traduccion'), fuente=orden[v['f']], medio=n['fuentes'][v['f']]['nombre'].split(',')[0], url=n['fuentes'][v['f']]['url']))
     comprobar(n, n['sin_voz'], 'sin_voz', textos, exigir_fuente=False)
     for x in n['no_sabemos']: comprobar(n, x, 'no_sabemos', textos, exigir_fuente=False)
-    salida.append(dict(id=n['id'], fecha=n['fecha'], tema=n['tema'], etiqueta=n['etiqueta'], claves=n['claves'], titulo=n['titulo'], entradilla=n['entradilla'], imagen=n['imagen'],
+    salida.append(dict(id=n['id'], fecha=n['fecha'], tema=n['tema'], etiqueta=n['etiqueta'], claves=n['claves'], titulo=n['titulo'], entradilla=n['entradilla'], imagen=n.get('imagen'),
                        esencial=[a_html(x, orden) for x in n['esencial']], cuerpo=bloques, voces=voces, sin_voz=a_html(n['sin_voz'], orden), no_sabemos=[a_html(x, orden) for x in n['no_sabemos']],
                        fuentes=[dict(n=orden[k], nombre=f['nombre'], url=f['url'], tipo=f.get('tipo', 'prensa')) for k, f in n['fuentes'].items()], cambios=n.get('cambios', []), borrador=n['id'] not in PUBLICADAS,
                        abre=bool(n.get('abre')), tipo=n.get('tipo'), partido=n.get('partido')))

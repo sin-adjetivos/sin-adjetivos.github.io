@@ -10,11 +10,12 @@ export function getStaticPaths() {
 }
 const { n } = Astro.props;
 const nombre = (c) => (c === 'gobierno' ? 'Gobierno' : porId[c].etiqueta_voto || porId[c].sigla);
-const otras = propias.filter((x) => x.id !== n.id).slice(0, 3);
+const otras = propias.filter((x) => x.id !== n.id && x.tipo !== 'balance').slice(0, 3);
+const esBalance = n.tipo === 'balance';
 const editor = { '@type': 'NewsMediaOrganization', name: 'Sin adjetivos', url: Astro.site.href, logo: { '@type': 'ImageObject', url: new URL('icono-256.png', Astro.site).href } };
-const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline: n.titulo, description: n.entradilla, inLanguage: 'es-ES', datePublished: n.fecha, dateModified: n.cambios.at(-1)?.fecha || n.fecha, mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href, image: new URL(`noticias/${n.imagen.archivo}`, Astro.site).href, author: editor, publisher: editor };
+const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline: n.titulo, description: n.entradilla, inLanguage: 'es-ES', datePublished: n.fecha, dateModified: n.cambios.at(-1)?.fecha || n.fecha, mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href, image: new URL(n.imagen ? `noticias/${n.imagen.archivo}` : 'og.png', Astro.site).href, author: editor, publisher: editor };
 ---
-<Base titulo={n.titulo} descripcion={n.entradilla} imagen={`noticias/${n.imagen.archivo}`} imagenAlt={n.imagen.alt} tipoOg="article">
+<Base titulo={n.titulo} descripcion={n.entradilla} imagen={n.imagen ? `noticias/${n.imagen.archivo}` : undefined} imagenAlt={n.imagen?.alt} tipoOg="article">
   <article class="marco articulo">
     <header class="entrada articulo-cab">
       <p class="nota"><a href="/actualidad/">Actualidad</a>. {n.etiqueta}. <time datetime={n.fecha}>{fecha(n.fecha)}</time></p>
@@ -22,15 +23,19 @@ const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline:
       <p>{n.entradilla}</p>
     </header>
 
-    <figure class="articulo-foto">
-      <img src={`/noticias/${n.imagen.archivo}`} alt={n.imagen.alt} width="1400" height="933" />
-      <figcaption>{n.imagen.pie} Autor: {n.imagen.autor}. Licencia: <a href={n.imagen.origen} rel="noopener">{n.imagen.licencia}</a>.</figcaption>
-    </figure>
+    {n.imagen && (
+      <figure class="articulo-foto">
+        <img src={`/noticias/${n.imagen.archivo}`} alt={n.imagen.alt} width="1400" height="933" />
+        <figcaption>{n.imagen.pie} Autor: {n.imagen.autor}. Licencia: <a href={n.imagen.origen} rel="noopener">{n.imagen.licencia}</a>.</figcaption>
+      </figure>
+    )}
 
-    <section class="lo-esencial">
-      <h2>Lo esencial</h2>
-      <ul>{n.esencial.map((x) => <li set:html={x} />)}</ul>
-    </section>
+    {!esBalance && (
+      <section class="lo-esencial">
+        <h2>Lo esencial</h2>
+        <ul>{n.esencial.map((x) => <li set:html={x} />)}</ul>
+      </section>
+    )}
 
     <div class="articulo-cuerpo">
       {n.cuerpo.map((b) => {
@@ -80,13 +85,13 @@ const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline:
       })}
     </div>
 
-    <section class="ficha-seccion">
+    {!esBalance && <section class="ficha-seccion">
       <h2>Qué dice cada parte</h2>
       <p class="nota" style="margin-bottom:1rem">Frases literales, tal como las recoge la fuente enlazada. Orden al azar en cada visita.</p>
       <ul class="filas" data-barajar>
         {n.voces.map((v) => (
           <li class="con-banda" style={`--c:${v.candidatura ? COLORES[v.candidatura] : 'var(--sepia)'}`}>
-            <p class="quien">{v.candidatura ? (v.candidatura === 'gobierno' ? <Chip id="gobierno">Gobierno</Chip> : <Chip id={v.candidatura} href={`/candidaturas/${v.candidatura}/`}>{nombre(v.candidatura)}</Chip>) : <span>{v.rotulo}</span>}</p>
+            <p class="quien">{v.candidatura ? (v.candidatura === 'gobierno' ? <Chip id="gobierno">Gobierno</Chip> : <Chip id={v.candidatura} href={`/candidaturas/${v.candidatura}/`}>{porId[v.candidatura].sigla}</Chip>) : <span>{v.rotulo}</span>}</p>
             <div>
               <blockquote>«{v.cita}{/[.?!…]$/.test(v.cita) ? '' : '…'}»</blockquote>
               {v.traduccion && <p class="fuente">En castellano, traducción nuestra: {v.traduccion}</p>}
@@ -96,12 +101,12 @@ const ld = { '@context': 'https://schema.org', '@type': 'NewsArticle', headline:
         ))}
       </ul>
       <p class="nota" style="margin-top:1rem" set:html={n.sin_voz} />
-    </section>
+    </section>}
 
-    <section class="ficha-seccion lo-que-falta">
+    {!esBalance && <section class="ficha-seccion lo-que-falta">
       <h2>Lo que todavía no se sabe</h2>
       <ul class="antecedentes">{n.no_sabemos.map((x) => <li set:html={x} />)}</ul>
-    </section>
+    </section>}
 
     {n.cambios.length > 0 && (
       <section class="ficha-seccion">

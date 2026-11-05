@@ -4,10 +4,11 @@ on:
   push:
     branches: [main]
   schedule:
-    # Hora UTC: unas 8:15, 14:15 y 21:15 en España.
-    - cron: '15 7 * * *'
-    - cron: '15 13 * * *'
-    - cron: '15 20 * * *'
+    # Hora UTC: unas 6:07, 7:43, 14:27 y 21:27 en España. GitHub retrasa o se salta ejecuciones, sobre todo en punto y a y cuarto.
+    - cron: '7 5 * * *'
+    - cron: '43 6 * * *'
+    - cron: '27 13 * * *'
+    - cron: '27 20 * * *'
   workflow_dispatch:
 
 permissions:
@@ -43,12 +44,14 @@ jobs:
         run: python scripts/actualidad.py
       # Si esto falla, la web se publica igual.
       - name: Preparar el parte diario
-        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '15 7 * * *'
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
           TZ: Europe/Madrid
         run: |
+          # GitHub retrasa las ejecuciones programadas varias horas: la del 20:15 puede llegar de madrugada.
+          if [ "$(date +%-H)" -lt 6 ]; then exit 0; fi
           python scripts/parte_diario.py > "$RUNNER_TEMP/parte.md"
           TITULO="Parte del $(date +%F)"
           gh issue list --state open --author "app/github-actions" --search "Parte del in:title" --json number,title --jq '.[] | "\(.number) \(.title)"' > "$RUNNER_TEMP/abiertos.txt"

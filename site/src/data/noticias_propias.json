@@ -177,6 +177,278 @@
 "partido": null
 },
 {
+"id": "supremo-archiva-causa-alvise-pcr-illa-quinto-suplicatorio",
+"fecha": "2026-11-05",
+"tema": "justicia",
+"etiqueta": "Justicia",
+"claves": [
+"alvise",
+"pcr",
+"suplicatorio"
+],
+"titulo": "El Supremo archiva la causa contra Alvise por la PCR falsa de Illa y pide a la Eurocámara permiso para investigarle por otra",
+"entradilla": "Son dos autos de dos jueces distintos. Uno cierra el caso por no ver indicios suficientes, y el otro es la quinta petición al Parlamento Europeo para que le retire la inmunidad.",
+"imagen": {
+"archivo": "hemiciclo-parlamento-europeo.jpg",
+"alt": "Hemiciclo del Parlamento Europeo en Estrasburgo durante una sesión.",
+"pie": "Hemiciclo del Parlamento Europeo, en Estrasburgo. Foto de archivo de 2014.",
+"autor": "Diliff",
+"licencia": "CC BY-SA 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg"
+},
+"esencial": [
+"El magistrado Javier Hernández ha archivado la causa contra el eurodiputado Luis Pérez Fernández, conocido como Alvise, por difundir una falsa prueba de covid de Salvador Illa.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"La magistrada Carmen Lamela ha pedido a la Eurocámara que le retire la inmunidad para seguir investigándole por mensajes de 2024 sobre las protestas agrarias.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Es el quinto suplicatorio contra él. Está investigado, no condenado.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Alvise es el líder de Se Acabó la Fiesta (SALF).<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Su candidatura se presenta el 29 de noviembre en 46 circunscripciones, según <a href=\"/papeleta/\">nuestras listas</a>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> Como eurodiputado, para investigarle el Supremo necesita antes un suplicatorio, es decir, pedir al Parlamento Europeo que levante su inmunidad.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "El caso que se archiva"
+},
+{
+"tipo": "p",
+"html": "La causa era por falsedad e injurias, por difundir en su cuenta de Twitter una falsa prueba de covid atribuida a Illa, hoy presidente de la Generalitat.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> El juez no ve indicios suficientes de que falsificara el documento o de que supiera que era falso. Sobre las injurias, dice que no se alcanza el nivel que exige la vía penal, y deja abierta la vía civil.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El auto añade que eso no significa que Illa no tenga derecho a defender su honor. La decisión puede recurrirse.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "El caso por el que se pide el suplicatorio"
+},
+{
+"tipo": "p",
+"html": "Se investigan publicaciones en su canal de Telegram entre el 6 y el 10 de febrero de 2024, durante las protestas del sector agrario, por un posible delito de provocación a los desórdenes públicos.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> La jueza aprecia de forma provisional que incluían <span class=\"cita-linea\">«llamamientos concretos»</span>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Como son anteriores a su llegada a la Eurocámara, dice que no se refieren a su trabajo de eurodiputado.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué más tiene abierto"
+},
+{
+"tipo": "p",
+"html": "Según Europa Press, el Supremo le investiga por cinco causas, y en todas ha pedido suplicatorio: la supuesta financiación ilegal de su partido, el presunto acoso a una fiscal, el presunto acoso y revelación de secretos contra dos eurodiputados elegidos con él, las presuntas coacciones a un exalcalde de Algeciras y esta última.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Rige la presunción de inocencia."
+}
+],
+"voces": [
+{
+"candidatura": null,
+"rotulo": "Tribunal Supremo",
+"quien": "Javier Hernández, magistrado, en el auto de archivo",
+"cita": "Lo que sí afirmo es que en este caso la vía penal no es la adecuada",
+"traduccion": null,
+"fuente": 1,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-causa-contra-alvise-difusion-pcr-falsa-illa-no-haber-indicios-suficientes-20261105114937.html"
+},
+{
+"candidatura": null,
+"rotulo": "Tribunal Supremo",
+"quien": "Carmen Lamela, magistrada, en el auto del suplicatorio",
+"cita": "no se limitan a la expresión de una crítica política",
+"traduccion": null,
+"fuente": 3,
+"medio": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec68eb21efa0fc068b45a4.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de Alvise, de SALF ni de Salvador Illa a estos autos.",
+"no_sabemos": [
+"Si alguien recurrirá el archivo o si Illa acudirá a la vía civil.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Cuándo decidirá el Parlamento Europeo sobre este suplicatorio y sobre los anteriores."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-supremo-archiva-causa-contra-alvise-difusion-pcr-falsa-illa-no-haber-indicios-suficientes-20261105114937.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261105/11676785/supremo-archiva-causa-alvise-difusion-pueba-covid-falsa-salvador-illa.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec68eb21efa0fc068b45a4.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "La Razón",
+"url": "https://www.larazon.es/espana/supremo-abre-otra-investigacion-alvise-pero-archiva-causa-pcr-falsa-illa_202611056aec61ad4196933d7ed17a34.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Nuestras listas por provincia, según el BOE",
+"url": "/papeleta/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
+"id": "koldo-garcia-millon-abogado-pp-niega",
+"fecha": "2026-11-05",
+"tema": "justicia",
+"etiqueta": "Justicia",
+"claves": [
+"millon",
+"abogado"
+],
+"titulo": "Koldo García dice que el abogado del PP le ofreció un millón de euros por información contra Sánchez, y el PP responde que es falso",
+"entradilla": "Lo cuenta en un audio enviado a la Cadena SER desde la cárcel. Hay facturas de los 242.000 euros que la editora de OKdiario pagó por su defensa; la oferta del millón es su versión, y el abogado la niega.",
+"imagen": {
+"archivo": "sede-pp-madrid.jpg",
+"alt": "Sede nacional del Partido Popular en la calle Génova de Madrid.",
+"pie": "Sede del PP en la calle Génova, en Madrid. Foto de archivo de 2011.",
+"autor": "Luis García (Zaqarbal)",
+"licencia": "CC BY-SA 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Sede_nacional_del_Partido_Popular_(Madrid)_01.jpg"
+},
+"esencial": [
+"Koldo García, condenado por el Supremo en el caso de las mascarillas, dice que Alberto Durán, abogado del PP, le ofreció pagar su defensa y un millón de euros a cambio de información contra el Gobierno.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"El PP dice que es <span class=\"cita-linea\">«absolutamente falso»</span>. Durán lo ha negado a elDiario.es.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Lo que consta en documentos es otra cosa: que Dos Mil Palabras, editora de OKdiario, pagó 242.000 euros por su defensa.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué dice Koldo García"
+},
+{
+"tipo": "p",
+"html": "Koldo García fue asesor del exministro José Luis Ábalos y cumple una condena de 19 años y ocho meses.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> En un audio enviado a la Cadena SER desde prisión, dice que Durán le planteó una rebaja de pena, pagar su defensa y un millón de euros.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> A cambio, según su versión, debía dar información contra Pedro Sánchez, Begoña Gómez y José Luis Rodríguez Zapatero <span class=\"cita-linea\">«aún mintiendo»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Según su relato, serían 300.000 euros por una entrevista con OKdiario y 700.000 por los derechos de un libro, a través de la editora de ese medio. Añade que negoció con su director, Eduardo Inda, y que este recuperaría el dinero con publicidad institucional de comunidades gobernadas por el PP.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> También según su relato, el millón no se llegó a pagar.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Es la versión de un condenado, y no hemos visto ningún documento que la pruebe. La SER dice que tres fuentes la respaldan, sin identificarlas.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> No hemos podido leer la pieza original de la SER: contamos lo que recogen otros medios."
+},
+{
+"tipo": "h",
+"texto": "Qué consta en documentos"
+},
+{
+"tipo": "p",
+"html": "La defensa de García aportó a la Audiencia Nacional facturas y transferencias. Según Ara, que accedió a ellas, Dos Mil Palabras pagó 242.000 euros. La primera transferencia es del 27 de noviembre de 2025, el día en que OKdiario empezó a publicar una entrevista con él.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Según elDiario.es, OKdiario ha publicado que se trataba de un acuerdo para una docuserie y otras colaboraciones de García.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué responde cada uno"
+},
+{
+"tipo": "p",
+"html": "Fuentes del PP dicen que es <span class=\"cita-linea\">«absolutamente falso»</span>, cuestionan la credibilidad de García y señalan que se ha publicado el mismo día que la <a href=\"/actualidad/uco-registra-casa-abalos-seis-detenidos-pieza-secreta-caso-koldo/\">operación de la UCO</a>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> El PSOE lo llama <span class=\"cita-linea\">«guerra sucia»</span> si se confirma, y pregunta a Feijóo si conocía ese supuesto acuerdo y por qué apartaron a Durán.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Fuentes de la dirección nacional del PP",
+"cita": "absolutamente falso",
+"traduccion": null,
+"fuente": 3,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html"
+},
+{
+"candidatura": "psoe",
+"rotulo": "Justicia",
+"quien": "Rebeca Torró, secretaria de Organización del PSOE, en X",
+"cita": "Pura guerra sucia de una gravedad extrema",
+"traduccion": null,
+"fuente": 3,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html"
+},
+{
+"candidatura": null,
+"rotulo": "Koldo García",
+"quien": "Koldo García, en un audio enviado a la Cadena SER. Lo publica Ara en catalán",
+"cita": "em va plantejar una rebaixa de la pena que suposaria no entrar a la presó",
+"traduccion": "Me planteó una rebaja de la pena que supondría no entrar en prisión.",
+"fuente": 4,
+"medio": "Ara",
+"url": "https://www.ara.cat/politica/koldo-garcia-diu-pactar-l-advocat-pp-milio-d-euros-canvi-d-informacio-sanchez_1_5900713.html"
+}
+],
+"sin_voz": "No hemos localizado una respuesta de Eduardo Inda ni de OKdiario a este audio. Tampoco una frase literal de Alberto Durán: elDiario.es dice que lo ha negado.",
+"no_sabemos": [
+"Si esa oferta existió. Solo tenemos la palabra de García, tres fuentes sin identificar citadas por la SER y el desmentido del PP y de Durán.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Por qué dejó Durán de ser abogado del PP. El PSOE lo pregunta y no hemos localizado la respuesta.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Si algún juez investigará estas afirmaciones. Las facturas están en la Audiencia Nacional.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/koldo-garcia-afirma-abogado-pp-le-ofrecio-millon-informacion-gobierno-sanchez_1_13639592.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "infoLibre",
+"url": "https://www.infolibre.es/politica/koldo-garcia-asegura-pacto-abogado-pp-millon-euros-cambio-informacion-gobierno-pedro-sanchez_1_2239536.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Ara, sobre el audio",
+"url": "https://www.ara.cat/politica/koldo-garcia-diu-pactar-l-advocat-pp-milio-d-euros-canvi-d-informacio-sanchez_1_5900713.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Ara, sobre las facturas (29 de octubre)",
+"url": "https://es.ara.cat/politica/okdiario-paga-240-000-euros-defensa-condenado-koldo-garcia_1_5893969.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-05/pp-niega-millon-euros-koldo-contra-sanchez/",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
 "id": "milei-falta-apertura-cumbre-iberoamericana-abascal-sanchez",
 "fecha": "2026-11-05",
 "tema": "defensa",
@@ -873,6 +1145,126 @@
 "partido": null
 },
 {
+"id": "feijoo-promete-dos-presupuestos-2027-si-gobierna",
+"fecha": "2026-11-05",
+"tema": "impuestos",
+"etiqueta": "Propuesta",
+"claves": [
+"presupuestos",
+"pge"
+],
+"titulo": "Feijóo promete presentar dos Presupuestos en 2027 si gobierna, y dice que convocaría elecciones si no los aprueba",
+"entradilla": "El candidato del PP presentaría los de 2027 en primavera y los de 2028 a final de ese año. No ha dado cifras ni ha dicho con qué apoyos saldrían adelante, que hayamos localizado.",
+"imagen": {
+"archivo": "feijoo-cantabria-2022.jpg",
+"alt": "Alberto Núñez Feijóo en un acto del PP de Cantabria.",
+"pie": "Alberto Núñez Feijóo, candidato del PP, en un congreso del PP de Cantabria. Foto de archivo de 2022.",
+"autor": "Partido Popular de Cantabria",
+"licencia": "CC BY 2.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o_en_el_13_Congreso_del_PP_de_Cantabria.jpg"
+},
+"esencial": [
+"Alberto Núñez Feijóo se compromete a presentar el Presupuesto de 2027 en la primavera de ese año y el de 2028 en el último trimestre.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Dice que dimitiría y convocaría elecciones si no logra aprobarlos.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
+"Sitúa entre las prioridades el mantenimiento de las vías férreas y de las autovías. No hemos localizado cifras.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué propone"
+},
+{
+"tipo": "p",
+"html": "Feijóo lo anunció el 4 de noviembre en una entrevista en Antena 3.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Los Presupuestos Generales del Estado son la ley que fija cada año los ingresos y los gastos públicos. Dice que el primero tendría como prioridades, entre otras, la conservación y el mantenimiento de las vías férreas y de las autovías.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Ese mismo día, en un acto organizado por La Razón, dijo que si el Gobierno se constituye en el primer trimestre hay <span class=\"cita-linea\">«120 días para hacer el presupuesto»</span>, y que convocaría elecciones si no aprueba los de los dos años.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> Libertad Digital añade que el PP planea antes una auditoría.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué argumenta"
+},
+{
+"tipo": "p",
+"html": "Dice que el Gobierno de Pedro Sánchez <span class=\"cita-linea\">«lleva tres años y medio sin presentar ninguno»</span>, según recoge OKdiario.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Los últimos Presupuestos aprobados son los de 2023.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Sobre los accidentes de Urda y Adamuz, dijo: <span class=\"cita-linea\">«A lo mejor si tuviésemos Presupuestos no hubiésemos tenido los 115 muertos»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Es su afirmación. Las causas de los accidentes las tiene que determinar la investigación, como contamos en <a href=\"/actualidad/puente-deja-transportes-accidente-urda/\">nuestra noticia</a>."
+},
+{
+"tipo": "h",
+"texto": "Qué ha votado su grupo sobre este tema"
+},
+{
+"tipo": "p",
+"html": "No hemos localizado ninguna votación de Presupuestos en esta legislatura. La más cercana son los objetivos de estabilidad, los límites de déficit y deuda que propone el Gobierno. El 23 de julio de 2026 cayeron con 166 votos a favor y 176 en contra. El PP votó en contra, con 135 diputados, y otros 2 no votaron. Vox y Junts también votaron en contra. Están en <a href=\"/votaciones/\">Votaciones</a>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Alberto Núñez Feijóo, candidato del PP, en Antena 3, el 4 de noviembre",
+"cita": "Yo presentaré el Presupuesto del año 27 en la primavera del año 27, y llegado al último trimestre del año 27, presentaré el Presupuesto del año 28",
+"traduccion": null,
+"fuente": 3,
+"medio": "OKdiario",
+"url": "https://okdiario.com/espana/feijoo-promete-que-si-gobierna-presentara-primer-presupuesto-primavera-2027-finales-ano-2028-20697696"
+}
+],
+"sin_voz": "No hemos localizado reacciones de otros partidos a este compromiso.",
+"no_sabemos": [
+"Qué cifras tendrían esos Presupuestos y con qué apoyos saldrían adelante.",
+"Si el plazo se puede cumplir: el propio Feijóo lo llama <span class=\"cita-linea\">«test de estrés máximo»</span>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
+"El programa completo del PP para estas elecciones, que no hemos localizado publicado. Sí está el Contrato con España, en <a href=\"/temas/\">Temas</a>."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "El Español",
+"url": "https://www.elespanol.com/espana/politica/20261104/feijoo-compromete-llevar-presupuestos-congreso-primer-ano-primavera-septiembre/1003744445505_0.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261104/feijoo-presentara-dos-presupuestos-2027-llega-moncloa_477087.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "OKdiario",
+"url": "https://okdiario.com/espana/feijoo-promete-que-si-gobierna-presentara-primer-presupuesto-primavera-2027-finales-ano-2028-20697696",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Libertad Digital",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-04/feijoo-promete-aprobar-dos-pge-en-2027-tras-una-legislatura-completa-sin-presentar-cuentas-publicas-7486365/",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-04/feijoo-dimitira-no-aprueba-presupuestos/",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "Datos oficiales de la votación del Congreso",
+"url": "/votaciones/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": "propuesta",
+"partido": "pp"
+},
+{
 "id": "colau-propone-impuesto-patrimonios-mas-un-millon",
 "fecha": "2026-11-05",
 "tema": "impuestos",
@@ -1546,6 +1938,10 @@
 ]
 },
 {
+"tipo": "p",
+"html": "El 5 de noviembre, en la Asamblea de Madrid, Isabel Díaz Ayuso (PP) llamó a la convocatoria <span class=\"cita-linea\">«corrupción mafiosa»</span>, según El Debate. Citó además cantidades de dinero público a los sindicatos, que no hemos comprobado.<sup class=\"ref\"><a href=\"#f11\">11</a></sup>"
+},
+{
 "tipo": "h",
 "texto": "Otras huelgas en el tren esos días"
 },
@@ -1666,6 +2062,16 @@
 "fuente": 3,
 "medio": "La Vanguardia",
 "url": "https://www.lavanguardia.com/politica/20261103/11675070/sindicatos-izquierda-rechazan-suspender-huelga-general-pide-feijoo.html"
+},
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Isabel Díaz Ayuso, presidenta de la Comunidad de Madrid, en la Asamblea, el 5 de noviembre",
+"cita": "Me parece que la huelga es corrupción mafiosa a manos de los sindicatos que ustedes untan con dinero público",
+"traduccion": null,
+"fuente": 11,
+"medio": "El Debate",
+"url": "https://www.eldebate.com/espana/madrid/20261105/ayuso-explota-contra-sindicatos-estan-untados-dinero-publico-huelga-general-corrupcion-mafiosa_477538.html"
 }
 ],
 "sin_voz": "No hemos localizado declaraciones recientes de PNV, EH Bildu ni Coalición Canaria sobre la huelga, ni una frase del PSOE como partido a escala nacional.",
@@ -1734,9 +2140,20 @@
 "nombre": "The Objective, sobre las adhesiones",
 "url": "https://theobjective.com/espana/politica/2026-11-04/3-600-comites-ccoo-ugt-huelga-11-n/",
 "tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "El Debate, sobre Ayuso",
+"url": "https://www.eldebate.com/espana/madrid/20261105/ayuso-explota-contra-sindicatos-estan-untados-dinero-publico-huelga-general-corrupcion-mafiosa_477538.html",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Añadimos las palabras de Isabel Díaz Ayuso."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -1749,7 +2166,9 @@
 "etiqueta": "Transporte",
 "claves": [
 "adif",
-"marco"
+"marco",
+"semaf",
+"maquinistas"
 ],
 "titulo": "Dimite el presidente de Adif tras reunirse con Carlos Cuerpo, según el Gobierno; ABC escribe que fue destituido",
 "entradilla": "Luis Pedro Marco de la Peña dejó el cargo el 4 de noviembre, horas después de que Cuerpo asumiera Transportes. Cuerpo no ha dicho quién le sustituirá ni si habrá más cambios.",
@@ -1841,6 +2260,10 @@
 {
 "tipo": "p",
 "html": "Cuerpo tiene previsto reunirse el 5 de noviembre con sindicatos ferroviarios. 20minutos dice que son los de Adif, por la huelga del 17 de noviembre, y Ara que son los de maquinistas, por los paros del 10 y el 12.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El 5 de noviembre, 20minutos escribió que Cuerpo se reúne esa tarde con el sindicato de maquinistas Semaf, que tiene convocada huelga en Renfe el 10 y el 12. El sindicato dice que irá a <span class=\"cita-linea\">«escuchar»</span> y a explicar sus motivos: denuncia el <span class=\"cita-linea\">«incumplimiento de los compromisos adquiridos»</span> sobre seguridad ferroviaria.<sup class=\"ref\"><a href=\"#f11\">11</a></sup>"
 }
 ],
 "voces": [
@@ -1932,9 +2355,20 @@
 "nombre": "The Objective, sobre la investigación",
 "url": "https://theobjective.com/economia/transporte/2026-11-04/ue-investigacion-accidente-urda/",
 "tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "20minutos, sobre la reunión con Semaf",
+"url": "https://www.20minutos.es/nacional/cuerpo-convoca-los-maquinistas-una-reunion-ante-huelga-10-12-noviembre-tras-exito-los-ultimos-paros_7057586_0.html",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Añadimos la reunión de Cuerpo con el sindicato de maquinistas."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -2141,7 +2575,8 @@
 "puigdemont",
 "junqueras",
 "romeva",
-"turull"
+"turull",
+"ponsati"
 ],
 "titulo": "Amnistía: el Constitucional cierra los recursos de Junqueras, Turull y Romeva, y a Puigdemont solo le falta la decisión del Supremo",
 "entradilla": "Son dos resoluciones en dos días. El juez Llarena deja sin efecto el procesamiento de Puigdemont, Comín y Puig, y escribe que siguen existiendo indicios, sin que eso sea una declaración de culpabilidad.",
@@ -2191,8 +2626,12 @@
 "html": "El Constitucional declara extinguidos los recursos de Junqueras, Turull y Romeva.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
 },
 {
+"cuando": "5 de noviembre de 2026",
+"html": "La Sala de lo Penal del Supremo aplica la amnistía a Clara Ponsatí y archiva su causa por desobediencia.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
 "cuando": "Pendiente",
-"html": "La Sala de lo Penal del Supremo decide si archiva la causa de Puigdemont, Comín y Puig.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"html": "La Sala de lo Penal del Supremo decide si archiva la causa de Puigdemont, Comín y Puig.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 }
 ]
 },
@@ -2215,6 +2654,10 @@
 {
 "tipo": "p",
 "html": "Junqueras, Turull, Romeva y Bassa fueron condenados. Ya estaban indultados de las penas de prisión, y con la amnistía quedó extinguida su inhabilitación.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Puigdemont, Comín y Puig no llegaron a ser juzgados. Sus órdenes nacionales de detención ya no están en vigor.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Comín y Puig han vuelto a Cataluña, y Puigdemont lo hará tras las elecciones, según Ara.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Clara Ponsatí, exconsejera de Educación, tampoco llegó a ser juzgada. Volvió a España en marzo de 2023, y estaba procesada solo por desobediencia, un delito sin pena de cárcel.<sup class=\"ref\"><a href=\"#f9\">9</a></sup> El Supremo declara extinguida su responsabilidad penal y archiva el caso.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 }
 ],
 "voces": [
@@ -2306,9 +2749,26 @@
 "nombre": "Nuestra ficha de la ley de amnistía, con datos oficiales del Congreso",
 "url": "/fichas/ley-de-amnistia/",
 "tipo": "propia"
+},
+{
+"n": 8,
+"nombre": "Europa Press, sobre Ponsatí",
+"url": "https://www.europapress.es/nacional/noticia-supremo-amnistia-exconsejera-clara-ponsati-archiva-acusacion-desobediencia-20261105111415.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "La Vanguardia, sobre Ponsatí",
+"url": "https://www.lavanguardia.com/politica/20261105/11676697/supremo-amnistia-clara-ponsati-desobediencia.html",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Añadimos que el Supremo ha aplicado la amnistía a Clara Ponsatí."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,

@@ -10,8 +10,8 @@
 "corvillo",
 "exchofer"
 ],
-"titulo": "La UCO registra la casa de Ábalos y detiene a seis personas en una nueva parte secreta del caso Koldo",
-"entradilla": "La Guardia Civil actuó en Valencia, Madrid, Sevilla y Córdoba y pidió información a Adif. Lo que se investiga está bajo secreto, y ser detenido no significa haber sido condenado.",
+"titulo": "La UCO registra la casa de Ábalos y detiene a seis personas, ya en libertad, en una nueva parte secreta del caso Koldo",
+"entradilla": "La Guardia Civil actuó en Valencia, Madrid, Sevilla y Córdoba, y pidió información a Adif y a la constructora Azvi. Los seis han quedado en libertad, y lo que se investiga sigue bajo secreto.",
 "imagen": {
 "archivo": "audiencia-nacional.jpg",
 "alt": "Fachada de la sede de la Audiencia Nacional, en Madrid.",
@@ -22,7 +22,7 @@
 },
 "esencial": [
 "La Unidad Central Operativa (UCO) de la Guardia Civil registró la casa del exministro José Luis Ábalos en Valencia, por orden del juez Ismael Moreno.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
-"Fuentes citadas por la agencia EFE hablan de seis detenidos en Madrid, Córdoba, Valencia y Sevilla.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Fuentes citadas por la agencia EFE hablan de seis detenidos en Madrid, Córdoba, Valencia y Sevilla, que por la tarde ya estaban en libertad.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f10\">10</a></sup>",
 "La causa está bajo secreto. Rige la presunción de inocencia, y no se sabe todavía qué se le atribuye a cada persona.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
 ],
 "cuerpo": [
@@ -48,11 +48,19 @@
 },
 {
 "tipo": "p",
-"html": "En septiembre, Corvillo declaró como testigo en otra causa y dijo que se reunió con Ábalos y con Koldo García por <span class=\"cita-linea\">«motivos políticos»</span>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Ser detenido no es ser condenado."
+"html": "Sánchez dijo que <span class=\"cita-linea\">«ninguna de estas personas tiene nada que ver conmigo»</span>.<sup class=\"ref\"><a href=\"#f14\">14</a></sup> OKdiario ha publicado un vídeo de un acto de 2017 en Córdoba en el que Sánchez da las gracias a varios colaboradores, entre ellos <span class=\"cita-linea\">«a Cristian»</span>.<sup class=\"ref\"><a href=\"#f16\">16</a></sup>"
 },
 {
 "tipo": "p",
-"html": "Los medios citan también a una persona del entorno de Ábalos. No la nombramos porque es una persona privada. 20minutos y La Razón dicen que está entre los detenidos, y Ara escribe que fue interrogada.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> De los demás detenidos no hemos localizado datos en los que coincidan los medios."
+"html": "En septiembre, Corvillo declaró como testigo en otra causa y dijo que se reunió con Ábalos y con Koldo García por <span class=\"cita-linea\">«motivos políticos»</span>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Por la tarde, la Guardia Civil dejó en libertad a los seis, según fuentes citadas por EFE.<sup class=\"ref\"><a href=\"#f10\">10</a></sup><sup class=\"ref\"><a href=\"#f11\">11</a></sup> Ser detenido no es ser condenado."
+},
+{
+"tipo": "p",
+"html": "Los medios citan también a una persona del entorno de Ábalos. No la nombramos porque es una persona privada. Está entre los detenidos que han quedado en libertad, según El Debate y 20minutos.<sup class=\"ref\"><a href=\"#f10\">10</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup> De los demás detenidos no hemos localizado datos en los que coincidan los medios."
 },
 {
 "tipo": "h",
@@ -60,7 +68,11 @@
 },
 {
 "tipo": "p",
-"html": "Agentes acudieron a dependencias de Adif, la empresa pública que gestiona las vías. Adif dice que <span class=\"cita-linea\">«se ha atendido a la petición de información»</span> y, según Ara, que no hubo ningún registro.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> ABC escribe, en cambio, que los agentes registraban sus instalaciones en Córdoba.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"html": "Agentes acudieron a dependencias de Adif, la empresa pública que gestiona las vías. Adif dice que <span class=\"cita-linea\">«se ha atendido a la petición de información»</span> y, según Ara, que no hubo ningún registro.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> ABC escribe, en cambio, que los agentes registraban sus instalaciones en Córdoba.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Adif dice que aportó la información pedida en su sede de Madrid.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> Los agentes también pidieron documentación a la constructora Azvi, en Sevilla, que dice estar colaborando.<sup class=\"ref\"><a href=\"#f12\">12</a></sup>"
+},
+{
+"tipo": "p",
+"html": "ABC escribe que la UCO investiga un contrato de balasto, la piedra bajo las vías, de 5,2 millones de euros en la línea Madrid-Sevilla, y recuerda que ahí ocurrieron los accidentes de Adamuz y Urda. No establece ninguna relación entre el contrato, que dice que se anuló sin ejecutarse, y los accidentes.<sup class=\"ref\"><a href=\"#f13\">13</a></sup>"
 },
 {
 "tipo": "p",
@@ -72,7 +84,7 @@
 },
 {
 "tipo": "p",
-"html": "El contenido es secreto. 20minutos habla de supuestos amaños de obra pública y explica que el juez tiene ya cuatro piezas abiertas: mascarillas, adjudicaciones en Adif y en la Dirección General de Carreteras, financiación del PSOE y esta última.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Son investigaciones: salvo la parte de las mascarillas ya juzgada por el Supremo, no hay sentencia.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+"html": "El contenido es secreto, y los medios no dan los mismos delitos: elDiario.es habla de amaño de contratos y blanqueo, y La Razón, de estafa en el caso de Corvillo.<sup class=\"ref\"><a href=\"#f15\">15</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> 20minutos habla de supuestos amaños de obra pública y explica que el juez tiene ya cuatro piezas abiertas: mascarillas, adjudicaciones en Adif y en la Dirección General de Carreteras, financiación del PSOE y esta última.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Son investigaciones: salvo la parte de las mascarillas ya juzgada por el Supremo, no hay sentencia.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
 }
 ],
 "voces": [
@@ -97,6 +109,36 @@
 "url": "https://theobjective.com/espana/politica/2026-11-05/oltra-registros-caso-koldo-gestion-publica/"
 },
 {
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Pedro Sánchez, presidente del Gobierno, tras la Cumbre Iberoamericana, el 5 de noviembre",
+"cita": "parece que no es nada nuevo, que es un caso que ya lleva siendo investigado por parte de la justicia unos cuantos años",
+"traduccion": null,
+"fuente": 15,
+"medio": "elDiario.es",
+"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html"
+},
+{
+"candidatura": "psoe",
+"rotulo": "Justicia",
+"quien": "Patxi López, portavoz del PSOE en el Congreso, que lo presenta como opinión personal",
+"cita": "¿Qué sentido tiene volver a registrar la casa de Ábalos un año y medio después de que ya se hicieron todos los registros?",
+"traduccion": null,
+"fuente": 17,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-patxi-lopez-ironiza-casualidad-registro-casa-abalos-sentido-tiene-volver-ano-medio-despues-20261105133405.html"
+},
+{
+"candidatura": "vox",
+"rotulo": "Justicia",
+"quien": "Santiago Abascal, líder de Vox, en Albacete, el 5 de noviembre",
+"cita": "No han detenido a mi chófer, han detenido al exchófer de Pedro Sánchez",
+"traduccion": null,
+"fuente": 18,
+"medio": "ABC",
+"url": "https://www.abc.es/espana/castilla-la-mancha/abascal-claro-iguales-detenido-chofer-sanchez-20261105130111-nt.html"
+},
+{
 "candidatura": null,
 "rotulo": "Adif",
 "quien": "Fuentes de Adif",
@@ -107,12 +149,12 @@
 "url": "https://www.20minutos.es/nacional/uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057519_0.html"
 }
 ],
-"sin_voz": "No hemos localizado reacciones del PSOE, del Gobierno, de Ábalos ni de Corvillo a esta operación.",
+"sin_voz": "No hemos localizado reacciones de Ábalos ni de Corvillo a esta operación.",
 "no_sabemos": [
 "Qué delitos se investigan exactamente y qué se atribuye a cada detenido. La causa está bajo secreto.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
 "Si Ábalos está investigado en esta nueva parte del caso. El registro de su casa no lo aclara por sí solo.",
 "Si se registró o no alguna instalación de Adif. Adif y ABC dicen cosas distintas.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
-"Qué decidirá el juez sobre los detenidos."
+"Qué pasará ahora con los seis que han quedado en libertad, y si seguirán investigados."
 ],
 "fuentes": [
 {
@@ -168,11 +210,196 @@
 "nombre": "The Objective",
 "url": "https://theobjective.com/espana/politica/2026-11-05/oltra-registros-caso-koldo-gestion-publica/",
 "tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "El Debate, sobre la puesta en libertad",
+"url": "https://www.eldebate.com/espana/20261105/guardia-civil-deja-libertad-seis-personas-detenidas-este-jueves-caso-koldo_477832.html",
+"tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "The Objective, sobre la puesta en libertad",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/en-libertad-detenidos-caso-koldo/",
+"tipo": "prensa"
+},
+{
+"n": 12,
+"nombre": "The Objective, sobre Azvi",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/uco-azvi-documentacion-caso-koldo/",
+"tipo": "prensa"
+},
+{
+"n": 13,
+"nombre": "ABC, sobre el contrato de balasto",
+"url": "https://www.abc.es/espana/andalucia/uco-investiga-contrato-adif-proveedora-piedra-ave-20261105190955-nts.html",
+"tipo": "prensa"
+},
+{
+"n": 14,
+"nombre": "Europa Press, sobre Sánchez",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-detenciones-caso-koldo-ninguna-personas-tiene-nada-ver-conmigo-20261105181439.html",
+"tipo": "prensa"
+},
+{
+"n": 15,
+"nombre": "elDiario.es, sobre Sánchez",
+"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+"tipo": "prensa"
+},
+{
+"n": 16,
+"nombre": "OKdiario, sobre el vídeo de 2017",
+"url": "https://okdiario.com/espana/video-sanchez-ex-chofer-corvillo-detenido-ultima-redada-uco-gracias-cristian-20708645",
+"tipo": "prensa"
+},
+{
+"n": 17,
+"nombre": "Europa Press, sobre Patxi López",
+"url": "https://www.europapress.es/nacional/noticia-patxi-lopez-ironiza-casualidad-registro-casa-abalos-sentido-tiene-volver-ano-medio-despues-20261105133405.html",
+"tipo": "prensa"
+},
+{
+"n": 18,
+"nombre": "ABC, sobre Abascal",
+"url": "https://www.abc.es/espana/castilla-la-mancha/abascal-claro-iguales-detenido-chofer-sanchez-20261105130111-nt.html",
+"tipo": "prensa"
+}
+],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Por la tarde añadimos que los seis detenidos han quedado en libertad, las reacciones de Sánchez, PSOE y Vox, la petición de documentación a Azvi y el contrato del que habla ABC."
+}
+],
+"borrador": false,
+"abre": true,
+"tipo": null,
+"partido": null
+},
+{
+"id": "policia-situa-dos-mandos-marroquies-frontera-ceuta",
+"fecha": "2026-11-05",
+"tema": "inmigracion",
+"etiqueta": "Inmigración",
+"claves": [
+"mandos",
+"marroquies"
+],
+"titulo": "La Policía sitúa ante la jueza a dos altos mandos marroquíes junto a la frontera de Ceuta durante la entrada masiva",
+"entradilla": "Un informe de la Policía Nacional los identifica en vídeos publicados en medios y redes. El informe no aclara todavía qué papel tuvieron, y los medios lo interpretan de forma distinta.",
+"imagen": {
+"archivo": "fnideq-castillejos.jpg",
+"alt": "Vista de la ciudad marroquí de Castillejos desde Ceuta, junto al mar y con montañas al fondo.",
+"pie": "Castillejos (Fnideq), en Marruecos, vista desde Ceuta. Foto de archivo de 2016.",
+"autor": "José María Cantero Rojas",
+"licencia": "CC BY 3.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Vista_Parcial_De_Fnideq_Castillejos_Desde_Ceuta_(158152499).jpeg"
+},
+"esencial": [
+"La Comisaría General de Información, de la Policía Nacional, ha enviado a la jueza María Tardón un informe que identifica a dos altos mandos de la seguridad marroquí cerca de la frontera.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Se basa en cinco de los 73 vídeos localizados. En uno, según el informe, uno de ellos da indicaciones a varios migrantes con el brazo.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"El informe no determina qué papel tuvieron. El Mundo dice que lo abordará otro informe posterior.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "María Tardón, jueza de la Audiencia Nacional, investiga la entrada masiva de personas en Ceuta desde Marruecos, el 30 y el 31 de julio.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> El 16 de septiembre pidió información a una treintena de organismos, y este informe es la respuesta de la Comisaría General de Información.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Identifica a Mohamed El Oualidi, jefe de la Policía de Tetuán, y a Abdel Fattah El Sayed El Radi, supervisor general de M'diq-Fnideq, la zona de Castillejos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> COPE escribe los nombres de forma algo distinta.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Según 20minutos, tres migrantes ya los situaron allí al declarar ante la jueza el 28 de octubre.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué dice el informe"
+},
+{
+"tipo": "p",
+"html": "Se hizo con fuentes abiertas: vídeos de medios marroquíes y de redes sociales.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> La Policía concluye que los dos dirigen a los agentes marroquíes de la zona, lo que <span class=\"cita-linea\">«les situaría dentro del rango más alto en la cadena de mando operativa»</span> del dispositivo de seguridad de Marruecos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Sobre el vídeo publicado el 30 de julio, el informe describe a El Oualidi <span class=\"cita-linea\">«impartiendo directrices a varios inmigrantes»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "En qué no coinciden los medios"
+},
+{
+"tipo": "p",
+"html": "20minutos recoge que el informe no ha logrado determinar <span class=\"cita-linea\">«el rol desempeñado»</span> por los dos, y El Mundo que se limita a situarlos en la zona.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> COPE, en cambio, escribe que el informe confirma su implicación directa y refuerza la tesis de que la entrada no fue espontánea.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Hemos leído lo que cuentan estos medios, no el informe. Por eso no afirmamos ninguna de las dos lecturas."
+},
+{
+"tipo": "p",
+"html": "También varía la cifra de personas. El Debate y COPE hablan de unos 80.000, y 20minutos, de decenas de miles. No hemos comprobado una cifra oficial.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup> El Debate escribe <span class=\"cita-linea\">«asalto»</span> e <span class=\"cita-linea\">«invasión»</span> en su texto y titular; aquí usamos <span class=\"cita-linea\">«entrada masiva»</span>, que describe el hecho."
+},
+{
+"tipo": "h",
+"texto": "Dónde está la causa"
+},
+{
+"tipo": "p",
+"html": "La investigación sigue en la Audiencia Nacional. El Supremo archivó el 4 de noviembre <a href=\"/actualidad/supremo-archiva-querella-vox-sanchez-ceuta/\">la querella de Vox y varias denuncias</a> contra el Gobierno por estos hechos.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"rotulo": "Policía Nacional",
+"quien": "Informe de la Comisaría General de Información, según 20minutos",
+"cita": "Ambos cuentan con una amplia y reconocida trayectoria en la Dirección General de Seguridad Nacional",
+"traduccion": null,
+"fuente": 1,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/policia-traslada-jueza-identidad-dos-mandos-policiales-marroquies-presentes-durante-entrada-masiva-ceuta_7057717_0.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de Marruecos, del Gobierno ni de los partidos a este informe.",
+"no_sabemos": [
+"Qué papel tuvieron estos dos mandos y si actuaron por orden de alguien.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Qué concluye el análisis de los otros 68 vídeos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Cuánta gente entró. Las cifras publicadas no coinciden y no hemos comprobado una oficial.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/policia-traslada-jueza-identidad-dos-mandos-policiales-marroquies-presentes-durante-entrada-masiva-ceuta_7057717_0.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec979fe85ece88758b457d.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261105/policia-identifica-dos-altos-mandos-marroquies-estaban-frontera-durante-invasion-ceuta_477696.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "COPE",
+"url": "https://www.cope.es/actualidad/espana/noticias/policia-nacional-identifica-dos-altos-mandos-policiales-marruecos-dieron-instrucciones-migrantes-llegada-masiva-ceuta-20261105_3469775.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Nuestra noticia sobre el archivo en el Supremo",
+"url": "/actualidad/supremo-archiva-querella-vox-sanchez-ceuta/",
+"tipo": "propia"
 }
 ],
 "cambios": [],
 "borrador": false,
-"abre": true,
+"abre": false,
 "tipo": null,
 "partido": null
 },
@@ -358,12 +585,20 @@
 "html": "Según elDiario.es, OKdiario ha publicado que se trataba de un acuerdo para una docuserie y otras colaboraciones de García.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
 },
 {
+"tipo": "p",
+"html": "En un segundo audio, al que accedió elDiario.es, García insiste y dice que lo puede demostrar: <span class=\"cita-linea\">«Yo daré el remate final»</span>. No ha mostrado ninguna prueba en lo que hemos leído.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
 "tipo": "h",
 "texto": "Qué responde cada uno"
 },
 {
 "tipo": "p",
 "html": "Fuentes del PP dicen que es <span class=\"cita-linea\">«absolutamente falso»</span>, cuestionan la credibilidad de García y señalan que se ha publicado el mismo día que la <a href=\"/actualidad/uco-registra-casa-abalos-seis-detenidos-pieza-secreta-caso-koldo/\">operación de la UCO</a>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> El PSOE lo llama <span class=\"cita-linea\">«guerra sucia»</span> si se confirma, y pregunta a Feijóo si conocía ese supuesto acuerdo y por qué apartaron a Durán.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Por la tarde, Sánchez dijo que Feijóo <span class=\"cita-linea\">«tendría que dar alguna explicación»</span>.<sup class=\"ref\"><a href=\"#f8\">8</a></sup> Cuca Gamarra, del PP, respondió que su partido <span class=\"cita-linea\">«sentó a Koldo en el banquillo»</span>, en referencia a la acusación que ejerció en el juicio.<sup class=\"ref\"><a href=\"#f9\">9</a></sup> Verónica Barbero, de Frente Amplio, pide que los tribunales lo investiguen.<sup class=\"ref\"><a href=\"#f10\">10</a></sup>"
 }
 ],
 "voces": [
@@ -388,6 +623,26 @@
 "url": "https://www.europapress.es/nacional/noticia-psoe-acusa-guerra-sucia-pp-derribar-gobierno-legitimo-intentar-comprar-testimonio-koldo-20261105105421.html"
 },
 {
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Pedro Sánchez, presidente del Gobierno, el 5 de noviembre",
+"cita": "Ante estas acusaciones tan graves que se están virtiendo sobre el Partido Popular, el señor Feijóo tendría que dar alguna explicación",
+"traduccion": null,
+"fuente": 8,
+"medio": "elDiario.es",
+"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html"
+},
+{
+"candidatura": "frente-amplio",
+"rotulo": "Justicia",
+"quien": "Verónica Barbero, portavoz de Sumar y candidata de Frente Amplio",
+"cita": "Lo que pedimos es que se investigue",
+"traduccion": null,
+"fuente": 10,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/galicia/noticia-barbero-frente-amplio-supuestos-pagos-koldo-pp-hay-investigar-20261105141453.html"
+},
+{
 "candidatura": null,
 "rotulo": "Koldo García",
 "quien": "Koldo García, en un audio enviado a la Cadena SER. Lo publica Ara en catalán",
@@ -400,6 +655,7 @@
 ],
 "sin_voz": "No hemos localizado una respuesta de Eduardo Inda ni de OKdiario a este audio. Tampoco una frase literal de Alberto Durán: elDiario.es dice que lo ha negado.",
 "no_sabemos": [
+"Qué prueba tiene García. Dice que puede demostrarlo y no la ha mostrado, que hayamos visto.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>",
 "Si esa oferta existió. Solo tenemos la palabra de García, tres fuentes sin identificar citadas por la SER y el desmentido del PP y de Durán.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
 "Por qué dejó Durán de ser abogado del PP. El PSOE lo pregunta y no hemos localizado la respuesta.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
 "Si algún juez investigará estas afirmaciones. Las facturas están en la Audiencia Nacional.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
@@ -440,9 +696,38 @@
 "nombre": "The Objective",
 "url": "https://theobjective.com/espana/politica/2026-11-05/pp-niega-millon-euros-koldo-contra-sanchez/",
 "tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "elDiario.es, sobre el segundo audio",
+"url": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "elDiario.es, sobre Sánchez",
+"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "El Debate, sobre Gamarra",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/gamarra-defiende-pp-sento-koldo-banquillo-ahora-esta-condenado-19-anos-carcel_477838.html",
+"tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "Europa Press, sobre Barbero",
+"url": "https://www.europapress.es/galicia/noticia-barbero-frente-amplio-supuestos-pagos-koldo-pp-hay-investigar-20261105141453.html",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Por la tarde añadimos el segundo audio de García y las palabras de Sánchez, Gamarra y Barbero."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -519,6 +804,18 @@
 },
 {
 "tipo": "h",
+"texto": "Cómo acabó"
+},
+{
+"tipo": "p",
+"html": "Al terminar la cumbre, Sánchez agradeció a Milei que hubiera acudido y dijo: <span class=\"cita-linea\">«El insulto no forma parte de mi forma de entender ni de hacer política»</span>. No quiso aclarar si habló con él.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Después, Sánchez invitó a los representantes de la cumbre a un encuentro con Volodímir Zelenski, presidente de Ucrania, que les pidió ayuda para reparar su red eléctrica, atacada por Rusia.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> Feijóo aprovechó la cumbre para hablar por videoconferencia con María Corina Machado, de la oposición de Venezuela, y anunció citas con Zelenski y con el presidente de Chile, José Antonio Kast.<sup class=\"ref\"><a href=\"#f11\">11</a></sup>"
+},
+{
+"tipo": "h",
 "texto": "Quién ha venido a la cumbre"
 },
 {
@@ -546,6 +843,16 @@
 "fuente": 8,
 "medio": "C5N",
 "url": "https://www.c5n.com/mundo/en-la-previa-la-cumbre-pedro-sanchez-cruzo-javier-milei-espana-se-gobierna-aqui-no-buenos-aires-n253219"
+},
+{
+"candidatura": "gobierno",
+"rotulo": "Justicia",
+"quien": "Pedro Sánchez, al terminar la cumbre, el 5 de noviembre",
+"cita": "Los presidentes estamos para unir, particularmente cuando estamos en cumbres multilaterales",
+"traduccion": null,
+"fuente": 9,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-evita-confrontar-milei-insulto-no-forma-parte-manera-hacer-politica-20261105183308.html"
 },
 {
 "candidatura": null,
@@ -612,9 +919,32 @@
 "nombre": "C5N",
 "url": "https://www.c5n.com/mundo/en-la-previa-la-cumbre-pedro-sanchez-cruzo-javier-milei-espana-se-gobierna-aqui-no-buenos-aires-n253219",
 "tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "Europa Press, sobre el final de la cumbre",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-evita-confrontar-milei-insulto-no-forma-parte-manera-hacer-politica-20261105183308.html",
+"tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "La Vanguardia, sobre Zelenski",
+"url": "https://www.lavanguardia.com/politica/20261105/11677127/zelenski-pide-apoyo-paises-iberoamericanos-sanchez-avisa-manana.html",
+"tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "La Vanguardia, sobre Feijóo",
+"url": "https://www.lavanguardia.com/politica/20261105/11676941/feijoo-aprovecha-cumbre-iberoamericana-reunirse-corina-machado-zelenski-kast.html",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Por la tarde añadimos cómo acabó la cumbre, las palabras de Sánchez y el encuentro con Zelenski."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -820,6 +1150,18 @@
 },
 {
 "tipo": "h",
+"texto": "Qué pasó en la Asamblea"
+},
+{
+"tipo": "p",
+"html": "En el Pleno, Zarzalejo dijo que los encierros no se enmarcan en el derecho a huelga, sino en la <span class=\"cita-linea\">«delincuencia y prácticas mafiosas»</span>, y habló de <span class=\"cita-linea\">«secuestrar un edificio oficial regional»</span>.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> Al final de su comparecencia, pedida por Más Madrid, volvió a llamar inasumibles las peticiones. Representantes del comité de huelga le exigieron a gritos desde la tribuna de invitados que negociara, y fueron expulsados.<sup class=\"ref\"><a href=\"#f11\">11</a></sup>"
+},
+{
+"tipo": "p",
+"html": "En la concentración ante la Consejería, en la calle Alcalá, hubo un detenido por desobediencia y resistencia, según la Policía Municipal.<sup class=\"ref\"><a href=\"#f12\">12</a></sup><sup class=\"ref\"><a href=\"#f13\">13</a></sup> Una portavoz de la asamblea Menos Lectivas dice que un agente de paisano increpó a un profesor y que lo detuvieron de forma violenta.<sup class=\"ref\"><a href=\"#f12\">12</a></sup> CCOO atribuye la detención a la Policía Nacional.<sup class=\"ref\"><a href=\"#f14\">14</a></sup>"
+},
+{
+"tipo": "h",
 "texto": "Qué piden"
 },
 {
@@ -860,9 +1202,14 @@
 "3 de noviembre",
 "40 %",
 "6,4 %"
+],
+[
+"5 de noviembre",
+"No la publican",
+"11,6 %"
 ]
 ],
-"nota": "Ninguna de las dos cifras es independiente. CSIF calculó un 45 % el 15 de octubre.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+"nota": "Ninguna de las cifras es independiente. CSIF calculó un 45 % el 15 de octubre. Los convocantes decidieron el 4 de noviembre no publicar sus datos por el momento.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f13\">13</a></sup>"
 },
 {
 "tipo": "h",
@@ -885,6 +1232,16 @@
 {
 "candidatura": "pp",
 "rotulo": "Justicia",
+"quien": "Mercedes Zarzalejo, consejera de Educación, en la Asamblea de Madrid, el 5 de noviembre",
+"cita": "La huelga no es hacer concentraciones no autorizadas ni secuestrar un edificio oficial regional",
+"traduccion": null,
+"fuente": 10,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/madrid/noticia-zarzalejo-senala-encierros-docentes-no-son-derecho-huelga-delincuencia-practicas-mafiosas-20261105123244.html"
+},
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
 "quien": "Mercedes Zarzalejo, consejera de Educación de la Comunidad de Madrid, el 3 de noviembre",
 "cita": "Yo no sé si estas plataformas y sindicatos convocantes se han parado a valorar económicamente lo que suponen sus reivindicaciones",
 "traduccion": null,
@@ -903,10 +1260,9 @@
 "url": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse"
 }
 ],
-"sin_voz": "Esta noticia se escribe antes de la comparecencia de hoy. Cuando tengamos lo que se ha dicho en el Pleno, lo añadiremos e indicaremos el cambio. No hemos localizado una respuesta de la Consejería al encierro: la versión de que el director general no estaba es la que da el comité.",
+"sin_voz": "La versión de que el director general no estaba es la que da el comité: no hemos localizado la de la Consejería.",
 "no_sabemos": [
 "Si la consejera recibirá al comité de huelga. Lo actualizaremos.",
-"Qué dirá hoy la consejera y si anunciará algún cambio. Lo actualizaremos.",
 "Cuánto costarían las peticiones. Zarzalejo dice que son inasumibles, y no hemos localizado una cifra de ninguna de las partes.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
 "Cuánta gente sigue la huelga de verdad. Solo tenemos las cifras de las dos partes, muy distintas.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
 "Si el comité acudirá finalmente a los tribunales.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
@@ -965,12 +1321,46 @@
 "nombre": "Diario de Rivas",
 "url": "https://www.diarioderivas.es/encierro-ceip-jarama-comunidad-educativa",
 "tipo": "prensa"
+},
+{
+"n": 10,
+"nombre": "Europa Press, sobre Zarzalejo en el Pleno",
+"url": "https://www.europapress.es/madrid/noticia-zarzalejo-senala-encierros-docentes-no-son-derecho-huelga-delincuencia-practicas-mafiosas-20261105123244.html",
+"tipo": "prensa"
+},
+{
+"n": 11,
+"nombre": "Europa Press, sobre la expulsión",
+"url": "https://www.europapress.es/madrid/noticia-comite-huelga-educacion-exige-gritos-asamblea-zarzalejo-negocie-son-expulsados-hemiciclo-20261105140053.html",
+"tipo": "prensa"
+},
+{
+"n": 12,
+"nombre": "Europa Press, sobre la concentración",
+"url": "https://www.europapress.es/madrid/noticia-profesores-educacion-publica-madrilena-vuelven-consejeria-insistir-zarzalejo-negociacion-20261105123744.html",
+"tipo": "prensa"
+},
+{
+"n": 13,
+"nombre": "ABC, sobre la detención",
+"url": "https://www.abc.es/espana/madrid/detenido-manifestante-protesta-enmarcada-huelga-educativa-indefinida-20261105170806-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 14,
+"nombre": "El Debate, sobre la detención",
+"url": "https://www.eldebate.com/espana/madrid/20261105/detenido-profesor-durante-movilizaciones-educacion-publica-madrid_477650.html",
+"tipo": "prensa"
 }
 ],
 "cambios": [
 {
 "fecha": "2026-11-05",
 "texto": "El encierro ya ha terminado. Al publicar contamos, según El Debate, que seguían dentro y que no saldrían hasta que la consejera los recibiera. Cambiamos el titular y añadimos que eran miembros del comité de huelga y que se fueron sin reunión."
+},
+{
+"fecha": "2026-11-05",
+"texto": "Por la tarde añadimos la comparecencia de Zarzalejo, la expulsión del comité de la Asamblea, el detenido y el seguimiento del día."
 }
 ],
 "borrador": false,
@@ -1143,6 +1533,124 @@
 "abre": false,
 "tipo": "balance",
 "partido": null
+},
+{
+"id": "vox-propone-iva-18-auditoria-ferroviaria",
+"fecha": "2026-11-05",
+"tema": "impuestos",
+"etiqueta": "Propuesta",
+"claves": [
+"figaredo",
+"auditoria"
+],
+"titulo": "Vox propone bajar el IVA al 18 %, recortar transferencias a las comunidades y hacer una auditoría ferroviaria",
+"entradilla": "Lo han planteado por separado José María Figaredo y Santiago Abascal. Figaredo admite que, sin mayoría suficiente, tendrían que moderar la bajada de impuestos.",
+"imagen": {
+"archivo": "abascal-2026.jpg",
+"alt": "Retrato de Santiago Abascal.",
+"pie": "Santiago Abascal, candidato de Vox. Imagen difundida por el partido, de 2026.",
+"autor": "Vox España",
+"licencia": "CC0",
+"origen": "https://commons.wikimedia.org/wiki/File:Santiago_Abascal_portrait.jpg"
+},
+"esencial": [
+"José María Figaredo, secretario general de Vox en el Congreso, defiende bajar el IVA al 18 % y otros impuestos, según The Objective.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Lo compensaría recortando transferencias a las comunidades autónomas y subvenciones.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Santiago Abascal dice que, si gobierna, ordenará una auditoría de la inversión ferroviaria y quitará a los políticos de los puestos técnicos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué propone"
+},
+{
+"tipo": "p",
+"html": "Figaredo lo explicó el 4 de noviembre en el Madrid Foro Empresarial. Además del IVA, habló de reducir el impuesto sobre la renta, el de sociedades y los especiales, y de llevar los de hidrocarburos al mínimo europeo. El 18 % es el nivel anterior a la última subida.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Para pagarlo, dice que hay 180.000 millones de euros al año en <span class=\"cita-linea\">«cuestiones que no son esenciales»</span>, sobre todo transferencias a las comunidades, y propone bajarlos a 120.000 millones y después a 80.000. También quiere acabar con parte de los 52.000 millones anuales en subvenciones directas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Solo hemos encontrado este planteamiento en The Objective, y son cifras del propio Figaredo."
+},
+{
+"tipo": "p",
+"html": "Ese mismo día, en Onda Cero, Abascal dijo que de estar en el Gobierno ordenaría una auditoría completa de la inversión ferroviaria y del estado de las vías y de los sistemas de seguridad.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> También prometió: <span class=\"cita-linea\">«Hay que eliminar a todos los políticos de los puestos técnicos»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué matiza"
+},
+{
+"tipo": "p",
+"html": "Figaredo admite que tendrían que moderarlo: <span class=\"cita-linea\">«No creo que saquemos el 100% de los votos para aplicar a rajatabla lo que nos proponemos»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué ha votado su grupo sobre este tema"
+},
+{
+"tipo": "p",
+"html": "En noviembre de 2024, Vox votó en contra de la ley que creó un impuesto mínimo a las multinacionales y un impuesto a la banca, que salió adelante con 178 votos a favor y 171 en contra. Lo explicamos en <a href=\"/fichas/impuesto-minimo-a-multinacionales-e-impuesto-a-la-banca/\">esta ficha</a>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Lo que propone y vota cada partido sobre impuestos está en <a href=\"/temas/impuestos/\">Temas</a>."
+}
+],
+"voces": [
+{
+"candidatura": "vox",
+"rotulo": "Justicia",
+"quien": "José María Figaredo, secretario general de Vox en el Congreso, el 4 de noviembre",
+"cita": "Hay margen para pagar rebajas fiscales drásticas en España, sin duda",
+"traduccion": null,
+"fuente": 1,
+"medio": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-04/vox-iva-18-transferencias-comunidades-autonomas/"
+},
+{
+"candidatura": "vox",
+"rotulo": "Justicia",
+"quien": "Santiago Abascal, candidato de Vox, el 4 de noviembre",
+"cita": "Hay que eliminar a todos los políticos de los puestos técnicos",
+"traduccion": null,
+"fuente": 3,
+"medio": "OKdiario",
+"url": "https://okdiario.com/espana/abascal-promete-limpiar-administracion-hay-que-eliminar-todos-politicos-puestos-tecnicos-20696713"
+}
+],
+"sin_voz": "No hemos localizado reacciones de otros partidos ni de las comunidades autónomas a estas propuestas.",
+"no_sabemos": [
+"Cuánto costaría la bajada de impuestos. Figaredo no da una cifra en lo que hemos leído.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Qué servicios se verían afectados por recortar las transferencias a las comunidades, que pagan entre otras cosas la sanidad y la educación. Vox no lo detalla en lo que hemos leído. Tampoco hemos comprobado sus cifras.",
+"Qué hay exactamente en el programa de Vox para estas elecciones, que no hemos localizado publicado."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-04/vox-iva-18-transferencias-comunidades-autonomas/",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261104/abascal-aboga-auditoria-inversion-ferroviaria-estado-vias-cambiar-politicos-tecnicos_477159.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "OKdiario",
+"url": "https://okdiario.com/espana/abascal-promete-limpiar-administracion-hay-que-eliminar-todos-politicos-puestos-tecnicos-20696713",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "Nuestra ficha de la votación, con datos oficiales del Congreso",
+"url": "/fichas/impuesto-minimo-a-multinacionales-e-impuesto-a-la-banca/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": "propuesta",
+"partido": "vox"
 },
 {
 "id": "feijoo-promete-dos-presupuestos-2027-si-gobierna",
@@ -1947,7 +2455,11 @@
 },
 {
 "tipo": "p",
-"html": "No son la misma convocatoria. El sindicato de maquinistas Semaf ha convocado en Renfe una huelga de 24 horas el 10 de noviembre y paros parciales el 12. Los maquinistas de Ouigo tienen paros parciales el 6 y el 9. El comité de empresa de Adif ha acordado una huelga para el 17, que todavía debe formalizarse.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+"html": "No son la misma convocatoria. El sindicato de maquinistas Semaf ha convocado en Renfe una huelga de 24 horas el 10 de noviembre y paros parciales el 12. El comité de empresa de Adif ha acordado una huelga para el 17, que todavía debe formalizarse.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los paros de los maquinistas de Ouigo del 6 y el 9 de noviembre se han desconvocado tras un acuerdo con la empresa. Semaf mantiene los del 10 y el 12 en Renfe tras reunirse con Carlos Cuerpo, y ha llamado a parar el 17 en ocho operadoras.<sup class=\"ref\"><a href=\"#f12\">12</a></sup><sup class=\"ref\"><a href=\"#f13\">13</a></sup>"
 },
 {
 "tipo": "h",
@@ -2146,12 +2658,24 @@
 "nombre": "El Debate, sobre Ayuso",
 "url": "https://www.eldebate.com/espana/madrid/20261105/ayuso-explota-contra-sindicatos-estan-untados-dinero-publico-huelga-general-corrupcion-mafiosa_477538.html",
 "tipo": "prensa"
+},
+{
+"n": 12,
+"nombre": "20minutos, sobre Semaf",
+"url": "https://www.20minutos.es/nacional/primera-reunion-entre-cuerpo-los-maquinistas-concluye-sin-desconvocar-huelga-renfe-10-12-17-noviembre_7057860_0.html",
+"tipo": "prensa"
+},
+{
+"n": 13,
+"nombre": "Europa Press, sobre Semaf",
+"url": "https://www.europapress.es/economia/transportes-00343/noticia-maquinistas-mantienen-huelga-renfe-reunion-avances-cuerpo-cita-manana-20261105191500.html",
+"tipo": "prensa"
 }
 ],
 "cambios": [
 {
 "fecha": "2026-11-05",
-"texto": "Añadimos las palabras de Isabel Díaz Ayuso."
+"texto": "Añadimos las palabras de Isabel Díaz Ayuso. Por la tarde, corregimos que los paros de Ouigo del 6 y el 9 se han desconvocado."
 }
 ],
 "borrador": false,
@@ -2264,6 +2788,10 @@
 {
 "tipo": "p",
 "html": "El 5 de noviembre, 20minutos escribió que Cuerpo se reúne esa tarde con el sindicato de maquinistas Semaf, que tiene convocada huelga en Renfe el 10 y el 12. El sindicato dice que irá a <span class=\"cita-linea\">«escuchar»</span> y a explicar sus motivos: denuncia el <span class=\"cita-linea\">«incumplimiento de los compromisos adquiridos»</span> sobre seguridad ferroviaria.<sup class=\"ref\"><a href=\"#f11\">11</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Tras la reunión, Semaf dijo que <span class=\"cita-linea\">«no se ha producido ningún avance»</span> y mantiene la huelga. Transportes le ha citado de nuevo para el 6 de noviembre.<sup class=\"ref\"><a href=\"#f12\">12</a></sup>"
 }
 ],
 "voces": [
@@ -2361,12 +2889,18 @@
 "nombre": "20minutos, sobre la reunión con Semaf",
 "url": "https://www.20minutos.es/nacional/cuerpo-convoca-los-maquinistas-una-reunion-ante-huelga-10-12-noviembre-tras-exito-los-ultimos-paros_7057586_0.html",
 "tipo": "prensa"
+},
+{
+"n": 12,
+"nombre": "Europa Press, tras la reunión",
+"url": "https://www.europapress.es/economia/transportes-00343/noticia-maquinistas-mantienen-huelga-renfe-reunion-avances-cuerpo-cita-manana-20261105191500.html",
+"tipo": "prensa"
 }
 ],
 "cambios": [
 {
 "fecha": "2026-11-05",
-"texto": "Añadimos la reunión de Cuerpo con el sindicato de maquinistas."
+"texto": "Añadimos la reunión de Cuerpo con el sindicato de maquinistas y, por la tarde, su resultado."
 }
 ],
 "borrador": false,
@@ -3060,7 +3594,7 @@
 "sin_voz": "No hemos localizado reacciones de Vox, Manos Limpias, el Gobierno ni otros partidos a este auto. Lo que votó y propone cada grupo sobre inmigración está en <a href=\"/temas/inmigracion/\">Temas</a>.",
 "no_sabemos": [
 "Si Vox o Manos Limpias pueden recurrir o van a hacerlo. No lo hemos localizado.",
-"Qué responsabilidad tuvo cada autoridad y qué papel tuvo Marruecos. Es lo que investiga la Audiencia Nacional.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Qué responsabilidad tuvo cada autoridad y qué papel tuvo Marruecos. Es lo que investiga la Audiencia Nacional. La Policía le ha enviado <a href=\"/actualidad/policia-situa-dos-mandos-marroquies-frontera-ceuta/\">un informe sobre dos mandos marroquíes</a>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
 "Cuánta gente entró. elDiario.es habla de decenas de miles, y no hemos comprobado una cifra oficial.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
 ],
 "fuentes": [
@@ -3089,7 +3623,12 @@
 "tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "Enlazamos el informe de la Policía sobre dos mandos marroquíes."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,

@@ -333,7 +333,7 @@
 "docentes",
 "profesores"
 ],
-"titulo": "Nueve docentes se encierran en la Consejería de Educación de Madrid para exigir una reunión, el día en que Zarzalejo comparece por la huelga",
+"titulo": "Nueve miembros del comité de huelga docente se encierran más de una hora en la Consejería de Educación de Madrid y se van sin reunión",
 "entradilla": "Los docentes de la pública madrileña están en huelga indefinida desde el 14 de octubre. La consejera dice que sus peticiones son inasumibles, y el comité de huelga amenaza con ir a los tribunales si no se le recibe.",
 "imagen": {
 "archivo": "asamblea-madrid.jpg",
@@ -344,9 +344,9 @@
 "origen": "https://commons.wikimedia.org/wiki/File:Sede_de_la_Asamblea_de_Madrid_(Espa%C3%B1a)_01.jpg"
 },
 "esencial": [
-"Nueve docentes se han encerrado en una sede de la Consejería de Educación y dicen que no saldrán hasta que la consejera se reúna con ellos, según El Debate.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
-"Mercedes Zarzalejo, consejera de Educación del Gobierno de Isabel Díaz Ayuso (PP), comparece este jueves en la Asamblea de Madrid por la huelga.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>",
-"Los docentes piden menos horas de clase, menos alumnos por aula y 600 euros más al mes, entre otras cosas. Zarzalejo las llama <span class=\"cita-linea\">«totalmente inasumibles»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"Nueve miembros del comité de huelga estuvieron algo más de una hora en la Dirección General de Recursos Humanos de la Consejería de Educación. Salieron a las 11.12 sin haber conseguido una reunión.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Mercedes Zarzalejo, consejera de Educación del Gobierno de Isabel Díaz Ayuso (PP), comparece este jueves en la Asamblea de Madrid por la huelga.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>",
+"Los docentes piden menos horas de clase, menos alumnos por aula y 600 euros más al mes, entre otras cosas. Zarzalejo las llama <span class=\"cita-linea\">«totalmente inasumibles»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
 ],
 "cuerpo": [
 {
@@ -355,15 +355,19 @@
 },
 {
 "tipo": "p",
-"html": "Nueve docentes de la pública madrileña se encerraron en la mañana del jueves 5 de noviembre en la sede de recursos humanos de la Consejería de Educación, según El Debate. Dicen que no se irán hasta que la consejera se reúna con ellos. Fuera se concentró otra decena de personas, y los del interior han bloqueado las puertas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+"html": "Nueve miembros del comité de huelga entraron sobre las 10 de la mañana del jueves 5 de noviembre en la Dirección General de Recursos Humanos de la Consejería de Educación, para exigir una reunión.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> Según el comité, les dijeron que el director general no estaba y no podía recibirlos. Dejaron un escrito pidiendo esa reunión y salieron a las 11.12, tras ser identificados por la Policía Nacional.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
 },
 {
 "tipo": "p",
-"html": "El mismo día, la consejera vuelve a comparecer en el Pleno de la Asamblea de Madrid, como ya hizo el 15 de octubre.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> La huelga indefinida empezó el 14 de octubre en la educación pública no universitaria. Están llamados 65.000 docentes, que dan clase a más de 666.000 alumnos.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+"html": "Fuera se concentraron personas en su apoyo. The Objective habla de alrededor de un centenar y El Debate, de una decena, quizá en momentos distintos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
 },
 {
 "tipo": "p",
-"html": "La convocan CCOO, UGT, STEM, CGT, CNT y Solidaridad Obrera. CSIF mantiene una huelga paralela.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> El 4 y el 5 de noviembre se han sumado las seis universidades públicas de la región, por su financiación.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "El mismo día, la consejera vuelve a comparecer en el Pleno de la Asamblea de Madrid, como ya hizo el 15 de octubre.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> La huelga indefinida empezó el 14 de octubre en la educación pública no universitaria. Están llamados 65.000 docentes, que dan clase a más de 666.000 alumnos.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La convocan CCOO, UGT, STEM, CGT, CNT y Solidaridad Obrera. CSIF mantiene una huelga paralela.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> El 4 y el 5 de noviembre se han sumado las seis universidades públicas de la región, por su financiación.<sup class=\"ref\"><a href=\"#f8\">8</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
 },
 {
 "tipo": "h",
@@ -371,7 +375,7 @@
 },
 {
 "tipo": "p",
-"html": "Reducir las horas de clase a 17 periodos semanales en Secundaria y FP y a 22 en Primaria, bajar el número de alumnos por aula y reforzar la atención a la diversidad. Una subida de 600 euros mensuales. Un auxiliar administrativo por centro, climatización de las aulas y retirada del amianto.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "Reducir las horas de clase a 17 periodos semanales en Secundaria y FP y a 22 en Primaria, bajar el número de alumnos por aula y reforzar la atención a la diversidad. Una subida de 600 euros mensuales. Un auxiliar administrativo por centro, climatización de las aulas y retirada del amianto.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
 },
 {
 "tipo": "h",
@@ -379,11 +383,11 @@
 },
 {
 "tipo": "p",
-"html": "Zarzalejo llamó a esta protesta <span class=\"cita-linea\">«huelga política y revolucionaria»</span> y ha dicho que no puede aceptar un acuerdo que suponga <span class=\"cita-linea\">«la quiebra del sistema educativo madrileño»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> En una carta al profesorado escribió que la Consejería <span class=\"cita-linea\">«nunca ha dejado de dialogar y trabajar en acuerdos con los sindicatos»</span>, y citó el acuerdo del 4 de abril de 2025 con CCOO, ANPE, CSIF y UGT.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+"html": "Zarzalejo llamó a esta protesta <span class=\"cita-linea\">«huelga política y revolucionaria»</span> y ha dicho que no puede aceptar un acuerdo que suponga <span class=\"cita-linea\">«la quiebra del sistema educativo madrileño»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> En una carta al profesorado escribió que la Consejería <span class=\"cita-linea\">«nunca ha dejado de dialogar y trabajar en acuerdos con los sindicatos»</span>, y citó el acuerdo del 4 de abril de 2025 con CCOO, ANPE, CSIF y UGT.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
 },
 {
 "tipo": "p",
-"html": "El comité de huelga responde que ese acuerdo no le afecta, porque su mandato sale de una asamblea del 24 de junio. Ha presentado un requerimiento para exigir una negociación y dice que, si no la hay, irá a los tribunales.<sup class=\"ref\"><a href=\"#f6\">6</a></sup> La Consejería no reconoce a ese comité como interlocutor, según El Salto.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+"html": "El comité de huelga responde que ese acuerdo no le afecta, porque su mandato sale de una asamblea del 24 de junio. Ha presentado un requerimiento para exigir una negociación y dice que, si no la hay, irá a los tribunales.<sup class=\"ref\"><a href=\"#f7\">7</a></sup> La Consejería no reconoce a ese comité como interlocutor, según El Salto.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
 },
 {
 "tipo": "h",
@@ -409,7 +413,7 @@
 "6,4 %"
 ]
 ],
-"nota": "Ninguna de las dos cifras es independiente. CSIF calculó un 45 % el 15 de octubre.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+"nota": "Ninguna de las dos cifras es independiente. CSIF calculó un 45 % el 15 de octubre.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
 },
 {
 "tipo": "h",
@@ -417,7 +421,7 @@
 },
 {
 "tipo": "p",
-"html": "El 3 de noviembre, más de un centenar de docentes cortaron la A-42 en Madrid durante unos 40 minutos y se retiraron al llegar la policía.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> Ese mismo día, cuatro personas interrumpieron un programa en directo de Telemadrid.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> La noche del 21 al 22 de octubre, un grupo de docentes de Rivas Vaciamadrid se encerró en el colegio Jarama para pedir que la consejera los reciba.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+"html": "El 3 de noviembre, más de un centenar de docentes cortaron la A-42 en Madrid durante unos 40 minutos y se retiraron al llegar la policía.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup> Ese mismo día, cuatro personas interrumpieron un programa en directo de Telemadrid.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> La noche del 21 al 22 de octubre, un grupo de docentes de Rivas Vaciamadrid se encerró en el colegio Jarama para pedir que la consejera los reciba.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
 },
 {
 "tipo": "h",
@@ -425,7 +429,7 @@
 },
 {
 "tipo": "p",
-"html": "En la comparecencia de octubre, según Europa Press, toda la oposición respaldó las demandas, aunque Vox considera que no debería ser <span class=\"cita-linea\">«un comité de huelga»</span> quien redacte las políticas educativas. Más Madrid y PSOE acusan a la consejera de optar por el <span class=\"cita-linea\">«insulto»</span> y el <span class=\"cita-linea\">«desprecio»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "En la comparecencia de octubre, según Europa Press, toda la oposición respaldó las demandas, aunque Vox considera que no debería ser <span class=\"cita-linea\">«un comité de huelga»</span> quien redacte las políticas educativas. Más Madrid y PSOE acusan a la consejera de optar por el <span class=\"cita-linea\">«insulto»</span> y el <span class=\"cita-linea\">«desprecio»</span>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
 }
 ],
 "voces": [
@@ -435,7 +439,7 @@
 "quien": "Mercedes Zarzalejo, consejera de Educación de la Comunidad de Madrid, el 3 de noviembre",
 "cita": "Yo no sé si estas plataformas y sindicatos convocantes se han parado a valorar económicamente lo que suponen sus reivindicaciones",
 "traduccion": null,
-"fuente": 2,
+"fuente": 3,
 "medio": "Europa Press",
 "url": "https://www.europapress.es/madrid/noticia-asamblea-aprueba-jueves-ley-abogacia-pleno-volvera-comparecer-zarzalejo-huelga-20261105055954.html"
 },
@@ -445,70 +449,81 @@
 "quien": "Comité de huelga, en un comunicado",
 "cita": "El acuerdo suscrito el 4 de abril de 2025 con la mesa sectorial no incumbe a este comité",
 "traduccion": null,
-"fuente": 6,
+"fuente": 7,
 "medio": "El Salto",
 "url": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse"
 }
 ],
-"sin_voz": "Esta noticia se escribe antes de la comparecencia de hoy. Cuando tengamos lo que se ha dicho en el Pleno, lo añadiremos e indicaremos el cambio. No hemos localizado una respuesta de la Consejería al encierro.",
+"sin_voz": "Esta noticia se escribe antes de la comparecencia de hoy. Cuando tengamos lo que se ha dicho en el Pleno, lo añadiremos e indicaremos el cambio. No hemos localizado una respuesta de la Consejería al encierro: la versión de que el director general no estaba es la que da el comité.",
 "no_sabemos": [
-"Cuánto durará el encierro y si la consejera recibirá a estos docentes. Lo actualizaremos.",
+"Si la consejera recibirá al comité de huelga. Lo actualizaremos.",
 "Qué dirá hoy la consejera y si anunciará algún cambio. Lo actualizaremos.",
-"Cuánto costarían las peticiones. Zarzalejo dice que son inasumibles, y no hemos localizado una cifra de ninguna de las partes.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
-"Cuánta gente sigue la huelga de verdad. Solo tenemos las cifras de las dos partes, muy distintas.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
-"Si el comité acudirá finalmente a los tribunales.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+"Cuánto costarían las peticiones. Zarzalejo dice que son inasumibles, y no hemos localizado una cifra de ninguna de las partes.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Cuánta gente sigue la huelga de verdad. Solo tenemos las cifras de las dos partes, muy distintas.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
+"Si el comité acudirá finalmente a los tribunales.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
 ],
 "fuentes": [
 {
 "n": 1,
+"nombre": "The Objective, sobre el final del encierro",
+"url": "https://theobjective.com/espana/madrid/2026-11-05/docentes-huelga-madrid-rrhh-educacion/",
+"tipo": "prensa"
+},
+{
+"n": 2,
 "nombre": "El Debate, sobre el encierro",
 "url": "https://www.eldebate.com/espana/madrid/20261105/nueve-profesores-encierran-consejeria-educacion-exigir-reunion-comunidad-madrid_477478.html",
 "tipo": "prensa"
 },
 {
-"n": 2,
+"n": 3,
 "nombre": "Europa Press",
 "url": "https://www.europapress.es/madrid/noticia-asamblea-aprueba-jueves-ley-abogacia-pleno-volvera-comparecer-zarzalejo-huelga-20261105055954.html",
 "tipo": "prensa"
 },
 {
-"n": 3,
+"n": 4,
 "nombre": "Telemadrid",
 "url": "https://www.telemadrid.es/noticias/madrid/profesores-cortan-42-cuarta-semana_1_2788693.html",
 "tipo": "prensa"
 },
 {
-"n": 4,
+"n": 5,
 "nombre": "Madridiario",
 "url": "https://www.madridiario.es/profesores-protestas-42-reclaman-zarzalejo-negociar",
 "tipo": "prensa"
 },
 {
-"n": 5,
+"n": 6,
 "nombre": "El Debate",
 "url": "https://www.eldebate.com/espana/madrid/20261015/cientos-profesores-claman-ante-consejeria-educacion-madrid-segundo-dia-huelga_469968.html",
 "tipo": "prensa"
 },
 {
-"n": 6,
+"n": 7,
 "nombre": "El Salto",
 "url": "https://www.elsaltodiario.com/comunidad-madrid/comite-huelga-educativa-madrid-amenaza-acciones-legales-consejera-sigue-reunirse",
 "tipo": "prensa"
 },
 {
-"n": 7,
+"n": 8,
 "nombre": "infoLibre",
 "url": "https://www.infolibre.es/politica/universidad-publica-completa-circulo-huelga-educativa-comunidad-madrid_1_2239421.html",
 "tipo": "prensa"
 },
 {
-"n": 8,
+"n": 9,
 "nombre": "Diario de Rivas",
 "url": "https://www.diarioderivas.es/encierro-ceip-jarama-comunidad-educativa",
 "tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "El encierro ya ha terminado. Al publicar contamos, según El Debate, que seguían dentro y que no saldrían hasta que la consejera los recibiera. Cambiamos el titular y añadimos que eran miembros del comité de huelga y que se fueron sin reunión."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -521,7 +536,7 @@
 "etiqueta": "Buenos días",
 "claves": [],
 "titulo": "Buenos días. Es jueves, 5 de noviembre, y quedan 24 días para votar",
-"entradilla": "Una operación bajo secreto en el caso Koldo, Milei en Madrid, otra denuncia sobre Ceuta, nueve docentes encerrados en la Consejería de Educación de Madrid y un impuesto que propone Colau.",
+"entradilla": "Una operación bajo secreto en el caso Koldo, Milei en Madrid, otra denuncia sobre Ceuta, un encierro de docentes en la Consejería de Educación de Madrid y un impuesto que propone Colau.",
 "imagen": null,
 "esencial": [],
 "cuerpo": [
@@ -531,7 +546,7 @@
 },
 {
 "tipo": "p",
-"html": "Empezamos por lo que aún se está moviendo. La Guardia Civil ha hecho este jueves una operación dentro de una parte secreta del caso Koldo, en la Audiencia Nacional, con la Fiscalía Anticorrupción.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> El Mundo, citando fuentes de la investigación, escribe que incluye registros en domicilios y empresas, y que los agentes se han personado en la casa del exministro José Luis Ábalos en Valencia.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> El Español lo cuenta citando un programa de televisión.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> No hemos localizado una confirmación oficial, porque esa parte está bajo secreto. Una investigación no es una condena."
+"html": "Empezamos por lo que aún se está moviendo. La Guardia Civil ha hecho este jueves una operación dentro de una parte secreta del caso Koldo, en la Audiencia Nacional, con la Fiscalía Anticorrupción.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> Ha registrado la casa del exministro José Luis Ábalos en Valencia, y fuentes citadas por EFE hablan de seis detenidos.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> Lo que se investiga sigue bajo secreto. Una investigación no es una condena."
 },
 {
 "tipo": "p",
@@ -543,15 +558,15 @@
 },
 {
 "tipo": "p",
-"html": "En Madrid, nueve docentes se han encerrado en una sede de la Consejería de Educación para exigir una reunión con la consejera, Mercedes Zarzalejo, según El Debate.<sup class=\"ref\"><a href=\"#f9\">9</a></sup> La huelga indefinida de la pública madrileña va por su cuarta semana, y Zarzalejo comparece hoy en la Asamblea. El comité de huelga pide negociar y ella dice que lo que piden es inasumible.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> <a href=\"/actualidad/nueve-docentes-encierran-consejeria-educacion-madrid-zarzalejo/\">Lo contamos aquí</a>."
+"html": "En Madrid, nueve miembros del comité de huelga docente estuvieron algo más de una hora encerrados en una sede de la Consejería de Educación, y salieron sin conseguir una reunión.<sup class=\"ref\"><a href=\"#f9\">9</a></sup> La huelga indefinida de la pública madrileña va por su cuarta semana, y Zarzalejo comparece hoy en la Asamblea. El comité de huelga pide negociar y ella dice que lo que piden es inasumible.<sup class=\"ref\"><a href=\"#f11\">11</a></sup> <a href=\"/actualidad/nueve-docentes-encierran-consejeria-educacion-madrid-zarzalejo/\">Lo contamos aquí</a>."
 },
 {
 "tipo": "p",
-"html": "Y una propuesta de campaña: Ada Colau, de Frente Amplio, plantea un impuesto anual del 2 % a los patrimonios de más de un millón de euros y del 3 % a los de más de 50 millones. Dice que recaudaría más de 10.000 millones.<sup class=\"ref\"><a href=\"#f11\">11</a></sup> <a href=\"/actualidad/colau-propone-impuesto-patrimonios-mas-un-millon/\">Lo contamos aquí</a>."
+"html": "Y una propuesta de campaña: Ada Colau, de Frente Amplio, plantea un impuesto anual del 2 % a los patrimonios de más de un millón de euros y del 3 % a los de más de 50 millones. Dice que recaudaría más de 10.000 millones.<sup class=\"ref\"><a href=\"#f12\">12</a></sup> <a href=\"/actualidad/colau-propone-impuesto-patrimonios-mas-un-millon/\">Lo contamos aquí</a>."
 },
 {
 "tipo": "p",
-"html": "En el caso de las mascarillas, ya juzgado, José Luis Ábalos ha pedido al Tribunal Constitucional que anule su condena de 24 años y la suspenda mientras decide.<sup class=\"ref\"><a href=\"#f12\">12</a></sup><sup class=\"ref\"><a href=\"#f13\">13</a></sup> <a href=\"/actualidad/supremo-reclama-647000-euros-abalos-koldo-aldama/\">Lo hemos añadido aquí</a>."
+"html": "En el caso de las mascarillas, ya juzgado, José Luis Ábalos ha pedido al Tribunal Constitucional que anule su condena de 24 años y la suspenda mientras decide.<sup class=\"ref\"><a href=\"#f13\">13</a></sup><sup class=\"ref\"><a href=\"#f14\">14</a></sup> <a href=\"/actualidad/supremo-reclama-647000-euros-abalos-koldo-aldama/\">Lo hemos añadido aquí</a>."
 },
 {
 "tipo": "h",
@@ -559,11 +574,11 @@
 },
 {
 "tipo": "p",
-"html": "Hoy, el Pleno de la Asamblea de Madrid y el segundo día de huelga en las universidades públicas madrileñas.<sup class=\"ref\"><a href=\"#f10\">10</a></sup> A las 12 hay convocada una concentración ante la Consejería de Educación, y por la tarde una manifestación desde Atocha hasta la Puerta del Sol.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
+"html": "Hoy, el Pleno de la Asamblea de Madrid y el segundo día de huelga en las universidades públicas madrileñas.<sup class=\"ref\"><a href=\"#f11\">11</a></sup> A las 12 hay convocada una concentración ante la Consejería de Educación, y por la tarde una manifestación desde Atocha hasta la Puerta del Sol.<sup class=\"ref\"><a href=\"#f10\">10</a></sup>"
 },
 {
 "tipo": "p",
-"html": "Faltan 8 días para que empiece la campaña electoral, el 13 de noviembre. Y quedan 14 para pedir el voto por correo: el plazo acaba el 19. <a href=\"/como-votar/\">Cómo votar</a>.<sup class=\"ref\"><a href=\"#f14\">14</a></sup>"
+"html": "Faltan 8 días para que empiece la campaña electoral, el 13 de noviembre. Y quedan 14 para pedir el voto por correo: el plazo acaba el 19. <a href=\"/como-votar/\">Cómo votar</a>.<sup class=\"ref\"><a href=\"#f15\">15</a></sup>"
 },
 {
 "tipo": "h",
@@ -571,7 +586,7 @@
 },
 {
 "tipo": "p",
-"html": "A quién más afecta la operación del caso Koldo y qué se investiga en esa parte secreta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Si Defensa contestará a Amnistía Internacional. Qué dirá hoy Zarzalejo y si recibirá a los docentes encerrados. Lo iremos contando."
+"html": "A quién más afecta la operación del caso Koldo y qué se investiga en esa parte secreta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Si Defensa contestará a Amnistía Internacional. Qué dirá hoy Zarzalejo y si recibirá al comité de huelga. Lo iremos contando."
 }
 ],
 "voces": [],
@@ -592,14 +607,14 @@
 },
 {
 "n": 3,
-"nombre": "El Mundo",
-"url": "https://www.elmundo.es/espana/2026/11/05/6aec4851e9cf4ac94c8b459e.html",
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057519_0.html",
 "tipo": "prensa"
 },
 {
 "n": 4,
-"nombre": "El Español",
-"url": "https://www.elespanol.com/espana/tribunales/20261105/audiencia-nacional-ordena-uco-registrar-casa-abalos-valencia-nueva-operacion-caso-koldo/1003744446921_0.html",
+"nombre": "Ara",
+"url": "https://www.ara.cat/politica/sis-detinguts-nova-peca-secreta-cas-koldo_1_5900860.html",
 "tipo": "prensa"
 },
 {
@@ -628,42 +643,53 @@
 },
 {
 "n": 9,
+"nombre": "The Objective, sobre el final del encierro",
+"url": "https://theobjective.com/espana/madrid/2026-11-05/docentes-huelga-madrid-rrhh-educacion/",
+"tipo": "prensa"
+},
+{
+"n": 10,
 "nombre": "El Debate, sobre el encierro",
 "url": "https://www.eldebate.com/espana/madrid/20261105/nueve-profesores-encierran-consejeria-educacion-exigir-reunion-comunidad-madrid_477478.html",
 "tipo": "prensa"
 },
 {
-"n": 10,
+"n": 11,
 "nombre": "Europa Press",
 "url": "https://www.europapress.es/madrid/noticia-asamblea-aprueba-jueves-ley-abogacia-pleno-volvera-comparecer-zarzalejo-huelga-20261105055954.html",
 "tipo": "prensa"
 },
 {
-"n": 11,
+"n": 12,
 "nombre": "elDiario.es",
 "url": "https://www.eldiario.es/politica/colau-propone-impuesto-tax-the-rich-gravar-patrimonios-millon-euros_1_13639759.html",
 "tipo": "prensa"
 },
 {
-"n": 12,
+"n": 13,
 "nombre": "elDiario.es",
 "url": "https://www.eldiario.es/politica/abalos-pide-amparo-constitucional-anular-sentencia-apoya-aldama-coacusado-premiado_1_13639710.html",
 "tipo": "prensa"
 },
 {
-"n": 13,
+"n": 14,
 "nombre": "El Debate",
 "url": "https://www.eldebate.com/espana/20261105/abalos-pide-constitucional-anular-condena-suspender-cumplimiento-prision_477480.html",
 "tipo": "prensa"
 },
 {
-"n": 14,
+"n": 15,
 "nombre": "Cómo votar, con el calendario de la Junta Electoral Central",
 "url": "/como-votar/",
 "tipo": "propia"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-05",
+"texto": "A mediodía actualizamos la operación del caso Koldo, ya con registro y detenidos, y el encierro de los docentes, que ya ha terminado."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": "balance",

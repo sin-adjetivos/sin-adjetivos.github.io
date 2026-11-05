@@ -1,9 +1,1587 @@
 [
 {
 "medio": "The Objective",
+"titulo": "Un presunto cerebro de ‘Plus Ultra’ pide más tiempo al juez para reunir documentación",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/presunto-cerebro-plus-ultra-reunir-documentacion/",
+"fecha": "2026-11-05T18:24+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "La Junta Electoral avala el uso del DNI electrónico para votar",
+"url": "https://www.eldiario.es/politica/junta-electoral-avala-dni-electronico-votar_1_13642287.html",
+"fecha": "2026-11-05T18:15+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "​El PP reclama más garantías de seguridad en el voto postal para el 29-N tras adoptar Correos varias de sus exigencias",
+"url": "https://www.eldebate.com/espana/20261105/pp-reclama-garantias-seguridad-voto-postal-29n-adoptar-correos-varias-exigencias_477371.html",
+"fecha": "2026-11-05T18:15+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El resultat de les 'midterm' amenaça el cordó umbilical d'Israel",
+"url": "https://www.ara.cat/internacional/proxim-orient/resultat-midterm-amenaca-cordo-umbilical-d-israel_1_5900905.html",
+"fecha": "2026-11-05T18:13+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Junta Electoral levanta la prohibición de votar con el DNI electrónico para el 29N",
+"url": "https://www.abc.es/espana/junta-electoral-permitira-votar-dni-electronico-29n-20261105185049-nt.html",
+"fecha": "2026-11-05T18:12+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Junta Electoral levanta la suspensión del DNI digital para votar el 29-N",
+"url": "https://theobjective.com/espana/2026-11-05/junta-electoral-levanta-suspension-dni-digital-votar-29-n/",
+"fecha": "2026-11-05T18:11+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Germán Alonso Alegre, abogado: \"Si no te presentas en la mesa en una jornada electoral si no lo has avisado, parece mentira, pero podría haber hasta un delito electoral, con causas de prisión de 3 meses y hasta multa\"",
+"url": "https://www.cope.es/programas/la-tarde/noticias/german-alonso-alegre-abogado-no-te-presentas-mesa-jornada-electoral-no-has-avisado-parece-mentira-haber-delito-electoral-causas-prision-3-meses-multa-20261105_3469779.html",
+"fecha": "2026-11-05T18:10+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Un edil del PSOE denunciado en Almería deja su acta, pero niega la violencia de género",
+"url": "https://theobjective.com/espana/politica/2026-11-05/edil-psoe-almeria-denunciado-acta-violencia-de-genero/",
+"fecha": "2026-11-05T18:10+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La UCO investiga el contrato de Adif con la proveedora de piedra del AVE que tuvo a sueldo a la mujer de Koldo",
+"url": "https://www.abc.es/espana/andalucia/uco-investiga-contrato-adif-proveedora-piedra-ave-20261105190955-nts.html",
+"fecha": "2026-11-05T18:09+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Castilla-La Mancha registra 47.685 hectáreas quemadas, un 416% más que la media del decenio",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/castillala-mancha-registra-47685-hectareas-quemadas-416-20261105155112-nt.html",
+"fecha": "2026-11-05T18:08+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "La Guardia Civil deja en libertad a los seis arrestados en la nueva investigación del caso Koldo",
+"url": "https://www.cope.es/actualidad/espana/noticias/guardia-civil-deja-libertad-seis-arrestados-nueva-investigacion-caso-koldo-20261105_3469798.html",
+"fecha": "2026-11-05T18:08+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "18:00H | 05 NOV 2026 | La Tarde",
+"url": "https://www.cope.es/programas/la-tarde/horas-completas/18-00h-05-nov-2026-tarde-20261105_3469816.html",
+"fecha": "2026-11-05T18:08+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El exchófer de Sánchez detenido en Córdoba declaró que se reunió con Ábalos por «asuntos del partido»",
+"url": "https://www.abc.es/espana/exchofer-sanchez-detenido-cordoba-declaro-reunio-abalos-20261105185346-nt.html",
+"fecha": "2026-11-05T18:07+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Una cumbre deslucida",
+"url": "https://www.cope.es/actualidad/linea-editorial/noticias/cumbre-deslucida-20261105_3469812.html",
+"fecha": "2026-11-05T18:05+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido en Mallorca por robar relojes de lujo de 34.000 euros a turistas con engaños y violencia",
+"url": "https://www.eldebate.com/espana/baleares/20261105/detenido-mallorca-robar-relojes-lujo-34000-euros-turistas-enganos-violencia_477839.html",
+"fecha": "2026-11-05T18:05+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Sánchez, ante el resurgir del caso Koldo: «No es nada nuevo y no tienen nada que ver conmigo»",
+"url": "https://www.abc.es/espana/sanchez-ante-resurgir-koldo-nuevo-ver-conmigo-20261105182625-nt.html",
+"fecha": "2026-11-05T18:04+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El crimen machista de Pazos, la mujer a la que «mataron dos veces» que inspira la nueva serie de Netflix",
+"url": "https://www.abc.es/espana/galicia/crimen-machista-pazos-mujer-mataron-dos-veces-20261105190440-nt.html",
+"fecha": "2026-11-05T18:04+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El fútbol español se une en homenaje a Jesús de Miguel",
+"url": "https://theobjective.com/deportes/futbol/2026-11-05/futbol-espanol-homenaje-jesus-de-miguel/",
+"fecha": "2026-11-05T18:04+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Grave una mujer de 62 años tras ser arrollada por su propio coche en el arcén de la A-3",
+"url": "https://www.abc.es/espana/madrid/grave-mujer-anos-tras-arrollada-propio-coche-20261105190301-nt.html",
+"fecha": "2026-11-05T18:03+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "47 trenes circularon durante 22 horas por el carril ya roto de Adamuz antes de la tragedia",
+"url": "https://okdiario.com/espana/47-trenes-durante-22-horas-circularon-carril-ya-roto-adamuz-antes-tragedia-20710885",
+"fecha": "2026-11-05T18:03+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Dos menores de Lérida elevan a nueve los detenidos por instigar los disturbios de Blocus en Cataluña",
+"url": "https://www.abc.es/espana/cataluna/dos-menores-lerida-elevan-nueve-detenidos-instigar-20261105184924-nt.html",
+"fecha": "2026-11-05T18:02+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Gamarra defiende que el PP «sentó a Koldo en el banquillo» y «ahora está condenado a más de 19 años de cárcel»",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/gamarra-defiende-pp-sento-koldo-banquillo-ahora-esta-condenado-19-anos-carcel_477838.html",
+"fecha": "2026-11-05T18:02+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Covite advierte tras la detención del líder de Jardun: «ETA no ha regresado, pero no podemos mirar hacia otro lado»",
+"url": "https://www.abc.es/espana/pais-vasco/covite-advierte-tras-detencion-lider-jardun-eta-20261105190112-nt.html",
+"fecha": "2026-11-05T18:01+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Eisenkot guanya opcions per rebre l’encàrrec de formar govern i desbancar Netanyahu",
+"url": "https://www.ara.cat/internacional/proxim-orient/eisenkot-guanya-opcions-rebre-l-encarrec-formar-govern-desbancar-netanyahu_1_5901340.html",
+"fecha": "2026-11-05T18:01+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Rosalía, diseccionada desde la música",
+"url": "https://www.abc.es/espana/cataluna/rosalia-diseccionada-musica-20261105190025-nt.html",
+"fecha": "2026-11-05T18:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Las seis monedas gallegas que el BOE reconoce como piezas de valor histórico excepcional",
+"url": "https://www.eldebate.com/espana/galicia/20261105/seis-monedas-gallegas-boe-reconoce-como-piezas-valor-historico-excepcional_477577.html",
+"fecha": "2026-11-05T18:00+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Vivas eleva el tono y vincula el futuro de Ceuta al 29N: “La salvación y la reconstrucción dependen de esas elecciones”",
+"url": "https://www.larazon.es/espana/vivas-eleva-tono-vincula-futuro-ceuta-29n-salvacion-reconstruccion-dependen-esas-elecciones_202611056aecc4339a31a65adcd11c26.html",
+"fecha": "2026-11-05T18:00+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Sánchez tira de manual: dice que no conoce al chófer con el que se hizo fotos y al que dio las gracias en público",
+"url": "https://okdiario.com/espana/sanchez-tira-manual-dice-que-no-conoce-chofer-que-hizo-fotos-que-dio-gracias-publico-20709755",
+"fecha": "2026-11-05T17:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Santiago Abascal participa en un acto de precampaña en Teruel, en directo",
+"url": "https://www.eldebate.com/espana/20261105/santiago-abascal-participa-acto-precampana-teruel-directo_477762.html",
+"fecha": "2026-11-05T17:57+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La acampada de Valencia acepta retirarse si se descarta el «desalojo forzoso» y hay compromisos institucionales",
+"url": "https://www.abc.es/espana/comunidad-valenciana/acampada-valencia-acepta-retirarse-descarta-desalojo-forzoso-20261105183048-nt.html",
+"fecha": "2026-11-05T17:56+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La Junta Electoral acepta que se pueda votar con el DNI digital",
+"url": "https://www.lavanguardia.com/politica/20261105/11677185/junta-electoral-acepta-pueda-votar-dni-digital.html",
+"fecha": "2026-11-05T17:55+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La UCO acude a la sede de Azvi en Sevilla para requerirle documentación por el ‘caso Koldo’",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/uco-azvi-documentacion-caso-koldo/",
+"fecha": "2026-11-05T17:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Guardia Civil deja en libertad a las seis personas detenidas este jueves por el caso Koldo",
+"url": "https://www.eldebate.com/espana/20261105/guardia-civil-deja-libertad-seis-personas-detenidas-este-jueves-caso-koldo_477832.html",
+"fecha": "2026-11-05T17:53+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Feijóo defiende poner fecha a la celebración de elecciones en Venezuela durante una videoconferencia con María Corina Machado",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aecc228fc6c83f6498b4577.html",
+"fecha": "2026-11-05T17:52+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Las asociaciones profesionales amparan a un periodista de EL PAÍS tras recibir amenazas por una información sobre el accidente de Urda",
+"url": "https://elpais.com/espana/2026-11-05/las-asociaciones-profesionales-amparan-a-un-periodista-de-el-pais-tras-recibir-amenazas-por-una-informacion-sobre-el-accidente-de-urda.html",
+"fecha": "2026-11-05T17:49+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez se borra del funeral de Urda en la catedral de Toledo y enviará a Cuerpo y Tolón",
+"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-cuerpo-tolon-urda/",
+"fecha": "2026-11-05T17:46+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Juanma Moreno: «Padres de otras comunidades nos piden el fármaco contra la piel de mariposa»",
+"url": "https://www.abc.es/espana/andalucia/juanma-moreno-padres-comunidades-piden-farmaco-ala-20261105180006-nts.html",
+"fecha": "2026-11-05T17:45+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El Hilo | A Geraldo Rivera le partieron la nariz",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/cronologia-caso-zapatero_4362495/",
+"fecha": "2026-11-05T17:45+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El cerebro financiero del \"caso Plus Ultra\" pide al juez más tiempo para recabar información sobre sus clientes",
+"url": "https://www.larazon.es/espana/cerebro-financiero-caso-plus-ultra-pide-juez-mas-tiempo-recabar-informacion-sus-clientes_202611056aecc09cea8d8979977a7699.html",
+"fecha": "2026-11-05T17:45+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "\"Ninguna de estas personas tiene que ver conmigo\": Sánchez niega su relación con Corvillo como hizo con Koldo o Leire",
+"url": "https://www.elespanol.com/espana/politica/20261105/ninguna-personas-ver-conmigo-sanchez-niega-relacion-corvillo-hizo-koldo-leire/1003744447948_0.html",
+"fecha": "2026-11-05T17:43+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Toni Pérez: «La WTM marca el primer paso de un pronóstico acertado de la actividad turística en 2027»",
+"url": "https://www.abc.es/espana/comunidad-valenciana/alicante/toni-perez-wtm-marca-primer-paso-pronostico-20261105184257-nt.html",
+"fecha": "2026-11-05T17:42+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Un nuevo nombramiento y dos sustituciones rellenan un organigrama de la Junta que sigue con huecos",
+"url": "https://www.abc.es/espana/castilla-leon/nuevo-nombramiento-dos-sustituciones-completan-organigrama-junta-20261105184120-nt.html",
+"fecha": "2026-11-05T17:41+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Guardia Civil deja en libertad a los seis detenidos en la nueva pieza del ‘caso Koldo’",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/en-libertad-detenidos-caso-koldo/",
+"fecha": "2026-11-05T17:41+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Gran Wyoming, sobre su relación con Irene, 25 años más joven que él: «No sé vivir solo»",
+"url": "https://theobjective.com/gente/2026-11-05/el-gran-wyoming-sobre-su-relacion-con-irene-25-anos-mas-joven-que-el-no-se-vivir-solo/",
+"fecha": "2026-11-05T17:40+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Un medio afín al Gobierno dice que Sánchez no irá al funeral por las víctimas de Urda",
+"url": "https://www.eldebate.com/espana/20261105/medio-afin-gobierno-dice-sanchez-no-ira-funeral-victimas-urda_477824.html",
+"fecha": "2026-11-05T17:39+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El PP denuncia a la ministra de Vivienda por «vulnerar» la Ley Electoral en Burgos",
+"url": "https://www.abc.es/espana/castilla-leon/pp-denuncia-ministra-vivienda-vulnerar-ley-electoral-20261105180928-nt.html",
+"fecha": "2026-11-05T17:38+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El juez pide a la UCO copia del móvil de Koldo y de los socios de Aldama",
+"url": "https://www.larazon.es/espana/juez-pide-uco-copia-movil-koldo-socios-aldama_202611056aecbf119a31a65adcd11581.html",
+"fecha": "2026-11-05T17:38+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La gripe se mantiene en niveles bajos y las consultas caen un 14%",
+"url": "https://www.abc.es/espana/galicia/gripe-mantiene-niveles-bajos-consultas-caen-20261105165539-nt.html",
+"fecha": "2026-11-05T17:37+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Detenido un manifestante en una protesta frente a la consejería en la huelga de educación en Madrid",
+"url": "https://www.abc.es/espana/madrid/detenido-manifestante-protesta-enmarcada-huelga-educativa-indefinida-20261105170806-nt.html",
+"fecha": "2026-11-05T17:36+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Rufián saldrá a «defenderse» de PP y Vox en la campaña del 29-N y participará el día 21 en un acto de Podemos en Madrid",
+"url": "https://www.abc.es/espana/cataluna/rufian-saldra-defenderse-pp-vox-campana-29n-20261105131246-nt.html",
+"fecha": "2026-11-05T17:36+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Las 91 viviendas protegidas de alquiler asequible de Malilla estarán en el segundo semestre de 2027",
+"url": "https://www.abc.es/espana/comunidad-valenciana/viviendas-protegidas-alquiler-asequible-malilla-segundo-semestre-20261105170930-nt.html",
+"fecha": "2026-11-05T17:34+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La Guardia Civil deja en libertad a los seis detenidos en la nueva pieza del \"caso Koldo\"",
+"url": "https://www.larazon.es/espana/guardia-civil-deja-libertad-seis-detenidos-nueva-pieza-caso-koldo_202611056aecbe1c9a31a65adcd113f1.html",
+"fecha": "2026-11-05T17:34+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Sánchez evita confrontar con Milei: \"El insulto no forma parte de mi manera de hacer política\"",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-evita-confrontar-milei-insulto-no-forma-parte-manera-hacer-politica-20261105183308.html",
+"fecha": "2026-11-05T17:33+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "La Policía Nacional identifica a dos altos mandos policiales de Marruecos que dieron instrucciones a los migrantes durante la llegada masiva a Ceuta",
+"url": "https://www.cope.es/actualidad/espana/noticias/policia-nacional-identifica-dos-altos-mandos-policiales-marruecos-dieron-instrucciones-migrantes-llegada-masiva-ceuta-20261105_3469775.html",
+"fecha": "2026-11-05T17:31+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez se desvincula de la detención de su exchófer: «No tiene nada que ver conmigo»",
+"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-se-desvincula-detencion-exchofer/",
+"fecha": "2026-11-05T17:31+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Ya no hay espacio en las casas para soperas de plata",
+"url": "https://okdiario.com/madrid/ya-no-hay-espacio-casas-soperas-plata-20709135",
+"fecha": "2026-11-05T17:30+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "«Nino Bravo Rock & Corazón» reivindicará el legado del artista valenciano el 6 de marzo en la Sala Auditorio Roig Arena",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/nino-bravo-rock-amp-corazon-reivindicara-legado-artista-valenciano-6-marzo-sala-auditorio-roig-arena_477823.html",
+"fecha": "2026-11-05T17:30+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Gran Wyoming se jubila después de 21 años al frente de ‘El intermedio’",
+"url": "https://theobjective.com/medios/television/2026-11-05/gran-wyoming-jubilara-enero-21-anos-el-intermedio/",
+"fecha": "2026-11-05T17:24+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
+"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+"fecha": "2026-11-05T17:22+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Sánchez se desvincula de los detenidos por el caso Koldo: “Ninguno tiene nada que ver conmigo”",
+"url": "https://www.lavanguardia.com/politica/20261105/11677162/sanchez-desvincula-detenidos-caso-koldo-ninguno-ver.html",
+"fecha": "2026-11-05T17:22+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La dulce jubilación de El Gran Wyoming siendo aún más rico que cuando llegó a laSexta: así será su vida tranquila en Arturo Soria junto a su novia y sus hijos",
+"url": "https://theobjective.com/gente/2026-11-05/dulce-jubilacion-gran-wyoming-rico-novia-hijos/",
+"fecha": "2026-11-05T17:21+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "El rey Felipe VI recibe a Zelenski en la Zarzuela tras su reunión con los líderes iberoamericanos",
+"url": "https://www.20minutos.es/nacional/rey-felipe-vi-recibe-zelenski-zarzuela-tras-su-reunion-con-los-lideres-iberoamericanos_7057833_0.html",
+"fecha": "2026-11-05T17:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Proponen 6.000 euros de multa por salvar a las lagartijas de Ibiza del acoso de las serpientes",
+"url": "https://www.eldebate.com/espana/baleares/20261105/proponen-6000-euros-multa-salvar-lagartijas-ibiza-acoso-serpientes_477819.html",
+"fecha": "2026-11-05T17:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vox bate su récord histórico de afiliados, roza los 75.000 y mantiene su crecimiento en Córdoba",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261105/vox-bate-record-historico-afiliados-roza-75000-mantiene-crecimiento-cordoba_477816.html",
+"fecha": "2026-11-05T17:18+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Junta Electoral autoriza el DNI digital en las urnas basándose en la confirmación de Interior",
+"url": "https://www.eldebate.com/espana/20261105/junta-electoral-autoriza-dni-digital-urnas-basandose-confirmacion-interior_477817.html",
+"fecha": "2026-11-05T17:18+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "La justícia resol que l'Ajuntament de Martorell discrimina una veïna al no empadronar-la",
+"url": "https://www.ara.cat/societat/justicia/justicia-resol-l-ajuntament-martorell-discrimina-veina-no-empadronar_1_5900850.html",
+"fecha": "2026-11-05T17:15+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Sánchez se desvincula de los detenidos en el 'caso Koldo': \"Ninguna de estas personas tiene nada que ver conmigo\"",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-detenciones-caso-koldo-ninguna-personas-tiene-nada-ver-conmigo-20261105181439.html",
+"fecha": "2026-11-05T17:14+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Sánchez menosprecia el operativo de la UCO por la corrupción en Transportes: «No es nada nuevo»",
+"url": "https://www.eldebate.com/espana/20261105/sanchez-menosprecia-operativo-uco-corrupcion-transportes-no-nada-nuevo_477749.html",
+"fecha": "2026-11-05T17:11+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Fiscalía rebaja la petición de cárcel para el expresidente madrileño Ignacio González en el caso Lezo",
+"url": "https://www.eldebate.com/espana/madrid/20261105/fiscalia-rebaja-peticion-carcel-expresidente-madrileno-ignacio-gonzalez-caso-lezo_477810.html",
+"fecha": "2026-11-05T17:07+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El sector asistencial destaca el papel de los cuidadores ante el envejecimiento poblacional",
+"url": "https://theobjective.com/sociedad/2026-11-05/sector-asistencial-papel-cuidadores-envejecimiento/",
+"fecha": "2026-11-05T17:06+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El ‘Circuito Gran Vía’ incrementa un 45% sus anunciantes y un 25% sus campañas en 2026",
+"url": "https://theobjective.com/economia/2026-11-05/circuito-gran-via-campanas-anunciantes/",
+"fecha": "2026-11-05T17:06+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "La Inspecció de Treball obre un expedient al departament de Cultura al detectar més de 200 \"falsos becaris\"",
+"url": "https://www.ara.cat/economia/mercat-laboral/inspeccio-treball-obre-expedient-departament-cultura-detectar-mes-200-falsos-becaris_1_5901173.html",
+"fecha": "2026-11-05T17:04+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Cumbre alcanza un acuerdo unánime con varias objeciones de Argentina",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aecaec7fdddffe5458b456e.html",
+"fecha": "2026-11-05T17:04+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El PSOE de Torrent (Valencia) hace una loa del dimitido Óscar Puente y lo invita a dar un mitin: «Nos haría ilusión escucharte»",
+"url": "https://okdiario.com/comunidad-valenciana/psoe-torrent-valencia-hace-loa-del-dimitido-oscar-puente-lo-invita-dar-mitin-nos-haria-ilusion-escucharte-20709528",
+"fecha": "2026-11-05T17:04+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Fundación Miaoquehago crea una línea de becas para musicoterapia",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/sociedad/20261105/fundacion-miaoquehago-crea-linea-becas-musicoterapia_477808.html",
+"fecha": "2026-11-05T17:03+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Séptima se estrena con una entrevista a Rufián: «Mazón es un homicida imprudente»",
+"url": "https://theobjective.com/espana/politica/2026-11-05/septima-estrena-entrevista-rufian/",
+"fecha": "2026-11-05T17:02+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "“La dreta utilitza la meritocràcia per justificar la desigualtat”",
+"url": "https://www.ara.cat/societat/dreta-utilitza-meritocracia-justificar-desigualtat_128_5901075.html",
+"fecha": "2026-11-05T17:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Un mal guàrdia urbà",
+"url": "https://www.ara.cat/opinio/mal-guardia-urba_129_5901219.html",
+"fecha": "2026-11-05T17:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El frío se recrudece en Galicia con mínimas de casi 10 grados bajo cero antes del regreso de las lluvias",
+"url": "https://www.eldebate.com/espana/galicia/20261105/frio-recrudece-galicia-minimas-casi-10-grados-bajo-cero-antes-regreso-lluvias_477467.html",
+"fecha": "2026-11-05T17:00+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El PP incluye en su programa que España renuncie al Mundial 2030 si no alberga la final",
+"url": "https://theobjective.com/espana/politica/2026-11-05/pp-espana-renuncia-mundial-2030-final/",
+"fecha": "2026-11-05T16:58+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Córdoba reúne creatividad, innovación y emprendimiento en el III Congreso de Artes Escénicas",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261105/cordoba-reune-creatividad-innovacion-emprendimiento-iii-congreso-artes-escenicas_477804.html",
+"fecha": "2026-11-05T16:54+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Vuelve el mal tiempo a España: una borrasca traerá lluvias intensas y fuertes vientos",
+"url": "https://www.20minutos.es/nacional/vuelve-mal-tiempo-espana-una-borrasca-traera-lluvias-intensas-fuertes-vientos_7057824_0.html",
+"fecha": "2026-11-05T16:53+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Pérez Llorca reivindica a Feijóo como alternativa a Sánchez y llama a movilizarse: «La gente tiene ganas de cambio»",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/perez-llorca-reivindica-feijoo-como-alternativa-sanchez-llama-movilizarse-gente-tiene-ganas-cambio_477802.html",
+"fecha": "2026-11-05T16:52+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Fiscalía rebaja la petición de cárcel para Ignacio González por el ‘caso Lezo’",
+"url": "https://theobjective.com/espana/tribunales/2026-11-05/fiscalia-rebaja-peticion-carcel-ignacio-gonzalez/",
+"fecha": "2026-11-05T16:51+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Alerta en Córdoba: la Policía avisa de una oleada de suplantación de cuentas de Whatsapp",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261105/alerta-cordoba-policia-avisa-oleada-suplantacion-cuentas-whatsapp_477760.html",
+"fecha": "2026-11-05T16:47+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Bomberos de Córdoba a la gresca por la participación en la Cabalgata de Reyes",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/sociedad/20261105/bomberos-cordoba-gresca-participacion-cabalgata-reyes_477757.html",
+"fecha": "2026-11-05T16:47+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El deterioro de las carreteras estuvo presente en más de 1.000 accidentes de tráfico con víctimas durante 2025",
+"url": "https://okdiario.com/espana/deterioro-carreteras-estuvo-presente-mas-1-000-accidentes-trafico-victimas-durante-2025-20710038",
+"fecha": "2026-11-05T16:46+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Dimite el presidente de Paraguay tras el colapso de uno de los mayores bancos del país",
+"url": "https://theobjective.com/internacional/2026-11-05/dimite-presidente-paraguay-intervencion-banco-ueno/",
+"fecha": "2026-11-05T16:46+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Hallan 110 perros desnutridos y con signos de maltrato en una parcela de la localidad valenciana de Buñol",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/hallan-110-perros-desnutridos-signos-maltrato-parcela-localidad-valenciana-bunol_477796.html",
+"fecha": "2026-11-05T16:46+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Zelenski pide apoyo a los países iberoamericanos y Sánchez avisa: “Mañana podríamos ser nosotros”",
+"url": "https://www.lavanguardia.com/politica/20261105/11677127/zelenski-pide-apoyo-paises-iberoamericanos-sanchez-avisa-manana.html",
+"fecha": "2026-11-05T16:40+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El PP denunciará a la ministra de Vivienda por vulnerar la Ley Electoral en un acto en Burgos",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/pp-denunciara-ministra-vivienda-ante-junta-electoral-exhibir-logros-acto-burgos_477763.html",
+"fecha": "2026-11-05T16:40+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Amnistia Internacional documenta noves agressions a migrants a Ceuta i denuncia la inacció de Defensa",
+"url": "https://www.ara.cat/societat/amnistia-internacional-documenta-noves-agressions-migrants-ceuta-denuncia-inaccio-defensa_1_5900780.html",
+"fecha": "2026-11-05T16:39+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El World Press Photo expone en el Cccb los conflictos de Gaza y Ucrania y la crisis medioambiental",
+"url": "https://www.eldebate.com/espana/cataluna/barcelona/20261105/world-press-photo-expone-cccb-conflictos-gaza-ucrania-crisis-medioambientalr_477792.html",
+"fecha": "2026-11-05T16:39+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Juan Baños, jefe de interior de COPE, sobre el arresto de la expareja de Ábalos: \"Se está buscando alguna pista del dinero del patrimonio que pudiera esconder Ábalos, y ella podría hacer algún tipo de trabajo en relación con ese patrimonio\"",
+"url": "https://www.cope.es/programas/la-tarde/noticias/juan-banos-jefe-interior-cope-sobre-arresto-expareja-abalos-buscando-pista-dinero-patrimonio-pudiera-esconder-abalos-tipo-trabajo-relacion-ese-patrimonio-20261105_3469768.html",
+"fecha": "2026-11-05T16:35+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Renfe mantiene hasta el 12 de noviembre los autobuses entre Madrid y Puertollano",
+"url": "https://theobjective.com/economia/transporte/2026-11-05/renfe-mantiene-hasta-12-noviembre-autobuses-entre-madrid-puertollano/",
+"fecha": "2026-11-05T16:34+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Agenda Valenciana se reivindica como «la quinta papeleta» en las elecciones generales del 29N",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/agenda-valenciana-reivindica-como-quinta-papeleta-elecciones-generales-29n_477776.html",
+"fecha": "2026-11-05T16:33+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez pide a los líderes iberoamericanos apoyar a Ucrania: «Hay un agresor y un agredido»",
+"url": "https://theobjective.com/internacional/2026-11-05/sanchez-lideres-iberoamericanos-apoyo-ucrania/",
+"fecha": "2026-11-05T16:31+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Gobierno de Sánchez destina 45.000 euros a derribar en Menorca una 'caseta de vorera' protegida",
+"url": "https://www.eldebate.com/espana/baleares/20261105/gobierno-sanchez-destina-45000-euros-derribar-menorca-caseta-vorera-protegida_477787.html",
+"fecha": "2026-11-05T16:29+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Ana Vázquez carga contra Sánchez: «La corrupción y la mala gestión matan»",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/ana-vazquez-carga-contra-sanchez-dana-corrupcion-mala-gestion-matan_477777.html",
+"fecha": "2026-11-05T16:29+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Gobierno quiere retirar de Ceuta «cuanto antes» los recursos temporales de inmigrantes",
+"url": "https://theobjective.com/espana/politica/2026-11-05/gobierno-trabajar-retirar-residencias-temporales-ceuta/",
+"fecha": "2026-11-05T16:24+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El presunto cerebro financiero del caso Plus Ultra pide al juez más tiempo para recabar información sobre sus clientes",
+"url": "https://www.eldebate.com/espana/20261105/presunto-cerebro-financiero-caso-plus-ultra-pide-juez-tiempo-recabar-informacion-sobre-clientes_477768.html",
+"fecha": "2026-11-05T16:22+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Ayuntamiento socialista de Chiclana (Cádiz) pide implantar una tasa de tres euros en los hoteles de 5 estrellas",
+"url": "https://www.eldebate.com/espana/andalucia/cadiz/20261105/ayuntamiento-socialista-chiclana-cadiz-pide-implantar-tasa-tres-euros-hoteles-5-estrellas_477778.html",
+"fecha": "2026-11-05T16:18+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "CCOO denuncia «condiciones precarias» con las que el Tribunal de Instancia de Orgaz investiga el accidente de Urda",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261105/ccoo-denuncia-condiciones-precarias-tribunal-instancia-orgaz-investiga-accidente-urda_477752.html",
+"fecha": "2026-11-05T16:17+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Ricardo Díaz, catedrático de Ingeniería Química y Materiales, sobre las infraestructuras ferroviarias: \"Ahora tendremos que invertir 10 veces más y además esperar 10 años para tener el servicio que deberíamos tener\"",
+"url": "https://www.cope.es/programas/la-tarde/noticias/ricardo-diaz-catedratico-ingenieria-quimica-materiales-sobre-infraestructuras-ferroviarias-tendremos-invertir-10-veces-esperar-10-anos-servicio-deberiamos-20261105_3469760.html",
+"fecha": "2026-11-05T16:15+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Así funciona el Programa Nacional de Seguridad para la Aviación Civil, el protocolo ante amenaza de bomba en aviones",
+"url": "https://www.20minutos.es/nacional/funciona-programa-nacional-seguridad-aviacion-civil-protocolo-amenaza-bomba-aviones_7057803_0.html",
+"fecha": "2026-11-05T16:15+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Vicente Vallés no se muerde la lengua y dice lo que piensa toda España sobre Óscar Puente: «Defendieron que el ministro no tenía culpa de nada»",
+"url": "https://okdiario.com/espana/vicente-valles-no-muerde-lengua-dice-lo-que-piensa-toda-espana-sobre-oscar-puente-defendieron-que-ministro-no-tenia-culpa-nada-20709450",
+"fecha": "2026-11-05T16:13+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Herido un hombre de 49 años en una colisión entre un coche y una moto en Zizur Mayor",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/accidente-coche-moto-zizur-mayor-1tna-1tps_4459787/",
+"fecha": "2026-11-05T16:11+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Dimite una teniente de alcaldía de Esparreguera por la investigación que implica al exjefe de gabinete de Illa",
+"url": "https://www.lavanguardia.com/politica/20261105/11677050/dimite-teniente-alcaldia-esparreguera-investigacion-implica-exjefe-gabinete-illa.html",
+"fecha": "2026-11-05T16:09+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Abascal insiste en sentar a Sánchez en el banquillo tras desvelar El Debate que la filtración contra el operario vendría de Moncloa",
+"url": "https://www.eldebate.com/espana/20261105/abascal-insiste-sentar-sanchez-banquillo-desvelar-debate-filtracion-contra-operario-vendria-moncloa_477731.html",
+"fecha": "2026-11-05T16:08+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vivas lamenta aumento de agresiones sexuales y prostitución en Ceuta por la invasión",
+"url": "https://www.eldebate.com/espana/20261105/vivas-lamenta-aumento-agresiones-sexuales-prostitucion-ceuta-invasion_477746.html",
+"fecha": "2026-11-05T16:07+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Demostración de fuerza del PP en Alicante a horas del mitin de Sánchez en Valencia: 1.000 personas para oír a Ester Muñoz",
+"url": "https://okdiario.com/comunidad-valenciana/demostracion-fuerza-del-pp-alicante-horas-del-mitin-sanchez-valencia-1-000-personas-oir-ester-munoz-20707070",
+"fecha": "2026-11-05T16:06+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Pedro Sánchez atiende a los medios de comunicación junto a Andrés Allamand y Nasry Asfura, en directo",
+"url": "https://www.eldebate.com/espana/20261105/pedro-sanchez-atiende-medios-comunicacion-junto-andres-allamand-nasry-asfura-directo_477750.html",
+"fecha": "2026-11-05T16:04+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vox no tendrá espacio informativo propio en campaña en la televisión pública gallega",
+"url": "https://www.eldebate.com/espana/galicia/20261105/vox-no-tendra-espacio-informativo-propio-campana-television-publica-gallega_477687.html",
+"fecha": "2026-11-05T16:04+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "FIMMA + Maderalia 2026 prevé su edición más internacional impulsada por la construcción industrializada",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/fimma-maderalia-2026-preve-edicion-internacional-impulsada-construccion-industrializada_477758.html",
+"fecha": "2026-11-05T16:03+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Fotos, vídeos y hasta un discurso de Sánchez: las redes fulminan el relato del Gobierno sobre Cristian Corvillo",
+"url": "https://www.larazon.es/espana/fotos-videos-discurso-sanchez-redes-fulminan-relato-gobierno-cristian-corvillo_202611056aeca81903bbf30bb040dbdb.html",
+"fecha": "2026-11-05T16:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Palma recupera la plaza de España tras 40 días de acampada: «Las normas son para todos»",
+"url": "https://www.eldebate.com/espana/baleares/20261105/palma-recupera-plaza-espana-40-dias-acampada-normas-son-todos_477754.html",
+"fecha": "2026-11-05T15:58+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Los primeros 50 aparcamientos públicos para residentes de Madrid serán robotizados en 2027",
+"url": "https://www.eldebate.com/espana/madrid/20261105/primeros-50-aparcamientos-publicos-residentes-madrid-seran-robotizados-2027_477736.html",
+"fecha": "2026-11-05T15:55+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La \"desregulación\", a debate: dos 'think tanks' españoles abogan por derogar una de cada cinco leyes aprobadas desde 2004",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec92c021efa066668b45b0.html",
+"fecha": "2026-11-05T15:54+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Iker Álvarez, el progreso del Córdoba y Andorra",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261105/iker-alvarez-progreso-cordoba-andorra_477748.html",
+"fecha": "2026-11-05T15:53+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El Suprem rebutja investigar els magistrats progressistes del Constitucional per la sentència sobre l'amnistia a la malversació",
+"url": "https://www.ara.cat/politica/suprem-rebutja-investigar-magistrats-progressistes-constitucional-sentencia-l-amnistia-malversacio_25_5901203.html",
+"fecha": "2026-11-05T15:52+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Sánchez",
+"url": "https://www.eldebate.com/espana/20261105/sanchez_477742.html",
+"fecha": "2026-11-05T15:50+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Mercadona lidera la distribución agroalimentaria en España y sitúa a la Comunidad Valenciana al frente del mercado nacional",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/mercadona-lidera-distribucion-agroalimentaria-espana-situa-comunidad-valenciana-frente-mercado-nacional_477730.html",
+"fecha": "2026-11-05T15:50+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Rufián ahonda en la fractura de Compromís y convoca en solitario un mitin en Castellón",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/rufian-ahonda-fractura-compromis-convoca-solitario-mitin-castellon_477729.html",
+"fecha": "2026-11-05T15:49+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Las 'Ciudades imposibles' de Mariló F. Taguas se muestran en la Fundación Rafael Botí",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/cultura/20261105/ciudades-imposibles-marilo-f-taguas-muestran-fundacion-rafael-boti_477741.html",
+"fecha": "2026-11-05T15:49+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Una potente borrasca atlántica provocará tres días de lluvias en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/potente-borrasca-atlantica-provocara-tres-dias-lluvias-comunidad-valenciana_477738.html",
+"fecha": "2026-11-05T15:44+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Triunfo a San Rafael de la plaza de Aguayos es el primero en ser restaurado",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/cultura/20261105/triunfo-san-rafael-plaza-aguayos-primero-restaurado_477727.html",
+"fecha": "2026-11-05T15:40+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido por pegar a su madre anciana que se negó a darle dinero, y golpear también a su propia novia",
+"url": "https://www.eldebate.com/espana/baleares/20261105/detenido-pegar-madre-anciana-nego-darle-dinero-golpear-tambien-propia-novia_477697.html",
+"fecha": "2026-11-05T15:39+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "La Junta Electoral rebutja esborrar el nom d'Óscar Puente de la papereta del PSOE a Valladolid",
+"url": "https://www.ara.cat/politica/junta-electoral-rebutja-esborrar-nom-d-oscar-puente-papereta-psoe-valladolid_25_5901187.html",
+"fecha": "2026-11-05T15:38+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Un diputado del PSOE acusa a Vox en la Asamblea de ser «los herederos políticos de Hitler, Franco y Mussolini»",
+"url": "https://www.eldebate.com/espana/madrid/20261105/diputado-psoe-acusa-vox-asamblea-herederos-politicos-hitler-franco-mussolini_477676.html",
+"fecha": "2026-11-05T15:38+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El corte del AVE amenaza con pérdidas de 2,66 millones para la economía turística de Córdoba",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/economia/20261105/corte-ave-amenaza-perdidas-266-millones-economia-turistica-cordoba_477669.html",
+"fecha": "2026-11-05T15:37+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Diana Díaz, de la Fundación ANAR, sobre el auge de la violencia intrafamiliar: \"La violencia engendra violencia, y el niño que hace acoso escolar puede ser una víctima de violencia en su familia\"",
+"url": "https://www.cope.es/programas/la-tarde/noticias/diana-diaz-fundacion-anar-sobre-auge-violencia-intrafamiliar-violencia-engendra-violencia-nino-acoso-escolar-victima-violencia-familia-20261105_3469733.html",
+"fecha": "2026-11-05T15:32+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Puente aparecerá en las papeletas por Valladolid el 29N y se podrá tachar su nombre sin anular el voto",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/puente-aparecera-papeletas-valladolid-29n-podra-tachar-nombre-anular-voto_477711.html",
+"fecha": "2026-11-05T15:29+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Jesús Tobarra, periodista, sobre el funeral del jugador Jesús de Miguel: \"Hay un silencio que incluso permite escuchar la misa en la iglesia de fondo. Representa mucho el dolor de los amigos, vecinos y familiares\"",
+"url": "https://www.cope.es/programas/la-tarde/noticias/jesus-tobarra-periodista-sobre-funeral-jugador-jesus-miguel-hay-silencio-permite-escuchar-misa-iglesia-fondo-representa-dolor-amigos-vecinos-familiares-20261105_3469732.html",
+"fecha": "2026-11-05T15:26+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vox cierra octubre con 74.639 afiliados, récord histórico, a tres semanas de las generales",
+"url": "https://www.eldebate.com/espana/20261105/vox-cierra-octubre-74639-afiliados-record-historico-tres-semanas-generales_477715.html",
+"fecha": "2026-11-05T15:26+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El vídeo de Sánchez con su ex chófer Corvillo detenido en la última redada de la UCO: «¡Gracias, Cristian!»",
+"url": "https://okdiario.com/espana/video-sanchez-ex-chofer-corvillo-detenido-ultima-redada-uco-gracias-cristian-20708645",
+"fecha": "2026-11-05T15:24+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El Suprem retorna la causa de l'exalcalde d'Altafulla al jutjat del Vendrell",
+"url": "https://www.ara.cat/politica/suprem-retorna-causa-l-exalcalde-d-altafulla-jutjat-vendrell_25_5901162.html",
+"fecha": "2026-11-05T15:23+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Ouigo y Semaf desconvocan la huelga para mañana, el 9 de noviembre, el 4 y 8 de diciembre",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/ouigo-desconvoca-huelga-acuerdo-salarial-1tps_4459725/",
+"fecha": "2026-11-05T15:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detienen a dos jóvenes de 15 años por los incidentes de Blocus en Barcelona del pasado 24 de octubre",
+"url": "https://www.eldebate.com/espana/cataluna/20261105/detienen-dos-jovenes-15-anos-incidentes-blocus-barcelona-pasado-24-octubre_477708.html",
+"fecha": "2026-11-05T15:21+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Sánchez comparece en la Cumbre Iberoamericana",
+"url": "https://www.lavanguardia.com/politica/20261105/11677047/sanchez-comparece-cumbre-iberoamericana.html",
+"fecha": "2026-11-05T15:20+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Una empresa participada por una consejera de Dolores Corujo recibió seis adjudicaciones públicas mientras gobernaba en Lanzarote",
+"url": "https://okdiario.com/canarias/empresa-participada-consejera-dolores-corujo-recibio-seis-adjudicaciones-publicas-mientras-gobernaba-lanzarote-20706265",
+"fecha": "2026-11-05T15:20+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "La contundente frase de Tomás Gómez, ex secretario del PSOE en Madrid, sobre Óscar Puente: «Es cálculo electoral»",
+"url": "https://okdiario.com/espana/contundente-frase-tomas-gomez-ex-secretario-del-psoe-madrid-sobre-oscar-puente-calculo-electoral-20708303",
+"fecha": "2026-11-05T15:15+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Investigadores de la UCV constatan que la IA empieza a condicionar las decisiones de los senderistas en sus rutas",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/investigadores-ucv-constatan-ia-empieza-condicionar-decisiones-senderistas-rutas_477716.html",
+"fecha": "2026-11-05T15:14+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "La Policía identifica a dos altos mandos policiales marroquíes presentes en la frontera el día de la entrada masiva",
+"url": "https://www.eldiario.es/politica/policia-identifica-altos-cargos-policiales-marroquies-presentes-frontera-dia-entrada-masiva_1_13641528.html",
+"fecha": "2026-11-05T15:11+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Las víctimas de Adamuz urgen un pacto de estado por la seguridad ferroviaria: \"La seguridad no puede esperar a las urnas\"",
+"url": "https://www.20minutos.es/nacional/las-victimas-adamuz-urgen-un-pacto-estado-por-seguridad-ferroviaria-seguridad-no-puede-esperar-las-urnas_7057738_0.html",
+"fecha": "2026-11-05T15:10+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Muere de un infarto un cazador en Los Corrales de Buelna (Cantabria)",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/cazador-muere-infarto-caceria-monte-ibio-1tna-1tps_4459715/",
+"fecha": "2026-11-05T15:09+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La Junta Electoral acuerda que Puente siga al frente de la lista electoral del PSOE por Valladolid",
+"url": "https://www.lavanguardia.com/politica/20261105/11677021/junta-electoral-acuerda-puente-siga-frente-lista-electoral-valladolid.html",
+"fecha": "2026-11-05T15:08+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "PP y Vox cambian el guion de las Corts para debatir la ley del suelo el día de la huelga general",
+"url": "https://www.lavanguardia.com/local/valencia/20261105/11677027/pp-vox-cambian-guion-corts-debatir-ley-suelo-dia-huelga-general.html",
+"fecha": "2026-11-05T15:05+00:00"
+},
+{
+"medio": "El País",
+"titulo": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
+"url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
+"fecha": "2026-11-05T15:03+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Policía identifica a dos \"altos mandos\" de seguridad de Marruecos en la frontera de Ceuta durante la oleada migratoria",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec979fe85ece88758b457d.html",
+"fecha": "2026-11-05T15:02+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Sánchez mantiene un encuentro con Zelenski, líderes iberoamericanos y autoridades de la UE, en directo",
+"url": "https://www.eldebate.com/espana/20261105/sanchez-mantiene-encuentro-zelenski-lideres-iberoamericanos-autoridades-ue-directo_477694.html",
+"fecha": "2026-11-05T15:02+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Colau: \"Posem impostos als rics des del Ritz\"",
+"url": "https://www.ara.cat/politica/eleccions-generals/colau-posem-impostos-als-rics-des-ritz_25_5901137.html",
+"fecha": "2026-11-05T14:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Policía identifica a los dos altos mandos marroquíes que estaban en la frontera durante la invasión de Ceuta",
+"url": "https://www.eldebate.com/espana/20261105/policia-identifica-dos-altos-mandos-marroquies-estaban-frontera-durante-invasion-ceuta_477696.html",
+"fecha": "2026-11-05T14:59+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Los maquinistas desconvocan la huelga de Ouigo antes de reunirse con Cuerpo por la de Renfe del 10 y 12 de noviembre",
+"url": "https://www.20minutos.es/nacional/los-maquinistas-desconovan-huelga-ouigo-tras-un-acuerdo-antes-reunirse-con-cuerpo-por-renfe_7057744_0.html",
+"fecha": "2026-11-05T14:57+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Una nueva avería obliga a cancelar un tren entre Valladolid y Madrid: «Otro día glorioso en la estación»",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/nueva-averia-obliga-cancelar-tren-entre-valladolid-madrid-otro-dia-glorioso-estacion_477660.html",
+"fecha": "2026-11-05T14:57+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Un informe de la policia espanyola sobre la crisi de Ceuta identifica un alt comandament de les forces del Marroc “impartint directrius” als migrants",
+"url": "https://www.ara.cat/politica/informe-policia-espanyola-crisi-ceuta-identifica-alt-comandament-forces-marroc-impartint-directrius-als-migrants_25_5901133.html",
+"fecha": "2026-11-05T14:56+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La campaña #impulsEU Jove acerca a los jóvenes de Vila-real oportunidades de empleo y prácticas de la Unión Europea",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/campana-impulseu-jove-acerca-jovenes-vilareal-oportunidades-empleo-practicas-union-europea_477706.html",
+"fecha": "2026-11-05T14:52+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Magdalena 2027 de Castellón ya tiene sus nuevos Fadrins Honorífics: estos son los tres elegidos",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/magdalena-2027-castellon-tiene-nuevos-fadrins-honorifics-estos-son-tres-elegidos_477703.html",
+"fecha": "2026-11-05T14:48+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Ayuntamiento de Castellón aprueba el proyecto para culminar el tramo uno de la Ronda Oeste con cerca de 32 millones",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/ayuntamiento-castellonaprueba-proyecto-culminar-tramo-ronda-oeste-cerca-32-millones_477700.html",
+"fecha": "2026-11-05T14:46+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Hospital Vithas recibe a los estudiantes de Medicina de la CEU Fernando III para conocer su funcionamiento",
+"url": "https://www.eldebate.com/espana/andalucia/20261105/hospital-vithas-recibe-estudiantes-medicina-ceu-fernando-iii-conocer-funcionamiento_477701.html",
+"fecha": "2026-11-05T14:44+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Fotos contra l'abús i la irresponsabilitat del poder",
+"url": "https://www.ara.cat/cultura/fotografia/world-press-fotos-contra-abus-irresponsabilitat_1_5900987.html",
+"fecha": "2026-11-05T14:43+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido un menor de 17 años por apuñalar a un joven durante la noche de Halloween en Almazora",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/detenido-menor-17-anos-apunalar-joven-durante-noche-halloween-almazora_477695.html",
+"fecha": "2026-11-05T14:42+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Policía localiza en Portugal y Extremadura a seis hijos de la madre detenida en Badajoz por compraventa de menores",
+"url": "https://www.elmundo.es/espana/extremadura/2026/11/05/6aec756521efa0164d8b4574.html",
+"fecha": "2026-11-05T14:39+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Milei homologa el socialismo con el fascismo pero evita el ataque personal contra Pedro Sánchez",
+"url": "https://elpais.com/espana/2026-11-05/milei-homologa-el-socialismo-con-el-fascismo-pero-evita-el-ataque-personal-contra-pedro-sanchez.html",
+"fecha": "2026-11-05T14:37+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El dibujo de una niña de 8 años permite detener al hombre que intentó raptarla",
+"url": "https://www.eldebate.com/espana/20261105/dibujo-nina-8-anos-permite-detener-hombre-intento-raptarla_477692.html",
+"fecha": "2026-11-05T14:35+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Ester Muñoz rescata la foto que hizo Cristian Corvillo a Sánchez comiendo paella y advierte: \"Dirán que no le conocían de nada\"",
+"url": "https://www.larazon.es/espana/ester-munoz-rescata-foto-que-hizo-cristian-corvillo-sanchez-comiendo-paella-advierte-diran-que-conocian-nada_202611056aec91f703bbf30bb040beb2.html",
+"fecha": "2026-11-05T14:33+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Archivada la querella por prevaricación contra Pumpido y los jueces del TC que corrigieron al Supremo por la amnistía",
+"url": "https://www.larazon.es/espana/archivada-querella-prevaricacion-pumpido-jueces-que-corrigieron-supremo-amnistia_202611056aec9388d3bddc0868a6386f.html",
+"fecha": "2026-11-05T14:32+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "María Corina Machado propone que la Cumbre Iberoamericana de 2030 se celebre en una \"Venezuela libre\"",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec9110fdddff59198b456e.html",
+"fecha": "2026-11-05T14:31+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El CNI refuerza la vigilancia sobre la defensa española ante posibles acciones vinculadas a Rusia",
+"url": "https://www.larazon.es/espana/defensa/cni-refuerza-vigilancia-defensa-espanola-posibles-acciones-vinculadas-rusia_202611056aec92fc9a31a65adcd0db1a.html",
+"fecha": "2026-11-05T14:30+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Mónica Oltra aspira a que Montero, Rufián y Colau hagan campaña por Compromís en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/monica-oltra-aspira-montero-rufian-colau-hagan-campana-compromis-comunidad-valenciana_477668.html",
+"fecha": "2026-11-05T14:26+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Bon Preu obre cinc nous establiments i crea 250 llocs de treball aquest trimestre",
+"url": "https://www.ara.cat/economia/comerc/bon-preu-obre-cinc-nous-establiments-crea-250-llocs-treball-aquest-trimestre_1_5900989.html",
+"fecha": "2026-11-05T14:25+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Contra Ayuso, Rufián, Belarra o Almeida: los escandalosos tuits del exchófer y \"amigo\" de Sánchez",
+"url": "https://www.larazon.es/espana/ayuso-rufian-belarra-almeida-escandalosos-tuits-exchofer-amigo-sanchez_202611056aec8fbfea8d8979977a3551.html",
+"fecha": "2026-11-05T14:25+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La Policía identifica a dos altos mandos policiales marroquíes el día del asalto, uno de ellos \"dando directrices\" a migrantes",
+"url": "https://www.elespanol.com/espana/tribunales/20261105/policia-identifica-alto-mando-policial-marroqui-dando-directrices-migrantes-senalando-adonde-debian-ir/1003744447596_0.html",
+"fecha": "2026-11-05T14:24+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Presidente, vocal y suplente: qué funciones tiene cada uno en una mesa electoral el 29-N",
+"url": "https://www.20minutos.es/nacional/presidente-vocal-suplente-que-funciones-tiene-mesa-electoral-29-n_7057699_0.html",
+"fecha": "2026-11-05T14:20+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "La Policía traslada a la jueza la identidad de dos mandos policiales marroquíes presentes durante la entrada masiva a Ceuta",
+"url": "https://www.20minutos.es/nacional/policia-traslada-jueza-identidad-dos-mandos-policiales-marroquies-presentes-durante-entrada-masiva-ceuta_7057717_0.html",
+"fecha": "2026-11-05T14:17+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Rufián hará actos en Catalunya, Madrid, Palma y Castellón para el 29-N bajo el lema 'Defiéndete'",
+"url": "https://www.lavanguardia.com/politica/elecciones/20261105/11676979/rufian-hara-actos-catalunya-madrid-palma-castellon-29-n-lema-defiendete.html",
+"fecha": "2026-11-05T14:14+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Lugo reunirá a pacientes de cáncer y familiares de toda Galicia en un congreso gratuito el 14 de noviembre",
+"url": "https://www.eldebate.com/espana/galicia/20261105/lugo-reunira-pacientes-cancer-familiares-toda-galicia-congreso-gratuito-14-noviembre_477679.html",
+"fecha": "2026-11-05T14:14+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Los empresarios andaluces advierten de la importancia de recuperar la confianza en la alta velocidad tras el accidente en Urda",
+"url": "https://elpais.com/espana/2026-11-05/los-empresarios-andaluces-advierten-de-la-importancia-de-recuperar-la-confianza-en-la-alta-velocidad-tras-el-accidente-en-urda.html",
+"fecha": "2026-11-05T14:09+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "14:00H | 05 NOV 2026 | Mediodía COPE",
+"url": "https://www.cope.es/programas/mediodia-cope/horas-completas/14-00h-05-nov-2026-mediodia-cope-20261105_3469651.html",
+"fecha": "2026-11-05T14:07+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "CCOO y otros sindicatos europeos se unen para llamar a la movilización y a las diferentes huelgas",
+"url": "https://www.infolibre.es/politica/ccoo-sindicatos-europeos-unen-llamar-movilizacion-diferentes-huelgas_1_2239554.html",
+"fecha": "2026-11-05T14:02+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Dos de los menores vendidos por la presunta trama de compraventa en Badajoz y Jaén son localizados en Portugal",
+"url": "https://elpais.com/espana/2026-11-05/localizados-en-portugal-dos-de-los-menores-supuestamente-vendidos-por-una-trama-en-badajoz.html",
+"fecha": "2026-11-05T14:01+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Francisco Martín vuelve a Tragsa un día después de dejar la Delegación del Gobierno en Madrid",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/francisco-martin-vuelve-a-tragsa-un-dia-despues-de-dejar-la-delegacion-del-gobierno-en-madrid-7487152/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T14:01+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Ángel Expósito, tras la detención del que fuera chófer de Sánchez, Cristian Corvillo: \"El caso es indescriptible, esto no ha hecho más que empezar, y a mí no me sorprende nada\"",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/angel-exposito-detencion-fuera-chofer-sanchez-cristian-corvillo-caso-indescriptible-esto-no-hecho-empezar-mi-no-me-sorprende-20261105_3469593.html",
+"fecha": "2026-11-05T14:00+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "PP, PSOE y Frente Amplio garantizan que la ley de pacientes \"será una realidad\" en la próxima legislatura",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/ley-organizaciones-pacientes-1hms-1svm_4459643/",
+"fecha": "2026-11-05T14:00+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "La Policía localiza en Portugal a seis niños de entre uno y 11 años y detiene a su madre por tráfico de menores",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/menores-localizados-portugal-operativo-policial-1tna-1tps_4459645/",
+"fecha": "2026-11-05T13:57+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Armengol anuncia un mitin de Sánchez en Palma mientras la UCO detiene a su ex chófer de las primarias",
+"url": "https://www.eldebate.com/espana/baleares/20261105/armengol-anuncia-mitin-sanchez-palma-mientras-uco-detiene-ex-chofer-primarias_477678.html",
+"fecha": "2026-11-05T13:54+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Las balsas de Tenerife arrancan noviembre al 35,2%, con 440.000 metros cúbicos más que hace un año",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/las-balsas-de-tenerife-arrancan-noviembre-al-35-2-por-ciento-con-440-000-metros-cubicos-mas-que-hace-un-ano-7487153/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T13:53+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Una banda de ladrones de Toledo y 18 robos en Mallorca: una cruz de diamantes valorada en casi 300.000 euros",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261105/banda-ladrones-toledo-18-robos-mallorca-cruz-diamantes-valorada-casi-300000-euros_477673.html",
+"fecha": "2026-11-05T13:47+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La maldición del Peugeot de Sánchez: todos sus hombres ante la Justicia, y Lastra, ajena a las tramas, apartada del poder",
+"url": "https://www.larazon.es/espana/maldicion-peugeot-sanchez-todos-sus-hombres-justicia-lastra-ajena-tramas-apartada-poder_202611056aec88159a31a65adcd0cb39.html",
+"fecha": "2026-11-05T13:43+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El sueldo de Almeida podría superar los 120.000 euros si se aprueba la subida del 4,5% para los trabajadores públicos",
+"url": "https://www.lavanguardia.com/local/madrid/20261105/11676959/sueldo-almeida-superar-120-000-euros-aprueba-subida-4-5-trabajadores-publicos.html",
+"fecha": "2026-11-05T13:41+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Iberoamérica exhibe sus grietas ideológicas en la cumbre de Madrid",
+"url": "https://elpais.com/internacional/2026-11-05/iberoamerica-exhibe-sus-grietas-ideologicas-en-la-cumbre-de-madrid.html",
+"fecha": "2026-11-05T13:40+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Ana Vázquez tacha de «lamentable» la grabación de una charla privada en la que criticaba a Francina Armengol",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/ana-vazquez-tacha-lamentable-grabacion-charla-privada-criticaba-francina-armengol_477671.html",
+"fecha": "2026-11-05T13:37+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Irene Montero, sobre la subida del SMI: “¿Se puede vivir con 1.286 euros?”",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-05/irene-montero-sobre-la-subida-del-smi-se-puede-vivir-con-1286-euros.html",
+"fecha": "2026-11-05T13:36+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Catorce detenidos, trece de ellos menores, por los disturbios y saqueos durante una protesta estudiantil en Manresa",
+"url": "https://www.eldebate.com/espana/cataluna/20261105/catorce-detenidos-trece-ellos-menores-disturbios-saqueos-durante-protesta-estudiantil-manresa_477674.html",
+"fecha": "2026-11-05T13:36+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La Policía identifica a \"dos altos mandos\" de seguridad marroquíes en el asalto masivo en Ceuta",
+"url": "https://www.larazon.es/espana/policia-identifica-dos-altos-mandos-seguridad-marroquies-asalto-masivo-ceuta_202611056aec85bbd3bddc0868a623c1.html",
+"fecha": "2026-11-05T13:34+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Defensa lo confirma: el patrullero Serviola releva al Atalaya y refuerza la vigilancia marítima en aguas de Ceuta y el estrecho de Gibraltar",
+"url": "https://www.larazon.es/espana/defensa/defensa-confirma-patrullero-serviola-releva-atalaya-refuerza-vigilancia-maritima-aguas-ceuta-estrecho-gibraltar_202611056aec83b79a31a65adcd0c3db.html",
+"fecha": "2026-11-05T13:31+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El PSOE reclama a Delgado que explique qué hizo tras conocer las denuncias del caso Quórum 77",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/el-psoe-reclama-a-delgado-que-explique-que-hizo-tras-conocer-las-denuncias-del-caso-quorum-77-7487141/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T13:29+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "La Policía detiene en Ceuta a tres inmigrantes por agresión sexual y facilitar la entrada de ilegales",
+"url": "https://okdiario.com/espana/policia-detiene-ceuta-tres-inmigrantes-agresion-sexual-facilitar-entrada-ilegales-20706824",
+"fecha": "2026-11-05T13:29+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Feijóo habla con Corina Machado y le traslada su apoyo para unas elecciones presidenciales en 2027",
+"url": "https://www.eldebate.com/espana/20261105/feijoo-habla-corina-machado-le-traslada-apoyo-elecciones-presidenciales-2027_477663.html",
+"fecha": "2026-11-05T13:27+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Iglesia de Valladolid duplicó la inversión para rehabilitar su patrimonio en 2025",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/iglesia-valladolid-duplico-inversion-rehabilitar-patrimonio-2025_477636.html",
+"fecha": "2026-11-05T13:22+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "La cuota media de las hipotecas supera los 850 euros empujada por el alza de precio de la vivienda y 'se come' ya más del 35% del sueldo",
+"url": "https://www.20minutos.es/nacional/cuota-media-las-hipotecas-supera-los-850-euros-empujada-por-alza-precio-vivienda-se-come-ya-mas-35-sueldo_7057550_0.html",
+"fecha": "2026-11-05T13:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Alicante capta el interés internacional en Londres con su oferta cultural, deportiva y de congresos",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/alicante-capta-interes-internacional-londres-oferta-cultural-deportiva-congresos_477667.html",
+"fecha": "2026-11-05T13:20+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Podemos lanza su candidatura para el 29N: \"Los de arriba no quieren que ganemos porque los vamos a freír a impuestos\"",
+"url": "https://www.20minutos.es/nacional/podemos-lanza-su-candidatura-para-29n-los-arriba-no-quieren-que-ganemos-porque-los-vamos-freir-impuestos_7057673_0.html",
+"fecha": "2026-11-05T13:19+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Guzmán Carriquiry, sobre el viaje de León XIV a Uruguay, tras 38 años sin la visita de un Papa: \"El objetivo es que comiencen a hacerse preguntas\"",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/guzman-carriquiry-sobre-viaje-leon-xiv-uruguay-38-anos-visita-papa-objetivo-comiencen-hacerse-preguntas-20261105_3469535.html",
+"fecha": "2026-11-05T13:17+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Barbero (Frente Amplio), sobre supuestos pagos a Koldo por el PP: \"Hay que investigar\"",
+"url": "https://www.europapress.es/galicia/noticia-barbero-frente-amplio-supuestos-pagos-koldo-pp-hay-investigar-20261105141453.html",
+"fecha": "2026-11-05T13:14+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Santiago Abascal contra «los medios que se han convertido en jefes de campaña de Pedro Sánchez»",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261105/santiago-abascal-contra-medios-han-convertido-jefes-campana-pedro-sanchez_477621.html",
+"fecha": "2026-11-05T13:14+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "La guía definitiva para elegir un buen tomate en el súper: así es la variedad que arrasa",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/guia-definitiva-elegir-buen-tomate-super-asi-variedad-arrasa-20261105_3469509.html",
+"fecha": "2026-11-05T13:12+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "María cogía todas las semanas el tren de Ciudad Real a Madrid: \"Estoy en una situación favorable porque voy en mi coche y me lo puedo permitir, pero hay compañeros que van a diario y han llegado a tardar 8 horas\"",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/maria-cogia-todas-semanas-tren-ciudad-real-madrid-situacion-favorable-mi-coche-me-permitir-hay-companeros-diario-han-llegado-tardar-8-horas-20261105_3469470.html",
+"fecha": "2026-11-05T13:12+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Koldo García desde prisión insiste en que el PP le ofreció dinero: \"Yo daré el remate final\"",
+"url": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
+"fecha": "2026-11-05T13:12+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Gairebé 150 traductors desembarquen a Barcelona per mostrar la potència de la literatura catalana",
+"url": "https://llegim.ara.cat/actualitat/gairebe-150-traductors-desembarquen-barcelona-mostrar-potencia-literatura-catalana_1_5900927.html",
+"fecha": "2026-11-05T13:10+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Feijóo aprovecha la Cumbre Iberoamericana para reunirse con Corina Machado, Zelenski y Kast",
+"url": "https://www.lavanguardia.com/politica/20261105/11676941/feijoo-aprovecha-cumbre-iberoamericana-reunirse-corina-machado-zelenski-kast.html",
+"fecha": "2026-11-05T13:07+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Madrid aprueba inicialmente un presupuesto de 6.901 millones para 2027, un 4,9% más que este año",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/ceoe-rechaza-uso-politico-smi-1tps_4459611/",
+"fecha": "2026-11-05T13:03+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "¿Por qué sólo se han ejecutado \"unas cuantas\" de las \"alrededor de 800\" resoluciones de expulsión emitidas en Ceuta?",
+"url": "https://www.libertaddigital.com/espana/2026-11-05/por-que-solo-se-han-ejecutado-unas-cuantas-de-las-alrededor-de-800-resoluciones-de-expulsion-emitidas-en-ceuta-7487089/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T13:03+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "\"Bolsas con sangre de su propio grupo sanguíneo y su equipo médico personal\": El estricto protocolo que acompaña al Papa en sus viajes",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/bolsas-sangre-propio-grupo-sanguineo-equipo-medico-personal-estricto-protocolo-acompana-papa-viajes-20261105_3469491.html",
+"fecha": "2026-11-05T13:02+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Feijóo se reunirá con Zelenski y Kast tras despachar por videoconferencia con María Corina Machado",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-05/feijoo-se-reunira-con-zelenski-y-kast-tras-despachar-por-videoconferencia-con-maria-corina-machado-7487118/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T13:02+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "“Solo queda él”: Ester Muñoz reabre la polémica de la ‘banda del Peugeot’ tras la nueva operación de la UCO",
+"url": "https://www.larazon.es/espana/solo-queda-ester-munoz-reabre-polemica-banda-peugeot-nueva-operacion-uco_202611056aec7e534196933d7ed1aa03.html",
+"fecha": "2026-11-05T13:02+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "Se duplican las agresiones sexuales a menores en el entorno familiar atendidos por ANAR en cinco años",
+"url": "https://www.infolibre.es/igualdad/duplican-agresiones-sexuales-menores-entorno-familiar-atendidos-anar-cinco-anos_1_2239559.html",
+"fecha": "2026-11-05T13:00+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El Carnaval de Santa Cruz 2027 pone fecha a sus grandes duelos sobre el escenario",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/el-carnaval-de-santa-cruz-2027-pone-fecha-a-sus-grandes-duelos-sobre-el-escenario-7487107/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T13:00+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Quién es Cristian Corvillo, el exchófer de Sánchez detenido por la UCO",
+"url": "https://www.larazon.es/espana/quien-cristian-corvillo-exchofer-sanchez-detenido-uco_202611056aec7aa603bbf30bb04099f3.html",
+"fecha": "2026-11-05T13:00+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Detienen a un hombre en Playa de Palma por robar dos relojes a dos turistas valorados en 34.000 euros",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/robo-relojes-turistas-playa-palma-1tna-1tps_4459607/",
+"fecha": "2026-11-05T12:59+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Irene Montero se rebela contra el \"voto útil\" en la izquierda y las encuestas: \"Tienes que votar lo que quieres y sientes\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec7c26e4d4d8ac478b4582.html",
+"fecha": "2026-11-05T12:59+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Interceptado un cayuco con 80 inmigrantes ilegales al sureste de La Gomera",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/interceptado-un-cayuco-con-80-inmigrantes-ilegales-al-sureste-de-la-gomera-7487099/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Un conductor queda atrapado tras un choque frontal entre dos coches en Sollana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/conductor-queda-atrapado-choque-frontal-entre-dos-coches-sollana_477658.html",
+"fecha": "2026-11-05T12:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Catalá no descarta acudir a la Justicia para desalojar la acampada en Valencia",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/catala-no-descarta-acudir-justicia-desalojar-acampada-valencia_477655.html",
+"fecha": "2026-11-05T12:59+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La ocurrencia de Rodríguez Ibarra si el PSOE se desmorona el 29-N: Borrell y Cándido Méndez",
+"url": "https://www.libertaddigital.com/espana/2026-11-05/la-ocurrencia-de-rodriguez-ibarra-si-el-psoe-se-desmorona-el-29-n-borrell-y-candido-mendez-7487100/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:58+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Rufián i Montero compartiran dos mítings pel 29-N: un a Madrid i un a Barcelona",
+"url": "https://www.ara.cat/politica/eleccions-generals/rufian-montero-compartiran-mitings-pel-29-n-madrid-barcelona_1_5900943.html",
+"fecha": "2026-11-05T12:57+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Change.org abre una tienda simbólica de melones con problemas de los ciudadanos sin resolver dirigida a los candidatos del 29-N",
+"url": "https://www.lavanguardia.com/local/madrid/20261105/11676873/change-org-abre-tienda-simbolica-melones-problemas-ciudadanos-resolver-dirigida-candidatos-29-n.html",
+"fecha": "2026-11-05T12:57+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La plantilla de Salvamento Marítimo estalla ante la \"absoluta falta de previsión\" en Canarias",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/la-plantilla-de-salvamento-maritimo-estalla-ante-la-absoluta-falta-de-prevision-en-canarias-7487113/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:57+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Un cazador de 64 años rescatado tras caerse en el barranco 'El Colorado' de Daroca de Rioja",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/rescate-cazador-barranco-daroca-rioja-1tna-1tps_4459602/",
+"fecha": "2026-11-05T12:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Bodegas Murviedro, galardonada en el Berliner Wine Trophy 2026",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/bodegas-murviedro-galardonada-berliner-wine-trophy-2026_477659.html",
+"fecha": "2026-11-05T12:54+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Álvaro Aznar, maquinista del AVE tras los accidentes: \"La parte técnica da que pensar, ¿y si me toca a mí?\"",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/alvaro-aznar-maquinista-ave-accidentes-parte-tecnica-da-pensar-me-toca-mi-20261105_3469459.html",
+"fecha": "2026-11-05T12:53+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido un profesor durante las movilizaciones por la educación pública en Madrid",
+"url": "https://www.eldebate.com/espana/madrid/20261105/detenido-profesor-durante-movilizaciones-educacion-publica-madrid_477650.html",
+"fecha": "2026-11-05T12:53+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Jiménez Losantos reacciona a 'Melón Pelado': \"¡Respetad a los muertos del otro bando!\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-05/jimenez-losantos-reacciona-a-melon-pelado-respetad-a-los-muertos-del-otro-bando-7487103/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:51+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vigo anuncia la fecha y hora del encendido de sus famosas luces de Navidad",
+"url": "https://www.eldebate.com/espana/galicia/20261105/vigo-anuncia-fecha-hora-encendido-famosas-luces-navidad_477657.html",
+"fecha": "2026-11-05T12:49+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El PP, ante la nueva operación de la UCO por el caso Koldo: «Estamos ante la traca final del sanchismo decadente»",
+"url": "https://www.eldebate.com/espana/20261105/pp-ante-nueva-operacion-uco-caso-koldo-estamos-ante-traca-final-sanchismo-decadente_477647.html",
+"fecha": "2026-11-05T12:48+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Rey clausura la Cumbre: «Somos el contrapunto de un tiempo marcado por los frentes y la rivalidad»",
+"url": "https://www.eldebate.com/espana/casa-real/20261105/rey-clausura-cumbre-somos-contrapunto-tiempo-marcado-frentes-rivalidad_477568.html",
+"fecha": "2026-11-05T12:46+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Catorze detinguts per una protesta estudiantil a Manresa dies abans dels saquejos de Blocus",
+"url": "https://www.ara.cat/societat/successos/catorze-detinguts-protesta-estudiantil-manresa-dies-dels-saquejos-blocus_1_5900910.html",
+"fecha": "2026-11-05T12:43+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Armengol y la ministra Ana Redondo cantan en el Congreso 'Cara al sol con el melón pelado' en un acto sobre la Guerra Civil",
+"url": "https://www.elespanol.com/espana/politica/20261105/armengol-ministra-ana-redondo-cantan-congreso-cara-sol-melon-pelado-acto-guerra-civil/1003744447176_0.html",
+"fecha": "2026-11-05T12:42+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Almeida elevará su presupuesto a 6.901 millones en 2027: más gasto en vivienda y una nueva rebaja del IBI",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/almeida-elevara-su-presupuesto-a-6901-millones-en-2027-mas-gasto-en-vivienda-y-una-nueva-rebaja-del-ibi-7487091/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:41+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Muere un hombre por una cornada de toro en las fiestas de Arcos de la Frontera (Cádiz)",
+"url": "https://okdiario.com/andalucia/muere-hombre-cornada-toro-fiestas-arcos-frontera-cadiz-20707194",
+"fecha": "2026-11-05T12:40+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Sánchez dará su mitin en Valencia en un pabellón que PSOE y Compromís dejaron con goteras",
+"url": "https://okdiario.com/comunidad-valenciana/sanchez-dara-mitin-valencia-pabellon-que-psoe-compromis-dejaron-goteras-20706479",
+"fecha": "2026-11-05T12:40+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Sánchez reabre su campaña en un pabellón de Valencia que su candidata dejó lleno de goteras",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/sanchez-reabre-campana-pabellon-valencia-candidata-dejo-lleno-goteras_477651.html",
+"fecha": "2026-11-05T12:40+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Dos evacuados al hospital por un fuego en el cuadro de contadores de un edificio de Gutiérrez de la Concha",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/evacuados-humo-incendio-santander-1tna-1tps_4459580/",
+"fecha": "2026-11-05T12:38+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Hospital San Juan de Dios de Córdoba y RVG Distribuciones se alían en favor de los más vulnerables",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/sociedad/20261105/hospital-san-juan-dios-cordoba-rvg-distribuciones-alian-favor-vulnerables_477646.html",
+"fecha": "2026-11-05T12:35+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Patxi López ironiza con la \"casualidad\" del registro en casa de Ábalos: \"¿Qué sentido tiene volver año y medio después\"?",
+"url": "https://www.europapress.es/nacional/noticia-patxi-lopez-ironiza-casualidad-registro-casa-abalos-sentido-tiene-volver-ano-medio-despues-20261105133405.html",
+"fecha": "2026-11-05T12:34+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Gobierno valenciano exige por carta a Carlos Cuerpo explicaciones y soluciones al deterioro ferroviario en la Comunidad",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/gobierno-valenciano-exige-carta-carlos-cuerpo-explicaciones-soluciones-deterioro-ferroviario-comunidad_477635.html",
+"fecha": "2026-11-05T12:34+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Las encuestas no los ven, pero las redes sí: Alvise tira de Ángel Gaitán, Míriam González es como una “influencer” y el azote de la ‘ley de nietos’",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-05/las-encuestas-no-los-ven-pero-las-redes-si-alvise-tira-de-angel-gaitan-miriam-gonzalez-es-como-una-influencer-y-el-azote-de-la-ley-de-nietos.html",
+"fecha": "2026-11-05T12:33+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El Rey defiende la vigencia de la Cumbre: “La diplomacia multilateral sigue teniendo sentido”",
+"url": "https://www.lavanguardia.com/politica/20261105/11676775/rey-defiende-vigencia-cumbre-iberoamericana-diplomacia-multilateral-sigue-teniendo-sentido.html",
+"fecha": "2026-11-05T12:28+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El dibujo de una niña de ocho años permite a la Guardia Civil identificar al hombre que intentó llevársela con golosinas a la fuerza",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/guardia-civil-detencion-ilegal-menor-1tna-1tps_4459567/",
+"fecha": "2026-11-05T12:27+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Ester Muñoz (PP) apunta a Pedro Sánchez tras las detenciones por el caso Koldo: \"Solo queda el número uno\"",
+"url": "https://www.europapress.es/comunitat-valenciana/noticia-ester-munoz-pp-apunta-pedro-sanchez-detenciones-caso-koldo-solo-queda-numero-20261105132745.html",
+"fecha": "2026-11-05T12:27+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Los sindicatos burlan la seguridad y se encierran en la Consejería de Educación, \"secuestrando un edificio oficial\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/nueva-escalada-de-la-huelga-educativa-en-madrid-los-sindicatos-se-encierran-en-la-consejeria-7487064/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:26+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Toni Pérez destaca el interés internacional por la Costa Blanca en la World Travel Market y su apuesta por el turismo de golf",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/toni-perez-destaca-interes-internacional-costa-blanca-world-travel-market-apuesta-turismo-golf_477630.html",
+"fecha": "2026-11-05T12:26+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Castellón se suma a la campaña de LALIGA para la erradicación del bullying",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/castellon-suma-campana-laliga-erradicacion-bullying_477634.html",
+"fecha": "2026-11-05T12:25+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Diputación de Valencia invertirá 800.000 euros en mejorar la subida al Garbí, referente del ciclismo deportivo",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/diputacion-valencia-invertira-800000-euros-mejorar-subida-garbi-referente-ciclismo-deportivo_477632.html",
+"fecha": "2026-11-05T12:23+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Venezuela busca volver al espacio internacional y pide el \"levantamiento de las restricciones económicas\"",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec51bb21efa023438b4576.html",
+"fecha": "2026-11-05T12:22+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Bolaños tilda de «acto de dignidad» la dimisión de Puente y cuestiona la respuesta de otros políticos ante las tragedias",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/bolanos-tilda-acto-dignidad-dimision-puente-cuestiona-respuesta-otros-politicos-ante-tragedias_477557.html",
+"fecha": "2026-11-05T12:22+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El PP niega una supuesta oferta de su abogado a Koldo García y el PSOE exige explicaciones",
+"url": "https://www.eldebate.com/espana/20261105/pp-niega-supuesta-oferta-abogado-koldo-garcia-psoe-exige-explicaciones_477626.html",
+"fecha": "2026-11-05T12:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido en Alicante un monitor de paddle surf acusado de realizar tocamientos sexuales a diez menores",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/detenido-alicante-monitor-paddle-surf-acusado-realizar-tocamientos-sexuales-diez-menores_477581.html",
+"fecha": "2026-11-05T12:12+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Ayuso arropará a Catalá y Llorca en Valencia el día después del mitin de Pedro Sánchez",
+"url": "https://www.elmundo.es/comunidad-valenciana/2026/11/05/6aec6e0efc6c83fc068b4594.html",
+"fecha": "2026-11-05T12:10+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Podemos se reivindica como alternativa al PSOE con una campaña contra los privilegios de los ricos",
+"url": "https://www.lavanguardia.com/politica/20261105/11676861/reivindica-alternativa-psoe-campana-privilegios-ricos.html",
+"fecha": "2026-11-05T12:10+00:00"
+},
+{
+"medio": "The Objective",
 "titulo": "Almeida acusa a CCOO y UGT de convocar una «algarada política» para influir en las elecciones",
 "url": "https://theobjective.com/espana/politica/2026-11-05/almeida-ccoo-ugt-elecciones/",
 "fecha": "2026-11-05T12:08+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Montero defiende que el tren es «el medio más seguro» tras los 115 muertos en la tragedia ferroviaria de Adamuz y Urda",
+"url": "https://okdiario.com/andalucia/montero-defiende-que-tren-medio-mas-seguro-115-muertos-tragedia-ferroviaria-adamuz-urda-20707354",
+"fecha": "2026-11-05T12:08+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "El PP señala a Sánchez como único miembro de \"la banda del Peugeot\" no encausado pero cree que \"es cuestión de tiempo\"",
+"url": "https://www.20minutos.es/nacional/pp-senala-sanchez-como-unico-miembro-banda-peugeot-no-encausado-pero-cree-que-es-cuestion-tiempo_7057627_0.html",
+"fecha": "2026-11-05T12:07+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido en Mijas (Málaga) un mafioso con dos granadas de mano en su coche para un ajuste de cuentas",
+"url": "https://www.eldebate.com/espana/andalucia/malaga/20261105/detenido-mijas-malaga-hombre-clan-mafioso-dos-granadas-mano-coche_477617.html",
+"fecha": "2026-11-05T12:06+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Bellido reclama inversiones en seguridad ferroviaria y «volver a la política útil» ante el 29N",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261105/bellido-reclama-inversiones-seguridad-ferroviaria-volver-politica-util-ante-29n_477619.html",
+"fecha": "2026-11-05T12:06+00:00"
 },
 {
 "medio": "La Razón",
@@ -12,9 +1590,27 @@
 "fecha": "2026-11-05T12:05+00:00"
 },
 {
+"medio": "El Debate",
+"titulo": "Bodegas Murviedro destaca en la Guía Peñín 2027",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261105/bodegas-murviedro-destaca-guia-penin-2027_477618.html",
+"fecha": "2026-11-05T12:04+00:00"
+},
+{
 "medio": "Ara",
 "titulo": "Cinquè suplicatori contra Alvise Pérez: ara per provocar desordres públics en unes protestes del sector agrari",
 "url": "https://www.ara.cat/politica/cinque-suplicatori-alvise-perez-ara-provocar-desordres-publics-protestes-sector-agrari_25_5900971.html",
+"fecha": "2026-11-05T12:03+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Impuesto a los superricos para superar el 10% y multiplicar escaños: la receta de Colau para el Frente Amplio",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/impuesto-a-los-superricos-para-superar-el-10-y-multiplicar-escanos-la-receta-de-colau-para-el-frente-amplio_4459469/",
+"fecha": "2026-11-05T12:03+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Dispara a un hombre con una pistola de aire comprimido por azuzar a sus perros y tendrá que pagar más de 15.000 euros",
+"url": "https://www.eldebate.com/espana/galicia/20261105/dispara-hombre-pistola-aire-comprimido-azuzar-perros-tendra-pagar-15000-euros_477605.html",
 "fecha": "2026-11-05T12:03+00:00"
 },
 {
@@ -27,6 +1623,18 @@
 "medio": "ABC",
 "titulo": "Abascal: «Claro que no somos iguales: no han detenido a mi chófer, sino al de Sánchez»",
 "url": "https://www.abc.es/espana/castilla-la-mancha/abascal-claro-iguales-detenido-chofer-sanchez-20261105130111-nt.html",
+"fecha": "2026-11-05T12:01+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Almeida califica de \"algarada sindical\" la huelga del 11-N y advierte a UGT y CCOO: \"Que no traten de reventar Madrid\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/almeida-califica-de-algarada-sindical-la-huelga-del-11-n-y-advierte-a-ugt-y-ccoo-que-no-traten-de-reventar-madrid-7487070/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T12:01+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "«Creyentes o no creyentes, todos estamos unidos en lo esencial: la vida», afirma Argüello sobre el funeral de Estado",
+"url": "https://www.eldebate.com/religion/20261105/creyentes-no-creyentes-todos-estamos-unidos-esencial-vida-afirma-arguello-sobre-funeral-estado_477606.html",
 "fecha": "2026-11-05T12:01+00:00"
 },
 {
@@ -72,9 +1680,27 @@
 "fecha": "2026-11-05T11:59+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "Los decretos del Gobierno provocan una caída del 15% en la oferta de alquiler en Canarias",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/los-decretos-del-gobierno-provocan-una-caida-del-15-por-ciento-en-la-oferta-de-alquiler-en-canarias-7487051/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T11:57+00:00"
+},
+{
 "medio": "La Razón",
 "titulo": "Quién es Andrea de la Torre, la novia de Ábalos detenida por la UCO en la casa del exministro en Valencia",
 "url": "https://www.larazon.es/espana/quien-andrea-torre-novia-abalos-detenida-uco-casa-exministro-valencia_202611056aec6c7603bbf30bb040813b.html",
+"fecha": "2026-11-05T11:56+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Satse analiza con sus delegados la situación asistencial en el sur de Córdoba y pide reforzar las plantillas",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261105/satse-analiza-delegados-situacion-asistencial-sur-cordoba-pide-reforzar-plantillas_477597.html",
+"fecha": "2026-11-05T11:56+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vox alerta de un «balance desolador» ante los últimos datos de desempleo: «2.000 castellanomanchegos a la calle»",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261105/vox-alerta-balance-desolador-ante-ultimos-datos-desempleo-2000-castellanomanchegos-calle_477603.html",
 "fecha": "2026-11-05T11:56+00:00"
 },
 {
@@ -90,6 +1716,18 @@
 "fecha": "2026-11-05T11:54+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "Detenido en Vallecas tras apuñalar a un hombre y guardar más de 40 armas",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/detenido-en-vallecas-tras-apunalar-a-un-hombre-y-guardar-mas-de-40-armas-7486997/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T11:54+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Afammer amplía hasta el 30 de noviembre el plazo de sus premios a la igualdad rural",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/sociedad/20261105/afammer-amplia-hasta-30-noviembre-plazo-premios-igualdad-rural_477600.html",
+"fecha": "2026-11-05T11:54+00:00"
+},
+{
 "medio": "OKdiario",
 "titulo": "El PP sobre la redada contra los amaños en Transportes: «Estamos ante la traca final del sanchismo»",
 "url": "https://okdiario.com/espana/pp-sobre-redada-contra-amanos-ministerio-transportes-corrupcion-cuesta-vidas-20707136",
@@ -99,6 +1737,12 @@
 "medio": "The Objective",
 "titulo": "El Supremo archiva la causa contra Alvise por difundir una PCR falsa de Salvador Illa",
 "url": "https://theobjective.com/espana/tribunales/2026-11-05/supremo-alvise-illa/",
+"fecha": "2026-11-05T11:49+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Galicia asumirá la gestión de los permisos de trabajo a extranjeros desde marzo de 2027",
+"url": "https://www.elmundo.es/galicia/2026/11/05/6aec622ffc6c8376108b4590.html",
 "fecha": "2026-11-05T11:49+00:00"
 },
 {
@@ -150,6 +1794,12 @@
 "fecha": "2026-11-05T11:45+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "\"Circuito Gran Vía\" cumple 15 años y se consolida como una de las principales plataformas publicitarias de España",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/circuito-gran-via-cumple-15-anos-y-se-consolida-como-una-de-las-principales-plataformas-publicitarias-de-espana-7486965/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T11:45+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "Los bomberos renuncian a la Cabalgata de Reyes de Córdoba 2027",
 "url": "https://www.abc.es/espana/andalucia/cordoba/bomberos-renuncian-cabalgata-reyes-cordoba-2027-20261105124437-nts.html",
@@ -180,6 +1830,18 @@
 "fecha": "2026-11-05T11:43+00:00"
 },
 {
+"medio": "La Vanguardia",
+"titulo": "Koldo García insiste en que el PP le ofreció dinero",
+"url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+"fecha": "2026-11-05T11:43+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Oltra dispara contra Catalá y Bernabé: “Pedir el voto el 29-N y luego salir huyendo es un fraude”",
+"url": "https://www.lavanguardia.com/local/valencia/20261105/11676685/oltra-dispara-catala-bernabe-pedir-voto-29-n-luego-salir-huyendo-fraude.html",
+"fecha": "2026-11-05T11:43+00:00"
+},
+{
 "medio": "Ara",
 "titulo": "El Suprem arxiva la causa contra Alvise Pérez per la PCR falsa de Salvador Illa",
 "url": "https://www.ara.cat/politica/suprem-arxiva-causa-alvise-perez-pcr-falsa-salvador-illa_25_5900924.html",
@@ -207,6 +1869,12 @@
 "medio": "The Objective",
 "titulo": "De qué vivirá Óscar Puente tras dimitir: la «pensión» de 5.700 euros al mes, sus cuatro viviendas y su posible futuro en el PSOE",
 "url": "https://theobjective.com/gente/2026-11-05/de-que-vivira-oscar-puente-tras-dimitir-la-pension-de-5-700-euros-al-mes-sus-cuatro-viviendas-y-su-posible-futuro-en-el-psoe/",
+"fecha": "2026-11-05T11:40+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Un PSOE desmadrado echa en cara a Ayuso el Yak-42, el 11-M, el Prestige y las residencias y ensalza a Puente",
+"url": "https://www.libertaddigital.com/madrid/2026-11-05/un-psoe-desmadrado-echa-en-cara-a-ayuso-el-yak-42-el-11-m-el-prestige-y-las-residencias-y-ensalza-a-puente-7487065/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-05T11:40+00:00"
 },
 {
@@ -300,6 +1968,12 @@
 "fecha": "2026-11-05T11:32+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "Nuevo caos en el AVE Madrid-Barcelona: retrasos por un \"pequeño\" bache en la vía",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-05/nuevo-caos-en-el-ave-madrid-barcelona-retrasos-por-un-pequeno-bache-en-la-via-7487061/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T11:32+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "Segundo traspaso de competencias desde 2008: la Xunta autorizará permisos de trabajo a extranjeros desde marzo",
 "url": "https://www.abc.es/espana/galicia/segundo-traspaso-competencias-2008-xunta-autorizara-permisos-20261105123135-nt.html",
@@ -363,6 +2037,12 @@
 "medio": "The Objective",
 "titulo": "Oltra vincula los registros del ‘caso Koldo’ con la «vieja manera de entender la gestión pública»",
 "url": "https://theobjective.com/espana/politica/2026-11-05/oltra-registros-caso-koldo-gestion-publica/",
+"fecha": "2026-11-05T11:24+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La UCO arresta a Andrea de la Torre, la novia de Ábalos, por blanqueo de capitales",
+"url": "https://www.libertaddigital.com/espana/2026-11-05/la-uco-arresta-a-la-expareja-de-abalos-andrea-de-la-torre-por-blanqueo-de-capitales-7487056/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-05T11:24+00:00"
 },
 {
@@ -453,6 +2133,12 @@
 "medio": "La Razón",
 "titulo": "La JEC mantiene la suspensión del uso del DNI electrónico para votar el 29-N por \"falta de garantías\"",
 "url": "https://www.larazon.es/espana/jec-mantiene-suspension-uso-dni-electronico-votar-29n-falta-garantias_202611056aec6415ea8d89799779ed09.html",
+"fecha": "2026-11-05T11:10+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La NASA toma como modelo la erupción de La Palma para anticipar futuras catástrofes volcánicas",
+"url": "https://www.libertaddigital.com/canarias/2026-11-05/la-nasa-toma-como-modelo-la-erupcion-de-la-palma-para-anticipar-futuras-catastrofes-volcanicas-7487044/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-05T11:10+00:00"
 },
 {
@@ -1053,6 +2739,12 @@
 "medio": "El Debate",
 "titulo": "El PSOE tramita la renuncia de Puente para que no aparezca en las papeletas por Valladolid el 29N",
 "url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/psoe-tramita-renuncia-puente-como-numero-valladolid-no-aparezca-papeletas-29n_477458.html",
+"fecha": "2026-11-05T09:37+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Federico reacciona al esperpento en el Congreso: \"Estas señoritas de pan pringao no saben de lo que hablan\"",
+"url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/tertulia-de-federico/2026-11-05/federico-reacciona-al-esperpento-en-el-congreso-estas-senoritas-de-pan-pringao-no-saben-de-lo-que-hablan-7487009/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-05T09:37+00:00"
 },
 {
@@ -2040,6 +3732,12 @@
 "fecha": "2026-11-05T06:00+00:00"
 },
 {
+"medio": "Ara",
+"titulo": "El gran amor de Roberto Saviano",
+"url": "https://llegim.ara.cat/opinio/gran-amor-roberto-saviano_129_5898395.html",
+"fecha": "2026-11-05T06:00+00:00"
+},
+{
 "medio": "El Mundo",
 "titulo": "El submarino Isaac Peral presume de capacidades: hunde un barco con un solo torpedo",
 "url": "https://www.elmundo.es/espana/2026/11/05/6aec18c8e9cf4a88038b459f.html",
@@ -2823,6 +4521,12 @@
 "medio": "El Mundo",
 "titulo": "Los ferroviarios reclamaron la \"intervención de la UE\" para \"proteger la vida\" de los usuarios del AVE: \"Existe un deterioro de las condiciones de seguridad\"",
 "url": "https://www.elmundo.es/cataluna/2026/11/04/6aeb6df4fdddffb96a8b4594.html",
+"fecha": "2026-11-04T21:41+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Cómo Vox quiere arrasar entre los jóvenes proletarios: \"Ya funcionamos mejor en Parla que en Pozuelo\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/04/6aeb7719fc6c83f76e8b4595.html",
 "fecha": "2026-11-04T21:41+00:00"
 },
 {
@@ -10057,6 +11761,12 @@
 },
 {
 "medio": "Ara",
+"titulo": "Quant guanyen els teus veïns? La renda de les llars, carrer per carrer en un mapa interactiu",
+"url": "https://www.ara.cat/economia/macroeconomia/guanyen-teus-veins-renda-llars-carrer-carrer-mapa-interactiu_1_5877679.html",
+"fecha": "2026-10-19T09:18+00:00"
+},
+{
+"medio": "Ara",
 "titulo": "\"Feijóo té dos rivals polítics, un és Sánchez i l'altre és Ayuso\"",
 "url": "https://www.ara.cat/politica/feijoo-rivals-politics-sanchez-l-ayuso_128_5859635.html",
 "fecha": "2026-10-18T17:00+00:00"
@@ -10144,6 +11854,12 @@
 "titulo": "Pepe Álvarez, secretario general de UGT",
 "url": "https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/pepe-alvarez-secretario-general-ugt-20261008_3452224.html",
 "fecha": "2026-10-09T07:39+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Què diuen les enquestes de les eleccions espanyoles del 29-N? El PSOE s'enfonsa després de la tragèdia a Toledo",
+"url": "https://www.ara.cat/politica/eleccions-generals/enquestes-eleccions-generals-2026-projeccio-simulacio-mapa_1_5871802.html",
+"fecha": "2026-10-09T05:00+00:00"
 },
 {
 "medio": "Libertad Digital",

@@ -1,5 +1,182 @@
 [
 {
+"id": "uco-registra-casa-abalos-seis-detenidos-pieza-secreta-caso-koldo",
+"fecha": "2026-11-05",
+"tema": "justicia",
+"etiqueta": "Justicia",
+"claves": [
+"uco",
+"registra",
+"corvillo",
+"exchofer"
+],
+"titulo": "La UCO registra la casa de Ábalos y detiene a seis personas en una nueva parte secreta del caso Koldo",
+"entradilla": "La Guardia Civil actuó en Valencia, Madrid, Sevilla y Córdoba y pidió información a Adif. Lo que se investiga está bajo secreto, y ser detenido no significa haber sido condenado.",
+"imagen": {
+"archivo": "audiencia-nacional.jpg",
+"alt": "Fachada de la sede de la Audiencia Nacional, en Madrid.",
+"pie": "Sede de la Audiencia Nacional, en Madrid. Foto de archivo de 2015.",
+"autor": "FDV",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Audiencia-Nacional-141115.jpg"
+},
+"esencial": [
+"La Unidad Central Operativa (UCO) de la Guardia Civil registró la casa del exministro José Luis Ábalos en Valencia, por orden del juez Ismael Moreno.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Fuentes citadas por la agencia EFE hablan de seis detenidos en Madrid, Córdoba, Valencia y Sevilla.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"La causa está bajo secreto. Rige la presunción de inocencia, y no se sabe todavía qué se le atribuye a cada persona.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "El jueves 5 de noviembre, la UCO hizo registros y peticiones de información por orden del juez de la Audiencia Nacional Ismael Moreno. Participa la Fiscalía Anticorrupción.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup> El juez había abierto esta semana una pieza separada, es decir, una parte de la causa que se investiga aparte, y la ha declarado secreta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los agentes registraron la casa de Ábalos en Valencia, donde vive su pareja, y otras dependencias en Madrid, Sevilla y Córdoba.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> Ábalos está en prisión desde el 27 de noviembre de 2025, por otra parte de este caso: la de las mascarillas, por la que el Supremo <a href=\"/actualidad/supremo-reclama-647000-euros-abalos-koldo-aldama/\">le condenó a 24 años</a>.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Quiénes son los detenidos"
+},
+{
+"tipo": "p",
+"html": "Uno es Cristian Corvillo, militante del PSOE en Córdoba, que condujo para Pedro Sánchez en las primarias socialistas de 2017.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup> La Razón escribe que está investigado por estafa.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> ABC cita fuentes de la investigación que apuntan a una posible relación con pagos ligados a obra pública, y dice que el secreto impide conocer los hechos con exactitud.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "En septiembre, Corvillo declaró como testigo en otra causa y dijo que se reunió con Ábalos y con Koldo García por <span class=\"cita-linea\">«motivos políticos»</span>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> Ser detenido no es ser condenado."
+},
+{
+"tipo": "p",
+"html": "Los medios citan también a una persona del entorno de Ábalos. No la nombramos porque es una persona privada. 20minutos y La Razón dicen que está entre los detenidos, y Ara escribe que fue interrogada.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> De los demás detenidos no hemos localizado datos en los que coincidan los medios."
+},
+{
+"tipo": "h",
+"texto": "Qué pasa con Adif"
+},
+{
+"tipo": "p",
+"html": "Agentes acudieron a dependencias de Adif, la empresa pública que gestiona las vías. Adif dice que <span class=\"cita-linea\">«se ha atendido a la petición de información»</span> y, según Ara, que no hubo ningún registro.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> ABC escribe, en cambio, que los agentes registraban sus instalaciones en Córdoba.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Ninguna de las fuentes que hemos leído dice que esta investigación tenga relación con el accidente de Urda.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup> El PP sí lo ha unido en sus declaraciones.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué se investiga"
+},
+{
+"tipo": "p",
+"html": "El contenido es secreto. 20minutos habla de supuestos amaños de obra pública y explica que el juez tiene ya cuatro piezas abiertas: mascarillas, adjudicaciones en Adif y en la Dirección General de Carreteras, financiación del PSOE y esta última.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Son investigaciones: salvo la parte de las mascarillas ya juzgada por el Supremo, no hay sentencia.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Miguel Tellado, secretario general del PP, el 5 de noviembre",
+"cita": "La corrupción cuesta vidas",
+"traduccion": null,
+"fuente": 8,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html"
+},
+{
+"candidatura": "compromis",
+"rotulo": "Justicia",
+"quien": "Mónica Oltra, candidata de Compromís a la Alcaldía de València, el 5 de noviembre",
+"cita": "vieja manera de entender la gestión pública en beneficio partidista y propio",
+"traduccion": null,
+"fuente": 9,
+"medio": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-05/oltra-registros-caso-koldo-gestion-publica/"
+},
+{
+"candidatura": null,
+"rotulo": "Adif",
+"quien": "Fuentes de Adif",
+"cita": "se ha atendido a la petición de información",
+"traduccion": null,
+"fuente": 1,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057519_0.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones del PSOE, del Gobierno, de Ábalos ni de Corvillo a esta operación.",
+"no_sabemos": [
+"Qué delitos se investigan exactamente y qué se atribuye a cada detenido. La causa está bajo secreto.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Si Ábalos está investigado en esta nueva parte del caso. El registro de su casa no lo aclara por sí solo.",
+"Si se registró o no alguna instalación de Adif. Adif y ABC dicen cosas distintas.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Qué decidirá el juez sobre los detenidos."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/uco-registra-casa-abalos-valencia-un-nuevo-operativo-caso-koldo_7057519_0.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "Ara",
+"url": "https://www.ara.cat/politica/sis-detinguts-nova-peca-secreta-cas-koldo_1_5900860.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "ABC",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cristian-corvillo-exchofer-sanchez-detenido-uco-senalado-20261105115404-nts.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "La Razón",
+"url": "https://www.larazon.es/espana/exchofer-sanchez-detenido-admitio-reuniones-abalos-koldo-juez_202611056aec69934196933d7ed18719.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "La Razón, sobre la persona detenida en Valencia",
+"url": "https://www.larazon.es/espana/quien-andrea-torre-novia-abalos-detenida-uco-casa-exministro-valencia_202611056aec6c7603bbf30bb040813b.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "OKdiario",
+"url": "https://okdiario.com/espana/uco-despliega-nuevos-registros-amanos-contratos-publicos-del-ministerio-transportes-20705294",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "OKdiario, sobre el recurso de Ábalos",
+"url": "https://okdiario.com/espana/abalos-pide-constitucional-que-anule-condena-suspenda-cumplimiento-prision-20704970",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261105/11676787/pp-registro-casa-abalos-adif-corrupcion-cuesta-vidas.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-05/oltra-registros-caso-koldo-gestion-publica/",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": true,
+"tipo": null,
+"partido": null
+},
+{
 "id": "milei-falta-apertura-cumbre-iberoamericana-abascal-sanchez",
 "fecha": "2026-11-05",
 "tema": "defensa",

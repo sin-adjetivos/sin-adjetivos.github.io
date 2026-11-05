@@ -55,7 +55,18 @@ h3 { font-weight: 700; font-size: 1.125rem; line-height: 1.25; }
 .prosa ol { list-style: decimal; padding-left: 1.5rem; }
 .prosa li + li { margin-top: .4rem; }
 
-/* Portada: la papeleta sobre el sepia */
+/* Portada: bienvenida breve y noticias, como un periódico */
+.bienvenida { background: var(--sepia); border-bottom: 2px solid var(--tinta); padding-block: clamp(1.25rem, 3vw, 2rem); }
+.bienvenida .marco { display: flex; flex-wrap: wrap; gap: 1.25rem 3rem; align-items: flex-end; justify-content: space-between; }
+.bienvenida .marco > div:first-child { flex: 1 1 26rem; max-width: 44rem; }
+.bienvenida h1 { font-size: clamp(1.875rem, 4.2vw, 3rem); line-height: 1.02; }
+.bienvenida p { margin-top: .6rem; line-height: 1.35; }
+.bienvenida p.proximas { flex: 0 1 24rem; margin-top: 0; font-size: .9375rem; }
+.bienvenida + .marco > .seccion-primera { margin-top: clamp(1.25rem, 3vw, 2rem); }
+.marco-papeleta { margin-top: 2.5rem; }
+.banda-papeleta { border-top: 2px solid var(--tinta); }
+
+/* La papeleta sobre el sepia */
 .portada { background: var(--sepia); border-bottom: 2px solid var(--tinta); padding-block: clamp(2rem, 6vw, 4rem) 0; overflow: hidden; }
 .portada h1 { max-width: 15ch; font-size: clamp(3.25rem, 8.6vw, 6.75rem); }
 .portada-fila { margin-top: 1.25rem; display: flex; flex-wrap: wrap; gap: 1rem 3rem; align-items: flex-end; }

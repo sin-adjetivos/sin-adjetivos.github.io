@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import SelectorPapeleta from '../components/SelectorPapeleta.astro';
 const LOREG = 'https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672';
 const RD = 'https://www.boe.es/eli/es/rd/1999/04/16/605/con';
 const JEC = 'https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf';
@@ -7,7 +8,7 @@ const JEC_MESAS = 'https://www.boe.es/eli/es/ins/2011/04/28/6/con';
 const DIETA = 'https://www.boe.es/boe/dias/2026/06/27/pdfs/BOE-A-2026-13948.pdf';
 const INTERIOR = 'https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx';
 ---
-<Base titulo="Cómo votar el 29 de noviembre: correo, papeletas y mesas" descripcion="Qué llevar, cómo son las papeletas, cómo votar por correo y qué hacer si te toca una mesa electoral el 29 de noviembre de 2026. Plazos oficiales.">
+<Base titulo="Cómo votar el 29 de noviembre: papeletas, correo y mesas" descripcion="Mira las listas de tu provincia, qué llevar, cómo votar por correo y qué hacer si te toca una mesa electoral el 29 de noviembre de 2026. Plazos oficiales.">
   <div class="marco">
     <header class="entrada">
       <h1>Cómo votar</h1>
@@ -24,7 +25,11 @@ const INTERIOR = 'https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/int
         <dt>29 de noviembre</dt><dd>Votación, de 9:00 a 20:00.</dd>
       </dl>
     </section>
+  </div>
 
+  <div class="marco-papeleta"><SelectorPapeleta /></div>
+
+  <div class="marco">
     <div class="prosa">
       <h2>Votar en persona</h2>
       <p>Solo puedes votar en la mesa que te corresponde. Los ayuntamientos exponen las listas de secciones y mesas del 19 al 28 de noviembre, y también se publican en internet.</p>

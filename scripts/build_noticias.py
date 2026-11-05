@@ -75,6 +75,10 @@ for n in NOTICIAS:
         except Exception as e:
             errores.append(f"{n['id']}: no se puede leer {k} ({e})"); textos[k] = ''
     orden = {k: i + 1 for i, k in enumerate(n['fuentes'])}
+    if n.get('tipo') == 'propuesta':
+        if n.get('partido') not in CANDIDATURAS - {'gobierno'}: errores.append(f"{n['id']}: una propuesta debe indicar su partido")
+        if not any(v['c'] == n.get('partido') for v in n['voces']): errores.append(f"{n['id']}: una propuesta debe llevar una frase literal de su partido")
+    elif n.get('tipo') or n.get('partido'): errores.append(f"{n['id']}: tipo desconocido; tipo y partido solo sirven para propuestas")
     medios = {f['nombre'].split(',')[0] for f in n['fuentes'].values() if f.get('tipo') not in (OFICIAL, PROPIA)}
     if len(medios) < 3: errores.append(f"{n['id']}: solo {len(medios)} medios distintos entre las fuentes")
     if not os.path.exists(f"site/public/noticias/{n['imagen']['archivo']}"): errores.append(f"{n['id']}: falta la imagen")
@@ -118,9 +122,11 @@ for n in NOTICIAS:
     for x in n['no_sabemos']: comprobar(n, x, 'no_sabemos', textos, exigir_fuente=False)
     salida.append(dict(id=n['id'], fecha=n['fecha'], tema=n['tema'], etiqueta=n['etiqueta'], claves=n['claves'], titulo=n['titulo'], entradilla=n['entradilla'], imagen=n['imagen'],
                        esencial=[a_html(x, orden) for x in n['esencial']], cuerpo=bloques, voces=voces, sin_voz=a_html(n['sin_voz'], orden), no_sabemos=[a_html(x, orden) for x in n['no_sabemos']],
-                       fuentes=[dict(n=orden[k], nombre=f['nombre'], url=f['url'], tipo=f.get('tipo', 'prensa')) for k, f in n['fuentes'].items()], cambios=n.get('cambios', []), borrador=n['id'] not in PUBLICADAS))
+                       fuentes=[dict(n=orden[k], nombre=f['nombre'], url=f['url'], tipo=f.get('tipo', 'prensa')) for k, f in n['fuentes'].items()], cambios=n.get('cambios', []), borrador=n['id'] not in PUBLICADAS,
+                       abre=bool(n.get('abre')), tipo=n.get('tipo'), partido=n.get('partido')))
 if errores:
     print('\n'.join(errores)); print(f'{len(errores)} errores. No se generan noticias.'); sys.exit(1)
-salida.sort(key=lambda n: n['fecha'], reverse=True)
+# Del mismo día van antes la marcada con abre=True y las propuestas al final. Si no, se respeta el orden de fuente_noticias.py.
+salida.sort(key=lambda n: (n['fecha'], n['tipo'] != 'propuesta', n['abre']), reverse=True)
 json.dump(salida, open(SALIDA, 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 print(f'OK: {len(salida)} noticias' + (' (con borradores)' if BORRADOR else ''))

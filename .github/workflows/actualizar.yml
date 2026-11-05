@@ -13,6 +13,7 @@ on:
 permissions:
   contents: write
   pages: write
+  issues: write
   id-token: write
 
 concurrency:
@@ -40,6 +41,23 @@ jobs:
         run: python -c "import json,sys; sys.exit(any(n.get('borrador') for n in json.load(open('site/src/data/noticias_propias.json',encoding='utf-8'))))"
       - name: Leer titulares
         run: python scripts/actualidad.py
+      # Si esto falla, la web se publica igual.
+      - name: Preparar el parte diario
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '15 7 * * *'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TZ: Europe/Madrid
+        run: |
+          python scripts/parte_diario.py > "$RUNNER_TEMP/parte.md"
+          TITULO="Parte del $(date +%F)"
+          gh issue list --state open --author "app/github-actions" --search "Parte del in:title" --json number,title --jq '.[] | "\(.number) \(.title)"' > "$RUNNER_TEMP/abiertos.txt"
+          HECHO=""
+          while read -r NUM RESTO; do
+            if [ "$RESTO" = "$TITULO" ]; then HECHO="$NUM"; else gh issue close "$NUM" --reason "not planned" --comment "Sustituido por el parte de hoy."; fi
+          done < "$RUNNER_TEMP/abiertos.txt"
+          if [ -n "$HECHO" ]; then gh issue edit "$HECHO" --body-file "$RUNNER_TEMP/parte.md"
+          else gh issue create --title "$TITULO" --body-file "$RUNNER_TEMP/parte.md" --assignee SrCapuchino; fi
       - name: Generar la web
         working-directory: site
         run: |

@@ -4,7 +4,7 @@ const { n, grande = false } = Astro.props;
 ---
 <article class:list={['tarjeta', { grande }]}>
   <a href={`/actualidad/${n.id}/`}>
-    <img src={`/noticias/${n.imagen.archivo}`} alt="" loading="lazy" width="1400" height="933" />
+    <img src={`/noticias/${n.imagen.archivo}`} alt="" loading={grande ? 'eager' : 'lazy'} width="1400" height="933" />
     <p class="tarjeta-dato">{n.etiqueta}. {fecha(n.fecha)}</p>
     <h3>{n.titulo}</h3>
     <p class="tarjeta-entradilla">{n.entradilla}</p>

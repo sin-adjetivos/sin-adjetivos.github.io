@@ -1,53 +1,55 @@
 ---
 import Base from '../layouts/Base.astro';
-import { temas, provincias } from '../lib/datos.js';
-import { COLORES } from '../lib/color.js';
-import AVISOS from '../data/avisos_papeleta.json';
+import { temas } from '../lib/datos.js';
 import act from '../data/actualidad.json';
 import fichas from '../data/fichas.json';
 import propias from '../data/noticias_propias.json';
 import Esencial from '../components/Esencial.astro';
 import TarjetaNoticia from '../components/TarjetaNoticia.astro';
 const portada = act.grupos.slice(0, propias.length ? 1 : 3);
+const noticias = propias.filter((n) => n.tipo !== 'propuesta');
+const enPropuestas = propias.filter((n) => n.tipo === 'propuesta');
+// La web se genera varias veces al día, así que esta lista no se queda atrasada.
+const hoy = new Date().toLocaleDateString('en-CA', { timeZone: 'Europe/Madrid' });
+const proximas = [
+  ['2026-11-13', '13 de noviembre', 'empieza la campaña electoral.'],
+  ['2026-11-19', '19 de noviembre', 'último día para pedir el voto por correo.'],
+  ['2026-11-25', '25 de noviembre', 'último día para enviar el voto por correo.'],
+  ['2026-11-28', '28 de noviembre', 'jornada de reflexión.'],
+  ['2026-11-29', '29 de noviembre', 'votación, de 9:00 a 20:00.'],
+].filter(([d]) => d >= hoy).slice(0, 2);
 const WEB = Astro.site.href;
 const ld = { '@context': 'https://schema.org', '@graph': [
   { '@type': 'NewsMediaOrganization', '@id': `${WEB}#org`, name: 'Sin adjetivos', url: WEB, logo: new URL('icono-256.png', Astro.site).href, founder: { '@type': 'Person', name: 'Sergio Capuchino' }, publishingPrinciples: new URL('metodologia/', Astro.site).href, correctionsPolicy: new URL('correcciones/', Astro.site).href },
   { '@type': 'WebSite', '@id': `${WEB}#web`, name: 'Sin adjetivos', url: WEB, inLanguage: 'es-ES', publisher: { '@id': `${WEB}#org` }, potentialAction: { '@type': 'SearchAction', target: `${WEB}buscar/?q={search_term_string}`, 'query-input': 'required name=search_term_string' } },
 ] };
 ---
-<Base>
-  <section class="portada">
+<Base descripcion="Noticias de las elecciones del 29 de noviembre y qué propone y qué vota cada partido, con la fuente de cada dato. Sin encuestas y sin pedir el voto.">
+  <section class="bienvenida">
     <div class="marco">
-      <h1>Mira tu papeleta antes de votar</h1>
-      <div class="portada-fila">
-      <p class="portada-intro">Elige tu provincia y verás las listas al Congreso que encontrarás el 29 de noviembre, tal como las publicó el BOE, y lo que cada candidatura propone, vota y dice.</p>
-      <div class="selector">
-        <label for="prov">Tu provincia</label>
-        <select id="prov">
-          <option value="">Elige una</option>
-          {provincias.map((p) => <option value={p.slug}>{p.nombre}</option>)}
-        </select>
+      <div>
+        <h1>Las elecciones del 29 de noviembre, sin adjetivos</h1>
+        <p>Qué pasa y qué propone y vota cada partido, con la fuente de cada dato. Sin partidos detrás, sin encuestas y sin pedir el voto. <a href="/quien-firma/">Quién firma</a>.</p>
       </div>
-      </div>
-      <p class="aviso" id="aviso-prov" hidden></p>
-      <noscript><p style="margin-top:1rem"><a href="/papeleta/">Ver todas las provincias</a></p></noscript>
-    </div>
-    <div class="mazo" id="mazo" aria-live="polite">
-      {[0, 1, 2, 3].map(() => (
-        <article class="papeleta vacia" aria-hidden="true">
-          <p class="papeleta-cab">Elecciones al Congreso de los Diputados<br />29 de noviembre de 2026</p>
-          <h3>Sin provincia elegida</h3>
-          {[0, 1, 2, 3, 4, 5].map(() => <div class="renglon"></div>)}
-        </article>
-      ))}
+      {proximas.length > 0 && (
+        <p class="proximas"><strong>Próximas fechas.</strong> {proximas.map(([, cuando, que]) => <>{cuando}: {que} </>)}<a href="/como-votar/">Cómo votar y listas de tu provincia</a>.</p>
+      )}
     </div>
   </section>
 
   <div class="marco">
-    {propias.length > 0 && (
+    {noticias.length > 0 && (
+      <section class="seccion-primera" aria-label="Noticias de Sin adjetivos">
+        <TarjetaNoticia n={noticias[0]} grande />
+        {noticias.length > 1 && <div class="tarjetas" style="margin-top:2.5rem">{noticias.slice(1, 7).map((n) => <TarjetaNoticia n={n} />)}</div>}
+        <p style="margin-top:1.5rem"><a href="/actualidad/">Ver todas las noticias</a></p>
+      </section>
+    )}
+
+    {enPropuestas.length > 0 && (
       <section class="seccion">
-        <h2>Lo que ha pasado</h2>
-        <div class="tarjetas">{propias.slice(0, 3).map((n) => <TarjetaNoticia n={n} />)}</div>
+        <h2>Lo que proponen</h2>
+        <div class="tarjetas">{enPropuestas.slice(0, 3).map((n) => <TarjetaNoticia n={n} />)}</div>
       </section>
     )}
 
@@ -69,7 +71,7 @@ const ld = { '@context': 'https://schema.org', '@graph': [
     {fichas.length > 0 && (
       <section class="seccion">
         <h2>Las votaciones clave, explicadas</h2>
-        <Esencial lista={[...fichas].sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 4)} />
+        <Esencial lista={[...fichas].sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 3)} />
       </section>
     )}
 
@@ -79,72 +81,7 @@ const ld = { '@context': 'https://schema.org', '@graph': [
         {temas.map((t) => <li><a href={`/temas/${t.id}/`}>{t.nombre}</a></li>)}
       </ul>
     </section>
-
-    <section class="seccion">
-      <h2>Cómo leer esta web</h2>
-      <div class="lectura">
-        <div><h3>Propone</h3><p>Sus palabras, tal cual, con la página del documento. Si la cita es de 2023 porque aún no hay programa de 2026, lo decimos.</p></div>
-        <div><h3>Votó</h3><p>Lo que hizo su grupo en el Congreso, con los datos oficiales de cada votación.</p></div>
-        <div><h3>Dijo</h3><p>Lo que defendió su portavoz en el debate, con enlace a la transcripción completa.</p></div>
-      </div>
-      <p class="nota" style="margin-top:1.25rem">Las citas van en esta <span style="font-family:var(--cita)">letra con remate</span>; lo escrito por nosotros, en esta otra. No hay puntuaciones ni rankings. <a href="/metodologia/">Cómo trabajamos</a>.</p>
-    </section>
-
-    <section class="seccion">
-      <h2>Fechas</h2>
-      <dl class="fechas">
-        <dt>13 a 27 de noviembre</dt><dd>Campaña electoral.</dd>
-        <dt>Hasta el 19 de noviembre</dt><dd>Pedir el voto por correo. <a href="/como-votar/#votar-por-correo">Cómo hacerlo</a>.</dd>
-        <dt>24 a 28 de noviembre</dt><dd>Prohibido publicar encuestas.</dd>
-        <dt>28 de noviembre</dt><dd>Jornada de reflexión.</dd>
-        <dt>29 de noviembre</dt><dd>Votación, de 9:00 a 20:00.</dd>
-      </dl>
-      <p class="nota" style="margin-top:.5rem">Fuente: <a href="https://www.juntaelectoralcentral.es/cs/jec/documentos/eg2026_calendario.pdf" rel="noopener">calendario de la Junta Electoral Central</a>. Qué llevar, cómo son las papeletas y qué votos no cuentan, en <a href="/como-votar/">Cómo votar</a>.</p>
-    </section>
   </div>
 
   <script type="application/ld+json" set:html={JSON.stringify(ld)} />
-  <script is:inline define:vars={{ COLORES, AVISOS }}>
-    (function () {
-      var sel = document.getElementById('prov'), mazo = document.getElementById('mazo'), avisoProv = document.getElementById('aviso-prov');
-      function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
-      function papeleta(c, prov, i) {
-        var nombres = c.lista.map(function (n) { return '<li>' + esc(n) + '</li>'; }).join('');
-        var sup = c.suplentes.length ? '<p class="papeleta-sup">Suplentes: ' + c.suplentes.map(esc).join(', ') + '</p>' : '';
-        var pie = c.expediente
-          ? '<a href="/candidaturas/' + c.expediente + '/">Ver qué propone y qué votó</a>'
-          : '<span>Sin grupo en el Congreso saliente: no hay expediente.</span>';
-        var banda = c.expediente && COLORES[c.expediente] ? ';border-top:.6rem solid ' + COLORES[c.expediente] : '';
-        return '<article class="papeleta" style="--i:' + Math.min(i, 12) + banda + '">' +
-          '<p class="papeleta-cab">Elecciones al Congreso de los Diputados<br>29 de noviembre de 2026<br>Circunscripción de ' + esc(prov) + '</p>' +
-          '<h3>' + esc(c.nombre) + '</h3><ol tabindex="0" aria-label="Candidatos">' + nombres + '</ol>' + sup +
-          '<p class="papeleta-pie">' + pie + '</p></article>';
-      }
-      function cargar(slug) {
-        var a = AVISOS[slug];
-        avisoProv.hidden = !a;
-        avisoProv.textContent = a ? a.texto : '';
-        if (!slug) return;
-        fetch('/datos/papeleta/' + slug + '.json').then(function (r) {
-          if (!r.ok) throw new Error(r.status);
-          return r.json();
-        }).then(function (d) {
-          var lista = window.barajarCandidaturas(d.candidaturas.slice());
-          mazo.classList.remove('repartido');
-          mazo.innerHTML = lista.map(function (c, i) { return papeleta(c, d.nombre, i); }).join('');
-          void mazo.offsetWidth;
-          mazo.classList.add('repartido');
-          mazo.scrollLeft = 0;
-        }).catch(function () {
-          mazo.innerHTML = '<p>No se han podido cargar las listas. Prueba en <a href="/papeleta/' + slug + '/">la página de esta provincia</a>.</p>';
-        });
-      }
-      sel.addEventListener('change', function () {
-        try { localStorage.setItem('provincia', sel.value); } catch (e) {}
-        cargar(sel.value);
-      });
-      var guardada; try { guardada = localStorage.getItem('provincia'); } catch (e) {}
-      if (guardada && sel.querySelector('option[value="' + guardada + '"]')) { sel.value = guardada; cargar(guardada); }
-    })();
-  </script>
 </Base>

@@ -414,7 +414,10 @@
 "texto": "Añadimos la salida del presidente de Adif."
 }
 ],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 },
 {
 "id": "huelga-general-11-noviembre-sindicatos-pp-vox",
@@ -719,7 +722,10 @@
 }
 ],
 "cambios": [],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 },
 {
 "id": "presidente-adif-deja-cargo-reunion-cuerpo",
@@ -914,7 +920,10 @@
 }
 ],
 "cambios": [],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 },
 {
 "id": "supremo-reclama-647000-euros-abalos-koldo-aldama",
@@ -1075,7 +1084,10 @@
 }
 ],
 "cambios": [],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 },
 {
 "id": "amnistia-constitucional-junqueras-llarena-puigdemont",
@@ -1255,7 +1267,10 @@
 }
 ],
 "cambios": [],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 },
 {
 "id": "zapatero-recurre-arabia-saudi-joyas",
@@ -1451,7 +1466,10 @@
 }
 ],
 "cambios": [],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 },
 {
 "id": "supremo-archiva-querella-vox-sanchez-ceuta",
@@ -1570,6 +1588,9 @@
 }
 ],
 "cambios": [],
-"borrador": false
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
 }
 ]

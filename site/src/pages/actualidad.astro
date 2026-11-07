@@ -29,7 +29,7 @@ const explicada = (g) => propias.find((n) => g.comunes.some((c) => n.claves.incl
     {propias.length > 0 && (
       <section class="seccion-primera" aria-label="Noticias de Sin adjetivos">
         <div class="tarjetas">
-          {propias.filter((n) => n.tipo !== 'balance').map((n, i) => <TarjetaNoticia n={n} grande={i === 0} />)}
+          {[...propias.filter((n) => !n.tipo).slice(0, 1), ...propias.filter((n) => n.tipo !== 'balance' && n !== propias.find((x) => !x.tipo))].map((n, i) => <TarjetaNoticia n={n} grande={i === 0} />)}
         </div>
         <p class="nota" style="margin-top:1rem"><a href="#como-escribimos">Cómo escribimos estas noticias</a>.</p>
       </section>

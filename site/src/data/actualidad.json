@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-07T18:05+00:00",
+"actualizado": "2026-11-07T19:33+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -17,7 +17,7 @@
 "RTVE": 180,
 "The Objective": 20,
 "20minutos": 37,
-"El Debate": 110,
+"El Debate": 112,
 "La Razón": 15
 },
 "sin_feed": [
@@ -35,8 +35,8 @@
 ],
 "comunes": [
 "zapatero",
-"juez",
 "malversacion",
+"juez",
 "joyas",
 "rechaza"
 ],
@@ -133,8 +133,8 @@
 "hasta": "2026-11-07T04:00+00:00",
 "temas": [],
 "comunes": [
-"nucleo",
 "nacional",
+"nucleo",
 "policia",
 "operacion"
 ],
@@ -321,8 +321,8 @@
 "comunes": [
 "pardo",
 "vera",
-"pide",
 "koldo",
+"pide",
 "aldama",
 "anticorrupcion",
 "abalos"
@@ -487,7 +487,7 @@
 "nueva",
 "audiencia",
 "nacional",
-"pieza"
+"lanza"
 ],
 "titulares": [
 {
@@ -628,9 +628,9 @@
 "justicia"
 ],
 "comunes": [
+"registra",
 "uco",
 "abalos",
-"registra",
 "casa",
 "valencia",
 "caso",
@@ -694,9 +694,9 @@
 "temas": [],
 "comunes": [
 "cita",
-"pedraz",
-"rocho",
 "juez",
+"rocho",
+"pedraz",
 "cintia",
 "biedma",
 "eliminar"
@@ -761,8 +761,8 @@
 "justicia"
 ],
 "comunes": [
-"ponsati",
 "amnistia",
+"ponsati",
 "supremo",
 "desobediencia",
 "clara",
@@ -822,12 +822,12 @@
 "defensa"
 ],
 "comunes": [
-"identifica",
 "altos",
+"identifica",
 "policia",
 "mandos",
-"marroquies",
 "ceuta",
+"marroquies",
 "policiales",
 "frontera"
 ],
@@ -884,9 +884,9 @@
 "pensiones"
 ],
 "comunes": [
+"electoral",
 "junta",
 "dni",
-"electoral",
 "votar",
 "digital",
 "electronico",
@@ -943,9 +943,9 @@
 "hasta": "2026-11-06T14:12+00:00",
 "temas": [],
 "comunes": [
+"campana",
 "cambio",
 "necesario",
-"campana",
 "lema",
 "badalona",
 "arrancara",
@@ -1003,11 +1003,11 @@
 "temas": [],
 "comunes": [
 "falsa",
-"causa",
 "alvise",
 "illa",
-"pcr",
+"causa",
 "supremo",
+"pcr",
 "archiva",
 "salvador"
 ],
@@ -1065,12 +1065,12 @@
 ],
 "comunes": [
 "millones",
-"colau",
-"ultrarricos",
-"000",
 "recaudar",
-"propone",
+"000",
+"ultrarricos",
+"colau",
 "impuesto",
+"propone",
 "euros"
 ],
 "titulares": [
@@ -1120,11 +1120,11 @@
 "defensa"
 ],
 "comunes": [
+"feijoo",
 "corina",
 "machado",
-"feijoo",
-"kast",
 "maria",
+"kast",
 "zelenski",
 "iberoamericana",
 "cumbre"
@@ -1233,8 +1233,8 @@
 "justicia"
 ],
 "comunes": [
-"iguales",
 "somos",
+"iguales",
 "todos",
 "sanchez"
 ],
@@ -1291,8 +1291,8 @@
 "civil",
 "146",
 "cifra",
-"gobierno",
 "invasion",
+"gobierno",
 "marruecos"
 ],
 "titulares": [
@@ -1389,14 +1389,14 @@
 "hasta": "2026-11-07T10:27+00:00",
 "temas": [],
 "comunes": [
-"hora",
 "ultima",
+"hora",
 "directo",
 "elecciones",
 "sanchez",
 "precampana",
 "generales",
-"politica"
+"actualidad"
 ],
 "titulares": [
 {
@@ -1438,8 +1438,61 @@
 ]
 },
 {
+"medios": 6,
+"desde": "2026-11-07T13:07+00:00",
+"hasta": "2026-11-07T17:28+00:00",
+"temas": [],
+"comunes": [
+"moncloa",
+"soto",
+"ayuso",
+"cambiar",
+"real",
+"miedo",
+"sanchez"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Ayuso asegura que Sánchez tiene \"miedo\" a cambiar Moncloa \"por Soto del Real\"",
+"url": "https://www.20minutos.es/nacional/ayuso-asegura-que-sanchez-tiene-miedo-cambiar-moncloa-por-soto-real_7058535_0.html",
+"fecha": "2026-11-07T15:50+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Ayuso cuestiona la campaña del miedo del PSOE: «Lo que temen es cambiar Moncloa por Soto del Real»",
+"url": "https://www.abc.es/espana/comunidad-valenciana/ayuso-cuestiona-campana-miedo-psoe-temen-cambiar-20261107144349-nt.html",
+"fecha": "2026-11-07T17:02+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Ayuso: «El PSOE tiene miedo a cambiar La Moncloa por Soto del Real»",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261107/ayuso-psoe-tiene-miedo-cambiar-moncloa-soto-real_478429.html",
+"fecha": "2026-11-07T13:07+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Ayuso asegura que Sánchez tiene \"miedo a cambiar Moncloa por Soto del Real\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-07/ayuso-asegura-que-sanchez-tiene-miedo-a-cambiar-moncloa-por-soto-del-real-7488179/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-07T17:07+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Ayuso retrata la campaña del «miedo al cambio» de Sánchez: «Lo que tiene es miedo a cambiar La Moncloa por Soto del Real»",
+"url": "https://okdiario.com/espana/ayuso-retrata-campana-del-miedo-cambio-sanchez-lo-que-tiene-miedo-cambiar-moncloa-soto-del-real-20722966",
+"fecha": "2026-11-07T16:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Ayuso carga contra Sánchez: «Tiene miedo a cambiar La Moncloa por Soto del Real»",
+"url": "https://theobjective.com/espana/politica/2026-11-07/ayuso-sanchez-miedo-moncloa-soto-del-real/",
+"fecha": "2026-11-07T17:28+00:00"
+}
+]
+},
+{
 "medios": 5,
-"desde": "2026-11-04T19:00+00:00",
+"desde": "2026-11-04T19:50+00:00",
 "hasta": "2026-11-05T08:08+00:00",
 "temas": [
 "empleo"
@@ -1448,29 +1501,28 @@
 "iberoamericana",
 "xxx",
 "cumbre",
-"reyes",
-"inauguracion",
-"cena",
-"directo"
+"imagenes",
+"sesion",
+"plenaria"
 ],
 "titulares": [
 {
 "medio": "ABC",
-"titulo": "Sigue en directo la inauguración de la XXX Cumbre Iberoamericana de Jefes de Estado y de Gobierno",
-"url": "https://www.abc.es/espana/sigue-directo-inauguracion-xxx-cumbre-iberoamericana-jefes-20261104174933-nt.html",
-"fecha": "2026-11-04T19:28+00:00"
+"titulo": "Sigue en directo la sesión plenaria de la XXX Cumbre Iberoamericana, presidida por el Rey Felipe VI y con la intervención de Sánchez",
+"url": "https://www.abc.es/espana/sigue-directo-sesion-plenaria-xxx-cumbre-iberoamericana-20261105084201-nt.html",
+"fecha": "2026-11-05T08:08+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Cena ofrecida por Sus Majestades los Reyes con motivo de la XXX Cumbre Iberoamericana, en directo",
-"url": "https://www.eldebate.com/espana/20261104/cena-ofrecida-majestades-reyes-motivo-xxx-cumbre-iberoamericana-directo_477411.html",
-"fecha": "2026-11-04T19:10+00:00"
+"titulo": "Los Reyes reciben en el Palacio Real a los mandatarios de la XXX Cumbre Iberoamericana, en imágenes",
+"url": "https://www.eldebate.com/espana/casa-real/20261104/reyes-reciben-palacio-real-mandatarios-xxx-cumbre-iberoamericana-imagenes_477423.html",
+"fecha": "2026-11-04T21:54+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Los Reyes presiden la cena de inauguración de la XXX Cumbre Iberoamericana",
-"url": "https://www.larazon.es/espana/reyes-presiden-cena-inauguracion-xxx-cumbre-iberoamericana_202611046aeb1e079a31a65adccf5d6f.html",
-"fecha": "2026-11-04T19:00+00:00"
+"titulo": "Sesión plenaria de la XXX Cumbre Iberoamericana",
+"url": "https://www.larazon.es/espana/pedro-sanchez-interviene-sesion-plenaria-xxx-cumbre-iberoamericana_202611056aec36894196933d7ed1437e.html",
+"fecha": "2026-11-05T07:55+00:00"
 },
 {
 "medio": "Libertad Digital",
@@ -1496,9 +1548,9 @@
 "territorio"
 ],
 "comunes": [
-"militares",
-"ceuta",
 "amnistia",
+"ceuta",
+"militares",
 "internacional",
 "casos",
 "migrantes",
@@ -1547,13 +1599,13 @@
 ],
 "comunes": [
 "koldo",
+"sanchez",
 "millon",
 "garcia",
 "abogado",
-"sanchez",
-"informacion",
+"euros",
 "cambio",
-"euros"
+"informacion"
 ],
 "titulares": [
 {
@@ -1596,14 +1648,14 @@
 "vivienda"
 ],
 "comunes": [
+"expropiar",
 "viviendas",
 "fondos",
-"expropiar",
-"ley",
 "inversion",
 "grandes",
+"ley",
 "colau",
-"viable"
+"perfectamente"
 ],
 "titulares": [
 {
@@ -1649,8 +1701,8 @@
 "valladolid",
 "papeletas",
 "tachar",
-"junta",
 "electoral",
+"junta",
 "permite"
 ],
 "titulares": [
@@ -1694,11 +1746,11 @@
 "justicia"
 ],
 "comunes": [
-"detenido",
-"uco",
 "corvillo",
 "sanchez",
+"detenido",
 "cristian",
+"uco",
 "exchofer"
 ],
 "titulares": [
@@ -1744,10 +1796,10 @@
 "votar",
 "montero",
 "psoe",
+"memoria",
+"come",
 "util",
-"voto",
-"puede",
-"memoria"
+"voto"
 ],
 "titulares": [
 {
@@ -1788,12 +1840,12 @@
 "hasta": "2026-11-07T17:05+00:00",
 "temas": [],
 "comunes": [
-"revuelta",
 "abascal",
+"revuelta",
 "entrevistado",
 "lunes",
-"sera",
 "tve",
+"sera",
 "broncano",
 "santiago"
 ],
@@ -1831,54 +1883,6 @@
 ]
 },
 {
-"medios": 5,
-"desde": "2026-11-07T13:07+00:00",
-"hasta": "2026-11-07T17:28+00:00",
-"temas": [],
-"comunes": [
-"moncloa",
-"soto",
-"ayuso",
-"real",
-"miedo",
-"cambiar",
-"sanchez",
-"psoe"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Ayuso asegura que Sánchez tiene \"miedo\" a cambiar Moncloa \"por Soto del Real\"",
-"url": "https://www.20minutos.es/nacional/ayuso-asegura-que-sanchez-tiene-miedo-cambiar-moncloa-por-soto-real_7058535_0.html",
-"fecha": "2026-11-07T15:50+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Ayuso cuestiona la campaña del miedo del PSOE: «Lo que temen es cambiar Moncloa por Soto del Real»",
-"url": "https://www.abc.es/espana/comunidad-valenciana/ayuso-cuestiona-campana-miedo-psoe-temen-cambiar-20261107144349-nt.html",
-"fecha": "2026-11-07T17:02+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Ayuso: «El PSOE tiene miedo a cambiar La Moncloa por Soto del Real»",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261107/ayuso-psoe-tiene-miedo-cambiar-moncloa-soto-real_478429.html",
-"fecha": "2026-11-07T13:07+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Ayuso retrata la campaña del «miedo al cambio» de Sánchez: «Lo que tiene es miedo a cambiar La Moncloa por Soto del Real»",
-"url": "https://okdiario.com/espana/ayuso-retrata-campana-del-miedo-cambio-sanchez-lo-que-tiene-miedo-cambiar-moncloa-soto-del-real-20722966",
-"fecha": "2026-11-07T16:59+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Ayuso carga contra Sánchez: «Tiene miedo a cambiar La Moncloa por Soto del Real»",
-"url": "https://theobjective.com/espana/politica/2026-11-07/ayuso-sanchez-miedo-moncloa-soto-del-real/",
-"fecha": "2026-11-07T17:28+00:00"
-}
-]
-},
-{
 "medios": 4,
 "desde": "2026-11-05T10:44+00:00",
 "hasta": "2026-11-05T12:12+00:00",
@@ -1886,14 +1890,14 @@
 "educacion"
 ],
 "comunes": [
-"monitor",
 "surf",
+"monitor",
 "alicante",
 "tocamientos",
 "menores",
 "detenido",
-"diez",
-"paddle"
+"paddle",
+"diez"
 ],
 "titulares": [
 {
@@ -1930,13 +1934,13 @@
 "vivienda"
 ],
 "comunes": [
-"2027",
 "901",
 "presupuesto",
+"2027",
 "millones",
 "almeida",
-"madrid",
 "aprueba",
+"madrid",
 "vivienda"
 ],
 "titulares": [
@@ -1974,8 +1978,8 @@
 "educacion"
 ],
 "comunes": [
-"colegio",
 "familias",
+"colegio",
 "majadahonda",
 "alumnos",
 "tres",
@@ -2014,14 +2018,14 @@
 "hasta": "2026-11-05T15:25+00:00",
 "temas": [],
 "comunes": [
+"intento",
 "nina",
 "hombre",
 "permite",
-"intento",
 "dibujo",
+"raptarla",
 "guardia",
-"civil",
-"raptarla"
+"civil"
 ],
 "titulares": [
 {
@@ -2052,62 +2056,20 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-04T19:14+00:00",
-"hasta": "2026-11-05T19:29+00:00",
-"temas": [],
-"comunes": [
-"lideres",
-"iberoamericanos",
-"rey",
-"felipe",
-"reunion",
-"recibe",
-"zelenski",
-"zarzuela"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El rey Felipe VI recibe a Zelenski en la Zarzuela tras su reunión con los líderes iberoamericanos",
-"url": "https://www.20minutos.es/nacional/rey-felipe-vi-recibe-zelenski-zarzuela-tras-su-reunion-con-los-lideres-iberoamericanos_7057833_0.html",
-"fecha": "2026-11-05T17:21+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El Rey recibe a Zelenski tras su reunión con los líderes iberoamericanos",
-"url": "https://www.eldebate.com/espana/casa-real/20261105/rey-recibe-zelenski-reunion-lideres-iberoamericanos_477847.html",
-"fecha": "2026-11-05T18:27+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "El rey Felipe VI insta a los 22 líderes iberoamericanos a evitar \"voces disonantes\" ante un \"cambio de paradigma histórico\"",
-"url": "https://www.elespanol.com/espana/20261104/rey-felipe-vi-insta-lideres-iberoamericanos-evitar-voces-disonantes-cambio-paradigma-historico/1003744446272_0.html",
-"fecha": "2026-11-04T19:14+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Felipe VI recibe a Zelenski en la Zarzuela tras su reunión con los líderes iberoamericanos",
-"url": "https://www.elmundo.es/espana/2026/11/05/6aecd65921efa0fe5b8b45ad.html",
-"fecha": "2026-11-05T19:29+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-05T11:43+00:00",
 "hasta": "2026-11-06T11:34+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
-"garcia",
 "ofrecio",
+"garcia",
 "koldo",
 "dinero",
 "insiste",
-"atacar",
 "sanchez",
-"nunca"
+"nunca",
+"atacar"
 ],
 "titulares": [
 {
@@ -2146,8 +2108,8 @@
 "comunes": [
 "chofer",
 "pringado",
-"abascal",
 "sanchez",
+"abascal",
 "detenciones"
 ],
 "titulares": [
@@ -2184,10 +2146,10 @@
 "temas": [],
 "comunes": [
 "victimas",
+"adamuz",
+"pacto",
 "seguridad",
 "estado",
-"pacto",
-"adamuz",
 "ferroviaria",
 "piden",
 "cuerpo"
@@ -2227,13 +2189,13 @@
 "territorio"
 ],
 "comunes": [
-"borrasca",
 "lluvias",
+"borrasca",
 "fuertes",
-"intensas",
 "traera",
-"canarias",
-"bruna"
+"intensas",
+"bruna",
+"canarias"
 ],
 "titulares": [
 {
@@ -2273,8 +2235,8 @@
 "urda",
 "accidente",
 "uci",
-"hospitalizados",
 "heridos",
+"hospitalizados",
 "siguen",
 "once"
 ],
@@ -2304,7 +2266,48 @@
 "fecha": "2026-11-07T08:20+00:00"
 }
 ]
+},
+{
+"medios": 4,
+"desde": "2026-11-05T17:57+00:00",
+"hasta": "2026-11-07T10:57+00:00",
+"temas": [],
+"comunes": [
+"precampana",
+"acto",
+"directo",
+"santiago",
+"abascal",
+"sanchez",
+"pedro"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Sigue en directo el acto público de Santiago Abascal en Granada",
+"url": "https://www.abc.es/espana/sigue-directo-acto-publico-santiago-abascal-granada-20261106190226-nt.html",
+"fecha": "2026-11-06T19:42+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Santiago Abascal participa en un acto de precampaña en Teruel, en directo",
+"url": "https://www.eldebate.com/espana/20261105/santiago-abascal-participa-acto-precampana-teruel-directo_477762.html",
+"fecha": "2026-11-05T17:57+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Acto de precampaña de Pedro Sánchez en Tarragona",
+"url": "https://www.larazon.es/espana/acto-precampana-pedro-sanchez-tarragona_202611076aeefa644196933d7ed43e34.html",
+"fecha": "2026-11-07T10:16+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "EN DIRECTO | Pedro Sánchez interviene en un mitin de precampaña en Valencia",
+"url": "https://theobjective.com/videos/espana/2026-11-06/directo-pedro-sanchez-en-valencia/",
+"fecha": "2026-11-06T19:09+00:00"
+}
+]
 }
 ],
-"recogidas": 2284
+"recogidas": 2232
 }

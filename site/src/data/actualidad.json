@@ -1,10 +1,10 @@
 {
-"actualizado": "2026-11-07T11:39+00:00",
+"actualizado": "2026-11-07T13:35+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 116,
-"El Confidencial": 5,
+"COPE": 117,
+"El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 56,
@@ -35,8 +35,8 @@
 ],
 "comunes": [
 "zapatero",
-"malversacion",
 "juez",
+"malversacion",
 "joyas",
 "rechaza",
 "imputar",
@@ -136,8 +136,8 @@
 "fraude",
 "urda",
 "accidente",
-"investigacion",
-"abre"
+"abre",
+"investigacion"
 ],
 "titulares": [
 {
@@ -311,8 +311,8 @@
 "comunes": [
 "vera",
 "pardo",
-"koldo",
 "pide",
+"koldo",
 "aldama",
 "anticorrupcion",
 "abalos"
@@ -394,10 +394,10 @@
 "justicia"
 ],
 "comunes": [
-"000",
-"koldo",
 "aldama",
 "abalos",
+"000",
+"koldo",
 "647",
 "supremo",
 "euros",
@@ -476,8 +476,8 @@
 "milei",
 "saludo",
 "frio",
-"iberoamericana",
-"cumbre"
+"cumbre",
+"iberoamericana"
 ],
 "titulares": [
 {
@@ -550,14 +550,14 @@
 "justicia"
 ],
 "comunes": [
-"koldo",
 "caso",
+"koldo",
 "uco",
 "operacion",
 "nueva",
 "nacional",
 "audiencia",
-"pieza"
+"lanza"
 ],
 "titulares": [
 {
@@ -624,8 +624,8 @@
 "justicia"
 ],
 "comunes": [
-"conmigo",
 "ver",
+"conmigo",
 "sanchez",
 "nada",
 "koldo",
@@ -698,8 +698,8 @@
 "comunes": [
 "cumbre",
 "iberoamericana",
-"inauguracion",
-"milei"
+"milei",
+"inauguracion"
 ],
 "titulares": [
 {
@@ -760,13 +760,13 @@
 "justicia"
 ],
 "comunes": [
+"registra",
 "uco",
 "abalos",
-"registra",
 "casa",
 "valencia",
-"koldo",
-"caso"
+"caso",
+"koldo"
 ],
 "titulares": [
 {
@@ -825,9 +825,9 @@
 "hasta": "2026-11-06T11:28+00:00",
 "temas": [],
 "comunes": [
+"zapatero",
 "saudi",
 "joyas",
-"zapatero",
 "arabia",
 "juez"
 ],
@@ -889,9 +889,9 @@
 "temas": [],
 "comunes": [
 "cita",
-"rocho",
-"pedraz",
 "juez",
+"pedraz",
+"rocho",
 "biedma",
 "cintia",
 "eliminar"
@@ -956,8 +956,8 @@
 "justicia"
 ],
 "comunes": [
-"ponsati",
 "amnistia",
+"ponsati",
 "supremo",
 "clara",
 "desobediencia",
@@ -1017,9 +1017,9 @@
 "defensa"
 ],
 "comunes": [
+"altos",
 "policia",
 "identifica",
-"altos",
 "mandos",
 "ceuta",
 "marroquies",
@@ -1079,10 +1079,10 @@
 "pensiones"
 ],
 "comunes": [
-"votar",
 "dni",
-"electoral",
 "junta",
+"electoral",
+"votar",
 "digital",
 "electronico",
 "uso"
@@ -1138,9 +1138,9 @@
 "hasta": "2026-11-06T14:12+00:00",
 "temas": [],
 "comunes": [
-"cambio",
-"campana",
 "necesario",
+"campana",
+"cambio",
 "lema",
 "badalona",
 "arrancara",
@@ -1198,11 +1198,11 @@
 "temas": [],
 "comunes": [
 "illa",
+"falsa",
 "alvise",
 "causa",
-"falsa",
-"pcr",
 "supremo",
+"pcr",
 "archiva",
 "salvador"
 ],
@@ -1260,13 +1260,13 @@
 "justicia"
 ],
 "comunes": [
-"sanchez",
 "archiva",
 "ceuta",
-"ministros",
-"supremo",
+"sanchez",
 "entrada",
+"supremo",
 "masiva",
+"ministros",
 "querella"
 ],
 "titulares": [
@@ -1310,57 +1310,59 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-04T12:43+00:00",
-"hasta": "2026-11-05T05:56+00:00",
+"desde": "2026-11-04T23:01+00:00",
+"hasta": "2026-11-05T09:33+00:00",
 "temas": [
+"inmigracion",
+"defensa",
 "territorio"
 ],
 "comunes": [
-"hunde",
-"torpedo",
-"submarino",
-"isaac",
-"peral",
-"patrullero",
-"antiguo",
-"armada"
+"ceuta",
+"militares",
+"amnistia",
+"internacional",
+"casos",
+"migrantes",
+"denuncia",
+"inmigrantes"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "El submarino 'Isaac Peral' de la Armada lanza un torpedo y hunde al antiguo patrullero 'Infanta Elena'",
-"url": "https://www.20minutos.es/nacional/submarino-isaac-peral-armada-lanza-un-torpedo-hunde-antiguo-patrullero-infanta-elena_7057350_0.html",
-"fecha": "2026-11-04T18:49+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "El submarino S-81 de la Armada hunde con un torpedo un antiguo patrullero",
-"url": "https://www.abc.es/espana/submarino-s81-armada-hunde-torpedo-antiguo-patrullero-20261104141141-nt.html",
-"fecha": "2026-11-04T13:11+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El submarino S-81 Isaac Peral hunde con un certero torpedo al antiguo patrullero Infanta Elena",
-"url": "https://www.eldebate.com/espana/defensa/20261104/submarino-s81-isaac-peral-hunde-certero-torpedo-antiguo-patrullero-infanta-elena_477163.html",
-"fecha": "2026-11-04T12:43+00:00"
+"titulo": "Un nuevo informe de Amnistía Internacional eleva a 50 los casos documentados de maltrato de militares a inmigrantes en Ceuta",
+"url": "https://www.20minutos.es/nacional/un-nuevo-informe-amnistia-internacional-eleva-50-los-casos-documentados-maltrato-militares-inmigrantes-ceuta_7057422_0.html",
+"fecha": "2026-11-05T06:26+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "El submarino Isaac Peral presume de capacidades: hunde un barco con un solo torpedo",
-"url": "https://www.elmundo.es/espana/2026/11/05/6aec18c8e9cf4a88038b459f.html",
-"fecha": "2026-11-05T05:56+00:00"
+"titulo": "Amnistía Internacional eleva a 50 los casos documentados de maltrato de militares a inmigrantes en Ceuta",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec4463e85ece1b2d8b4598.html",
+"fecha": "2026-11-05T09:33+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Amnistía Internacional denuncia nuevas presuntas agresiones de militares a migrantes en Ceuta",
+"url": "https://elpais.com/espana/2026-11-04/amnistia-internacional-denuncia-nuevas-presuntas-agresiones-de-militares-a-migrantes-en-ceuta.html",
+"fecha": "2026-11-04T23:01+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "Amnistía denuncia nuevos casos de malos tratos de militares a personas migrantes en Ceuta",
+"url": "https://www.infolibre.es/politica/amnistia-denuncia-nuevos-casos-malos-tratos-militares-personas-migrantes-ceuta_1_2239486.html",
+"fecha": "2026-11-05T05:00+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "El submarino S-81 Isaac Peral demuestra su capacidad de ataque: hunde un barco de la Armada con un torpedo al sur de Canarias",
-"url": "https://www.larazon.es/espana/defensa/submarino-s81-isaac-peral-demuestra-capacidad-ataque-hunde-barco-armada-torpedo-sur-canarias-b51m_202611046aeb63aad3bddc0868a4fcd2.html",
-"fecha": "2026-11-04T16:56+00:00"
+"titulo": "Agresiones a militares en Ceuta: la juez rechaza investigar si había radicales entre los inmigrantes",
+"url": "https://www.larazon.es/espana/agresiones-militares-ceuta-juez-rechaza-investigar-habia-radicales-inmigrantes_202611056aeb6f1d4196933d7ed09a25.html",
+"fecha": "2026-11-05T02:34+00:00"
 },
 {
-"medio": "The Objective",
-"titulo": "El submarino S-81 Isaac Peral hunde por primera vez un buque con un único torpedo",
-"url": "https://theobjective.com/espana/2026-11-04/submarino-s81-buque-torpedo/",
-"fecha": "2026-11-04T17:30+00:00"
+"medio": "La Vanguardia",
+"titulo": "Amnistía Internacional denuncia otros 28 casos de maltrato de militares a migrantes en Ceuta",
+"url": "https://www.lavanguardia.com/politica/20261105/11676610/amnistia-internacional-denuncia-otros-28-casos-maltrato-militares-migrantes-ceuta.html",
+"fecha": "2026-11-05T08:08+00:00"
 }
 ]
 },
@@ -1373,10 +1375,10 @@
 ],
 "comunes": [
 "millones",
-"ultrarricos",
-"colau",
-"000",
 "recaudar",
+"colau",
+"ultrarricos",
+"000",
 "propone",
 "impuesto",
 "euros"
@@ -1428,14 +1430,14 @@
 "defensa"
 ],
 "comunes": [
-"machado",
-"corina",
 "feijoo",
+"corina",
+"machado",
 "kast",
-"maria",
 "zelenski",
-"iberoamericana",
-"cumbre"
+"maria",
+"cumbre",
+"iberoamericana"
 ],
 "titulares": [
 {
@@ -1485,8 +1487,8 @@
 "justicia"
 ],
 "comunes": [
-"torre",
 "andrea",
+"torre",
 "abalos",
 "novia",
 "uco",
@@ -1539,13 +1541,13 @@
 "vivienda"
 ],
 "comunes": [
+"viviendas",
 "expropiar",
 "fondos",
-"viviendas",
-"colau",
 "ley",
-"inversion",
-"grandes"
+"colau",
+"grandes",
+"inversion"
 ],
 "titulares": [
 {
@@ -1650,11 +1652,11 @@
 ],
 "comunes": [
 "ceuta",
+"146",
 "guardia",
 "civil",
-"146",
-"cifra",
 "invasion",
+"cifra",
 "gobierno",
 "marruecos"
 ],
@@ -1699,41 +1701,26 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-05T15:03+00:00",
-"hasta": "2026-11-07T02:00+00:00",
+"desde": "2026-11-04T20:14+00:00",
+"hasta": "2026-11-07T09:27+00:00",
 "temas": [],
 "comunes": [
+"oscar",
 "puente",
-"nombre",
-"valladolid",
-"tachar",
-"papeletas",
-"oscar"
+"dimision"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "Puente estará en las papeletas electorales y se darán por válidas las que lleven su nombre tachado",
-"url": "https://www.abc.es/espana/castilla-leon/puente-papeletas-electorales-daran-validas-lleven-nombre-20261105144139-nt.html",
-"fecha": "2026-11-06T19:16+00:00"
-},
-{
 "medio": "El Debate",
-"titulo": "Puente aparecerá en las papeletas por Valladolid el 29N y se podrá tachar su nombre sin anular el voto",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/puente-aparecera-papeletas-valladolid-29n-podra-tachar-nombre-anular-voto_477711.html",
-"fecha": "2026-11-05T15:29+00:00"
+"titulo": "Gritos de alabanza a Puente en el primer mitin de Sánchez tras la tragedia de Urda: «¡Óscar, Óscar!»",
+"url": "https://www.eldebate.com/espana/20261107/gritos-alabanza-puente-primer-mitin-sanchez-tragedia-urda-oscar-oscar_478379.html",
+"fecha": "2026-11-07T09:27+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "La Junta Electoral permite tachar a mano el nombre de Óscar Puente en las papeletas de Valladolid",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec9fd8e9cf4ac24d8b4575.html",
-"fecha": "2026-11-05T15:25+00:00"
-},
-{
-"medio": "El País",
-"titulo": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
-"url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
-"fecha": "2026-11-05T15:03+00:00"
+"medio": "infoLibre",
+"titulo": "Óscar Puente, ¿dimisión?",
+"url": "https://www.infolibre.es/opinion/plaza-publica/oscar-puente-dimision_129_2239473.html",
+"fecha": "2026-11-06T05:01+00:00"
 },
 {
 "medio": "La Razón",
@@ -1742,22 +1729,37 @@
 "fecha": "2026-11-07T02:00+00:00"
 },
 {
+"medio": "La Vanguardia",
+"titulo": "Así fue la dimisión por watsap de Óscar Puente",
+"url": "https://www.lavanguardia.com/politica/20261104/11676298/dimision-watsap-oscar-puente.html",
+"fecha": "2026-11-04T20:14+00:00"
+},
+{
 "medio": "Libertad Digital",
-"titulo": "Las papeletas con el nombre de Óscar Puente tachado serán válidas en Valladolid",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-06/las-papeletas-con-el-nombre-de-oscar-puente-tachado-seran-validas-en-valladolid-segun-la-junta-electoral-7487911/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-06T17:07+00:00"
+"titulo": "Óscar, Óscar, Óscar o cómo se pierden unas elecciones",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-06/carmelo-jorda-oscar-oscar-oscar-o-como-se-pierden-unas-elecciones-7488067/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T22:08+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Lo mejor de la semana: de la dimisión de Óscar Puente a las falsificaciones de la ‘ley de nietos’",
+"url": "https://theobjective.com/espana/2026-11-07/mejor-semana-dimision-puente-falsificaciones-ley-nietos/",
+"fecha": "2026-11-07T07:25+00:00"
 }
 ]
 },
 {
 "medios": 6,
-"desde": "2026-11-04T12:15+00:00",
+"desde": "2026-11-04T16:20+00:00",
 "hasta": "2026-11-07T10:27+00:00",
 "temas": [],
 "comunes": [
-"hora",
 "ultima",
-"directo"
+"hora",
+"directo",
+"elecciones",
+"politica",
+"actualidad"
 ],
 "titulares": [
 {
@@ -1792,9 +1794,9 @@
 },
 {
 "medio": "OKdiario",
-"titulo": "Crisis ferroviaria en España, en directo: Carlos Cuerpo sustituye a Óscar Puente y última hora de los trenes en vivo",
-"url": "https://okdiario.com/espana/crisis-ferroviaria-espana-directo-dimision-oscar-puente-ultimas-noticias-sobre-circulacion-trenes-20696190",
-"fecha": "2026-11-04T12:15+00:00"
+"titulo": "Última Hora de la Actualidad Política y elecciones 11-N en España, en directo: Sánchez reestructura el Gobierno tras la Crisis de Urda y la marcha de Puente",
+"url": "https://okdiario.com/espana/ultima-hora-actualidad-politica-elecciones-11-n-espana-directo-sanchez-reestructura-gobierno-crisis-urda-marcha-puente-20704510",
+"fecha": "2026-11-05T09:04+00:00"
 }
 ]
 },
@@ -1807,10 +1809,10 @@
 "territorio"
 ],
 "comunes": [
-"fosa",
 "purines",
-"navarra",
 "tres",
+"navarra",
+"fosa",
 "granja",
 "mueren",
 "personas",
@@ -1851,74 +1853,28 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-04T23:01+00:00",
-"hasta": "2026-11-05T09:33+00:00",
-"temas": [
-"inmigracion",
-"defensa",
-"territorio"
-],
-"comunes": [
-"militares",
-"ceuta",
-"amnistia",
-"internacional",
-"casos",
-"denuncia",
-"migrantes",
-"maltrato"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Un nuevo informe de Amnistía Internacional eleva a 50 los casos documentados de maltrato de militares a inmigrantes en Ceuta",
-"url": "https://www.20minutos.es/nacional/un-nuevo-informe-amnistia-internacional-eleva-50-los-casos-documentados-maltrato-militares-inmigrantes-ceuta_7057422_0.html",
-"fecha": "2026-11-05T06:26+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Amnistía Internacional eleva a 50 los casos documentados de maltrato de militares a inmigrantes en Ceuta",
-"url": "https://www.elmundo.es/espana/2026/11/05/6aec4463e85ece1b2d8b4598.html",
-"fecha": "2026-11-05T09:33+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Amnistía Internacional denuncia nuevas presuntas agresiones de militares a migrantes en Ceuta",
-"url": "https://elpais.com/espana/2026-11-04/amnistia-internacional-denuncia-nuevas-presuntas-agresiones-de-militares-a-migrantes-en-ceuta.html",
-"fecha": "2026-11-04T23:01+00:00"
-},
-{
-"medio": "infoLibre",
-"titulo": "Amnistía denuncia nuevos casos de malos tratos de militares a personas migrantes en Ceuta",
-"url": "https://www.infolibre.es/politica/amnistia-denuncia-nuevos-casos-malos-tratos-militares-personas-migrantes-ceuta_1_2239486.html",
-"fecha": "2026-11-05T05:00+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Amnistía Internacional denuncia otros 28 casos de maltrato de militares a migrantes en Ceuta",
-"url": "https://www.lavanguardia.com/politica/20261105/11676610/amnistia-internacional-denuncia-otros-28-casos-maltrato-militares-migrantes-ceuta.html",
-"fecha": "2026-11-05T08:08+00:00"
-}
-]
-},
-{
-"medios": 5,
 "desde": "2026-11-05T07:45+00:00",
-"hasta": "2026-11-05T11:43+00:00",
+"hasta": "2026-11-05T12:21+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
 "koldo",
-"sanchez",
-"garcia",
-"millon",
 "abogado",
-"cambio",
+"sanchez",
+"millon",
+"garcia",
 "euros",
-"informacion"
+"informacion",
+"cambio"
 ],
 "titulares": [
+{
+"medio": "El Debate",
+"titulo": "El PP niega una supuesta oferta de su abogado a Koldo García y el PSOE exige explicaciones",
+"url": "https://www.eldebate.com/espana/20261105/pp-niega-supuesta-oferta-abogado-koldo-garcia-psoe-exige-explicaciones_477626.html",
+"fecha": "2026-11-05T12:21+00:00"
+},
 {
 "medio": "El País",
 "titulo": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
@@ -1938,12 +1894,6 @@
 "fecha": "2026-11-05T10:21+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Koldo García insiste en que el PP le ofreció dinero",
-"url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
-"fecha": "2026-11-05T11:43+00:00"
-},
-{
 "medio": "The Objective",
 "titulo": "El PP niega haber ofrecido un millón de euros a Koldo a cambio de información contra Sánchez",
 "url": "https://theobjective.com/espana/politica/2026-11-05/pp-niega-millon-euros-koldo-contra-sanchez/",
@@ -1953,99 +1903,49 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-05T12:21+00:00",
-"hasta": "2026-11-06T05:00+00:00",
-"temas": [
-"justicia"
-],
-"comunes": [
-"explicaciones",
-"koldo",
-"sanchez",
-"feijoo",
-"garcia",
-"pide",
-"supuesta",
-"exige"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "El PP niega una supuesta oferta de su abogado a Koldo García y el PSOE exige explicaciones",
-"url": "https://www.eldebate.com/espana/20261105/pp-niega-supuesta-oferta-abogado-koldo-garcia-psoe-exige-explicaciones_477626.html",
-"fecha": "2026-11-05T12:21+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Sánchez pide explicaciones a Feijóo sobre la supuesta oferta de un millón de euros del PP a Koldo",
-"url": "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html",
-"fecha": "2026-11-05T19:20+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
-"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
-"fecha": "2026-11-05T17:22+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez pide explicaciones a Feijóo por el supuesto intento de soborno a Koldo",
-"url": "https://www.lavanguardia.com/politica/20261106/11677267/sanchez-pide-explicaciones-feijoo-supuesto-intento-soborno-koldo.html",
-"fecha": "2026-11-06T05:00+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Sánchez pide explicaciones a Feijóo por las acusaciones de Koldo García sobre el PP",
-"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-explicaciones-feijoo-acusaciones-koldo-garcia/",
-"fecha": "2026-11-05T18:56+00:00"
-}
-]
-},
-{
-"medios": 5,
-"desde": "2026-11-04T12:12+00:00",
-"hasta": "2026-11-06T05:30+00:00",
+"desde": "2026-11-05T15:03+00:00",
+"hasta": "2026-11-06T19:16+00:00",
 "temas": [],
 "comunes": [
-"mesa",
-"presidente",
-"vocal",
-"electoral",
-"elecciones",
-"tocado",
-"saber",
-"suplente"
+"puente",
+"nombre",
+"valladolid",
+"papeletas",
+"tachar",
+"permite",
+"junta",
+"electoral"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Presidente, vocal y suplente: qué funciones tiene cada uno en una mesa electoral el 29-N",
-"url": "https://www.20minutos.es/nacional/presidente-vocal-suplente-que-funciones-tiene-mesa-electoral-29-n_7057699_0.html",
-"fecha": "2026-11-05T14:20+00:00"
+"medio": "ABC",
+"titulo": "Puente estará en las papeletas electorales y se darán por válidas las que lleven su nombre tachado",
+"url": "https://www.abc.es/espana/castilla-leon/puente-papeletas-electorales-daran-validas-lleven-nombre-20261105144139-nt.html",
+"fecha": "2026-11-06T19:16+00:00"
 },
 {
-"medio": "El Confidencial",
-"titulo": "Qué hace el presidente, el vocal y el suplente de una mesa electoral en las elecciones del 29-N",
-"url": "https://www.elconfidencial.com/espana/2026-11-05/que-hace-presidente-vocal-suplente-mesa-electoral-elecciones_4457794/",
-"fecha": "2026-11-05T07:36+00:00"
+"medio": "El Debate",
+"titulo": "Puente aparecerá en las papeletas por Valladolid el 29N y se podrá tachar su nombre sin anular el voto",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/puente-aparecera-papeletas-valladolid-29n-podra-tachar-nombre-anular-voto_477711.html",
+"fecha": "2026-11-05T15:29+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Junta Electoral permite tachar a mano el nombre de Óscar Puente en las papeletas de Valladolid",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec9fd8e9cf4ac24d8b4575.html",
+"fecha": "2026-11-05T15:25+00:00"
 },
 {
 "medio": "El País",
-"titulo": "Cómo saber si le ha tocado estar en una mesa electoral en las elecciones del 29-N y qué pasa si no puede acudir",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-04/como-saber-si-le-ha-tocado-estar-en-una-mesa-electoral-en-las-elecciones-del-29-n-y-que-pasa-si-no-puede-acudir.html",
-"fecha": "2026-11-04T12:13+00:00"
+"titulo": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
+"url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
+"fecha": "2026-11-05T15:03+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "De presidente a vocal en las elecciones del 29-N: estas son las funciones y requisitos de los miembros de la mesa",
-"url": "https://www.libertaddigital.com/espana/2026-11-06/de-presidente-a-vocal-en-las-elecciones-del-29-n-estas-son-las-funciones-y-requisitos-de-los-miembros-de-la-mesa-7471207/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-06T05:30+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Cómo saber si te ha tocado ser miembro de una mesa electoral el 29-N: dónde consultar si has sido elegido para ser presidente o vocal",
-"url": "https://okdiario.com/espana/como-saber-si-tocado-ser-miembro-mesa-electoral-29-n-donde-consultar-si-has-sido-elegido-ser-presidente-o-vocal-20692259",
-"fecha": "2026-11-04T12:12+00:00"
+"titulo": "Las papeletas con el nombre de Óscar Puente tachado serán válidas en Valladolid",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-06/las-papeletas-con-el-nombre-de-oscar-puente-tachado-seran-validas-en-valladolid-segun-la-junta-electoral-7487911/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T17:07+00:00"
 }
 ]
 },
@@ -2058,10 +1958,10 @@
 ],
 "comunes": [
 "sanchez",
-"uco",
 "corvillo",
-"detenido",
+"uco",
 "cristian",
+"detenido",
 "exchofer"
 ],
 "titulares": [
@@ -2098,54 +1998,6 @@
 ]
 },
 {
-"medios": 5,
-"desde": "2026-11-04T11:58+00:00",
-"hasta": "2026-11-07T10:57+00:00",
-"temas": [],
-"comunes": [
-"abascal",
-"acto",
-"ciudad",
-"real",
-"precampana",
-"directo",
-"santiago",
-"radicales"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Sigue en directo el acto público de Santiago Abascal en Granada",
-"url": "https://www.abc.es/espana/sigue-directo-acto-publico-santiago-abascal-granada-20261106190226-nt.html",
-"fecha": "2026-11-06T19:42+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Santiago Abascal participa en un acto de precampaña en Ciudad Real, en directo",
-"url": "https://www.eldebate.com/espana/20261104/santiago-abascal-participa-acto-precampana-ciudad-real-directo_476960.html",
-"fecha": "2026-11-04T11:58+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Acto de precampaña de Pedro Sánchez en Tarragona",
-"url": "https://www.larazon.es/espana/acto-precampana-pedro-sanchez-tarragona_202611076aeefa644196933d7ed43e34.html",
-"fecha": "2026-11-07T10:16+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Radicales lanzan huevos contra Abascal en Ciudad Real: «Ya están aquí las milicias de Pedro Sánchez»",
-"url": "https://okdiario.com/espana/radicales-lanzan-huevos-contra-abascal-ciudad-real-ya-estan-aqui-milicias-pedro-sanchez-20703634",
-"fecha": "2026-11-05T01:26+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Radicales lanzan huevos contra Abascal durante una rueda de prensa en Ciudad Real",
-"url": "https://theobjective.com/espana/politica/2026-11-04/radicales-lanzan-huevos-abascal-ciudad-real/",
-"fecha": "2026-11-04T17:20+00:00"
-}
-]
-},
-{
 "medios": 4,
 "desde": "2026-11-04T14:01+00:00",
 "hasta": "2026-11-04T15:25+00:00",
@@ -2153,14 +2005,14 @@
 "justicia"
 ],
 "comunes": [
-"cofia",
-"000",
-"catering",
 "obligar",
+"cofia",
+"catering",
+"000",
 "llevar",
-"valencia",
 "euros",
-"empresa"
+"empresa",
+"valencia"
 ],
 "titulares": [
 {
@@ -2191,84 +2043,44 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-04T12:40+00:00",
-"hasta": "2026-11-04T15:53+00:00",
-"temas": [],
+"desde": "2026-11-04T16:56+00:00",
+"hasta": "2026-11-05T05:56+00:00",
+"temas": [
+"territorio"
+],
 "comunes": [
-"navidad",
-"arbol",
-"sol",
-"lunes",
-"comenzara",
-"instalacion",
-"puerta"
+"submarino",
+"peral",
+"isaac",
+"torpedo",
+"hunde",
+"armada",
+"barco"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "El árbol de Navidad de Sol comenzará a instalarse el próximo lunes",
-"url": "https://www.abc.es/espana/madrid/arbol-navidad-sol-comenzara-instalarse-proximo-lunes-20261104134911-nt.html",
-"fecha": "2026-11-04T12:50+00:00"
+"medio": "20minutos",
+"titulo": "El submarino 'Isaac Peral' de la Armada lanza un torpedo y hunde al antiguo patrullero 'Infanta Elena'",
+"url": "https://www.20minutos.es/nacional/submarino-isaac-peral-armada-lanza-un-torpedo-hunde-antiguo-patrullero-infanta-elena_7057350_0.html",
+"fecha": "2026-11-04T18:49+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "Cuenta atrás para el árbol de Navidad de la Puerta del Sol: su instalación comienza este lunes",
-"url": "https://www.eldebate.com/espana/madrid/20261104/cuenta-atras-arbol-navidad-puerta-sol-instalacion-comienza-este-lunes_477295.html",
-"fecha": "2026-11-04T15:53+00:00"
+"medio": "El Mundo",
+"titulo": "El submarino Isaac Peral presume de capacidades: hunde un barco con un solo torpedo",
+"url": "https://www.elmundo.es/espana/2026/11/05/6aec18c8e9cf4a88038b459f.html",
+"fecha": "2026-11-05T05:56+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "El árbol de Navidad más alto de Madrid llega a Sol tras el desalojo de la plaza",
-"url": "https://www.libertaddigital.com/madrid/2026-11-04/el-arbol-de-navidad-mas-alto-de-madrid-llega-a-sol-tras-el-desalojo-de-la-plaza-7486543/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-04T13:40+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La instalación del árbol de Navidad de la Puerta del Sol comenzará el lunes",
-"url": "https://theobjective.com/espana/madrid/2026-11-04/arbol-navidad-sol/",
-"fecha": "2026-11-04T12:40+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-04T11:51+00:00",
-"hasta": "2026-11-05T00:21+00:00",
-"temas": [],
-"comunes": [
-"750",
-"acampada",
-"euros",
-"sol",
-"000",
-"gobierno",
-"ayuso",
-"metro"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "La factura de 38 días de acampada en Sol: 750.000 euros en Metro y 40.000 en daños",
-"url": "https://www.abc.es/espana/madrid/factura-dias-acampada-sol-750000-euros-metro-20261104012121-nt.html",
-"fecha": "2026-11-05T00:21+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Ayuso se reúne con la nueva delegada, a la que exige 750.000 € por los gastos que le ha ocasionado la acampada de Sol",
-"url": "https://www.eldebate.com/espana/madrid/20261104/ayuso-reune-nueva-delegada-exige-750000-gastos-le-ocasionado-acampada-sol_477130.html",
-"fecha": "2026-11-04T12:02+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Ayuso cifra en 750.000 euros el impacto de la acampada en Metro y reclamará a la delegación del Gobierno los costes",
-"url": "https://www.libertaddigital.com/madrid/2026-11-04/ayuso-cifra-en-750-000-euros-el-impacto-de-la-acampada-en-metro-y-reclamara-a-la-delegacion-del-gobierno-los-costes-7486575/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-04T13:38+00:00"
+"medio": "La Razón",
+"titulo": "El submarino S-81 Isaac Peral demuestra su capacidad de ataque: hunde un barco de la Armada con un torpedo al sur de Canarias",
+"url": "https://www.larazon.es/espana/defensa/submarino-s81-isaac-peral-demuestra-capacidad-ataque-hunde-barco-armada-torpedo-sur-canarias-b51m_202611046aeb63aad3bddc0868a4fcd2.html",
+"fecha": "2026-11-04T16:56+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Comunidad de Madrid reclama al Gobierno 750.00 euros por la acampada en Sol",
-"url": "https://theobjective.com/espana/politica/2026-11-04/comunidad-madrid-gobierno-750-00-euros-acampada-sol/",
-"fecha": "2026-11-04T11:51+00:00"
+"titulo": "El submarino S-81 Isaac Peral hunde por primera vez un buque con un único torpedo",
+"url": "https://theobjective.com/espana/2026-11-04/submarino-s81-buque-torpedo/",
+"fecha": "2026-11-04T17:30+00:00"
 }
 ]
 },
@@ -2280,10 +2092,10 @@
 "educacion"
 ],
 "comunes": [
-"surf",
 "monitor",
-"tocamientos",
+"surf",
 "alicante",
+"tocamientos",
 "menores",
 "detenido",
 "diez",
@@ -2324,14 +2136,14 @@
 "vivienda"
 ],
 "comunes": [
-"presupuesto",
 "901",
 "2027",
 "millones",
+"presupuesto",
 "almeida",
 "madrid",
 "aprueba",
-"gasto"
+"vivienda"
 ],
 "titulares": [
 {
@@ -2370,10 +2182,10 @@
 "comunes": [
 "alumnos",
 "colegio",
-"familias",
+"majadahonda",
 "tres",
-"denuncian",
-"majadahonda"
+"familias",
+"denuncian"
 ],
 "titulares": [
 {
@@ -2401,7 +2213,179 @@
 "fecha": "2026-11-05T11:41+00:00"
 }
 ]
+},
+{
+"medios": 4,
+"desde": "2026-11-05T12:00+00:00",
+"hasta": "2026-11-05T15:25+00:00",
+"temas": [],
+"comunes": [
+"hombre",
+"permite",
+"nina",
+"intento",
+"dibujo",
+"raptarla",
+"guardia",
+"civil"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Una niña de 8 años dibuja al hombre que intentó raptarla y permite a la Guardia Civil dar con él",
+"url": "https://www.abc.es/espana/aragon/nina-anos-dibuja-hombre-intento-retenerla-permite-20261105125816-nt.html",
+"fecha": "2026-11-05T12:00+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El dibujo de una niña de ocho años permite a la Guardia Civil identificar al hombre que intentó llevársela con golosinas a la fuerza",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/guardia-civil-detencion-ilegal-menor-1tna-1tps_4459567/",
+"fecha": "2026-11-05T12:27+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El dibujo de una niña de 8 años permite detener al hombre que intentó raptarla",
+"url": "https://www.eldebate.com/espana/20261105/dibujo-nina-8-anos-permite-detener-hombre-intento-raptarla_477692.html",
+"fecha": "2026-11-05T14:35+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El dibujo de una niña de 8 años permite identificar al hombre de cicatrices y tatuajes que intentó secuestrarla",
+"url": "https://www.libertaddigital.com/sucesos/2026-11-05/el-dibujo-de-una-nina-de-8-anos-permite-identificar-al-hombre-de-cicatrices-y-tatuajes-que-intento-secuestrarla-7487253/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T15:25+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-05T17:22+00:00",
+"hasta": "2026-11-06T05:00+00:00",
+"temas": [
+"justicia"
+],
+"comunes": [
+"feijoo",
+"sanchez",
+"explicaciones",
+"koldo",
+"pide",
+"supuesto",
+"soborno",
+"garcia"
+],
+"titulares": [
+{
+"medio": "El País",
+"titulo": "Sánchez pide explicaciones a Feijóo sobre la supuesta oferta de un millón de euros del PP a Koldo",
+"url": "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html",
+"fecha": "2026-11-05T19:20+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
+"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
+"fecha": "2026-11-05T17:22+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Sánchez pide explicaciones a Feijóo por el supuesto intento de soborno a Koldo",
+"url": "https://www.lavanguardia.com/politica/20261106/11677267/sanchez-pide-explicaciones-feijoo-supuesto-intento-soborno-koldo.html",
+"fecha": "2026-11-06T05:00+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez pide explicaciones a Feijóo por las acusaciones de Koldo García sobre el PP",
+"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-explicaciones-feijoo-acusaciones-koldo-garcia/",
+"fecha": "2026-11-05T18:56+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-05T11:43+00:00",
+"hasta": "2026-11-06T11:34+00:00",
+"temas": [
+"justicia"
+],
+"comunes": [
+"koldo",
+"ofrecio",
+"garcia",
+"dinero",
+"insiste",
+"atacar",
+"sanchez",
+"nunca"
+],
+"titulares": [
+{
+"medio": "elDiario.es",
+"titulo": "Koldo García desde prisión insiste en que el PP le ofreció dinero: \"Yo daré el remate final\"",
+"url": "https://www.eldiario.es/politica/koldo-garcia-prision-insiste-pp-le-ofrecio-dinero-dare-remate-final_1_13640815.html",
+"fecha": "2026-11-05T13:12+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El PP recalca que \"nunca\" ofreció dinero a Koldo García para atacar a Sánchez: \"No ha hecho falta, ya se investiga\"",
+"url": "https://www.europapress.es/nacional/noticia-ester-munoz-dice-pp-nunca-ofrecio-dinero-koldo-garcia-derrocar-sanchez-no-hecho-falta-20261106121806.html",
+"fecha": "2026-11-06T11:18+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Koldo García insiste en que el PP le ofreció dinero",
+"url": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html",
+"fecha": "2026-11-05T11:43+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Ester Muñoz asegura que el PP «nunca» ofreció dinero a Koldo García para atacar a Sánchez",
+"url": "https://theobjective.com/espana/politica/2026-11-06/ester-munoz-pp-dinero-koldo/",
+"fecha": "2026-11-06T11:34+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-04T15:47+00:00",
+"hasta": "2026-11-06T12:18+00:00",
+"temas": [],
+"comunes": [
+"atestado",
+"cuatro",
+"falsear",
+"acusados",
+"menor",
+"absueltos",
+"policias",
+"agredir"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Absueltos los cuatro policías acusados de haber agredido a un menor extranjero y falsear el atestado",
+"url": "https://www.abc.es/espana/absueltos-cuatro-policias-acusados-haber-agredido-menor-20261104165351-nt.html",
+"fecha": "2026-11-04T15:53+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Absueltos cuatro policías acusados de agredir a un menor marroquí y falsear el atestado para ocultarlo",
+"url": "https://www.elconfidencial.com/espana/2026-11-04/absueltos-cuatro-policias-acusados-de-agredir-a-un-menor-marroqui-y-falsear-el-atestado-para-ocultarlo_4458966/",
+"fecha": "2026-11-04T15:47+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Absuelven a cuatro agentes de la Policía Nacional acusados de agredir a un menor en Madrid y falsear el atestado",
+"url": "https://www.elespanol.com/espana/tribunales/20261104/absuelven-agentes-policia-nacional-acusados-agredir-menor-madrid-falsear-atestado/1003744446221_0.html",
+"fecha": "2026-11-04T15:58+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Absueltos cuatro policías acusados de agredir a un menor y falsear el atestado de su detención",
+"url": "https://theobjective.com/espana/2026-11-06/absolucion-policias-agresion-menor-tetuan/",
+"fecha": "2026-11-06T12:18+00:00"
+}
+]
 }
 ],
-"recogidas": 2510
+"recogidas": 2431
 }

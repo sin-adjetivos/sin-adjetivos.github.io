@@ -16,7 +16,7 @@ VALORATIVAS = r'\b(polémic\w*|histórico|histórica|importante\w*|grave\w*|esca
 CANDIDATURAS = {c['id'] for c in json.load(open('site/src/data/candidaturas.json', encoding='utf-8'))} | {'gobierno'}
 FICHAS = {f['id']: f for f in json.load(open('site/src/data/fichas.json', encoding='utf-8'))}
 # Nombres y términos que contienen palabras de la lista anterior sin valorar nada.
-NO_VALORAN = ('Plus Ultra', 'Buenos Aires', 'Buenos días', 'malos tratos')
+NO_VALORAN = ('Plus Ultra', 'Buenos Aires', 'Buenos días', 'malos tratos', 'extrema derecha')
 errores = []
 
 def valorativa(s):

@@ -136,7 +136,15 @@
 },
 {
 "tipo": "p",
-"html": "Los medios dan cifras distintas porque miden periodos distintos. El Mundo habla de más de 3.000 llegadas a El Hierro en cinco días, y de más de 8.000 en las últimas semanas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> El Confidencial, de cerca de 5.000 llegadas a Canarias en lo que va de mes.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Según El Confidencial, el Cabildo de El Hierro ha decretado la emergencia social.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"html": "Los medios dan cifras distintas porque miden periodos distintos. El Mundo habla de más de 3.000 llegadas a El Hierro en cinco días, y de más de 8.000 en las últimas semanas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> El Confidencial, de cerca de 5.000 llegadas a Canarias en lo que va de mes.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> OKdiario recoge que, según el Cabildo, han llegado más de 8.000 personas a El Hierro en cinco semanas.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> Según El Confidencial, el Cabildo de El Hierro ha decretado la emergencia social.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Los traslados a la Península"
+},
+{
+"tipo": "p",
+"html": "Según fuentes de Defensa citadas por ABC, el Gobierno ha movilizado al Ejército del Aire y del Espacio: dos aviones militares Airbus A330 llevaron el sábado a medio millar de personas desde Tenerife y Gran Canaria hasta la base de Torrejón de Ardoz. Se suman a los vuelos chárter que ya salían a varias ciudades.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
 },
 {
 "tipo": "h",
@@ -159,7 +167,7 @@
 "url": "https://www.elconfidencial.com/espana/2026-11-07/canarias-inmigracion-comision-interministerial-clavijo-sanchez-1tps_4461084/"
 }
 ],
-"sin_voz": "No hemos localizado declaraciones del Gobierno más allá de la confirmación de la reunión, ni de otros partidos.",
+"sin_voz": "Ignacio Garriga, secretario general de Vox, dice que acoger y trasladar a los recién llegados multiplicará el <span class=\"cita-linea\">«efecto llamada»</span>, según OKdiario.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> Del Gobierno solo hemos localizado la confirmación de la reunión, y de otros partidos, ninguna declaración.",
 "no_sabemos": [
 "Qué medidas saldrán de la reunión del martes. Lo contaremos.",
 "Cuántas personas han llegado exactamente: las cifras publicadas cubren periodos distintos y no hemos visto un dato oficial.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
@@ -182,9 +190,26 @@
 "nombre": "El Confidencial",
 "url": "https://www.elconfidencial.com/espana/2026-11-07/canarias-inmigracion-comision-interministerial-clavijo-sanchez-1tps_4461084/",
 "tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "ABC, sobre los aviones militares",
+"url": "https://www.abc.es/espana/canarias/sanchez-moviliza-ejercito-aire-trasladar-inmigrantes-hierro-20261108160225-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "OKdiario",
+"url": "https://okdiario.com/canarias/garriga-alerta-del-efecto-llamada-oleada-cayucos-hierro-mas-8-000-llegadas-cinco-semanas-20725980",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-08",
+"texto": "Por la tarde añadimos los traslados en aviones militares y la cifra del Cabildo."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,

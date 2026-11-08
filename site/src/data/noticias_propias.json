@@ -1,5 +1,312 @@
 [
 {
+"id": "policia-desmantela-campamento-migrantes-puerto-ceuta",
+"fecha": "2026-11-08",
+"tema": "inmigracion",
+"etiqueta": "Inmigración",
+"claves": [
+"campamento",
+"puerto"
+],
+"titulo": "La Policía empieza a desmantelar el campamento de migrantes del puerto de Ceuta tras llegar las primeras órdenes de expulsión",
+"entradilla": "Quienes tienen rechazado el asilo son trasladados al centro de El Tarajal para devolverlos a Marruecos, y el resto, a otros centros de acogida. No se sabe aún si el campamento se cerrará del todo.",
+"imagen": {
+"archivo": "puerto-ceuta.jpg",
+"alt": "Vista de Ceuta y de su puerto desde una colina.",
+"pie": "Ceuta y su puerto. Foto de archivo de 2021.",
+"autor": "Xemenendura",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Puerto_de_Ceuta_00.jpg"
+},
+"esencial": [
+"La Policía Nacional empezó el domingo 8 de noviembre a desmantelar el campamento de migrantes del puerto de Ceuta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Son personas que llegaron en la entrada masiva del 30 y el 31 de julio. A quienes ya tienen rechazado el asilo se les traslada al CATE de El Tarajal para expulsarlos a Marruecos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Si el campamento se cierra del todo dependerá de las plazas libres en otros centros, según fuentes policiales.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Agentes de la Policía Nacional empezaron a primera hora de la mañana, con un dispositivo que acordonó la zona, al llegar las primeras órdenes de expulsión.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> El Español escribe que la Policía distingue entre quienes ya tienen la solicitud de asilo inadmitida, que serán devueltos a Marruecos, y quienes aún no han pasado por ese trámite, que irán a otros centros.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los trasladados van al CATE de El Tarajal, un centro de atención temporal, y al CETI, el centro de estancia temporal de inmigrantes de la ciudad.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Se eligió el domingo para no coincidir con las clases, porque el campamento está junto a un centro educativo.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Por qué era un campamento discutido"
+},
+{
+"tipo": "p",
+"html": "Está en la ampliación del puerto, una zona cuya urbanización estaba prevista para los próximos meses. El consejo de administración de la Autoridad Portuaria votó en contra de ceder ese espacio, y el Ministerio de Transportes ordenó usarlo de todos modos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Lo que se sabe del informe sobre la entrada masiva y de la cifra de regresos está en <a href=\"/actualidad/policia-situa-dos-mandos-marroquies-frontera-ceuta/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+}
+],
+"voces": [],
+"sin_voz": "No hemos localizado declaraciones del Gobierno, de la ciudad de Ceuta, de organizaciones de ayuda ni de los partidos sobre el desmantelamiento.",
+"no_sabemos": [
+"Cuántas personas había en el campamento y cuántas serán expulsadas. No lo hemos localizado.",
+"Si el campamento se cerrará del todo. Depende de las plazas en otros centros, según fuentes policiales.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/nacional/noticia-comienza-desmantelarse-campamento-migrantes-puerto-ceuta-20261108092122.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/08/6af03dffe9cf4a8a4e8b456e.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Español",
+"url": "https://www.elespanol.com/espana/20261108/policia-empieza-desmantelar-campamento-inmigrantes-puerto-ceuta/1003744450509_0.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261108/11679173/policia-empieza-desmantelar-campamento-migrantes-puerto-ceuta.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Nuestra noticia sobre el informe de la Policía",
+"url": "/actualidad/policia-situa-dos-mandos-marroquies-frontera-ceuta/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": true,
+"tipo": null,
+"partido": null
+},
+{
+"id": "comision-interministerial-inmigracion-canarias-el-hierro",
+"fecha": "2026-11-08",
+"tema": "inmigracion",
+"etiqueta": "Inmigración",
+"claves": [
+"interministerial",
+"hierro"
+],
+"titulo": "El Gobierno convoca para el martes la Comisión Interministerial de Inmigración por las llegadas de cayucos a El Hierro",
+"entradilla": "Lo anunció el presidente de Canarias, Fernando Clavijo, tras hablar con Pedro Sánchez, y lo confirmó el Gobierno. Clavijo pide un plan con medidas y plazos.",
+"imagen": {
+"archivo": "la-restinga-el-hierro.jpg",
+"alt": "Puerto de La Restinga, en El Hierro, con barcos de recreo y una montaña volcánica al fondo.",
+"pie": "Puerto de La Restinga, en El Hierro. Foto de archivo de 2016.",
+"autor": "Rebexho",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:La_Restinga_El_Hierro.JPG"
+},
+"esencial": [
+"La Comisión Interministerial de Inmigración se reunirá el martes 10 de noviembre en La Moncloa, antes del Consejo de Ministros.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Según El Mundo, a El Hierro han llegado más de 3.000 personas en cinco días en una treintena de cayucos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Clavijo dice que Sánchez se ha comprometido además a reforzar los recursos sanitarios.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "El presidente de Canarias, Fernando Clavijo, habló el sábado 7 de noviembre con Pedro Sánchez y le trasladó la situación de El Hierro. Después anunció en la red social X la convocatoria de la comisión, y el Ministerio de Política Territorial la confirmó.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La preside el ministro de Política Territorial, Ángel Víctor Torres. Asistirán, entre otros, Clavijo y el presidente del Cabildo de El Hierro, Alpidio Armas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Las cifras"
+},
+{
+"tipo": "p",
+"html": "Los medios dan cifras distintas porque miden periodos distintos. El Mundo habla de más de 3.000 llegadas a El Hierro en cinco días, y de más de 8.000 en las últimas semanas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> El Confidencial, de cerca de 5.000 llegadas a Canarias en lo que va de mes.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Según El Confidencial, el Cabildo de El Hierro ha decretado la emergencia social.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué pide Canarias"
+},
+{
+"tipo": "p",
+"html": "Un plan conjunto con medidas <span class=\"cita-linea\">«concretas, responsables y plazos de ejecución»</span>. Clavijo también ha pedido reuniones urgentes con la presidenta de la Comisión Europea, Ursula von der Leyen, y con el comisario de Interior y Migración, Magnus Brunner.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "coalicion-canaria",
+"rotulo": "Justicia",
+"quien": "Fernando Clavijo, presidente de Canarias, en la red social X",
+"cita": "No podemos seguir actuando únicamente cuando la situación se agrava",
+"traduccion": null,
+"fuente": 3,
+"medio": "El Confidencial",
+"url": "https://www.elconfidencial.com/espana/2026-11-07/canarias-inmigracion-comision-interministerial-clavijo-sanchez-1tps_4461084/"
+}
+],
+"sin_voz": "No hemos localizado declaraciones del Gobierno más allá de la confirmación de la reunión, ni de otros partidos.",
+"no_sabemos": [
+"Qué medidas saldrán de la reunión del martes. Lo contaremos.",
+"Cuántas personas han llegado exactamente: las cifras publicadas cubren periodos distintos y no hemos visto un dato oficial.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/07/6aef6566e85ece64678b4574.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "La Razón",
+"url": "https://www.larazon.es/espana/sanchez-compromete-clavijo-convocar-urgencia-este-martes-comision-interministerial-inmigracion_202611076aef66524196933d7ed49d72.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Confidencial",
+"url": "https://www.elconfidencial.com/espana/2026-11-07/canarias-inmigracion-comision-interministerial-clavijo-sanchez-1tps_4461084/",
+"tipo": "prensa"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
+"id": "frente-amplio-propone-ley-expropiar-viviendas-fondos",
+"fecha": "2026-11-08",
+"tema": "vivienda",
+"etiqueta": "Propuesta",
+"claves": [
+"expropiar",
+"expropiacion"
+],
+"titulo": "Frente Amplio propone una ley para expropiar viviendas a las empresas que tengan más de 50, empezando por las de más de 1.000",
+"entradilla": "Ada Colau dice que las expropiaciones serían por debajo del precio de mercado y que las viviendas pasarían al parque público. No ha explicado cómo se fijaría el precio ni cuánto costaría, que hayamos localizado.",
+"imagen": {
+"archivo": "malaga-paseo-sancha.jpg",
+"alt": "Edificio de viviendas en el Paseo de Sancha, en Málaga.",
+"pie": "Edificio de viviendas en Málaga, donde Colau presentó la propuesta. Foto de archivo de 2022.",
+"autor": "Daniel Capilla",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Building_in_Paseo_de_Sancha,_34-36.jpg"
+},
+"esencial": [
+"Ada Colau, candidata de Frente Amplio, anunció el 6 de noviembre en Málaga una Ley de Expropiación de Viviendas a Propietarios Corporativos Privados para su programa.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Se aplicaría en tres fases: primero a empresas con más de 1.000 viviendas, luego a las de más de 700 y por último a las de más de 50.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Dice que afectaría solo a empresas y no a familias que tienen su casa o un piso en alquiler.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué propone"
+},
+{
+"tipo": "p",
+"html": "Una ley para expropiar viviendas a empresas que las usan como negocio, empezando por las que tienen más de 1.000.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> Según The Objective, Colau habló de al menos 100.000 viviendas y dijo que se expropiarían por debajo del precio de mercado, para que pasaran al parque público con un precio asequible.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La ley se dirige a personas jurídicas, es decir, a empresas, y no a grandes propietarios que sean personas físicas.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> El Mundo cita como ejemplos de la primera fase a Blackstone o CaixaBank.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué argumenta"
+},
+{
+"tipo": "p",
+"html": "Colau dice que hay trece fondos que acumulan 100.000 viviendas, y que compran a precios bajos y luego alquilan a precios que llama abusivos.<sup class=\"ref\"><a href=\"#f3\">3</a></sup> Son sus cifras: no las hemos comprobado. El 7 de noviembre, en Barcelona, repitió que expropiarían <span class=\"cita-linea\">«a los fondos buitre»</span> si forman Gobierno.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué ha votado su grupo sobre este tema"
+},
+{
+"tipo": "p",
+"html": "El Grupo Sumar, antecedente de Frente Amplio, votó a favor del decreto de vivienda de octubre de 2026 que suspendía desahucios cuando demanda una entidad especulativa. No salió adelante, con 172 votos a favor y 178 en contra; PP y Vox votaron en contra. Lo explicamos en <a href=\"/fichas/decreto-de-vivienda-desahucios-compras-especulativas-y-alquiler-de-tem/\">esta ficha</a>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "frente-amplio",
+"rotulo": "Justicia",
+"quien": "Ada Colau, candidata de Frente Amplio, en Málaga, el 6 de noviembre",
+"cita": "Eso se puede hacer, es perfectamente viable",
+"traduccion": null,
+"fuente": 1,
+"medio": "Europa Press",
+"url": "https://www.europapress.es/andalucia/malaga-00356/noticia-frente-amplio-propone-ley-expropiar-viviendas-grandes-fondos-inversion-perfectamente-viable-20261106120711.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de otros partidos ni de las empresas aludidas.",
+"no_sabemos": [
+"Cómo se fijaría el precio de las expropiaciones y cuánto costarían. No lo hemos visto explicado.",
+"Si una ley así resistiría un recurso ante los tribunales. No hemos localizado análisis de expertos citados por los medios.",
+"El programa completo de Frente Amplio, que no hemos localizado publicado."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "Europa Press",
+"url": "https://www.europapress.es/andalucia/malaga-00356/noticia-frente-amplio-propone-ley-expropiar-viviendas-grandes-fondos-inversion-perfectamente-viable-20261106120711.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/politica/2026-11-06/colau-ley-expropiacion-fondos-buitre/",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedcb20e9cf4ad16a8b45b0.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/frente-amplio-promete-expropiar-los-fondos-buitre-vivienda-avanza-una-motosierra-fiscal-para-los-arriba_7058554_0.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "Nuestra ficha de la votación, con datos oficiales del Congreso",
+"url": "/fichas/decreto-de-vivienda-desahucios-compras-especulativas-y-alquiler-de-tem/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": "propuesta",
+"partido": "frente-amplio"
+},
+{
 "id": "sanchez-estudiar-guillem-agullo-victima-terrorismo",
 "fecha": "2026-11-07",
 "tema": "justicia",
@@ -218,8 +525,8 @@
 "claves": [
 "nucleo"
 ],
-"titulo": "La Policía detiene a entre 12 y 14 miembros de Núcleo Nacional por incitación al odio, asociación ilícita y tenencia de armas",
-"entradilla": "La operación la ordenó un juzgado de Gijón por unos hechos de febrero junto a un colegio de la ciudad. Hubo registros en siete provincias, incluida la sede del grupo en Madrid, y la operación sigue abierta.",
+"titulo": "La jueza deja en libertad con medidas cautelares a diez de los 14 detenidos de Núcleo Nacional, investigados por odio, asociación ilícita y armas",
+"entradilla": "No podrán salir de España, se les retira el pasaporte y deberán comparecer cada semana en el juzgado. La operación la ordenó un juzgado de Gijón por unos hechos de febrero junto a un colegio de la ciudad.",
 "imagen": {
 "archivo": "colegio-inmaculada-gijon.jpg",
 "alt": "Fachada del Colegio de la Inmaculada, en Gijón.",
@@ -230,8 +537,8 @@
 },
 "esencial": [
 "La Policía Nacional detuvo el 6 de noviembre a miembros de Núcleo Nacional, un grupo que la mayoría de los medios describe como neonazi.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
-"Se les atribuyen, de entrada, incitación al odio, asociación ilícita y tenencia de armas. Están detenidos, no condenados.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
-"Los medios no dan la misma cifra: 14 detenidos según Europa Press y elDiario.es, 12 según infoLibre.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"Se les atribuyen, de entrada, incitación al odio, asociación ilícita y tenencia de armas. Están investigados, no condenados.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"El domingo 8 de noviembre, la jueza dejó en libertad a diez de los 14 detenidos con prohibición de salir de España, retirada del pasaporte y comparecencias semanales.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
 ],
 "cuerpo": [
 {
@@ -244,7 +551,19 @@
 },
 {
 "tipo": "p",
-"html": "Según el Tribunal Superior de Justicia de Asturias, siete de los detenidos serían de la cúpula del grupo y declararán en Gijón como investigados. Europa Press habla del domingo y infoLibre, del lunes.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"html": "Según el Tribunal Superior de Justicia de Asturias, siete de los detenidos serían de la cúpula del grupo. Diez declararon en Gijón el domingo 8 de noviembre.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué ha decidido la jueza"
+},
+{
+"tipo": "p",
+"html": "El juzgado de instrucción número 1 de Gijón, de acuerdo con la Fiscalía, dejó en libertad a diez detenidos tras tomarles declaración. Siete son, según la investigación, de la cúpula del grupo.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La jueza considera que los hechos podrían ser incitación al odio y asociación ilícita, una calificación provisional. Añade tenencia ilícita de armas: casi todos tienen licencia para armas de fuego, pero se intervinieron objetos prohibidos como puños americanos y pistolas táser.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 },
 {
 "tipo": "h",
@@ -273,8 +592,8 @@
 ],
 "sin_voz": "No hemos localizado declaraciones de Núcleo Nacional, del Gobierno ni de los partidos sobre la operación. No nombramos a los detenidos.",
 "no_sabemos": [
-"Qué se le atribuye a cada detenido y qué decidirá la jueza tras tomarles declaración.",
-"Cuántos detenidos hay exactamente. Las cifras publicadas no coinciden, y la operación sigue abierta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"Qué se le atribuye a cada uno. La calificación es provisional y puede cambiar durante la instrucción.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>",
+"Qué pasa con los otros cuatro detenidos, que pasaron a disposición de los juzgados de guardia de donde fueron detenidos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
 ],
 "fuentes": [
 {
@@ -306,9 +625,32 @@
 "nombre": "ABC",
 "url": "https://www.abc.es/espana/policia-registra-sede-nucleo-nacional-practica-varias-20261106094011-nt.html",
 "tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "elDiario.es, sobre las medidas cautelares",
+"url": "https://www.eldiario.es/politica/jueza-deja-libertad-cargos-diez-14-ultras-nucleo-nacional-detenidos-les-retira-pasaporte_1_13648010.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "El Español, sobre las medidas cautelares",
+"url": "https://www.elespanol.com/espana/20261108/fiscalia-pide-retirada-pasaporte-prohibicion-salir-espana-detenidos-nucleo-nacional/1003744450641_0.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "El Confidencial, sobre las medidas cautelares",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/nucleo-nacional-detenidos-libertad-armas-1tna-1tps_4461300/",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-08",
+"texto": "Añadimos la decisión de la jueza tras la declaración de diez detenidos, y cambiamos el titular. Ya hay acuerdo en que fueron 14 detenidos."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -1001,7 +1343,7 @@
 },
 {
 "tipo": "p",
-"html": "Alvise es el líder de Se Acabó la Fiesta (SALF).<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Su candidatura se presenta el 29 de noviembre en 46 circunscripciones, según <a href=\"/papeleta/\">nuestras listas</a>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> Como eurodiputado, para investigarle el Supremo necesita antes un suplicatorio, es decir, pedir al Parlamento Europeo que levante su inmunidad.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "Alvise es el líder de Se Acabó la Fiesta (SALF).<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Su candidatura se presenta el 29 de noviembre en 46 circunscripciones, según <a href=\"/papeleta/\">nuestras listas</a>.<sup class=\"ref\"><a href=\"#f7\">7</a></sup> Como eurodiputado, para investigarle el Supremo necesita antes un suplicatorio, es decir, pedir al Parlamento Europeo que levante su inmunidad.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
 },
 {
 "tipo": "h",
@@ -1014,6 +1356,10 @@
 {
 "tipo": "p",
 "html": "El auto añade que eso no significa que Illa no tenga derecho a defender su honor. La decisión puede recurrirse.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Illa ha anunciado que recurrirá el archivo en apelación ante la Sala de lo Penal del Supremo. Fuentes de la Generalitat dicen que quiere llegar hasta el final porque las redes <span class=\"cita-linea\">«no pueden ser un espacio de impunidad»</span>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
 },
 {
 "tipo": "h",
@@ -1054,9 +1400,9 @@
 "url": "https://www.elmundo.es/espana/2026/11/05/6aec68eb21efa0fc068b45a4.html"
 }
 ],
-"sin_voz": "No hemos localizado reacciones de Alvise, de SALF ni de Salvador Illa a estos autos.",
+"sin_voz": "No hemos localizado reacciones de Alvise ni de SALF a estos autos.",
 "no_sabemos": [
-"Si alguien recurrirá el archivo o si Illa acudirá a la vía civil.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Qué decidirá la Sala de lo Penal del Supremo sobre el recurso de Illa.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
 "Cuándo decidirá el Parlamento Europeo sobre este suplicatorio y sobre los anteriores."
 ],
 "fuentes": [
@@ -1086,12 +1432,29 @@
 },
 {
 "n": 5,
+"nombre": "La Vanguardia, sobre el recurso de Illa",
+"url": "https://www.lavanguardia.com/politica/20261106/11678022/illa-recurre-archivo-causa-alvise-perez-prueba-falsa-covid.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "El Debate, sobre el recurso de Illa",
+"url": "https://www.eldebate.com/espana/20261107/illa-llevara-supremo-archivo-causa-contra-alvise-pcr-falsa_478359.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
 "nombre": "Nuestras listas por provincia, según el BOE",
 "url": "/papeleta/",
 "tipo": "propia"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-06",
+"texto": "Añadimos que Illa recurrirá el archivo."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,

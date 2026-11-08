@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-08T13:52+00:00",
+"actualizado": "2026-11-08T16:03+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -26,7 +26,7 @@
 ],
 "grupos": [
 {
-"medios": 14,
+"medios": 13,
 "desde": "2026-11-06T11:24+00:00",
 "hasta": "2026-11-06T21:22+00:00",
 "temas": [
@@ -35,10 +35,12 @@
 ],
 "comunes": [
 "zapatero",
-"malversacion",
 "juez",
+"malversacion",
+"rechaza",
 "joyas",
-"rechaza"
+"imputar",
+"fiscalia"
 ],
 "titulares": [
 {
@@ -114,12 +116,6 @@
 "fecha": "2026-11-06T11:42+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "OKDIARIO descubre a Zapatero celebrando en el Ateneo de su amigo Arroyo que el juez no le impute malversación por las joyas",
-"url": "https://okdiario.com/espana/okdiario-descubre-zapatero-celebrando-ateneo-amigo-arroyo-que-juez-no-impute-malversacion-joyas-20717603",
-"fecha": "2026-11-06T15:17+00:00"
-},
-{
 "medio": "The Objective",
 "titulo": "El juez Calama rechaza investigar a Zapatero por malversación como pedía la Fiscalía",
 "url": "https://theobjective.com/espana/tribunales/2026-11-06/juez-calama-zapatero-malversacion-fiscalia/",
@@ -135,13 +131,13 @@
 "impuestos"
 ],
 "comunes": [
-"europea",
 "fiscalia",
+"europea",
 "fraude",
 "urda",
 "accidente",
-"abre",
-"investigacion"
+"investigacion",
+"abre"
 ],
 "titulares": [
 {
@@ -219,15 +215,17 @@
 ]
 },
 {
-"medios": 12,
+"medios": 11,
 "desde": "2026-11-06T09:47+00:00",
-"hasta": "2026-11-08T08:01+00:00",
+"hasta": "2026-11-08T14:16+00:00",
 "temas": [],
 "comunes": [
-"nacional",
 "nucleo",
+"nacional",
 "policia",
-"operacion"
+"operacion",
+"detenidos",
+"grupo"
 ],
 "titulares": [
 {
@@ -241,12 +239,6 @@
 "titulo": "La Policía registra la sede de Núcleo Nacional y practica 14 detenciones",
 "url": "https://www.abc.es/espana/policia-registra-sede-nucleo-nacional-practica-varias-20261106094011-nt.html",
 "fecha": "2026-11-06T19:19+00:00"
-},
-{
-"medio": "Ara",
-"titulo": "La policia llança una operació contra el grup neonazi Núcleo Nacional",
-"url": "https://www.ara.cat/politica/policia-llanca-operacio-grup-neonazi-nucleo-nacional_1_5901986.html",
-"fecha": "2026-11-06T10:20+00:00"
 },
 {
 "medio": "El Debate",
@@ -315,8 +307,8 @@
 "ver",
 "conmigo",
 "sanchez",
-"nada",
 "koldo",
+"nada",
 "caso",
 "personas",
 "ninguna"
@@ -387,9 +379,9 @@
 ],
 "comunes": [
 "electoral",
-"votar",
-"junta",
 "dni",
+"junta",
+"votar",
 "digital",
 "electronico",
 "uso"
@@ -445,9 +437,9 @@
 "hasta": "2026-11-06T14:12+00:00",
 "temas": [],
 "comunes": [
-"campana",
 "cambio",
 "necesario",
+"campana",
 "lema",
 "badalona",
 "arrancara",
@@ -507,11 +499,11 @@
 "justicia"
 ],
 "comunes": [
-"vera",
 "pardo",
-"pide",
+"vera",
 "aldama",
 "koldo",
+"pide",
 "anticorrupcion",
 "juicio",
 "abalos"
@@ -567,12 +559,12 @@
 "hasta": "2026-11-07T17:28+00:00",
 "temas": [],
 "comunes": [
+"real",
 "soto",
 "moncloa",
-"miedo",
-"real",
-"cambiar",
 "ayuso",
+"miedo",
+"cambiar",
 "sanchez"
 ],
 "titulares": [
@@ -678,130 +670,75 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-05T14:24+00:00",
-"hasta": "2026-11-05T17:31+00:00",
+"desde": "2026-11-06T11:07+00:00",
+"hasta": "2026-11-07T16:55+00:00",
 "temas": [
-"inmigracion",
-"defensa"
+"vivienda"
 ],
 "comunes": [
-"altos",
-"identifica",
-"policia",
-"mandos",
-"marroquies",
-"ceuta",
-"policiales",
-"frontera"
+"fondos",
+"expropiar",
+"viviendas",
+"ley",
+"inversion",
+"colau",
+"grandes"
 ],
 "titulares": [
 {
-"medio": "COPE",
-"titulo": "La Policía Nacional identifica a dos altos mandos policiales de Marruecos que dieron instrucciones a los migrantes durante la llegada masiva a Ceuta",
-"url": "https://www.cope.es/actualidad/espana/noticias/policia-nacional-identifica-dos-altos-mandos-policiales-marruecos-dieron-instrucciones-migrantes-llegada-masiva-ceuta-20261105_3469775.html",
-"fecha": "2026-11-05T17:31+00:00"
+"medio": "20minutos",
+"titulo": "Frente Amplio plantea una ley para expropiar viviendas a grandes fondos de inversión: \"Es perfectamente viable\"",
+"url": "https://www.20minutos.es/nacional/frente-amplio-plantea-una-ley-para-expropiar-viviendas-grandes-fondos-inversion-es-perfectamente-viable_7058188_0.html",
+"fecha": "2026-11-06T12:04+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "La Policía identifica a los dos altos mandos marroquíes que estaban en la frontera durante la invasión de Ceuta",
-"url": "https://www.eldebate.com/espana/20261105/policia-identifica-dos-altos-mandos-marroquies-estaban-frontera-durante-invasion-ceuta_477696.html",
-"fecha": "2026-11-05T14:59+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "La Policía identifica a dos altos mandos policiales marroquíes el día del asalto, uno de ellos \"dando directrices\" a migrantes",
-"url": "https://www.elespanol.com/espana/tribunales/20261105/policia-identifica-alto-mando-policial-marroqui-dando-directrices-migrantes-senalando-adonde-debian-ir/1003744447596_0.html",
-"fecha": "2026-11-05T14:24+00:00"
+"medio": "ABC",
+"titulo": "Ada Colau amenaza con «expropiar» viviendas a grandes fondos de inversión",
+"url": "https://www.abc.es/espana/andalucia/malaga/ada-colau-amenaza-expropiar-viviendas-grandes-fondos-20261106130517-nts.html",
+"fecha": "2026-11-06T12:05+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "La Policía identifica a dos \"altos mandos\" de seguridad de Marruecos en la frontera de Ceuta durante la oleada migratoria",
-"url": "https://www.elmundo.es/espana/2026/11/05/6aec979fe85ece88758b457d.html",
-"fecha": "2026-11-05T15:02+00:00"
+"titulo": "Ada Colau lanza su ley \"estrella\" para expropiar viviendas a los grandes fondos de inversión",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedcb20e9cf4ad16a8b45b0.html",
+"fecha": "2026-11-06T13:44+00:00"
 },
 {
 "medio": "elDiario.es",
-"titulo": "La Policía identifica a dos altos mandos policiales marroquíes presentes en la frontera el día de la entrada masiva",
-"url": "https://www.eldiario.es/politica/policia-identifica-altos-cargos-policiales-marroquies-presentes-frontera-dia-entrada-masiva_1_13641528.html",
-"fecha": "2026-11-05T15:11+00:00"
+"titulo": "El Frente Amplio plantea una ley para expropiar viviendas a los fondos buitre",
+"url": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
+"fecha": "2026-11-06T12:35+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "La Policía Nacional identifica a dos altos cargos de los servicios de inteligencia marroquíes en la invasión a Ceuta",
-"url": "https://www.libertaddigital.com/espana/2026-11-05/la-policia-nacional-identifica-a-dos-altos-cargos-de-los-servicios-de-inteligencia-marroquies-en-la-invasion-a-ceuta-7487203/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-05T15:02+00:00"
-}
-]
+"medio": "Europa Press",
+"titulo": "Colau propone en Málaga una ley para expropiar viviendas a grandes fondos de inversión: \"Es perfectamente viable\"",
+"url": "https://www.europapress.es/andalucia/malaga-00356/noticia-frente-amplio-propone-ley-expropiar-viviendas-grandes-fondos-inversion-perfectamente-viable-20261106120711.html",
+"fecha": "2026-11-06T11:07+00:00"
 },
 {
-"medios": 6,
-"desde": "2026-11-05T15:03+00:00",
-"hasta": "2026-11-06T19:16+00:00",
-"temas": [],
-"comunes": [
-"puente",
-"nombre",
-"valladolid",
-"papeletas",
-"electoral",
-"junta",
-"tachar"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Puente estará en las papeletas electorales y se darán por válidas las que lleven su nombre tachado",
-"url": "https://www.abc.es/espana/castilla-leon/puente-papeletas-electorales-daran-validas-lleven-nombre-20261105144139-nt.html",
-"fecha": "2026-11-06T19:16+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Puente aparecerá en las papeletas por Valladolid el 29N y se podrá tachar su nombre sin anular el voto",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261105/puente-aparecera-papeletas-valladolid-29n-podra-tachar-nombre-anular-voto_477711.html",
-"fecha": "2026-11-05T15:29+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "La Junta Electoral permite tachar a mano el nombre de Óscar Puente en las papeletas de Valladolid",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/05/6aec9fd8e9cf4ac24d8b4575.html",
-"fecha": "2026-11-05T15:25+00:00"
-},
-{
-"medio": "El País",
-"titulo": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
-"url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
-"fecha": "2026-11-05T15:03+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "La Junta Electoral acuerda que Puente siga al frente de la lista electoral del PSOE por Valladolid",
-"url": "https://www.lavanguardia.com/politica/20261105/11677021/junta-electoral-acuerda-puente-siga-frente-lista-electoral-valladolid.html",
-"fecha": "2026-11-05T15:08+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Las papeletas con el nombre de Óscar Puente tachado serán válidas en Valladolid",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-06/las-papeletas-con-el-nombre-de-oscar-puente-tachado-seran-validas-en-valladolid-segun-la-junta-electoral-7487911/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-06T17:07+00:00"
+"medio": "The Objective",
+"titulo": "Colau promete expropiar 100.000 viviendas a «fondos buitre» si llega al Gobierno",
+"url": "https://theobjective.com/espana/politica/2026-11-06/colau-ley-expropiacion-fondos-buitre/",
+"fecha": "2026-11-06T11:49+00:00"
 }
 ]
 },
 {
 "medios": 6,
 "desde": "2026-11-06T16:19+00:00",
-"hasta": "2026-11-07T00:19+00:00",
+"hasta": "2026-11-07T18:31+00:00",
 "temas": [
 "inmigracion",
 "defensa"
 ],
 "comunes": [
 "ceuta",
+"civil",
 "guardia",
 "146",
-"civil",
-"cifra",
-"gobierno",
 "invasion",
+"gobierno",
+"cifra",
 "marruecos"
 ],
 "titulares": [
@@ -845,72 +782,17 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-06T11:07+00:00",
-"hasta": "2026-11-07T16:55+00:00",
-"temas": [
-"vivienda"
-],
-"comunes": [
-"fondos",
-"expropiar",
-"viviendas",
-"ley",
-"colau",
-"grandes",
-"inversion"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Frente Amplio plantea una ley para expropiar viviendas a grandes fondos de inversión: \"Es perfectamente viable\"",
-"url": "https://www.20minutos.es/nacional/frente-amplio-plantea-una-ley-para-expropiar-viviendas-grandes-fondos-inversion-es-perfectamente-viable_7058188_0.html",
-"fecha": "2026-11-06T12:04+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Ada Colau amenaza con «expropiar» viviendas a grandes fondos de inversión",
-"url": "https://www.abc.es/espana/andalucia/malaga/ada-colau-amenaza-expropiar-viviendas-grandes-fondos-20261106130517-nts.html",
-"fecha": "2026-11-06T12:05+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Ada Colau lanza su ley \"estrella\" para expropiar viviendas a los grandes fondos de inversión",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/06/6aedcb20e9cf4ad16a8b45b0.html",
-"fecha": "2026-11-06T13:44+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "El Frente Amplio plantea una ley para expropiar viviendas a los fondos buitre",
-"url": "https://www.eldiario.es/politica/frente-amplio-plantea-ley-expropiar-viviendas-fondos-buitre_1_13643839.html",
-"fecha": "2026-11-06T12:35+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Colau propone en Málaga una ley para expropiar viviendas a grandes fondos de inversión: \"Es perfectamente viable\"",
-"url": "https://www.europapress.es/andalucia/malaga-00356/noticia-frente-amplio-propone-ley-expropiar-viviendas-grandes-fondos-inversion-perfectamente-viable-20261106120711.html",
-"fecha": "2026-11-06T11:07+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Colau promete expropiar 100.000 viviendas a «fondos buitre» si llega al Gobierno",
-"url": "https://theobjective.com/espana/politica/2026-11-06/colau-ley-expropiacion-fondos-buitre/",
-"fecha": "2026-11-06T11:49+00:00"
-}
-]
-},
-{
-"medios": 6,
 "desde": "2026-11-06T12:40+00:00",
 "hasta": "2026-11-08T04:00+00:00",
 "temas": [],
 "comunes": [
 "juez",
 "cita",
-"pedraz",
 "rocho",
+"pedraz",
 "cintia",
-"biedma",
 "declarar",
+"biedma",
 "eliminar"
 ],
 "titulares": [
@@ -961,12 +843,12 @@
 ],
 "comunes": [
 "zaragoza",
-"soldado",
 "muere",
+"soldado",
 "instruccion",
 "militar",
-"san",
 "gregorio",
+"san",
 "maniobras"
 ],
 "titulares": [
@@ -1009,18 +891,71 @@
 ]
 },
 {
+"medios": 6,
+"desde": "2026-11-08T08:59+00:00",
+"hasta": "2026-11-08T14:13+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"sentido",
+"vox",
+"lema",
+"comun",
+"campana"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Vox apuesta por el \"sentido común\" como lema para el 29-N con el foco en la prioridad nacional, la desregulación y la remigración",
+"url": "https://www.20minutos.es/nacional/vox-apuesta-por-sentido-comun-como-lema-para-29-n-con-foco-prioridad-nacional-desregulacion-remigracion_7058617_0.html",
+"fecha": "2026-11-08T10:03+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Vox presenta su lema \"Sentido común\" basado en prioridad nacional, desregulación y remigración",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/vox-campana-elecciones-generales-abascal-1tps_4461223/",
+"fecha": "2026-11-08T10:05+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "«Es sentido común», lema de Vox para la campaña de las elecciones generales del 29-N",
+"url": "https://www.eldebate.com/espana/20261108/sentido-comun-lema-vox-campana-elecciones-generales-29n_478581.html",
+"fecha": "2026-11-08T09:45+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Abascal comenzará la campaña electoral en Madrid y Vox estrena lema de campaña: \"Es sentido común\"",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-08/abascal-comenzara-la-campana-electoral-en-madrid-y-vox-estrena-lema-de-campana-es-sentido-comun-7488261/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-08T10:25+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Vox recupera el ‘Es sentido común’ como lema para las elecciones del 29-N",
+"url": "https://okdiario.com/espana/vox-recupera-sentido-comun-como-lema-elecciones-del-29-n-20725966",
+"fecha": "2026-11-08T14:13+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "«Es sentido común»: Vox presenta su lema para la campaña electoral del 29-N",
+"url": "https://theobjective.com/espana/politica/2026-11-08/vox-lema-29-n-sentido-comun/",
+"fecha": "2026-11-08T08:59+00:00"
+}
+]
+},
+{
 "medios": 5,
 "desde": "2026-11-07T12:44+00:00",
 "hasta": "2026-11-07T13:56+00:00",
 "temas": [],
 "comunes": [
-"rufian",
-"votar",
 "montero",
 "psoe",
-"voto",
-"memoria",
+"votar",
+"rufian",
 "puede",
+"come",
+"memoria",
 "util"
 ],
 "titulares": [
@@ -1058,63 +993,15 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-05T19:09+00:00",
-"hasta": "2026-11-07T17:05+00:00",
-"temas": [],
-"comunes": [
-"revuelta",
-"abascal",
-"entrevistado",
-"sera",
-"tve",
-"lunes",
-"broncano",
-"santiago"
-],
-"titulares": [
-{
-"medio": "Ara",
-"titulo": "Polèmica pel públic a l'entrevista de Santiago Abascal a 'La Revuelta'",
-"url": "https://www.ara.cat/politica/eleccions-generals/polemica-pel-public-l-entrevista-santiago-abascal-revuelta_25_5903299.html",
-"fecha": "2026-11-07T17:05+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de Broncano en TVE",
-"url": "https://www.elconfidencial.com/espana/2026-11-05/abascal-la-revuelta-tve-entrevistado-elecciones_4459914/",
-"fecha": "2026-11-05T19:09+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Sánchez contraprograma a Abascal en 'La Revuelta' y será entrevistado el lunes por Javier Ruiz en 'La Séptima'",
-"url": "https://www.eldebate.com/espana/20261107/sanchez-contraprograma-abascal-revuelta-sera-entrevistado-lunes-javier-ruiz-septima_478422.html",
-"fecha": "2026-11-07T11:17+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de TVE",
-"url": "https://www.lavanguardia.com/politica/20261105/11677275/abascal-sera-entrevistado-lunes-revuelta-tve.html",
-"fecha": "2026-11-05T19:48+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Santiago Abascal acudirá a 'La Revuelta' de TVE para ser entrevistado por David Broncano",
-"url": "https://www.libertaddigital.com/chic/entretenimiento/2026-11-05/santiago-abascal-acudira-a-la-revuelta-de-tve-para-ser-entrevistado-por-david-broncano-7487396/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-05T19:23+00:00"
-}
-]
-},
-{
-"medios": 5,
 "desde": "2026-11-08T08:21+00:00",
 "hasta": "2026-11-08T09:45+00:00",
 "temas": [
 "inmigracion"
 ],
 "comunes": [
+"puerto",
 "campamento",
 "ceuta",
-"puerto",
 "policia",
 "migrantes",
 "inmigrantes",
@@ -1155,70 +1042,20 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-08T08:59+00:00",
-"hasta": "2026-11-08T10:25+00:00",
-"temas": [
-"inmigracion"
-],
-"comunes": [
-"comun",
-"sentido",
-"lema",
-"vox",
-"campana",
-"presenta",
-"electoral",
-"prioridad"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Vox apuesta por el \"sentido común\" como lema para el 29-N con el foco en la prioridad nacional, la desregulación y la remigración",
-"url": "https://www.20minutos.es/nacional/vox-apuesta-por-sentido-comun-como-lema-para-29-n-con-foco-prioridad-nacional-desregulacion-remigracion_7058617_0.html",
-"fecha": "2026-11-08T10:03+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Vox presenta su lema \"Sentido común\" basado en prioridad nacional, desregulación y remigración",
-"url": "https://www.elconfidencial.com/espana/2026-11-08/vox-campana-elecciones-generales-abascal-1tps_4461223/",
-"fecha": "2026-11-08T10:05+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "«Es sentido común», lema de Vox para la campaña de las elecciones generales del 29-N",
-"url": "https://www.eldebate.com/espana/20261108/sentido-comun-lema-vox-campana-elecciones-generales-29n_478581.html",
-"fecha": "2026-11-08T09:45+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Abascal comenzará la campaña electoral en Madrid y Vox estrena lema de campaña: \"Es sentido común\"",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-08/abascal-comenzara-la-campana-electoral-en-madrid-y-vox-estrena-lema-de-campana-es-sentido-comun-7488261/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-08T10:25+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "«Es sentido común»: Vox presenta su lema para la campaña electoral del 29-N",
-"url": "https://theobjective.com/espana/politica/2026-11-08/vox-lema-29-n-sentido-comun/",
-"fecha": "2026-11-08T08:59+00:00"
-}
-]
-},
-{
-"medios": 5,
 "desde": "2026-11-07T12:56+00:00",
 "hasta": "2026-11-08T11:06+00:00",
 "temas": [
 "impuestos"
 ],
 "comunes": [
-"freir",
 "impuestos",
 "cayetana",
+"freir",
 "marquesa",
 "amigos",
 "colau",
-"usted",
-"pijos"
+"vamos",
+"usted"
 ],
 "titulares": [
 {
@@ -1308,13 +1145,13 @@
 "territorio"
 ],
 "comunes": [
-"lluvias",
 "borrasca",
+"lluvias",
 "bruna",
 "fuertes",
-"espana",
 "traera",
 "intensas",
+"espana",
 "canarias"
 ],
 "titulares": [
@@ -1358,13 +1195,13 @@
 "justicia"
 ],
 "comunes": [
-"caso",
-"guardia",
-"seis",
-"libertad",
-"deja",
-"koldo",
 "civil",
+"seis",
+"koldo",
+"deja",
+"libertad",
+"guardia",
+"caso",
 "nueva"
 ],
 "titulares": [
@@ -1402,14 +1239,14 @@
 "justicia"
 ],
 "comunes": [
-"explicaciones",
 "feijoo",
-"sanchez",
 "koldo",
+"sanchez",
+"explicaciones",
 "pide",
-"supuesto",
-"soborno",
-"garcia"
+"intento",
+"garcia",
+"supuesto"
 ],
 "titulares": [
 {
@@ -1447,14 +1284,14 @@
 "justicia"
 ],
 "comunes": [
+"torre",
 "abalos",
 "andrea",
-"torre",
-"detenida",
 "koldo",
-"caso",
+"detenida",
+"luis",
 "uco",
-"luis"
+"jose"
 ],
 "titulares": [
 {
@@ -1491,10 +1328,10 @@
 "justicia"
 ],
 "comunes": [
-"pringado",
 "chofer",
-"sanchez",
+"pringado",
 "abascal",
+"sanchez",
 "detenciones"
 ],
 "titulares": [
@@ -1533,12 +1370,12 @@
 "justicia"
 ],
 "comunes": [
-"vera",
-"pardo",
 "jessica",
+"pardo",
+"vera",
 "rodriguez",
-"pide",
 "koldo",
+"pide",
 "anticorrupcion",
 "aldama"
 ],
@@ -1575,10 +1412,10 @@
 "hasta": "2026-11-07T09:17+00:00",
 "temas": [],
 "comunes": [
+"causa",
+"falsa",
 "alvise",
 "illa",
-"falsa",
-"causa",
 "archivo",
 "pcr",
 "covid",
@@ -1613,19 +1450,60 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-05T19:09+00:00",
+"hasta": "2026-11-07T11:17+00:00",
+"temas": [],
+"comunes": [
+"revuelta",
+"entrevistado",
+"abascal",
+"sera",
+"tve",
+"lunes",
+"broncano"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de Broncano en TVE",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/abascal-la-revuelta-tve-entrevistado-elecciones_4459914/",
+"fecha": "2026-11-05T19:09+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Sánchez contraprograma a Abascal en 'La Revuelta' y será entrevistado el lunes por Javier Ruiz en 'La Séptima'",
+"url": "https://www.eldebate.com/espana/20261107/sanchez-contraprograma-abascal-revuelta-sera-entrevistado-lunes-javier-ruiz-septima_478422.html",
+"fecha": "2026-11-07T11:17+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Abascal será entrevistado este lunes en 'La Revuelta' de TVE",
+"url": "https://www.lavanguardia.com/politica/20261105/11677275/abascal-sera-entrevistado-lunes-revuelta-tve.html",
+"fecha": "2026-11-05T19:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Santiago Abascal acudirá a 'La Revuelta' de TVE para ser entrevistado por David Broncano",
+"url": "https://www.libertaddigital.com/chic/entretenimiento/2026-11-05/santiago-abascal-acudira-a-la-revuelta-de-tve-para-ser-entrevistado-por-david-broncano-7487396/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-05T19:23+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-07T08:29+00:00",
 "hasta": "2026-11-07T17:50+00:00",
 "temas": [
 "territorio"
 ],
 "comunes": [
-"ninguna",
 "feijoo",
 "singular",
 "financiacion",
+"ninguna",
+"pactada",
 "cataluna",
 "tendra",
-"pactada",
 "promete"
 ],
 "titulares": [
@@ -1665,13 +1543,13 @@
 ],
 "comunes": [
 "interministerial",
-"sanchez",
 "comision",
+"sanchez",
 "convocar",
 "urgencia",
-"martes",
 "compromete",
-"canarias"
+"canarias",
+"martes"
 ],
 "titulares": [
 {
@@ -1706,9 +1584,9 @@
 "hasta": "2026-11-08T10:22+00:00",
 "temas": [],
 "comunes": [
+"victimas",
 "funeral",
 "urda",
-"victimas",
 "tolon",
 "cuerpo",
 "sanchez",
@@ -1742,18 +1620,103 @@
 ]
 },
 {
+"medios": 4,
+"desde": "2026-11-08T09:59+00:00",
+"hasta": "2026-11-08T13:31+00:00",
+"temas": [],
+"comunes": [
+"ibarra",
+"sustancia",
+"partido",
+"psoe",
+"rodriguez",
+"enclenque",
+"peso",
+"momentos"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Rodríguez Ibarra, histórico líder socialista: «El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido»",
+"url": "https://www.eldebate.com/espana/20261108/rodriguez-ibarra-historico-lider-socialista-psoe-estos-momentos-partido-sustancia-peso-enclenque-encogido_478608.html",
+"fecha": "2026-11-08T10:49+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Rodríguez Ibarra: \"El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido\"",
+"url": "https://www.europapress.es/nacional/noticia-rodriguez-ibarra-psoe-momentos-partido-sustancia-peso-enclenque-encogido-20261108105948.html",
+"fecha": "2026-11-08T09:59+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Rodríguez Ibarra: \"El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido\"",
+"url": "https://www.larazon.es/espana/rodriguez-ibarra-psoe-estos-momentos-partido-sustancia-peso-enclenque-encogido_202611086af057ba4196933d7ed56063.html",
+"fecha": "2026-11-08T11:06+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Rodríguez Ibarra, ex presidente socialista de Extremadura, retrata al PSOE de Sánchez: «Es un partido sin sustancia y enclenque»",
+"url": "https://okdiario.com/espana/rodriguez-ibarra-ex-presidente-socialista-extremadura-retrata-psoe-sanchez-partido-sin-sustancia-enclenque-20725943",
+"fecha": "2026-11-08T13:31+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-08T12:40+00:00",
+"hasta": "2026-11-08T13:43+00:00",
+"temas": [
+"defensa"
+],
+"comunes": [
+"trump",
+"feijoo",
+"trenes",
+"mirar",
+"sanchez",
+"menos",
+"pide"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Feijóo pide a Sánchez \"menos mirar a Trump y más a los trenes\" y a los directivos de Adif devolver las gratificaciones que han cobrado",
+"url": "https://www.20minutos.es/nacional/feijoo-pide-sanchez-menos-mirar-trump-mas-trenes-directivos-adif-devolver-gratificaciones-han-cobrado_7058678_0.html",
+"fecha": "2026-11-08T13:43+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Feijóo carga contra Sánchez: \"Menos mirar a Trump y más mirar los trenes, que este país está colapsado\"",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/feijoo-mitin-moreno-malaga-precampana-elecciones_4461271/",
+"fecha": "2026-11-08T12:45+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Feijóo contra el escapismo de Sánchez: \"Menos mirar a Brasil y más a la nevera, menos mirar a Trump y más a los trenes\"",
+"url": "https://www.elespanol.com/espana/politica/20261108/feijoo-escapismo-sanchez-mirar-brasil-nevera-trump-trenes/1003744450612_0.html",
+"fecha": "2026-11-08T13:05+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Feijóo tacha a Sánchez de \"personaje de cartón piedra\" y le pide \"menos mirar a Trump y más a los trenes\"",
+"url": "https://www.eldiario.es/politica/feijoo-tacha-sanchez-personaje-carton-piedra-le-pide-mirar-trump-mirar-trenes_1_13647717.html",
+"fecha": "2026-11-08T12:40+00:00"
+}
+]
+},
+{
 "medios": 3,
 "desde": "2026-11-05T16:22+00:00",
 "hasta": "2026-11-05T18:24+00:00",
 "temas": [],
 "comunes": [
-"pide",
-"plus",
-"tiempo",
-"juez",
-"ultra",
 "cerebro",
-"caso",
+"plus",
+"ultra",
+"juez",
+"pide",
+"tiempo",
+"presunto",
 "recabar"
 ],
 "titulares": [
@@ -1783,14 +1746,14 @@
 "hasta": "2026-11-05T18:29+00:00",
 "temas": [],
 "comunes": [
-"parte",
-"sanchez",
-"forma",
-"insulto",
 "milei",
+"parte",
+"forma",
 "politica",
+"sanchez",
+"insulto",
 "hacer",
-"confrontar"
+"evita"
 ],
 "titulares": [
 {
@@ -1815,17 +1778,18 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-05T15:02+00:00",
+"desde": "2026-11-05T17:21+00:00",
 "hasta": "2026-11-05T19:29+00:00",
 "temas": [],
 "comunes": [
-"iberoamericanos",
-"lideres",
 "zelenski",
-"felipe",
-"zarzuela",
+"recibe",
+"lideres",
 "reunion",
-"recibe"
+"iberoamericanos",
+"rey",
+"zarzuela",
+"felipe"
 ],
 "titulares": [
 {
@@ -1836,9 +1800,9 @@
 },
 {
 "medio": "El Debate",
-"titulo": "Sánchez mantiene un encuentro con Zelenski, líderes iberoamericanos y autoridades de la UE, en directo",
-"url": "https://www.eldebate.com/espana/20261105/sanchez-mantiene-encuentro-zelenski-lideres-iberoamericanos-autoridades-ue-directo_477694.html",
-"fecha": "2026-11-05T15:02+00:00"
+"titulo": "El Rey recibe a Zelenski tras su reunión con los líderes iberoamericanos",
+"url": "https://www.eldebate.com/espana/casa-real/20261105/rey-recibe-zelenski-reunion-lideres-iberoamericanos_477847.html",
+"fecha": "2026-11-05T18:27+00:00"
 },
 {
 "medio": "El Mundo",
@@ -1855,8 +1819,8 @@
 "temas": [],
 "comunes": [
 "pinganillo",
-"comeras",
 "toledo",
+"comeras",
 "alvarez",
 "nogueras",
 "nosotros"
@@ -1888,13 +1852,13 @@
 "hasta": "2026-11-06T04:30+00:00",
 "temas": [],
 "comunes": [
-"iryo",
-"urda",
 "revision",
+"urda",
+"iryo",
 "integral",
-"tren",
 "siniestro",
-"paso"
+"paso",
+"tren"
 ],
 "titulares": [
 {
@@ -1923,10 +1887,10 @@
 "hasta": "2026-11-06T08:51+00:00",
 "temas": [],
 "comunes": [
-"illa",
-"exjefe",
-"gabinete",
 "dimite",
+"exjefe",
+"illa",
+"gabinete",
 "esparreguera",
 "investigacion"
 ],
@@ -1957,14 +1921,14 @@
 "hasta": "2026-11-06T10:45+00:00",
 "temas": [],
 "comunes": [
-"granada",
-"espana",
-"bandera",
 "queman",
+"granada",
+"bandera",
+"espana",
 "base",
 "gran",
-"pintada",
-"hacen"
+"hacen",
+"pintada"
 ],
 "titulares": [
 {
@@ -1995,10 +1959,10 @@
 "defensa"
 ],
 "comunes": [
+"mundial",
 "2030",
-"espana",
 "final",
-"mundial"
+"espana"
 ],
 "titulares": [
 {
@@ -2028,13 +1992,13 @@
 "temas": [],
 "comunes": [
 "ronaldo",
-"hija",
 "cristiano",
+"hija",
 "fotos",
-"enviar",
-"sexuales",
 "carcel",
-"madre"
+"instagram",
+"madre",
+"sexuales"
 ],
 "titulares": [
 {
@@ -2058,5 +2022,5 @@
 ]
 }
 ],
-"recogidas": 2005
+"recogidas": 1973
 }

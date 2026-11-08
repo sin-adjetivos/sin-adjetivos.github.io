@@ -1,13 +1,13 @@
 {
-"actualizado": "2026-11-08T16:05+00:00",
+"actualizado": "2026-11-08T18:24+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 115,
+"COPE": 114,
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
-"El Mundo": 55,
+"El Mundo": 53,
 "El País": 19,
 "Europa Press": 10,
 "infoLibre": 50,
@@ -17,7 +17,7 @@
 "RTVE": 180,
 "The Objective": 20,
 "20minutos": 37,
-"El Debate": 108,
+"El Debate": 112,
 "La Razón": 15
 },
 "sin_feed": [
@@ -37,8 +37,8 @@
 "zapatero",
 "malversacion",
 "juez",
-"joyas",
 "rechaza",
+"joyas",
 "imputar",
 "fiscalia"
 ],
@@ -220,8 +220,8 @@
 "hasta": "2026-11-08T14:16+00:00",
 "temas": [],
 "comunes": [
-"nacional",
 "nucleo",
+"nacional",
 "policia",
 "operacion",
 "detenidos",
@@ -297,137 +297,67 @@
 ]
 },
 {
-"medios": 9,
-"desde": "2026-11-05T17:14+00:00",
-"hasta": "2026-11-06T17:57+00:00",
-"temas": [
-"justicia"
-],
+"medios": 8,
+"desde": "2026-11-06T12:40+00:00",
+"hasta": "2026-11-08T04:00+00:00",
+"temas": [],
 "comunes": [
-"ver",
-"conmigo",
-"sanchez",
-"koldo",
-"nada",
-"caso",
-"personas",
-"ninguna"
+"cita",
+"juez",
+"pedraz",
+"rocho",
+"biedma",
+"cintia",
+"eliminar"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Sánchez niega cualquier vínculo con los detenidos por la UCO en el caso Koldo: \"Esas personas no tienen que ver conmigo\"",
-"url": "https://www.20minutos.es/nacional/sanchez-niega-cualquier-vinculo-con-los-detenidos-por-uco-caso-koldo-esas-personas-no-tienen-que-ver-conmigo_7057891_0.html",
-"fecha": "2026-11-05T19:23+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Sánchez, ante el resurgir del caso Koldo: «No es nada nuevo y no tienen nada que ver conmigo»",
-"url": "https://www.abc.es/espana/sanchez-ante-resurgir-koldo-nuevo-ver-conmigo-20261105182625-nt.html",
-"fecha": "2026-11-05T18:04+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Quién es quién en el caso Koldo - Ábalos: del \"colaborador especial en Córdoba\" a \"ninguna de esas personas tiene nada que ver conmigo\"",
-"url": "https://www.cope.es/programas/la-tarde/noticias/caso-koldo-abalos-colaborador-especial-cordoba-ninguna-personas-ver-20261106_3470650.html",
-"fecha": "2026-11-06T17:57+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "\"Ninguna de estas personas tiene que ver conmigo\": Sánchez niega su relación con Corvillo como hizo con Koldo o Leire",
-"url": "https://www.elespanol.com/espana/politica/20261105/ninguna-personas-ver-conmigo-sanchez-niega-relacion-corvillo-hizo-koldo-leire/1003744447948_0.html",
-"fecha": "2026-11-05T17:43+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Sánchez se desvincula de los detenidos en el 'caso Koldo': \"Ninguna de estas personas tiene nada que ver conmigo\"",
-"url": "https://www.europapress.es/nacional/noticia-sanchez-desvincula-detenciones-caso-koldo-ninguna-personas-tiene-nada-ver-conmigo-20261105181439.html",
-"fecha": "2026-11-05T17:14+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Sánchez rompe su silencio tras la detención de su exchófer por el caso Koldo: “Ninguna de esas personas tiene nada que ver conmigo”",
-"url": "https://www.larazon.es/espana/sanchez-rompe-silencio-detencion-exchofer-caso-koldo-ninguna-esas-personas-tiene-nada-que-ver-conmigo_202611056aecceb9ea8d8979977a8a88.html",
-"fecha": "2026-11-05T18:45+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez se desvincula de los detenidos por el caso Koldo: “Ninguno tiene nada que ver conmigo”",
-"url": "https://www.lavanguardia.com/politica/20261105/11677162/sanchez-desvincula-detenidos-caso-koldo-ninguno-ver.html",
-"fecha": "2026-11-05T17:22+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Sánchez limita las preguntas sobre las detenciones: \"No tienen nada que ver conmigo\"",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-05/sanchez-limita-las-preguntas-sobre-las-detenciones-no-tienen-nada-que-ver-conmigo-7487368/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-05T18:19+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Sánchez se desvincula de la detención de su exchófer: «No tiene nada que ver conmigo»",
-"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-se-desvincula-detencion-exchofer/",
-"fecha": "2026-11-05T17:31+00:00"
-}
-]
-},
-{
-"medios": 7,
-"desde": "2026-11-05T17:55+00:00",
-"hasta": "2026-11-06T09:55+00:00",
-"temas": [
-"pensiones"
-],
-"comunes": [
-"dni",
-"junta",
-"electoral",
-"votar",
-"digital",
-"electronico",
-"uso"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "La Junta Electoral vuelve a permitir el uso del DNI digital para votar en las elecciones generales del 29 de noviembre",
-"url": "https://www.20minutos.es/nacional/junta-electoral-vuelve-permitir-uso-dni-digital-para-votar-las-elecciones-generales-29-noviembre_7057881_0.html",
-"fecha": "2026-11-05T18:41+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "La Junta Electoral levanta la prohibición de votar con el DNI electrónico para el 29N",
-"url": "https://www.abc.es/espana/junta-electoral-permitira-votar-dni-electronico-29n-20261105185049-nt.html",
-"fecha": "2026-11-05T18:12+00:00"
+"titulo": "La Audiencia Nacional cita a una mujer del clan de los Rocho para aclarar si le pidieron \"eliminar\" a la jueza Biedma",
+"url": "https://www.20minutos.es/nacional/audiencia-nacional-cita-una-mujer-clan-los-rocho-para-aclarar-si-le-pidieron-eliminar-jueza-biedma_7058268_0.html",
+"fecha": "2026-11-06T14:31+00:00"
 },
 {
 "medio": "El Confidencial",
-"titulo": "La Junta Electoral autoriza el uso del DNI electrónico para votar en los comicios del 29-N",
-"url": "https://www.elconfidencial.com/espana/2026-11-05/jec-levanta-suspension-midni-votar-1hms_4459923/",
-"fecha": "2026-11-05T19:47+00:00"
+"titulo": "Pedraz cita a una mujer del clan de los Rochos para aclarar si le pidieron \"eliminar\" a la jueza Biedma",
+"url": "https://www.elconfidencial.com/espana/2026-11-06/caso-leire-diez-cintia-rocho-1tps_4460460/",
+"fecha": "2026-11-06T13:32+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El juez Pedraz cita a Cintia Rocho, por el presunto encargo de las 'cloacas' para «eliminar» a la jueza del hermano de Sánchez",
+"url": "https://www.eldebate.com/espana/20261106/juez-pedraz-cita-cintia-rocho-presunto-encargo-cloacas-eliminar-jueza-hermano-sanchez_478141.html",
+"fecha": "2026-11-06T12:57+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Pedraz cita como testigo a Cintia Rocho, quien declaró que la red de Leire le planteó \"eliminar\" a la juez del 'caso David Sánchez'",
+"url": "https://www.elespanol.com/espana/tribunales/20261106/pedraz-cita-testigo-cintia-rocho-declaro-red-leire-planteo-eliminar-juez-caso-david-sanchez/1003744449009_0.html",
+"fecha": "2026-11-06T12:41+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El juez cita a Cintia Rocho para que declare como testigo sobre el intento de \"eliminar\" a Beatriz Biedma",
+"url": "https://www.elmundo.es/espana/2026/11/06/6aedd054fc6c83f6498b45a7.html",
+"fecha": "2026-11-06T13:10+00:00"
 },
 {
 "medio": "elDiario.es",
-"titulo": "La Junta Electoral avala el uso del DNI electrónico para votar",
-"url": "https://www.eldiario.es/politica/junta-electoral-avala-dni-electronico-votar_1_13642287.html",
-"fecha": "2026-11-05T18:15+00:00"
+"titulo": "El juez Pedraz llama a declarar a la testigo del supuesto plan para atentar contra Biedma y la cita a cinco días de las elecciones",
+"url": "https://www.eldiario.es/politica/juez-pedraz-llama-declarar-testigo-supuesto-plan-atentar-biedma-cita-cinco-dias-elecciones_1_13644224.html",
+"fecha": "2026-11-06T13:25+00:00"
 },
 {
-"medio": "La Razón",
-"titulo": "Interior se aferra al aval de la Junta Electoral Central e insiste en que el DNI digital es válido para votar el 29N",
-"url": "https://www.larazon.es/espana/interior-aferra-aval-junta-electoral-central-insiste-que-dni-digital-valido-votar-29n_202611066aeda1694196933d7ed3043e.html",
-"fecha": "2026-11-06T09:44+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "La Junta Electoral acepta que se pueda votar con el DNI digital",
-"url": "https://www.lavanguardia.com/politica/20261105/11677185/junta-electoral-acepta-pueda-votar-dni-digital.html",
-"fecha": "2026-11-05T17:55+00:00"
+"medio": "Libertad Digital",
+"titulo": "El juez Pedraz llama a declarar Cintia Rocho la semana de las elecciones",
+"url": "https://www.libertaddigital.com/espana/2026-11-06/el-juez-pedraz-llama-a-declarar-a-cintia-rocho-la-semana-de-las-elecciones-7487706/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T12:41+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Junta Electoral levanta la suspensión del DNI digital para votar el 29-N",
-"url": "https://theobjective.com/espana/2026-11-05/junta-electoral-levanta-suspension-dni-digital-votar-29-n/",
-"fecha": "2026-11-05T18:11+00:00"
+"titulo": "El juez Pedraz cita a declarar a Cintia Rocho el 24 de noviembre tras la petición de Biedma",
+"url": "https://theobjective.com/espana/tribunales/2026-11-06/juez-pedraz-cintia-rocho-biedma/",
+"fecha": "2026-11-06T12:40+00:00"
 }
 ]
 },
@@ -437,8 +367,8 @@
 "hasta": "2026-11-06T14:12+00:00",
 "temas": [],
 "comunes": [
-"cambio",
 "necesario",
+"cambio",
 "campana",
 "lema",
 "badalona",
@@ -492,79 +422,16 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-06T14:55+00:00",
-"hasta": "2026-11-06T19:36+00:00",
-"temas": [
-"impuestos",
-"justicia"
-],
-"comunes": [
-"pardo",
-"vera",
-"koldo",
-"pide",
-"aldama",
-"anticorrupcion",
-"juicio",
-"banquillo"
-],
-"titulares": [
-{
-"medio": "El Español",
-"titulo": "Anticorrupción acusará a Koldo, Aldama y Pardo de Vera en el segundo banquillo de la corrupción en Transportes",
-"url": "https://www.elespanol.com/espana/tribunales/20261106/anticorrupcion-acusara-koldo-aldama-pardo-vera-segundo-banquillo-corrupcion-transportes/1003744449681_0.html",
-"fecha": "2026-11-06T19:12+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Anticorrupción pide un nuevo juicio del 'caso Koldo' en la Audiencia Nacional contra 13 personas, incluidos Isabel Pardo de Vera, la ex pareja de Ábalos, Koldo y Aldama",
-"url": "https://www.elmundo.es/espana/2026/11/06/6aee0f3fe4d4d89f718b4591.html",
-"fecha": "2026-11-06T18:27+00:00"
-},
-{
-"medio": "El País",
-"titulo": "La Fiscalía pide sentar en el banquillo a Koldo, Aldama y a la expresidenta de Adif Pardo de Vera en otra rama del ‘caso Koldo’",
-"url": "https://elpais.com/espana/2026-11-06/la-fiscalia-pide-sentar-en-el-banquillo-a-koldo-aldama-y-a-la-expresidenta-de-adif-pardo-de-vera-en-otra-rama-del-caso-koldo.html",
-"fecha": "2026-11-06T16:15+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Anticorrupción pide que Pardo de Vera, Koldo y Aldama sean llevados a juicio",
-"url": "https://www.eldiario.es/politica/anticorrupcion-pide-pardo-vera-koldo-aldama-sean-llevados-juicio_1_13645330.html",
-"fecha": "2026-11-06T17:37+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Anticorrupción pide acercar a juicio a Pardo de Vera y a la ex de Ábalos y pide archivar para excargos de Transportes",
-"url": "https://www.europapress.es/nacional/noticia-anticorrupcion-reclama-acercar-juicio-pardo-vera-ex-abalos-pide-archivar-excargos-transportes-20261106175918.html",
-"fecha": "2026-11-06T16:59+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Anticorrupción pide el banquillo para Pardo de Vera, la examante de Ábalos, Koldo y Aldama en la Audiencia Nacional",
-"url": "https://www.larazon.es/espana/anticorrupcion-pide-banquillo-pardo-vera-examante-abalos-koldo-aldama-audiencia-nacional_202611066aedea459a31a65adcd282b4.html",
-"fecha": "2026-11-06T14:55+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La Fiscalía pide un nuevo juicio contra Koldo, Aldama y Pardo de Vera por el ‘caso mascarillas’",
-"url": "https://theobjective.com/espana/tribunales/2026-11-06/fiscalia-nuevo-juicio-koldo-aldama-pardo-de-vera/",
-"fecha": "2026-11-06T19:36+00:00"
-}
-]
-},
-{
-"medios": 7,
 "desde": "2026-11-07T13:07+00:00",
 "hasta": "2026-11-07T17:28+00:00",
 "temas": [],
 "comunes": [
-"soto",
+"ayuso",
+"real",
+"cambiar",
 "miedo",
 "moncloa",
-"ayuso",
-"cambiar",
-"real",
+"soto",
 "sanchez"
 ],
 "titulares": [
@@ -613,15 +480,71 @@
 ]
 },
 {
-"medios": 7,
+"medios": 6,
+"desde": "2026-11-06T14:55+00:00",
+"hasta": "2026-11-06T19:36+00:00",
+"temas": [
+"impuestos",
+"justicia"
+],
+"comunes": [
+"aldama",
+"pardo",
+"koldo",
+"vera",
+"pide",
+"anticorrupcion",
+"banquillo",
+"caso"
+],
+"titulares": [
+{
+"medio": "El Español",
+"titulo": "Anticorrupción acusará a Koldo, Aldama y Pardo de Vera en el segundo banquillo de la corrupción en Transportes",
+"url": "https://www.elespanol.com/espana/tribunales/20261106/anticorrupcion-acusara-koldo-aldama-pardo-vera-segundo-banquillo-corrupcion-transportes/1003744449681_0.html",
+"fecha": "2026-11-06T19:12+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Anticorrupción pide un nuevo juicio del 'caso Koldo' en la Audiencia Nacional contra 13 personas, incluidos Isabel Pardo de Vera, la ex pareja de Ábalos, Koldo y Aldama",
+"url": "https://www.elmundo.es/espana/2026/11/06/6aee0f3fe4d4d89f718b4591.html",
+"fecha": "2026-11-06T18:27+00:00"
+},
+{
+"medio": "El País",
+"titulo": "La Fiscalía pide sentar en el banquillo a Koldo, Aldama y a la expresidenta de Adif Pardo de Vera en otra rama del ‘caso Koldo’",
+"url": "https://elpais.com/espana/2026-11-06/la-fiscalia-pide-sentar-en-el-banquillo-a-koldo-aldama-y-a-la-expresidenta-de-adif-pardo-de-vera-en-otra-rama-del-caso-koldo.html",
+"fecha": "2026-11-06T16:15+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Anticorrupción pide que Pardo de Vera, Koldo y Aldama sean llevados a juicio",
+"url": "https://www.eldiario.es/politica/anticorrupcion-pide-pardo-vera-koldo-aldama-sean-llevados-juicio_1_13645330.html",
+"fecha": "2026-11-06T17:37+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Anticorrupción pide el banquillo para Pardo de Vera, la examante de Ábalos, Koldo y Aldama en la Audiencia Nacional",
+"url": "https://www.larazon.es/espana/anticorrupcion-pide-banquillo-pardo-vera-examante-abalos-koldo-aldama-audiencia-nacional_202611066aedea459a31a65adcd282b4.html",
+"fecha": "2026-11-06T14:55+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Fiscalía pide un nuevo juicio contra Koldo, Aldama y Pardo de Vera por el ‘caso mascarillas’",
+"url": "https://theobjective.com/espana/tribunales/2026-11-06/fiscalia-nuevo-juicio-koldo-aldama-pardo-de-vera/",
+"fecha": "2026-11-06T19:36+00:00"
+}
+]
+},
+{
+"medios": 6,
 "desde": "2026-11-05T22:43+00:00",
-"hasta": "2026-11-07T23:01+00:00",
+"hasta": "2026-11-07T12:43+00:00",
 "temas": [],
 "comunes": [
 "puente",
 "oscar",
-"dimision",
-"psoe"
+"dimision"
 ],
 "titulares": [
 {
@@ -629,12 +552,6 @@
 "titulo": "Gritos de alabanza a Puente en el primer mitin de Sánchez tras la tragedia de Urda: «¡Óscar, Óscar!»",
 "url": "https://www.eldebate.com/espana/20261107/gritos-alabanza-puente-primer-mitin-sanchez-tragedia-urda-oscar-oscar_478379.html",
 "fecha": "2026-11-07T09:27+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Puente, una dimisión que rompe algo en el PSOE",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef6a30e85eced81a8b4598.html",
-"fecha": "2026-11-07T23:01+00:00"
 },
 {
 "medio": "elDiario.es",
@@ -679,9 +596,9 @@
 "viviendas",
 "fondos",
 "expropiar",
-"ley",
 "inversion",
 "colau",
+"ley",
 "grandes"
 ],
 "titulares": [
@@ -734,11 +651,11 @@
 "comunes": [
 "ceuta",
 "146",
-"civil",
 "guardia",
-"invasion",
-"gobierno",
+"civil",
 "cifra",
+"gobierno",
+"invasion",
 "marruecos"
 ],
 "titulares": [
@@ -782,60 +699,6 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-06T12:40+00:00",
-"hasta": "2026-11-08T04:00+00:00",
-"temas": [],
-"comunes": [
-"juez",
-"cita",
-"rocho",
-"pedraz",
-"cintia",
-"declarar",
-"biedma",
-"testigo"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "El juez Pedraz cita a Cintia Rocho, por el presunto encargo de las 'cloacas' para «eliminar» a la jueza del hermano de Sánchez",
-"url": "https://www.eldebate.com/espana/20261106/juez-pedraz-cita-cintia-rocho-presunto-encargo-cloacas-eliminar-jueza-hermano-sanchez_478141.html",
-"fecha": "2026-11-06T12:57+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Pedraz cita como testigo a Cintia Rocho, quien declaró que la red de Leire le planteó \"eliminar\" a la juez del 'caso David Sánchez'",
-"url": "https://www.elespanol.com/espana/tribunales/20261106/pedraz-cita-testigo-cintia-rocho-declaro-red-leire-planteo-eliminar-juez-caso-david-sanchez/1003744449009_0.html",
-"fecha": "2026-11-06T12:41+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "El juez cita a Cintia Rocho para que declare como testigo sobre el intento de \"eliminar\" a Beatriz Biedma",
-"url": "https://www.elmundo.es/espana/2026/11/06/6aedd054fc6c83f6498b45a7.html",
-"fecha": "2026-11-06T13:10+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "El juez Pedraz llama a declarar a la testigo del supuesto plan para atentar contra Biedma y la cita a cinco días de las elecciones",
-"url": "https://www.eldiario.es/politica/juez-pedraz-llama-declarar-testigo-supuesto-plan-atentar-biedma-cita-cinco-dias-elecciones_1_13644224.html",
-"fecha": "2026-11-06T13:25+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "El juez Pedraz llama a declarar Cintia Rocho la semana de las elecciones",
-"url": "https://www.libertaddigital.com/espana/2026-11-06/el-juez-pedraz-llama-a-declarar-a-cintia-rocho-la-semana-de-las-elecciones-7487706/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-06T12:41+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El juez Pedraz cita a declarar a Cintia Rocho el 24 de noviembre tras la petición de Biedma",
-"url": "https://theobjective.com/espana/tribunales/2026-11-06/juez-pedraz-cintia-rocho-biedma/",
-"fecha": "2026-11-06T12:40+00:00"
-}
-]
-},
-{
-"medios": 6,
 "desde": "2026-11-08T07:58+00:00",
 "hasta": "2026-11-08T11:16+00:00",
 "temas": [
@@ -847,9 +710,9 @@
 "muere",
 "instruccion",
 "militar",
+"san",
 "maniobras",
-"gregorio",
-"san"
+"gregorio"
 ],
 "titulares": [
 {
@@ -892,16 +755,68 @@
 },
 {
 "medios": 6,
+"desde": "2026-11-06T07:21+00:00",
+"hasta": "2026-11-08T13:28+00:00",
+"temas": [
+"territorio"
+],
+"comunes": [
+"borrasca",
+"lluvias",
+"bruna",
+"fuertes"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "La borrasca Bruna traerá este fin de semana un \"cambio importante de tiempo\" con fuertes lluvias, viento y riesgo de inundación",
+"url": "https://www.20minutos.es/nacional/borrasca-bruna-traera-este-fin-semana-un-cambio-importante-tiempo-con-fuertes-lluvias-viento-riesgo-inundacion_7058135_0.html",
+"fecha": "2026-11-06T11:55+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La borrasca Bruna activa las alertas en Sevilla y Huelva por tormentas y lluvias de hasta 60 litros: zonas y horarios más afectados",
+"url": "https://www.abc.es/espana/andalucia/borrasca-bruna-activa-alertas-sevilla-huelva-tormentas-20261107201736-nts.html",
+"fecha": "2026-11-07T19:17+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Llega la borrasca Bruna a España y la Aemet avisa: lluvias muy fuertes, tormentas y rachas de viento de 100 km/h y estas serán las zonas más afectadas",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/llega-la-borrasca-bruna-a-espana-y-la-aemet-avisa-lluvias-muy-fuertes-tormentas-y-rachas-de-viento-intensas-y-estas-seran-las-zonas-mas-afectadas_4461160/",
+"fecha": "2026-11-08T07:32+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La borrasca Bruna cambia la previsión de lluvias para los próximos días en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261106/borrasca-bruna-cambia-prevision-lluvias-proximos-dias-comunidad-valenciana_478209.html",
+"fecha": "2026-11-06T15:24+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La borrasca Bruna traerá fuertes lluvias a la Península y a Canarias a partir del sábado",
+"url": "https://www.elmundo.es/espana/2026/11/06/6aed7ffb21efa09d428b45a1.html",
+"fecha": "2026-11-06T07:21+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La borrasca Bruna amenaza con lluvias intensas a Canarias desde este viernes",
+"url": "https://www.libertaddigital.com/canarias/2026-11-06/la-borrasca-bruna-amenaza-con-lluvias-intensas-a-canarias-desde-este-viernes-7487531/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T08:34+00:00"
+}
+]
+},
+{
+"medios": 6,
 "desde": "2026-11-08T08:59+00:00",
 "hasta": "2026-11-08T14:13+00:00",
 "temas": [
 "inmigracion"
 ],
 "comunes": [
-"comun",
 "lema",
-"sentido",
 "vox",
+"sentido",
+"comun",
 "campana"
 ],
 "titulares": [
@@ -949,14 +864,14 @@
 "hasta": "2026-11-07T13:56+00:00",
 "temas": [],
 "comunes": [
-"montero",
 "rufian",
 "psoe",
+"montero",
 "votar",
+"memoria",
 "voto",
 "puede",
-"util",
-"memoria"
+"come"
 ],
 "titulares": [
 {
@@ -1000,8 +915,8 @@
 ],
 "comunes": [
 "ceuta",
-"puerto",
 "campamento",
+"puerto",
 "policia",
 "migrantes",
 "inmigrantes",
@@ -1048,14 +963,14 @@
 "impuestos"
 ],
 "comunes": [
+"freir",
+"cayetana",
 "amigos",
-"impuestos",
 "colau",
 "marquesa",
-"cayetana",
-"freir",
-"vamos",
-"pijos"
+"impuestos",
+"pijos",
+"usted"
 ],
 "titulares": [
 {
@@ -1092,17 +1007,16 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-05T17:57+00:00",
+"desde": "2026-11-06T17:51+00:00",
 "hasta": "2026-11-08T11:28+00:00",
 "temas": [],
 "comunes": [
-"acto",
-"directo",
+"sanchez",
 "precampana",
 "pedro",
-"sanchez",
-"abascal",
-"santiago"
+"directo",
+"acto",
+"valencia"
 ],
 "titulares": [
 {
@@ -1113,9 +1027,9 @@
 },
 {
 "medio": "El Debate",
-"titulo": "Santiago Abascal participa en un acto de precampaña en Teruel, en directo",
-"url": "https://www.eldebate.com/espana/20261105/santiago-abascal-participa-acto-precampana-teruel-directo_477762.html",
-"fecha": "2026-11-05T17:57+00:00"
+"titulo": "Pedro Sánchez participa en un acto de precampaña de PSOE en Valencia, en directo",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261106/pedro-sanchez-participa-acto-precampana-psoe-valencia-directo_478172.html",
+"fecha": "2026-11-06T17:51+00:00"
 },
 {
 "medio": "El Español",
@@ -1134,189 +1048,6 @@
 "titulo": "EN DIRECTO | Pedro Sánchez interviene en un mitin de precampaña en Valencia",
 "url": "https://theobjective.com/videos/espana/2026-11-06/directo-pedro-sanchez-en-valencia/",
 "fecha": "2026-11-06T19:09+00:00"
-}
-]
-},
-{
-"medios": 5,
-"desde": "2026-11-05T16:53+00:00",
-"hasta": "2026-11-08T13:28+00:00",
-"temas": [
-"territorio"
-],
-"comunes": [
-"borrasca",
-"lluvias",
-"bruna",
-"fuertes",
-"intensas",
-"traera",
-"espana",
-"canarias"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Vuelve el mal tiempo a España: una borrasca traerá lluvias intensas y fuertes vientos",
-"url": "https://www.20minutos.es/nacional/vuelve-mal-tiempo-espana-una-borrasca-traera-lluvias-intensas-fuertes-vientos_7057824_0.html",
-"fecha": "2026-11-05T16:53+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "La borrasca Bruna llega a Córdoba: la Aemet activa el aviso amarillo este lunes por lluvias en la Sierra y Pedroches",
-"url": "https://www.abc.es/espana/andalucia/cordoba/borrasca-bruna-llega-cordoba-aemet-activa-aviso-20261108142857-nts.html",
-"fecha": "2026-11-08T13:28+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Llega la borrasca Bruna a España y la Aemet avisa: lluvias muy fuertes, tormentas y rachas de viento de 100 km/h y estas serán las zonas más afectadas",
-"url": "https://www.elconfidencial.com/espana/2026-11-08/llega-la-borrasca-bruna-a-espana-y-la-aemet-avisa-lluvias-muy-fuertes-tormentas-y-rachas-de-viento-intensas-y-estas-seran-las-zonas-mas-afectadas_4461160/",
-"fecha": "2026-11-08T07:32+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "La borrasca Bruna traerá fuertes lluvias a la Península y a Canarias a partir del sábado",
-"url": "https://www.elmundo.es/espana/2026/11/06/6aed7ffb21efa09d428b45a1.html",
-"fecha": "2026-11-06T07:21+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La borrasca Bruna amenaza con lluvias intensas a Canarias desde este viernes",
-"url": "https://www.libertaddigital.com/canarias/2026-11-06/la-borrasca-bruna-amenaza-con-lluvias-intensas-a-canarias-desde-este-viernes-7487531/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-06T08:34+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-05T17:34+00:00",
-"hasta": "2026-11-05T18:08+00:00",
-"temas": [
-"justicia"
-],
-"comunes": [
-"koldo",
-"libertad",
-"seis",
-"deja",
-"civil",
-"caso",
-"guardia",
-"nueva"
-],
-"titulares": [
-{
-"medio": "COPE",
-"titulo": "La Guardia Civil deja en libertad a los seis arrestados en la nueva investigación del caso Koldo",
-"url": "https://www.cope.es/actualidad/espana/noticias/guardia-civil-deja-libertad-seis-arrestados-nueva-investigacion-caso-koldo-20261105_3469798.html",
-"fecha": "2026-11-05T18:08+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La Guardia Civil deja en libertad a las seis personas detenidas este jueves por el caso Koldo",
-"url": "https://www.eldebate.com/espana/20261105/guardia-civil-deja-libertad-seis-personas-detenidas-este-jueves-caso-koldo_477832.html",
-"fecha": "2026-11-05T17:53+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "La Guardia Civil deja en libertad a los seis detenidos en la nueva pieza del \"caso Koldo\"",
-"url": "https://www.larazon.es/espana/guardia-civil-deja-libertad-seis-detenidos-nueva-pieza-caso-koldo_202611056aecbe1c9a31a65adcd113f1.html",
-"fecha": "2026-11-05T17:34+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La Guardia Civil deja en libertad a los seis detenidos en la nueva pieza del ‘caso Koldo’",
-"url": "https://theobjective.com/espana/tribunales/2026-11-05/en-libertad-detenidos-caso-koldo/",
-"fecha": "2026-11-05T17:41+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-05T17:22+00:00",
-"hasta": "2026-11-06T05:00+00:00",
-"temas": [
-"justicia"
-],
-"comunes": [
-"koldo",
-"sanchez",
-"feijoo",
-"explicaciones",
-"pide",
-"intento",
-"soborno",
-"garcia"
-],
-"titulares": [
-{
-"medio": "El País",
-"titulo": "Sánchez pide explicaciones a Feijóo sobre la supuesta oferta de un millón de euros del PP a Koldo",
-"url": "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html",
-"fecha": "2026-11-05T19:20+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Sánchez exige explicaciones a Feijóo sobre el supuesto intento de soborno a Koldo García",
-"url": "https://www.eldiario.es/politica/sanchez-exige-explicaciones-feijoo-supuesto-soborno-koldo-garcia_1_13642109.html",
-"fecha": "2026-11-05T17:22+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez pide explicaciones a Feijóo por el supuesto intento de soborno a Koldo",
-"url": "https://www.lavanguardia.com/politica/20261106/11677267/sanchez-pide-explicaciones-feijoo-supuesto-intento-soborno-koldo.html",
-"fecha": "2026-11-06T05:00+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Sánchez pide explicaciones a Feijóo por las acusaciones de Koldo García sobre el PP",
-"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-explicaciones-feijoo-acusaciones-koldo-garcia/",
-"fecha": "2026-11-05T18:56+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-05T17:04+00:00",
-"hasta": "2026-11-06T11:54+00:00",
-"temas": [
-"empleo",
-"justicia"
-],
-"comunes": [
-"andrea",
-"abalos",
-"torre",
-"koldo",
-"detenida",
-"luis",
-"jose",
-"caso"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Quién es Andrea de la Torre, la novia de Ábalos que ha sido detenida por la UCO en Valencia en el caso Koldo",
-"url": "https://www.20minutos.es/nacional/quien-es-andrea-torre-novia-abalos-detenida-uco-valencia-nueva-operacion-caso-koldo_7058136_0.html",
-"fecha": "2026-11-06T11:38+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Andrea de la Torre, la novia de Ábalos de 28 años detenida por la trama Koldo y extrabajadora en Logirail",
-"url": "https://www.abc.es/espana/andrea-torre-novia-abalos-anos-detenida-trama-20261105125359-nt.html",
-"fecha": "2026-11-06T11:54+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "\"La relación entre Andrea de la Torre y José Luis Ábalos empezó hace seis años y todavía continúan juntos, se dedica al ámbito administrativo, en concreto, a la formación de empleados\"",
-"url": "https://www.cope.es/programas/la-linterna/el-tema-del-dia/noticias/relacion-andrea-torre-jose-luis-abalos-empezo-seis-anos-todavia-continuan-dedica-ambito-administrativo-concreto-formacion-empleados-20261105_3469871.html",
-"fecha": "2026-11-05T21:31+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "¿Quién es Andrea de la Torre? La pareja de José Luis Ábalos detenida por la UCO en el 'caso Koldo'",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-05/quien-es-andrea-de-la-torre-la-pareja-de-jose-luis-abalos-detenida-por-la-uco-en-el-caso-koldo-7487305/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-05T17:04+00:00"
 }
 ]
 },
@@ -1363,6 +1094,50 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-05T18:45+00:00",
+"hasta": "2026-11-06T17:57+00:00",
+"temas": [
+"justicia"
+],
+"comunes": [
+"conmigo",
+"ver",
+"caso",
+"esas",
+"sanchez",
+"personas",
+"koldo",
+"nada"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Sánchez niega cualquier vínculo con los detenidos por la UCO en el caso Koldo: \"Esas personas no tienen que ver conmigo\"",
+"url": "https://www.20minutos.es/nacional/sanchez-niega-cualquier-vinculo-con-los-detenidos-por-uco-caso-koldo-esas-personas-no-tienen-que-ver-conmigo_7057891_0.html",
+"fecha": "2026-11-05T19:23+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Quién es quién en el caso Koldo - Ábalos: del \"colaborador especial en Córdoba\" a \"ninguna de esas personas tiene nada que ver conmigo\"",
+"url": "https://www.cope.es/programas/la-tarde/noticias/caso-koldo-abalos-colaborador-especial-cordoba-ninguna-personas-ver-20261106_3470650.html",
+"fecha": "2026-11-06T17:57+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Sánchez rompe su silencio tras la detención de su exchófer por el caso Koldo: “Ninguna de esas personas tiene nada que ver conmigo”",
+"url": "https://www.larazon.es/espana/sanchez-rompe-silencio-detencion-exchofer-caso-koldo-ninguna-esas-personas-tiene-nada-que-ver-conmigo_202611056aecceb9ea8d8979977a8a88.html",
+"fecha": "2026-11-05T18:45+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez se desvincula de la detención de su exchófer: «No tiene nada que ver conmigo»",
+"url": "https://theobjective.com/videos/espana/2026-11-05/sanchez-desvincula-detencion-exchofer-no-ver-conmigo/",
+"fecha": "2026-11-05T19:47+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-06T16:55+00:00",
 "hasta": "2026-11-06T18:20+00:00",
 "temas": [
@@ -1370,14 +1145,14 @@
 "justicia"
 ],
 "comunes": [
-"jessica",
 "pardo",
 "vera",
+"jessica",
 "rodriguez",
-"koldo",
 "pide",
+"koldo",
 "anticorrupcion",
-"fiscalia"
+"aldama"
 ],
 "titulares": [
 {
@@ -1413,9 +1188,9 @@
 "temas": [],
 "comunes": [
 "causa",
-"illa",
-"alvise",
 "falsa",
+"alvise",
+"illa",
 "archivo",
 "pcr",
 "covid",
@@ -1457,9 +1232,9 @@
 "revuelta",
 "abascal",
 "entrevistado",
+"lunes",
 "tve",
 "sera",
-"lunes",
 "broncano"
 ],
 "titulares": [
@@ -1497,13 +1272,13 @@
 "territorio"
 ],
 "comunes": [
-"financiacion",
-"feijoo",
-"singular",
 "ninguna",
-"pactada",
-"tendra",
+"financiacion",
+"singular",
+"feijoo",
 "promete",
+"tendra",
+"pactada",
 "cataluna"
 ],
 "titulares": [
@@ -1548,8 +1323,8 @@
 "convocar",
 "urgencia",
 "compromete",
-"canarias",
-"martes"
+"martes",
+"canarias"
 ],
 "titulares": [
 {
@@ -1584,9 +1359,9 @@
 "hasta": "2026-11-08T10:22+00:00",
 "temas": [],
 "comunes": [
-"funeral",
 "urda",
 "victimas",
+"funeral",
 "cuerpo",
 "tolon",
 "sanchez",
@@ -1625,14 +1400,14 @@
 "hasta": "2026-11-08T13:31+00:00",
 "temas": [],
 "comunes": [
-"ibarra",
-"sustancia",
-"enclenque",
 "psoe",
 "partido",
 "rodriguez",
+"sustancia",
+"ibarra",
+"enclenque",
 "momentos",
-"encogido"
+"peso"
 ],
 "titulares": [
 {
@@ -1669,11 +1444,11 @@
 "defensa"
 ],
 "comunes": [
-"sanchez",
-"mirar",
-"feijoo",
-"trump",
 "trenes",
+"mirar",
+"sanchez",
+"trump",
+"feijoo",
 "menos",
 "pide"
 ],
@@ -1706,121 +1481,13 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-05T16:22+00:00",
-"hasta": "2026-11-05T18:24+00:00",
-"temas": [],
-"comunes": [
-"pide",
-"plus",
-"tiempo",
-"cerebro",
-"ultra",
-"juez",
-"clientes",
-"informacion"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "El presunto cerebro financiero del caso Plus Ultra pide al juez más tiempo para recabar información sobre sus clientes",
-"url": "https://www.eldebate.com/espana/20261105/presunto-cerebro-financiero-caso-plus-ultra-pide-juez-tiempo-recabar-informacion-sobre-clientes_477768.html",
-"fecha": "2026-11-05T16:22+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "El cerebro financiero del \"caso Plus Ultra\" pide al juez más tiempo para recabar información sobre sus clientes",
-"url": "https://www.larazon.es/espana/cerebro-financiero-caso-plus-ultra-pide-juez-mas-tiempo-recabar-informacion-sus-clientes_202611056aecc09cea8d8979977a7699.html",
-"fecha": "2026-11-05T17:45+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Un presunto cerebro de ‘Plus Ultra’ pide más tiempo al juez para reunir documentación",
-"url": "https://theobjective.com/espana/tribunales/2026-11-05/presunto-cerebro-plus-ultra-reunir-documentacion/",
-"fecha": "2026-11-05T18:24+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-05T17:33+00:00",
-"hasta": "2026-11-05T18:29+00:00",
-"temas": [],
-"comunes": [
-"insulto",
-"sanchez",
-"politica",
-"milei",
-"parte",
-"forma",
-"manera",
-"hacer"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Sánchez, a Milei: \"Los presidentes estamos para unir y el insulto no forma parte de mi forma de entender la política\"",
-"url": "https://www.20minutos.es/nacional/sanchez-milei-los-presidentes-estamos-para-unir-insulto-no-forma-parte-mi-forma-entender-politica_7057871_0.html",
-"fecha": "2026-11-05T18:20+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Sánchez evita confrontar con Milei: \"El insulto no forma parte de mi manera de hacer política\"",
-"url": "https://www.europapress.es/nacional/noticia-sanchez-evita-confrontar-milei-insulto-no-forma-parte-manera-hacer-politica-20261105183308.html",
-"fecha": "2026-11-05T17:33+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Sánchez evita confrontar con Milei: «El insulto no forma parte de mi manera de hacer política»",
-"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-milei-cumbre-iberoamericana/",
-"fecha": "2026-11-05T18:29+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-05T17:21+00:00",
-"hasta": "2026-11-05T19:29+00:00",
-"temas": [],
-"comunes": [
-"reunion",
-"iberoamericanos",
-"zelenski",
-"lideres",
-"recibe",
-"felipe",
-"zarzuela",
-"rey"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El rey Felipe VI recibe a Zelenski en la Zarzuela tras su reunión con los líderes iberoamericanos",
-"url": "https://www.20minutos.es/nacional/rey-felipe-vi-recibe-zelenski-zarzuela-tras-su-reunion-con-los-lideres-iberoamericanos_7057833_0.html",
-"fecha": "2026-11-05T17:21+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El Rey recibe a Zelenski tras su reunión con los líderes iberoamericanos",
-"url": "https://www.eldebate.com/espana/casa-real/20261105/rey-recibe-zelenski-reunion-lideres-iberoamericanos_477847.html",
-"fecha": "2026-11-05T18:27+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Felipe VI recibe a Zelenski en la Zarzuela tras su reunión con los líderes iberoamericanos",
-"url": "https://www.elmundo.es/espana/2026/11/05/6aecd65921efa0fe5b8b45ad.html",
-"fecha": "2026-11-05T19:29+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-05T19:41+00:00",
 "hasta": "2026-11-05T21:07+00:00",
 "temas": [],
 "comunes": [
+"pinganillo",
 "toledo",
 "alvarez",
-"pinganillo",
 "comeras",
 "nogueras",
 "nosotros"
@@ -1848,70 +1515,70 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-05T17:53+00:00",
-"hasta": "2026-11-06T04:30+00:00",
-"temas": [],
+"desde": "2026-11-05T18:56+00:00",
+"hasta": "2026-11-06T05:00+00:00",
+"temas": [
+"justicia"
+],
 "comunes": [
-"iryo",
-"revision",
-"urda",
-"integral",
-"siniestro",
-"tren",
-"paso"
+"pide",
+"sanchez",
+"koldo",
+"explicaciones",
+"feijoo"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "El Iryo contra el que colisionó el AVE en Urda había pasado una revisión integral dos días antes que incluyó el sistema de señalización",
-"url": "https://www.20minutos.es/nacional/iryo-contra-que-colisiono-ave-urda-habia-pasado-una-revision-integral-dos-dias-antes-que-incluyo-sistema-senalizacion_7057852_0.html",
-"fecha": "2026-11-05T17:53+00:00"
-},
-{
 "medio": "El País",
-"titulo": "El tren de Iryo de Urda pasó una revisión a fondo dos días antes del siniestro",
-"url": "https://elpais.com/espana/2026-11-06/el-tren-de-iryo-de-urda-paso-una-revision-a-fondo-dos-dias-antes-del-siniestro.html",
-"fecha": "2026-11-06T04:30+00:00"
+"titulo": "Sánchez pide explicaciones a Feijóo sobre la supuesta oferta de un millón de euros del PP a Koldo",
+"url": "https://elpais.com/espana/2026-11-05/sanchez-pide-explicaciones-a-feijoo-sobre-el-supuesto-pago-de-un-millon-de-euros-del-pp-a-koldo.html",
+"fecha": "2026-11-05T19:20+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "El tren de Iryo accidentado en Urda pasó una revisión integral dos días antes del siniestro",
-"url": "https://www.libertaddigital.com/espana/2026-11-05/el-tren-de-iryo-accidentado-en-urda-paso-una-revision-integral-dos-dias-antes-del-siniestro-7487377/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-05T18:34+00:00"
+"medio": "La Vanguardia",
+"titulo": "Sánchez pide explicaciones a Feijóo por el supuesto intento de soborno a Koldo",
+"url": "https://www.lavanguardia.com/politica/20261106/11677267/sanchez-pide-explicaciones-feijoo-supuesto-intento-soborno-koldo.html",
+"fecha": "2026-11-06T05:00+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez pide explicaciones a Feijóo por las acusaciones de Koldo García sobre el PP",
+"url": "https://theobjective.com/espana/politica/2026-11-05/sanchez-explicaciones-feijoo-acusaciones-koldo-garcia/",
+"fecha": "2026-11-05T18:56+00:00"
 }
 ]
 },
 {
 "medios": 3,
-"desde": "2026-11-05T16:09+00:00",
-"hasta": "2026-11-06T08:51+00:00",
+"desde": "2026-11-05T18:41+00:00",
+"hasta": "2026-11-06T09:55+00:00",
 "temas": [],
 "comunes": [
-"illa",
-"dimite",
-"exjefe",
-"gabinete",
-"investigacion",
-"esparreguera"
+"votar",
+"dni",
+"junta",
+"electoral",
+"uso",
+"digital"
 ],
 "titulares": [
 {
-"medio": "El Debate",
-"titulo": "Dimite la regidora de Urbanismo de Esparreguera (Barcelona) por la investigación al exjefe de gabinete de Illa",
-"url": "https://www.eldebate.com/espana/cataluna/20261106/dimite-regidora-urbanismo-esparreguera-barcelona-investigacion-exjefe-gabinete-illa_477925.html",
-"fecha": "2026-11-06T08:51+00:00"
+"medio": "20minutos",
+"titulo": "La Junta Electoral vuelve a permitir el uso del DNI digital para votar en las elecciones generales del 29 de noviembre",
+"url": "https://www.20minutos.es/nacional/junta-electoral-vuelve-permitir-uso-dni-digital-para-votar-las-elecciones-generales-29-noviembre_7057881_0.html",
+"fecha": "2026-11-05T18:41+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Dimite una teniente de alcaldía de Esparreguera por la investigación que implica al exjefe de gabinete de Illa",
-"url": "https://www.lavanguardia.com/politica/20261105/11677050/dimite-teniente-alcaldia-esparreguera-investigacion-implica-exjefe-gabinete-illa.html",
-"fecha": "2026-11-05T16:09+00:00"
+"medio": "El Confidencial",
+"titulo": "La Junta Electoral autoriza el uso del DNI electrónico para votar en los comicios del 29-N",
+"url": "https://www.elconfidencial.com/espana/2026-11-05/jec-levanta-suspension-midni-votar-1hms_4459923/",
+"fecha": "2026-11-05T19:47+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "Dimite una edil socialista investigada en el caso del exjefe de gabinete de Salvador Illa",
-"url": "https://www.libertaddigital.com/cataluna/2026-11-05/dimite-una-edil-socialista-investigada-en-el-caso-del-exjefe-de-gabinete-de-salvador-illa-7487304/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-05T16:46+00:00"
+"medio": "La Razón",
+"titulo": "Interior se aferra al aval de la Junta Electoral Central e insiste en que el DNI digital es válido para votar el 29N",
+"url": "https://www.larazon.es/espana/interior-aferra-aval-junta-electoral-central-insiste-que-dni-digital-valido-votar-29n_202611066aeda1694196933d7ed3043e.html",
+"fecha": "2026-11-06T09:44+00:00"
 }
 ]
 },
@@ -1921,13 +1588,13 @@
 "hasta": "2026-11-06T10:45+00:00",
 "temas": [],
 "comunes": [
-"bandera",
 "granada",
 "espana",
+"bandera",
 "queman",
-"gran",
-"pintada",
 "hacen",
+"pintada",
+"gran",
 "base"
 ],
 "titulares": [
@@ -1953,35 +1620,39 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-05T16:58+00:00",
-"hasta": "2026-11-06T12:29+00:00",
+"desde": "2026-11-06T01:00+00:00",
+"hasta": "2026-11-06T11:54+00:00",
 "temas": [
-"defensa"
+"empleo",
+"justicia"
 ],
 "comunes": [
-"mundial",
-"final",
-"espana",
-"2030"
+"abalos",
+"novia",
+"uco",
+"andrea",
+"koldo",
+"torre",
+"detenida"
 ],
 "titulares": [
 {
-"medio": "La Vanguardia",
-"titulo": "Feijóo dice que España debe renunciar a organizar el Mundial 2030 si la final es en Marruecos",
-"url": "https://www.lavanguardia.com/deportes/20261106/11677592/feijoo-espana-renunciar-mundial-futbol-2030-final-marruecos.html",
-"fecha": "2026-11-06T05:26+00:00"
+"medio": "20minutos",
+"titulo": "Quién es Andrea de la Torre, la novia de Ábalos que ha sido detenida por la UCO en Valencia en el caso Koldo",
+"url": "https://www.20minutos.es/nacional/quien-es-andrea-torre-novia-abalos-detenida-uco-valencia-nueva-operacion-caso-koldo_7058136_0.html",
+"fecha": "2026-11-06T11:38+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "El PP dice basta al servilismo de Moncloa: España se retirará del Mundial 2030 si Rabat se queda la final",
-"url": "https://www.libertaddigital.com/deportes/futbol/2026-11-06/el-pp-dice-basta-al-servilismo-de-moncloa-espana-debe-retirarse-del-mundial-2030-si-rabat-se-queda-la-final-7487695/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-06T12:29+00:00"
+"medio": "ABC",
+"titulo": "Andrea de la Torre, la novia de Ábalos de 28 años detenida por la trama Koldo y extrabajadora en Logirail",
+"url": "https://www.abc.es/espana/andrea-torre-novia-abalos-anos-detenida-trama-20261105125359-nt.html",
+"fecha": "2026-11-06T11:54+00:00"
 },
 {
-"medio": "The Objective",
-"titulo": "El PP incluye en su programa que España renuncie al Mundial 2030 si no alberga la final",
-"url": "https://theobjective.com/espana/politica/2026-11-05/pp-espana-renuncia-mundial-2030-final/",
-"fecha": "2026-11-05T16:58+00:00"
+"medio": "La Razón",
+"titulo": "La novia de Ábalos tiene material protegido que Ábalos ocultaba a la UCO",
+"url": "https://www.larazon.es/espana/novia-abalos-tiene-material-protegido-que-abalos-ocultaba-uco_202611066aecea08ea8d8979977aa9eb.html",
+"fecha": "2026-11-06T01:00+00:00"
 }
 ]
 },
@@ -1991,14 +1662,14 @@
 "hasta": "2026-11-06T13:40+00:00",
 "temas": [],
 "comunes": [
-"ronaldo",
 "cristiano",
-"hija",
+"ronaldo",
 "fotos",
-"carcel",
+"hija",
 "instagram",
+"sexuales",
 "enviar",
-"sexuales"
+"madre"
 ],
 "titulares": [
 {
@@ -2020,7 +1691,263 @@
 "fecha": "2026-11-06T13:40+00:00"
 }
 ]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T09:38+00:00",
+"hasta": "2026-11-06T13:50+00:00",
+"temas": [
+"sanidad"
+],
+"comunes": [
+"acreditacion",
+"centro",
+"europea",
+"cancer",
+"octubre",
+"integral",
+"hospital",
+"logra"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "El 12 de Octubre consigue la acreditación europea como Centro Integral de Cáncer",
+"url": "https://www.abc.es/espana/madrid/octubre-consigue-acreditacion-europea-centro-integral-cancer-20261106095930-nt.html",
+"fecha": "2026-11-06T13:50+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Hospital 12 de Octubre logra la acreditación europea como Centro Integral de Cáncer",
+"url": "https://www.eldebate.com/espana/madrid/20261106/hospital-12-octubre-logra-acreditacion-europea-como-centro-integral-cancer_478082.html",
+"fecha": "2026-11-06T12:04+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Hito del Hospital 12 de Octubre: logra la máxima acreditación europea como centro integral de cáncer",
+"url": "https://www.libertaddigital.com/madrid/2026-11-06/hito-del-hospital-12-de-octubre-logra-la-maxima-acreditacion-europea-como-centro-integral-de-cancer-7487561/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T09:38+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T08:02+00:00",
+"hasta": "2026-11-06T16:32+00:00",
+"temas": [
+"impuestos",
+"justicia"
+],
+"comunes": [
+"transportes",
+"zona",
+"cero",
+"corrupcion",
+"sanchez",
+"vox"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Vox espera que la Fiscalía Europea «llegue hasta el final»: «Sánchez convirtió Transportes en la zona cero»",
+"url": "https://www.eldebate.com/espana/20261106/vox-espera-fiscalia-europea-llegue-hasta-final-sanchez-convirtio-transportes-zona-cero_478245.html",
+"fecha": "2026-11-06T16:32+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Federico a las 8: Transportes, la zona cero de la corrupción en España",
+"url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/federico-a-las-8/2026-11-06/transportes-la-zona-cero-de-la-corrupcion-en-espana-7487501/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T08:02+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Vox acusa a Sánchez de hacer del Ministerio de Transportes «zona cero de la corrupción»",
+"url": "https://theobjective.com/espana/politica/2026-11-06/vox-sanchez-transportes-corrupcion/",
+"fecha": "2026-11-06T13:09+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T09:56+00:00",
+"hasta": "2026-11-06T17:17+00:00",
+"temas": [],
+"comunes": [
+"pablo",
+"premios",
+"cuvillo",
+"ojeda",
+"andalucia",
+"aguado",
+"paco",
+"tauromaquia"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Paco Ojeda, Cuvillo y Pablo Aguado, Premios Andalucía de Tauromaquia",
+"url": "https://www.cope.es/actualidad/toros/noticias/paco-ojeda-cuvillo-pablo-aguado-premios-andalucia-tauromaquia-20261106_3470653.html",
+"fecha": "2026-11-06T17:17+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Paco Ojeda, Núñez del Cuvillo, Pablo Aguado y Vicente Amigo, Premios Andalucía de la Tauromaquia",
+"url": "https://www.eldebate.com/espana/andalucia/20261106/paco-ojeda-nunez-cuvillo-pablo-aguado-vicente-amigo-iii-premios-andalucia-tauromaquia_477962.html",
+"fecha": "2026-11-06T09:56+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Paco Ojeda, Núñez del Cuvillo, Pablo Aguado y Vicente Amigo, III Premios Andalucía de la Tauromaquia",
+"url": "https://www.elespanol.com/espana/andalucia/20261106/paco-ojeda-nunez-cuvillo-pablo-aguado-vicente-amigo-iii-premios-andalucia-tauromaquia/1003744448907_0.html",
+"fecha": "2026-11-06T12:16+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T11:08+00:00",
+"hasta": "2026-11-06T17:26+00:00",
+"temas": [],
+"comunes": [
+"aceite",
+"produccion",
+"retirar",
+"gobierno",
+"mercado",
+"oliva"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "El Gobierno decreta la retirada del mercado del 12% del aceite de oliva debido al fuerte incremento de producción; desde hoy y hasta el 30 de septiembre de 2027",
+"url": "https://www.cope.es/actualidad/economia/noticias/gobierno-decreta-retirada-mercado-12-aceite-oliva-debido-fuerte-incremento-produccion-hoy-30-septiembre-2027-20261106_3470072.html",
+"fecha": "2026-11-06T12:31+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Baleares se planta ante Sánchez por obligar a retirar del mercado el 12 % de su producción de aceite de oliva",
+"url": "https://www.eldebate.com/espana/baleares/20261106/baleares-planta-ante-sanchez-obligar-retirar-mercado-12-produccion-aceite-oliva_478293.html",
+"fecha": "2026-11-06T17:26+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "¿Por qué el Gobierno ha decretado retirar un 12% de la producción de aceite?",
+"url": "https://www.infolibre.es/la-letra-pequena/gobierno-decreta-retirar-12-produccion-aceite-evitar-desplome-precios_1_2239608.html",
+"fecha": "2026-11-06T11:08+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T17:39+00:00",
+"hasta": "2026-11-06T19:42+00:00",
+"temas": [],
+"comunes": [
+"asesino",
+"sanchez",
+"valencia",
+"mitin",
+"traidor",
+"gritos",
+"abucheos"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Pedro Sánchez, recibido entre gritos de «asesino» y «traidor» en su regreso a Valencia para un mitin electoral",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261106/pedro-sanchez-recibido-entre-gritos-asesino-traidor-regreso-valencia-mitn-electoral_478247.html",
+"fecha": "2026-11-06T17:39+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Abucheos y pitos contra Sánchez y Puente en Valencia: \"¡Asesino!\"",
+"url": "https://www.libertaddigital.com/valencia/2026-11-06/abucheos-y-pitos-contra-sanchez-y-puente-en-valencia-asesino-7487985/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-06T19:42+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Gritos y abucheos contra Sánchez en Valencia en su primer mitin tras la megatragedia de Urda: «¡Traidor, asesino!»",
+"url": "https://okdiario.com/espana/gritos-abucheos-contra-sanchez-valencia-primer-mitin-megatragedia-urda-traidor-asesino-20719693",
+"fecha": "2026-11-06T19:19+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T19:52+00:00",
+"hasta": "2026-11-06T20:47+00:00",
+"temas": [
+"justicia"
+],
+"comunes": [
+"abascal",
+"sanchez",
+"oficial",
+"avisa",
+"amordazar",
+"luto",
+"afirma",
+"mucho"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Abascal afirma que Sánchez da mucho \"miedo\" y avisa de que a él no lo \"van a amordazar\" ni durante un luto oficial",
+"url": "https://www.20minutos.es/nacional/abascal-afirma-que-sanchez-da-mucho-miedo-avisa-que-no-van-amordazar-ni-durante-un-luto-oficial_7058412_0.html",
+"fecha": "2026-11-06T20:16+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Abascal afirma que Sánchez da mucho \"miedo\" y avisa de que a él no lo \"van a amordazar\" ni durante un luto oficial",
+"url": "https://www.europapress.es/andalucia/noticia-abascal-afirma-sanchez-da-mucho-miedo-avisa-no-van-amordazar-luto-oficial-20261106205204.html",
+"fecha": "2026-11-06T19:52+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Abascal avisa a Sánchez de que no lo «van a amordazar» ni durante un luto oficial",
+"url": "https://theobjective.com/espana/politica/2026-11-06/abascal-avisa-sanchez-amordazar-luto/",
+"fecha": "2026-11-06T20:47+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-06T15:40+00:00",
+"hasta": "2026-11-07T08:05+00:00",
+"temas": [
+"vivienda"
+],
+"comunes": [
+"alquiler",
+"casa",
+"viviendas",
+"asequible",
+"442",
+"nuevas",
+"incorpora",
+"portal"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "CASA 47 incorpora 442 nuevas viviendas de alquiler asequible: estas son las comunidades donde se encuentran",
+"url": "https://www.20minutos.es/nacional/casa-47-incorpora-442-nuevas-viviendas-alquiler-asequible-estas-son-las-comunidades-donde-se-encuentran_7058292_0.html",
+"fecha": "2026-11-06T15:40+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Portal de CASA 47 incorpora 63 viviendas de alquiler asequible en Castilla-La Mancha",
+"url": "https://www.abc.es/espana/castilla-la-mancha/portal-casa-incorpora-viviendas-alquiler-asequible-castillala-20261106192039-nt.html",
+"fecha": "2026-11-06T18:21+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El Portal de Casa 47 oferta 442 nuevas viviendas de alquiler asequible a partir de este sábado",
+"url": "https://www.elconfidencial.com/espana/2026-11-07/casa-viviendas-alquiler-asequible-1tna-1tps_4460878/",
+"fecha": "2026-11-07T08:05+00:00"
+}
+]
 }
 ],
-"recogidas": 1974
+"recogidas": 1914
 }

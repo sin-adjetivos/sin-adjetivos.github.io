@@ -1,9 +1,351 @@
 [
 {
+"medio": "The Objective",
+"titulo": "El líder opositor israelí asume el encargo del presidente del país de formar gobierno",
+"url": "https://theobjective.com/internacional/2026-11-08/eisenkot-encargo-formar-gobierno-israel-emergencia-nacional/",
+"fecha": "2026-11-08T18:24+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Cuatro embarazadas realizan el examen del Sergas desde la cama del hospital en la jornada de oposiciones",
+"url": "https://www.eldebate.com/espana/galicia/20261108/cuatro-embarazadas-realizan-examen-sergas-desde-cama-hospital-jornada-oposiciones_478705.html",
+"fecha": "2026-11-08T18:19+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "El fred internacional del Regne Unit",
+"url": "https://www.ara.cat/editorial/fred-internacional-regne-unit_129_5904071.html",
+"fecha": "2026-11-08T18:16+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Solo queda la carretera: ¿cuándo se reabrirá la línea de AVE Córdoba-Madrid?",
+"url": "https://www.abc.es/espana/andalucia/cordoba/solo-queda-carretera-reabrira-linea-ave-cordobamadrid-20261108190920-nts.html",
+"fecha": "2026-11-08T18:09+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenidos diez menores en Ceuta por reyertas en centros de acogida y agredir al personal",
+"url": "https://www.eldebate.com/espana/20261108/detenidos-diez-menores-ceuta-reyertas-centros-acogida-agredir-personal_478713.html",
+"fecha": "2026-11-08T18:08+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Fallece el empresario Agustín Tello, referente del sector de la automoción en Cuenca",
+"url": "https://www.abc.es/espana/castilla-la-mancha/fallece-empresario-agustin-tello-referente-sector-automocion-20261108190730-nt.html",
+"fecha": "2026-11-08T18:07+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Hospital La Fe de Valencia realiza con éxito un trasplante cardíaco a un hombre de 70 años con un corazón mecánico",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261108/hospital-fe-valencia-realiza-exito-trasplante-cardiaco-hombre-70-anos-corazon-mecanico_478712.html",
+"fecha": "2026-11-08T18:04+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "\"Basta de puertas abiertas\": el PP denuncia que la política de Sánchez ha facilitado la llegada de 8.000 migrantes a El Hierro",
+"url": "https://www.elespanol.com/espana/20261108/basta-puertas-abiertas-pp-denuncia-politica-sanchez-facilitado-llegada-migrantes-hierro/1003744450720_0.html",
+"fecha": "2026-11-08T18:02+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Sí, són diferents Carlos Mazón i Óscar Puente",
+"url": "https://www.ara.cat/politica/son-diferents-carlos-mazon-oscar-puente_129_5903240.html",
+"fecha": "2026-11-08T18:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Brussel·les vol decidir les condicions del 'Breturn'",
+"url": "https://www.ara.cat/internacional/europa/brussel-vol-decidir-condicions-breturn_1_5894893.html",
+"fecha": "2026-11-08T18:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Els col·lectius menyspreats per Trump que arriben per primer cop al poder",
+"url": "https://www.ara.cat/internacional/estats-units/col-lectius-menyspreats-trump-arriben-cop_1_5899622.html",
+"fecha": "2026-11-08T18:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "\"No hi ha ni un sol mite grec que pugui ser narrat sense fer referència a un paisatge\"",
+"url": "https://www.ara.cat/cultura/no-hi-sol-mite-grec-pugui-narrat-referencia-paisatge_1_5898958.html",
+"fecha": "2026-11-08T18:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "De mirar-ho a viure-ho: per què ens fascinen tant les experiències immersives?",
+"url": "https://www.ara.cat/estils/mirar-ho-viure-ho-fascinen-tant-experiencies-immersives_130_5900804.html",
+"fecha": "2026-11-08T18:00+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El choque entre dos vehículos militares de noche causó la muerte del soldado de la BRI X de Córdoba en Zaragoza",
+"url": "https://www.abc.es/espana/andalucia/cordoba/choque-dos-vehiculos-militares-noche-causo-muerte-20261108185554-nts.html",
+"fecha": "2026-11-08T17:57+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "A juicio por intentar matar a su compañero de piso con nueve puñaladas en medio de un brote psicótico",
+"url": "https://www.eldebate.com/espana/baleares/20261108/juicio-intentar-matar-companero-piso-nueve-punaladas-medio-brote-psicotico_478667.html",
+"fecha": "2026-11-08T17:57+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "'Elecciones 29N': apúntate para recibir la newsletter de ABC sobre la campaña",
+"url": "https://www.abc.es/espana/elecciones-29n-apuntate-recibir-newsletter-abc-sobre-20261101102324-nt.html",
+"fecha": "2026-11-08T17:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El PP exige una financiación «suficiente» para la dependencia y una atención integral a las personas con ELA",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261108/pp-exige-financiacion-suficiente-dependencia-atencion-integral-personas-ela_478706.html",
+"fecha": "2026-11-08T17:46+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El mayor buque de guerra de la Armada sale del dique seco y abre sus puertas en Málaga con largas colas",
+"url": "https://www.eldebate.com/espana/defensa/20261108/mayor-buque-guerra-armada-sale-dique-seco-abre-puertas-malaga-largas-colas_478700.html",
+"fecha": "2026-11-08T17:39+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La trufa blanca de Alba, protagonista otoñal en el restaurante Bottega Bernacca",
+"url": "https://www.abc.es/espana/cataluna/trufa-blanca-alba-protagonista-otonal-restaurante-bottega-20261108183744-nt.html",
+"fecha": "2026-11-08T17:37+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Bezzecchi gana y Marc Márquez se queda a las puertas del título",
+"url": "https://theobjective.com/deportes/2026-11-08/bezzecchi-gana-marc-marquez-se-queda-puertas/",
+"fecha": "2026-11-08T17:36+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "La borrasca Bruna deja un herido leve en Canarias y se activa la alerta en Castilla y León",
+"url": "https://www.20minutos.es/nacional/borrasca-bruna-deja-un-herido-leve-canarias-se-activa-alerta-castilla-leon_7058718_0.html",
+"fecha": "2026-11-08T17:35+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Aterriza en Barcelona de urgencia un avión con un bebé que requería asistencia médica",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-08/barcelona-urgencia-avion-bebe-asistencia-medica/",
+"fecha": "2026-11-08T17:21+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Cien años entre pupitres y recuerdos: el colegio San Gumersindo, memoria viva de Consuegra",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/cien-anos-pupitres-recuerdos-colegio-san-gumersindo-20261108181506-nt.html",
+"fecha": "2026-11-08T17:16+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Reme Navarro, nutricionista: \"El mejor alimento para tus músculos no es ni el pollo ni el arroz. Este es una bomba nutricional para tus músculos\"",
+"url": "https://www.cope.es/actualidad/salud-bienestar/noticias/reme-navarro-nutricionista-mejor-alimento-tus-musculos-no-pollo-arroz-bomba-nutricional-tus-musculos-20261108_3469872.html",
+"fecha": "2026-11-08T17:15+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Urtasun tira de comodín para atacar a Feijóo: «Quiere abrir la puerta del Gobierno a los franquistas»",
+"url": "https://okdiario.com/espana/urtasun-tira-comodin-atacar-feijoo-quiere-abrir-puerta-del-gobierno-franquistas-20726705",
+"fecha": "2026-11-08T17:15+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Un incendio en el salón de un bajo mata a un hombre de 60 años y hiere a otras 11 personas en Guadarrama",
+"url": "https://www.abc.es/espana/madrid/incendio-salon-bajo-mata-hombre-anos-hiere-20261108175116-nt.html",
+"fecha": "2026-11-08T17:10+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Els candidats catalans al 29-N es veuen les cares en el primer debat electoral",
+"url": "https://www.ara.cat/politica/eleccions-generals/candidats-catalans-29-n-veuen-cares-debat-electoral_1_5904171.html",
+"fecha": "2026-11-08T17:10+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Guardia Civil investiga si el bebé hallado en un congelador fue trasladado a Allariz desde otra vivienda",
+"url": "https://www.eldebate.com/espana/galicia/20261108/guardia-civil-investiga-bebe-hallado-congelador-trasladado-allariz-desde-otra-vivienda_478614.html",
+"fecha": "2026-11-08T17:08+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Muere en Cantabria un cazador por un disparo fortuito de un compañero",
+"url": "https://www.elmundo.es/espana/2026/11/08/6af0abf7e9cf4a0d5f8b456e.html",
+"fecha": "2026-11-08T17:07+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Detenidos la mujer y el hijo de un hombre asesinado a tiros en una vivienda de Albacete",
+"url": "https://www.elmundo.es/espana/2026/11/08/6af0aa6de85ecea6308b457d.html",
+"fecha": "2026-11-08T17:04+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Piden 8 años de cárcel para un hombre acusado de violar a otro que quedó semiinconsciente tras consumir una bebida a la que el acusado lo invitó",
+"url": "https://www.abc.es/espana/galicia/piden-anos-carcel-hombre-acusado-violar-quedo-20261108180349-nt.html",
+"fecha": "2026-11-08T17:03+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "PP y Vox suman 202 escaños, aunque Sánchez recupera los dos que perdió entre Urda y la dimisión de Puente, según el sondeo de esta noche",
+"url": "https://www.elespanol.com/espana/politica/20261108/pp-vox-suman-escanos-sanchez-recupera-perdio-urda-dimision-puente-sondeo-noche/1003744450645_0.html",
+"fecha": "2026-11-08T17:03+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vox llena su acto en Alicante para lograr «el cambio que necesita España»",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261108/vox-llena-acto-alicante-lograr-cambio-necesita-espana_478694.html",
+"fecha": "2026-11-08T17:02+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Lamine Yamal reforma su mansión de 11 millones para adaptarla a los gustos de Inés García",
+"url": "https://www.eldebate.com/gente/20261108/lamine-yamal-reforma-mansion-11-millones-adaptarla-gustos-ines-garcia_478691.html",
+"fecha": "2026-11-08T16:58+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Misa en la catedral y dulces para celebrar la Almudena con amenaza de lluvia en Madrid",
+"url": "https://www.abc.es/espana/madrid/misa-catedral-dulces-celebrar-almudena-amenaza-lluvia-20261108172650-nt.html",
+"fecha": "2026-11-08T16:57+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Mónica García: «Mucho se habla del perro, pero somos las perras las que conseguimos que se hagan las cosas»",
+"url": "https://www.abc.es/espana/monica-garcia-habla-perro-perras-conseguimos-hagan-20261108172028-nt.html",
+"fecha": "2026-11-08T16:50+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Cinco detenidos por una riña tumultuaria por un balonazo a un coche de unos niños",
+"url": "https://www.abc.es/espana/comunidad-valenciana/cinco-detenidos-rina-tumultuaria-balonazo-coche-ninos-20261108174728-nt.html",
+"fecha": "2026-11-08T16:47+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Carrera contra la Violencia de Género une deporte y reivindicación en Salamanca",
+"url": "https://www.abc.es/espana/castilla-leon/carrera-violencia-genero-une-deporte-reivindicacion-salamanca-20261108174400-nt.html",
+"fecha": "2026-11-08T16:44+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Hacienda pide a Zapatero explicaciones sobre sus joyas y este se niega hasta que concluya el caso Plus Ultra",
+"url": "https://www.20minutos.es/nacional/hacienda-pide-zapatero-explicaciones-sobre-sus-joyas-este-se-niega-hasta-que-concluya-caso-plus-ultra_7058710_0.html",
+"fecha": "2026-11-08T16:41+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Rueda clausura el retiro de su equipo anunciando un plan para ofertar suelo industrial y levantar vivienda",
+"url": "https://www.abc.es/espana/galicia/rueda-clausura-retiro-equipo-anunciando-plan-ofertar-20261108174034-nt.html",
+"fecha": "2026-11-08T16:40+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Cristina Clemente, notaria: \"Aceptar una herencia a beneficio de inventario implica responder a las deudas del causante, pero solo hasta donde alcancen los bienes heredados, de manera que proteges tu patrimonio\"",
+"url": "https://www.cope.es/actualidad/economia/noticias/cristina-clemente-notaria-aceptar-herencia-beneficio-inventario-implica-responder-deudas-causante-alcancen-bienes-heredados-manera-proteges-patrimonio-20261108_3468681.html",
+"fecha": "2026-11-08T16:40+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La zarzuela, género lírico nacido en Madrid, ya es Bien de Interés Cultural",
+"url": "https://www.abc.es/espana/madrid/zarzuela-genero-lirico-nacido-madrid-bien-interes-20261108173949-nt.html",
+"fecha": "2026-11-08T16:39+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Emilio Delgado pide «motosierra para los de arriba» el 29-N",
+"url": "https://theobjective.com/espana/politica/2026-11-08/delgado-frente-amplio-motosierra-elecciones-del-29n/",
+"fecha": "2026-11-08T16:35+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La DOP Jumilla cumple 60 años con 20.000 hectáreas de viñedos y siendo \"un vino reconocido en el mundo entero\"",
+"url": "https://www.elespanol.com/espana/murcia/20261108/dop-jumilla-cumple-anos-hectareas-vinedos-vino-reconocido-mundo-entero/1003744450677_0.html",
+"fecha": "2026-11-08T16:34+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Sánchez critica que Feijóo no acepte entrevistas en TVE y Abascal \"vaya con Broncano con un público que él decide\"",
+"url": "https://www.20minutos.es/nacional/sanchez-critica-que-feijoo-no-acepte-entrevistas-tve-abascal-vaya-con-broncano-con-un-publico-que-decide_7058704_0.html",
+"fecha": "2026-11-08T16:32+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Está confirmado y es oficial: los mayores de 65 años ya pueden comer por 2,80 euros gracias a la tarjeta Oro de la Junta de Andalucía",
+"url": "https://okdiario.com/andalucia/esta-confirmado-oficial-mayores-65-anos-ya-pueden-comer-280-euros-gracias-tarjeta-oro-junta-andalucia-20716528",
+"fecha": "2026-11-08T16:26+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Ester Muñoz arropa a Vivas y llama a votar \"en defensa propia\" para evitar que Ceuta \"jamás vuelva a ser invadida\"",
+"url": "https://www.elespanol.com/espana/20261108/ester-munoz-arropa-vivas-llama-votar-defensa-propia-evitar-ceuta-jamas-vuelva-invadida/1003744450602_0.html",
+"fecha": "2026-11-08T16:24+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Álvarez de Toledo, contra Sánchez por el funeral de Urda: \"Para ir no hace falta ser católico, basta con ser decente\"",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-08/alvarez-de-toledo-contra-sanchez-por-el-funeral-de-urda-para-ir-no-hace-falta-ser-catolico-basta-con-ser-decente-7488315/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-08T16:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Aemet señala dónde lloverá este lunes 9 de noviembre en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261108/aemet-senala-donde-llovera-este-lunes-9-noviembre-comunidad-valenciana_478677.html",
+"fecha": "2026-11-08T16:20+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Alcaraz tumba a Shelton y logra por primera vez el Masters 1000 de París",
+"url": "https://theobjective.com/deportes/2026-11-08/alcaraz-tumba-shelton-masters-1000-paris/",
+"fecha": "2026-11-08T16:17+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Las imágenes de Ayuso, Almeida y Florentino Pérez en la NFL: sonrisas y balón en mano en el Bernabéu",
+"url": "https://www.libertaddigital.com/madrid/2026-11-08/las-imagenes-de-ayuso-almeida-y-florentino-perez-en-la-nfl-sonrisas-y-balon-en-mano-en-el-bernabeu-7488316/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-08T16:11+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El valenciano Avelino Corma, el científico más influyente de España",
+"url": "https://www.abc.es/espana/comunidad-valenciana/valenciano-avelino-corma-cientifico-influyente-espana-20261108171015-nt.html",
+"fecha": "2026-11-08T16:10+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Madrid celebra este lunes a su patrona, la Virgen de la Almudena, con una misa en la catedral",
+"url": "https://www.eldebate.com/espana/madrid/20261108/madrid-celebra-este-lunes-patrona-virgen-almudena-misa-catedral_478680.html",
+"fecha": "2026-11-08T16:10+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Cataluña recauda en impuestos relacionados con la vivienda siete veces lo que dedica a esta partida",
+"url": "https://www.abc.es/espana/cataluna/cataluna-recauda-impuestos-relacionados-vivienda-siete-veces-20261107170315-nt.html",
+"fecha": "2026-11-08T16:09+00:00"
+},
+{
 "medio": "COPE",
 "titulo": "La psicología dice que las personas que todavía escriben sus tareas en libretas y calendarios en vez de en el móvil tienen rasgos únicos y desarrollan ciertos beneficios mentales",
 "url": "https://www.cope.es/actualidad/salud-bienestar/noticias/psicologia-dice-personas-todavia-escriben-tareas-libretas-calendarios-vez-movil-rasgos-unicos-desarrollan-beneficios-mentales-20261108_3470677.html",
 "fecha": "2026-11-08T16:03+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Ángel Víctor Torres espera cerrar con la Xunta el traspaso de la AP-9",
+"url": "https://www.eldebate.com/espana/galicia/20261108/angel-victor-torres-espera-cerrar-xunta-traspaso-ap9_478668.html",
+"fecha": "2026-11-08T16:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Podemos dice que el Málaga «está secuestrado por una mafia» e insta a recuperarlo «bajo soberanía malagueña»",
+"url": "https://www.eldebate.com/espana/andalucia/malaga/20261108/podemos-dice-malaga-esta-secuestrado-mafia-e-insta-recuperarlo-bajo-soberania-malaguena_478678.html",
+"fecha": "2026-11-08T16:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vigilia de Jóvenes en la Catedral de la Almudena, en directo",
+"url": "https://www.eldebate.com/religion/20261108/vigilia-jovenes-catedral-almudena-directo_478084.html",
+"fecha": "2026-11-08T16:00+00:00"
 },
 {
 "medio": "The Objective",
@@ -112,6 +454,12 @@
 "titulo": "Colau acusa el PSOE de \"tremolar-li les cames\" quan s'ha d'enfrontar a les elits",
 "url": "https://www.ara.cat/politica/eleccions-generals/colau-acusa-psoe-tremolar-li-cames-s-d-enfrontar-elits_25_5904163.html",
 "fecha": "2026-11-08T15:17+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Emotivo homenaje en el Bernabéu a los héroes de los incendios y la tragedia ferroviaria de Urda",
+"url": "https://www.libertaddigital.com/madrid/2026-11-08/emotivo-homenaje-en-el-bernabeu-a-los-heroes-de-los-incendios-y-la-tragedia-ferroviaria-de-urda-7488301/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-08T15:14+00:00"
 },
 {
 "medio": "El Debate",
@@ -376,6 +724,12 @@
 "titulo": "Activado el nivel 1 de peligrosidad en el incendio forestal de Valverde del Fresno (Cáceres)",
 "url": "https://www.elconfidencial.com/espana/2026-11-08/incendio-forestal-valverde-fresno-1tna-1tps_4461286/",
 "fecha": "2026-11-08T13:35+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Sareb cede a la Generalitat un edificio okupado en Manresa y suspende el desalojo iniciado por los Mossos",
+"url": "https://www.elmundo.es/cataluna/2026/11/08/6af07889e85ecef1368b4579.html",
+"fecha": "2026-11-08T13:34+00:00"
 },
 {
 "medio": "OKdiario",
@@ -813,6 +1167,12 @@
 "medio": "El Español",
 "titulo": "Elecciones generales del 29-N, en directo | Siga en directo el acto de precampaña de Pedro Sánchez junto a Patxi López en Bilbao",
 "url": "https://www.elespanol.com/espana/20261108/elecciones-generales-directo-ultima-hora-pedro-sanchez-adelanto-electoral-actos-pp-psoe-vox-encuestas-sondeos-voto-correo-2026-partidos-espana/1003744450272_10.html",
+"fecha": "2026-11-08T11:28+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La llegada de pateras a las costas del Campo de Gibraltar sigue siendo una constante desde que comenzó la crisis en Ceuta",
+"url": "https://www.elmundo.es/andalucia/2026/11/08/6af059b121efa017118b457f.html",
 "fecha": "2026-11-08T11:28+00:00"
 },
 {
@@ -2419,6 +2779,12 @@
 },
 {
 "medio": "El Mundo",
+"titulo": "Ana ingresó en un centro de menores por agredir a su madre y hoy vuelven a vivir juntas: \"Los primeros días fueron los peores. Lloraba mucho\"",
+"url": "https://www.elmundo.es/madrid/2026/11/08/6acff4ede4d4d8be758b459c.html",
+"fecha": "2026-11-08T00:36+00:00"
+},
+{
+"medio": "El Mundo",
 "titulo": "Juan García, el mejor alumno de España en FP, llena un instituto de Murcia al que nadie quería ir: \"Le dijeron a mi madre que con un 9,4 era un error no ir a la universidad\"",
 "url": "https://www.elmundo.es/espana/2026/11/08/6ac77cf2fdddfff5068b45bc.html",
 "fecha": "2026-11-08T00:29+00:00"
@@ -2433,6 +2799,12 @@
 "medio": "El Mundo",
 "titulo": "El PP promete restaurar el Premio Nacional de Tauromaquia y dar más \"protección\" legal y más \"proyección\" económica a los toros",
 "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/08/6aef6c95e85eceea168b457d.html",
+"fecha": "2026-11-08T00:17+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Xavier García Albiol: \"Vamos a endurecer las leyes sobre okupación, inmigración ilegal e inseguridad como nos piden los ciudadanos\"",
+"url": "https://www.elmundo.es/cataluna/2026/11/08/6aef4e2be85ece804f8b45a3.html",
 "fecha": "2026-11-08T00:17+00:00"
 },
 {

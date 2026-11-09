@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-09T15:30+00:00",
+"actualizado": "2026-11-09T15:33+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -34,8 +34,8 @@
 "justicia"
 ],
 "comunes": [
-"nietos",
 "supremo",
+"nietos",
 "ley",
 "voto",
 "hijos",
@@ -139,8 +139,8 @@
 ],
 "comunes": [
 "puerto",
-"campamento",
 "ceuta",
+"campamento",
 "policia",
 "inmigrantes",
 "migrantes",
@@ -212,8 +212,8 @@
 "territorio"
 ],
 "comunes": [
-"aldama",
 "delcy",
+"aldama",
 "rodriguez",
 "psoe",
 "querella",
@@ -278,11 +278,11 @@
 "hasta": "2026-11-07T17:28+00:00",
 "temas": [],
 "comunes": [
-"cambiar",
-"miedo",
-"soto",
-"ayuso",
 "moncloa",
+"cambiar",
+"ayuso",
+"soto",
+"miedo",
 "real",
 "sanchez"
 ],
@@ -339,14 +339,14 @@
 "inmigracion"
 ],
 "comunes": [
-"sentido",
-"lema",
 "comun",
+"lema",
 "vox",
+"sentido",
 "campana",
-"remigracion",
+"nacional",
 "prioridad",
-"nacional"
+"desregulacion"
 ],
 "titulares": [
 {
@@ -402,13 +402,13 @@
 ],
 "comunes": [
 "zaragoza",
-"muere",
 "soldado",
+"muere",
 "instruccion",
 "militar",
+"gregorio",
 "maniobras",
-"san",
-"gregorio"
+"san"
 ],
 "titulares": [
 {
@@ -459,9 +459,9 @@
 ],
 "comunes": [
 "146",
-"civil",
 "guardia",
 "ceuta",
+"civil",
 "gobierno",
 "cifra",
 "invasion",
@@ -509,13 +509,13 @@
 "justicia"
 ],
 "comunes": [
-"vera",
 "pardo",
+"vera",
 "pide",
-"juicio",
 "anticorrupcion",
-"aldama",
+"juicio",
 "koldo",
+"aldama",
 "abalos"
 ],
 "titulares": [
@@ -557,14 +557,14 @@
 "hasta": "2026-11-07T13:56+00:00",
 "temas": [],
 "comunes": [
-"montero",
 "rufian",
 "votar",
 "psoe",
-"puede",
+"montero",
 "come",
 "memoria",
-"util"
+"puede",
+"voto"
 ],
 "titulares": [
 {
@@ -607,14 +607,14 @@
 "impuestos"
 ],
 "comunes": [
-"impuestos",
-"marquesa",
-"amigos",
-"colau",
 "freir",
+"marquesa",
+"colau",
+"amigos",
+"impuestos",
 "cayetana",
-"pijos",
-"vamos"
+"vamos",
+"pijos"
 ],
 "titulares": [
 {
@@ -655,10 +655,10 @@
 "hasta": "2026-11-08T11:28+00:00",
 "temas": [],
 "comunes": [
-"sanchez",
-"directo",
 "pedro",
+"directo",
 "precampana",
+"sanchez",
 "acto",
 "valencia"
 ],
@@ -701,9 +701,9 @@
 "hasta": "2026-11-08T17:55+00:00",
 "temas": [],
 "comunes": [
-"diez",
-"nucleo",
 "nacional",
+"nucleo",
+"diez",
 "detenidos",
 "libertad",
 "miembros",
@@ -751,9 +751,9 @@
 "impuestos"
 ],
 "comunes": [
-"tiktok",
 "abuso",
 "infantil",
+"tiktok",
 "sexual",
 "gobierno",
 "pide",
@@ -799,10 +799,10 @@
 "hasta": "2026-11-09T13:25+00:00",
 "temas": [],
 "comunes": [
-"organice",
-"propone",
 "psoe",
+"organice",
 "academia",
+"propone",
 "rtve",
 "television",
 "debate",
@@ -847,10 +847,10 @@
 "hasta": "2026-11-09T14:37+00:00",
 "temas": [],
 "comunes": [
-"frente",
-"amplio",
 "casa",
 "lema",
+"amplio",
+"frente",
 "voto"
 ],
 "titulares": [
@@ -895,14 +895,14 @@
 "justicia"
 ],
 "comunes": [
-"vera",
-"jessica",
 "pardo",
+"jessica",
+"vera",
 "rodriguez",
-"pide",
 "koldo",
+"pide",
 "anticorrupcion",
-"procesar"
+"garcia"
 ],
 "titulares": [
 {
@@ -939,8 +939,8 @@
 "comunes": [
 "oscar",
 "puente",
-"mitin",
-"urda"
+"urda",
+"mitin"
 ],
 "titulares": [
 {
@@ -977,14 +977,14 @@
 "territorio"
 ],
 "comunes": [
-"ninguna",
-"financiacion",
 "feijoo",
+"financiacion",
+"ninguna",
 "singular",
-"tendra",
-"pactada",
+"promete",
 "cataluna",
-"promete"
+"tendra",
+"pactada"
 ],
 "titulares": [
 {
@@ -1022,14 +1022,14 @@
 "territorio"
 ],
 "comunes": [
-"sanchez",
-"interministerial",
 "comision",
+"interministerial",
+"sanchez",
 "convocar",
 "urgencia",
+"martes",
 "canarias",
-"compromete",
-"martes"
+"compromete"
 ],
 "titulares": [
 {
@@ -1064,14 +1064,14 @@
 "hasta": "2026-11-08T13:31+00:00",
 "temas": [],
 "comunes": [
-"sustancia",
-"enclenque",
-"ibarra",
 "partido",
-"psoe",
 "rodriguez",
-"peso",
-"encogido"
+"psoe",
+"ibarra",
+"enclenque",
+"sustancia",
+"momentos",
+"peso"
 ],
 "titulares": [
 {
@@ -1108,12 +1108,12 @@
 "defensa"
 ],
 "comunes": [
-"mirar",
-"sanchez",
-"trenes",
-"menos",
-"trump",
 "feijoo",
+"menos",
+"mirar",
+"trump",
+"trenes",
+"sanchez",
 "pide"
 ],
 "titulares": [
@@ -1149,13 +1149,13 @@
 "hasta": "2026-11-09T04:00+00:00",
 "temas": [],
 "comunes": [
-"gratificaciones",
-"devuelvan",
 "adif",
 "feijoo",
+"gratificaciones",
+"devuelvan",
 "vomitivo",
-"directivos",
 "exige",
+"directivos",
 "cobrado"
 ],
 "titulares": [
@@ -1194,14 +1194,14 @@
 "territorio"
 ],
 "comunes": [
-"bruna",
-"lluvias",
 "borrasca",
-"llega",
+"lluvias",
+"bruna",
 "fuertes",
-"estas",
 "zonas",
-"esperan"
+"estas",
+"llega",
+"vientos"
 ],
 "titulares": [
 {
@@ -1236,12 +1236,12 @@
 "hasta": "2026-11-06T19:42+00:00",
 "temas": [],
 "comunes": [
-"sanchez",
-"valencia",
 "asesino",
-"traidor",
+"valencia",
+"sanchez",
 "gritos",
 "mitin",
+"traidor",
 "abucheos"
 ],
 "titulares": [
@@ -1274,13 +1274,13 @@
 ],
 "comunes": [
 "oficial",
-"abascal",
-"amordazar",
-"sanchez",
 "luto",
+"abascal",
+"sanchez",
 "avisa",
-"miedo",
-"afirma"
+"amordazar",
+"afirma",
+"mucho"
 ],
 "titulares": [
 {
@@ -1312,12 +1312,12 @@
 ],
 "comunes": [
 "casa",
+"asequible",
 "viviendas",
 "alquiler",
-"asequible",
-"nuevas",
-"442",
 "incorpora",
+"442",
+"nuevas",
 "portal"
 ],
 "titulares": [
@@ -1347,13 +1347,13 @@
 "hasta": "2026-11-07T09:17+00:00",
 "temas": [],
 "comunes": [
-"illa",
-"causa",
-"pcr",
 "falsa",
+"illa",
+"pcr",
+"causa",
 "alvise",
-"archivo",
-"supremo"
+"supremo",
+"archivo"
 ],
 "titulares": [
 {
@@ -1383,13 +1383,13 @@
 "temas": [],
 "comunes": [
 "funeral",
-"sanchez",
 "vaya",
-"victimas",
 "critica",
+"sanchez",
+"victimas",
 "papa",
-"conviene",
-"use"
+"use",
+"conviene"
 ],
 "titulares": [
 {
@@ -1422,11 +1422,11 @@
 ],
 "comunes": [
 "entrada",
-"inmigrantes",
 "barcelona",
+"inmigrantes",
 "irregular",
-"lucrarse",
-"personas"
+"personas",
+"lucrarse"
 ],
 "titulares": [
 {
@@ -1456,8 +1456,8 @@
 "temas": [],
 "comunes": [
 "yihadista",
-"reincidente",
 "barcelona",
+"reincidente",
 "detenido"
 ],
 "titulares": [
@@ -1488,8 +1488,8 @@
 "temas": [],
 "comunes": [
 "ultraderechista",
-"trasero",
 "patio",
+"trasero",
 "sanchez",
 "espana",
 "internacional"
@@ -1521,14 +1521,14 @@
 "hasta": "2026-11-07T14:05+00:00",
 "temas": [],
 "comunes": [
-"entrar",
 "carcel",
+"entrar",
 "tendran",
-"dinero",
-"trenes",
-"poder",
+"feijoo",
 "psoe",
-"feijoo"
+"trenes",
+"salir",
+"avisa"
 ],
 "titulares": [
 {
@@ -1557,14 +1557,14 @@
 "hasta": "2026-11-07T14:33+00:00",
 "temas": [],
 "comunes": [
-"mancha",
-"emergencia",
-"desactiva",
 "urda",
 "castilla",
+"mancha",
+"desactiva",
+"emergencia",
+"vagones",
 "retirada",
-"todos",
-"vagones"
+"todos"
 ],
 "titulares": [
 {
@@ -1595,13 +1595,13 @@
 "territorio"
 ],
 "comunes": [
-"almudena",
-"planes",
 "madrid",
 "puente",
+"almudena",
+"planes",
+"gastronomicos",
 "celebra",
-"nuevos",
-"gastronomicos"
+"nuevos"
 ],
 "titulares": [
 {
@@ -1630,14 +1630,14 @@
 "hasta": "2026-11-07T18:04+00:00",
 "temas": [],
 "comunes": [
-"kilos",
 "400",
 "pirotecnico",
-"almacen",
 "clandestino",
-"civil",
+"kilos",
+"almacen",
 "material",
-"valencia"
+"valencia",
+"guardia"
 ],
 "titulares": [
 {
@@ -1666,11 +1666,11 @@
 "hasta": "2026-11-07T19:25+00:00",
 "temas": [],
 "comunes": [
+"000",
+"euros",
 "mujer",
 "125",
 "robar",
-"000",
-"euros",
 "familiar",
 "luque",
 "detenida"
@@ -1702,11 +1702,11 @@
 "hasta": "2026-11-08T07:54+00:00",
 "temas": [],
 "comunes": [
-"macia",
-"tarradellas",
 "generalitat",
-"expresident",
+"tarradellas",
+"macia",
 "josep",
+"expresident",
 "hijo"
 ],
 "titulares": [
@@ -1737,12 +1737,12 @@
 "temas": [],
 "comunes": [
 "funeral",
-"victimas",
 "urda",
-"cordoba",
+"victimas",
 "accidente",
-"acogera",
+"cordoba",
 "catedral",
+"acogera",
 "ferroviario"
 ],
 "titulares": [
@@ -1772,13 +1772,13 @@
 "hasta": "2026-11-08T12:44+00:00",
 "temas": [],
 "comunes": [
-"blanca",
 "arma",
 "pelea",
+"blanca",
 "leon",
+"tres",
 "heridos",
-"baneza",
-"tres"
+"baneza"
 ],
 "titulares": [
 {
@@ -1807,14 +1807,14 @@
 "hasta": "2026-11-08T12:53+00:00",
 "temas": [],
 "comunes": [
-"montero",
-"acusa",
+"premeditado",
 "gobierno",
 "policial",
-"irene",
-"premeditado",
-"movilizaciones",
-"violencia"
+"violencia",
+"montero",
+"acusa",
+"aumento",
+"movilizaciones"
 ],
 "titulares": [
 {

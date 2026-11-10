@@ -1,23 +1,23 @@
 {
-"actualizado": "2026-11-10T11:04+00:00",
+"actualizado": "2026-11-10T13:25+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 115,
-"El Confidencial": 14,
+"COPE": 114,
+"El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
-"El Mundo": 52,
+"El Mundo": 51,
 "El País": 19,
 "Europa Press": 10,
-"infoLibre": 48,
+"infoLibre": 53,
 "La Vanguardia": 100,
-"Libertad Digital": 77,
+"Libertad Digital": 73,
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 28,
-"El Debate": 108,
+"20minutos": 33,
+"El Debate": 116,
 "La Razón": 15
 },
 "sin_feed": [
@@ -34,12 +34,12 @@
 ],
 "comunes": [
 "nietos",
-"hijos",
 "supremo",
-"ley",
+"hijos",
 "voto",
-"suspender",
+"ley",
 "nacionalizados",
+"suspender",
 "rechaza"
 ],
 "titulares": [
@@ -130,15 +130,15 @@
 ]
 },
 {
-"medios": 9,
+"medios": 10,
 "desde": "2026-11-09T18:28+00:00",
-"hasta": "2026-11-09T20:10+00:00",
+"hasta": "2026-11-10T07:53+00:00",
 "temas": [],
 "comunes": [
-"academia",
-"acepta",
 "debates",
 "television",
+"academia",
+"acepta",
 "electorales",
 "organice",
 "psoe"
@@ -175,6 +175,12 @@
 "fecha": "2026-11-09T18:49+00:00"
 },
 {
+"medio": "infoLibre",
+"titulo": "PSOE y PP acceden a que los debates electorales se celebren en la Academia de Televisión",
+"url": "https://www.infolibre.es/politica/psoe-pp-acceden-debates-electorales-celebren-academia-television_1_2239694.html",
+"fecha": "2026-11-10T07:53+00:00"
+},
+{
 "medio": "La Vanguardia",
 "titulo": "El PP acepta que los debates electorales sean organizados por la Academia de Televisión",
 "url": "https://www.lavanguardia.com/politica/20261109/11680272/pp-acepta-debates-electorales-sean-organizados-academia-television.html",
@@ -201,13 +207,231 @@
 ]
 },
 {
+"medios": 10,
+"desde": "2026-11-09T21:40+00:00",
+"hasta": "2026-11-10T11:31+00:00",
+"temas": [],
+"comunes": [
+"abascal",
+"entrevista",
+"revuelta",
+"broncano"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
+"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
+"fecha": "2026-11-10T10:14+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
+"url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
+"fecha": "2026-11-10T01:34+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
+"fecha": "2026-11-10T10:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
+"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
+"fecha": "2026-11-10T09:24+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Abascal en 'La Revuelta', elecciones en directo | El líder de Vox protagoniza una tensa entrevista con David Broncano en RTVE",
+"url": "https://www.elespanol.com/espana/20261109/abascal-revuelta-elecciones-directo-ultima-hora-entrevista-lider-vox-tve-pedro-sanchez-septima/1003744451641_10.html",
+"fecha": "2026-11-09T23:02+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Las mentiras de Abascal en 'La Revuelta'",
+"url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
+"fecha": "2026-11-10T10:31+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
+"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
+"fecha": "2026-11-10T08:59+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "La entrevista fallida de Broncano a Abascal se convierte en la más vista de 'La Revuelta'",
+"url": "https://www.infolibre.es/politica/entrevista-fallida-broncano-abascal-convierte-vista-revuelta_1_2239692.html",
+"fecha": "2026-11-10T08:15+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Santiago Abascal hoy en 'La Revuelta', última hora de la entrevista con Broncano en directo",
+"url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
+"fecha": "2026-11-09T22:30+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Visita de Abascal en ‘La Revuelta’, en directo: dónde ver la entrevista al líder de Vox, reacciones y última hora de las elecciones generales del 29-N en vivo online hoy",
+"url": "https://okdiario.com/espana/visita-abascal-revuelta-directo-que-hora-empieza-entrevista-reacciones-ultima-hora-elecciones-generales-del-29-n-actualidad-politica-hoy-vivo-online-20728621",
+"fecha": "2026-11-09T21:40+00:00"
+}
+]
+},
+{
+"medios": 9,
+"desde": "2026-11-08T08:21+00:00",
+"hasta": "2026-11-10T08:48+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"puerto",
+"campamento",
+"ceuta",
+"policia",
+"inmigrantes",
+"migrantes",
+"desaloja"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "La Policía inicia el desmantelamiento del campamento de inmigrantes del Puerto de Ceuta",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/desmantelan-campamento-migrantes-puerto-ceuta-1tna-1tps_4461175/",
+"fecha": "2026-11-08T08:43+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Policía desaloja por segundo día consecutivo el campamento de inmigrantes del puerto de Ceuta",
+"url": "https://www.eldebate.com/espana/20261109/policia-desaloja-segundo-dia-consecutivo-campamento-inmigrantes-puerto-ceuta_478807.html",
+"fecha": "2026-11-09T10:41+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La Policía empieza a desalojar el campamento de inmigrantes del puerto de Ceuta para trasladarlos al Tarajal",
+"url": "https://www.elespanol.com/espana/20261108/policia-empieza-desmantelar-campamento-inmigrantes-puerto-ceuta/1003744450509_0.html",
+"fecha": "2026-11-08T09:11+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Policía Nacional desmantela el campamento de migrantes del Puerto de Ceuta",
+"url": "https://www.elmundo.es/espana/2026/11/08/6af03dffe9cf4a8a4e8b456e.html",
+"fecha": "2026-11-08T09:16+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Comienza a desmantelarse el campamento de migrantes del Puerto de Ceuta",
+"url": "https://www.europapress.es/nacional/noticia-comienza-desmantelarse-campamento-migrantes-puerto-ceuta-20261108092122.html",
+"fecha": "2026-11-08T08:21+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La Policía desaloja por segundo día consecutivo el campamento de migrantes del puerto de Ceuta",
+"url": "https://www.larazon.es/espana/policia-desaloja-segundo-dia-consecutivo-campamento-migrantes-puerto-ceuta_202611096af19aadd3bddc0868aaec06.html",
+"fecha": "2026-11-09T10:04+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La policía empieza a desmantelar el campamento de migrantes del puerto de Ceuta",
+"url": "https://www.lavanguardia.com/politica/20261108/11679173/policia-empieza-desmantelar-campamento-migrantes-puerto-ceuta.html",
+"fecha": "2026-11-08T09:45+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Policía Nacional desaloja el campamento de inmigrantes irregulares en el puerto de Ceuta",
+"url": "https://www.libertaddigital.com/espana/2026-11-09/la-policia-nacional-desaloja-el-campamento-de-inmigrantes-irregulares-en-el-puerto-de-ceuta-7488468/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-09T09:51+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Policía desaloja el campamento de inmigrantes del puerto de Ceuta para cerrarlo",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-09/policia-campamento-inmigrantes-puerto-ceuta-cerrarlo/",
+"fecha": "2026-11-09T09:12+00:00"
+}
+]
+},
+{
+"medios": 9,
+"desde": "2026-11-10T08:45+00:00",
+"hasta": "2026-11-10T13:08+00:00",
+"temas": [],
+"comunes": [
+"oviedo",
+"policia",
+"herido",
+"explosion",
+"muere",
+"resulta",
+"mochila"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
+"url": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
+"fecha": "2026-11-10T10:53+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Un policía muerto y otro herido grave tras un tiroteo y una explosión en Oviedo",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/al-menos-un-policia-muerto-y-varios-heridos-en-un-tiroteo-y-una-explosion-en-oviedo_4461910/",
+"fecha": "2026-11-10T08:45+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Muere un policía y otro resulta herido grave en una explosión tras un tiroteo en Oviedo",
+"url": "https://www.eldebate.com/espana/20261110/muere-policia-otro-resulta-herido-grave-explosion-tiroteo-oviedo_479056.html",
+"fecha": "2026-11-10T08:57+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Esta es la imagen del hombre al que busca la Policía por matar a un agente con una mochila bomba en Oviedo",
+"url": "https://www.elespanol.com/espana/20261110/imagen-hombre-busca-policia-matar-policia-mochila-bomba-oviedo/1003744452229_0.html",
+"fecha": "2026-11-10T11:46+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
+"fecha": "2026-11-10T10:45+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+"url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
+"fecha": "2026-11-10T10:54+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Un policía nacional fallecido y otro herido grave por la explosión de un artefacto en Oviedo",
+"url": "https://www.europapress.es/asturias/noticia-policia-fallecido-otro-herido-grave-incidente-barrio-otero-20261110094857.html",
+"fecha": "2026-11-10T08:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Muere un policía nacional y otro pierde una pierna al explotar una mochila en Oviedo",
+"url": "https://www.libertaddigital.com/sucesos/2026-11-10/muere-un-policia-nacional-y-otro-pierde-una-pierna-tras-la-explosion-de-una-mochila-en-oviedo-7488892/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T09:08+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Muere un policía y otro pierde una pierna tras la explosión de un artefacto en Oviedo",
+"url": "https://theobjective.com/espana/2026-11-10/muere-policia-explosion-asturias/",
+"fecha": "2026-11-10T08:57+00:00"
+}
+]
+},
+{
 "medios": 8,
 "desde": "2026-11-09T06:51+00:00",
 "hasta": "2026-11-09T18:29+00:00",
 "temas": [],
 "comunes": [
-"academia",
 "organice",
+"academia",
 "psoe",
 "television",
 "propone",
@@ -268,74 +492,77 @@
 },
 {
 "medios": 8,
-"desde": "2026-11-08T08:43+00:00",
-"hasta": "2026-11-10T10:35+00:00",
+"desde": "2026-11-09T10:59+00:00",
+"hasta": "2026-11-09T21:26+00:00",
 "temas": [
-"inmigracion"
+"defensa",
+"territorio"
 ],
 "comunes": [
-"puerto",
-"policia",
-"ceuta",
-"campamento",
-"inmigrantes",
-"desaloja"
+"delcy",
+"aldama",
+"rodriguez",
+"psoe",
+"querella",
+"injurias",
+"financiacion",
+"vincularla"
 ],
 "titulares": [
 {
 "medio": "El Confidencial",
-"titulo": "La Policía inicia el desmantelamiento del campamento de inmigrantes del Puerto de Ceuta",
-"url": "https://www.elconfidencial.com/espana/2026-11-08/desmantelan-campamento-migrantes-puerto-ceuta-1tna-1tps_4461175/",
-"fecha": "2026-11-08T08:43+00:00"
+"titulo": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias al vincularla a la financiación del PSOE",
+"url": "https://www.elconfidencial.com/espana/2026-11-09/delcy-rodriguez-querella-aldama-injurias-1tps_4461602/",
+"fecha": "2026-11-09T11:54+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de inmigrantes del puerto de Ceuta",
-"url": "https://www.eldebate.com/espana/20261109/policia-desaloja-segundo-dia-consecutivo-campamento-inmigrantes-puerto-ceuta_478807.html",
-"fecha": "2026-11-09T10:41+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "La Policía empieza a desalojar el campamento de inmigrantes del puerto de Ceuta para trasladarlos al Tarajal",
-"url": "https://www.elespanol.com/espana/20261108/policia-empieza-desmantelar-campamento-inmigrantes-puerto-ceuta/1003744450509_0.html",
-"fecha": "2026-11-08T09:11+00:00"
+"titulo": "Delcy Rodríguez denuncia a Aldama por injurias al vincularla a la financiación del PSOE",
+"url": "https://www.eldebate.com/espana/20261109/delcy-rodriguez-denuncia-aldama-injurias-vincularla-financiacion-psoe_478822.html",
+"fecha": "2026-11-09T11:10+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "La Policía Nacional desmantela el campamento de migrantes del Puerto de Ceuta",
-"url": "https://www.elmundo.es/espana/2026/11/08/6af03dffe9cf4a8a4e8b456e.html",
-"fecha": "2026-11-08T09:16+00:00"
+"titulo": "Delcy Rodríguez se querella por injurias contra Aldama y niega la financiación ilegal del PSOE",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1a8eee85ece28168b4584.html",
+"fecha": "2026-11-09T11:31+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Delcy Rodríguez presenta una querella contra Víctor de Aldama por presuntas injurias con publicidad",
+"url": "https://www.europapress.es/nacional/noticia-delcy-rodriguez-presenta-querella-contra-victor-aldama-presuntas-injurias-publicidad-20261109115939.html",
+"fecha": "2026-11-09T10:59+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de migrantes del puerto de Ceuta",
-"url": "https://www.larazon.es/espana/policia-desaloja-segundo-dia-consecutivo-campamento-migrantes-puerto-ceuta_202611096af19aadd3bddc0868aaec06.html",
-"fecha": "2026-11-09T10:04+00:00"
+"titulo": "Delcy Rodríguez se querella contra Aldama por deslizar que Venezuela financió de manera ilegal al PSOE",
+"url": "https://www.larazon.es/espana/delcy-rodriguez-querella-aldama-decir-que-venezuela-financio-manera-ilegal-psoe_202611096af1bfaad3bddc0868ab1cfe.html",
+"fecha": "2026-11-09T12:42+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "La policía empieza a desmantelar el campamento de migrantes del puerto de Ceuta",
-"url": "https://www.lavanguardia.com/politica/20261108/11679173/policia-empieza-desmantelar-campamento-migrantes-puerto-ceuta.html",
-"fecha": "2026-11-08T09:45+00:00"
+"titulo": "Delcy Rodríguez se querella contra Aldama por injurias al vincularla a la financiación del PSOE",
+"url": "https://www.lavanguardia.com/politica/20261109/11680000/delcy-rodriguez-querella-aldama-injurias-vincularla-financiacion-psoe.html",
+"fecha": "2026-11-09T12:36+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La Policía Nacional desaloja el campamento de inmigrantes irregulares en el puerto de Ceuta",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/la-policia-nacional-desaloja-el-campamento-de-inmigrantes-irregulares-en-el-puerto-de-ceuta-7488468/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T09:51+00:00"
+"titulo": "Delcy Rodríguez se querella contra Aldama por el sobre con los cupos de 250 millones de PDVSA para financiar al PSOE",
+"url": "https://www.libertaddigital.com/espana/2026-11-09/delcy-rodriguez-se-querella-contra-aldama-por-el-sobre-con-los-cupos-de-250-millones-de-pdvsa-para-financiar-al-psoe-7488522/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-09T11:41+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Policía desaloja el campamento de inmigrantes del puerto de Ceuta para cerrarlo",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-09/policia-campamento-inmigrantes-puerto-ceuta-cerrarlo/",
-"fecha": "2026-11-09T09:12+00:00"
+"titulo": "Delcy se querella contra Aldama por vincularla con la presunta financiación ilegal del PSOE",
+"url": "https://theobjective.com/espana/tribunales/2026-11-09/delcy-almada-presunta-financiacion-ilegal-psoe/",
+"fecha": "2026-11-09T11:08+00:00"
 }
 ]
 },
 {
 "medios": 8,
 "desde": "2026-11-08T17:43+00:00",
-"hasta": "2026-11-10T10:37+00:00",
+"hasta": "2026-11-10T12:27+00:00",
 "temas": [
 "empleo",
 "sanidad",
@@ -343,8 +570,8 @@
 "territorio"
 ],
 "comunes": [
-"minimos",
 "servicios",
+"minimos",
 "huelga",
 "maquinistas"
 ],
@@ -400,72 +627,6 @@
 ]
 },
 {
-"medios": 8,
-"desde": "2026-11-09T22:42+00:00",
-"hasta": "2026-11-10T10:55+00:00",
-"temas": [],
-"comunes": [
-"broncano",
-"abascal",
-"entrevista",
-"mal",
-"paso",
-"izquierda",
-"revuelta",
-"presion"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
-"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
-"fecha": "2026-11-10T10:14+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
-"url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
-"fecha": "2026-11-10T01:34+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
-"fecha": "2026-11-10T10:55+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
-"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
-"fecha": "2026-11-10T09:24+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la \"presión inaceptable\" de la izquierda",
-"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
-"fecha": "2026-11-10T09:15+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Abascal justifica ante Broncano llamar \"dictador\" a Pedro Sánchez y asegura que \"asaltó todas las instituciones\"",
-"url": "https://www.eldiario.es/politica/abascal-justifica-broncano-llamar-dictador-pedro-sanchez-asegura-asalto-instituciones_1_13649863.html",
-"fecha": "2026-11-09T22:42+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
-"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
-"fecha": "2026-11-10T08:59+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Abascal asegura que Broncano sufrió presiones de la izquierda por entrevistarle",
-"url": "https://theobjective.com/espana/politica/2026-11-10/abascal-broncano-presiones-izquierda/",
-"fecha": "2026-11-10T09:41+00:00"
-}
-]
-},
-{
 "medios": 7,
 "desde": "2026-11-08T08:59+00:00",
 "hasta": "2026-11-08T14:13+00:00",
@@ -474,13 +635,13 @@
 ],
 "comunes": [
 "vox",
+"comun",
 "sentido",
 "lema",
-"comun",
 "campana",
-"nacional",
 "remigracion",
-"prioridad"
+"prioridad",
+"nacional"
 ],
 "titulares": [
 {
@@ -529,17 +690,18 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-07T13:07+00:00",
+"desde": "2026-11-07T13:42+00:00",
 "hasta": "2026-11-09T11:51+00:00",
 "temas": [],
 "comunes": [
-"cambiar",
 "ayuso",
-"real",
-"moncloa",
 "miedo",
+"cambiar",
+"moncloa",
+"real",
 "soto",
-"sanchez"
+"sanchez",
+"cambio"
 ],
 "titulares": [
 {
@@ -556,9 +718,9 @@
 },
 {
 "medio": "El Debate",
-"titulo": "Ayuso: «El PSOE tiene miedo a cambiar La Moncloa por Soto del Real»",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261107/ayuso-psoe-tiene-miedo-cambiar-moncloa-soto-real_478429.html",
-"fecha": "2026-11-07T13:07+00:00"
+"titulo": "Ayuso: «Intentan trasladar el miedo al cambio, cuando el miedo es a que esto siga como está»",
+"url": "https://www.eldebate.com/espana/madrid/20261109/ayuso-intentan-trasladar-miedo-cambio-cuando-miedo-esto-siga-como-esta_478800.html",
+"fecha": "2026-11-09T10:42+00:00"
 },
 {
 "medio": "El Mundo",
@@ -583,129 +745,6 @@
 "titulo": "Ayuso carga contra Sánchez: «Tiene miedo a cambiar La Moncloa por Soto del Real»",
 "url": "https://theobjective.com/espana/politica/2026-11-07/ayuso-sanchez-miedo-moncloa-soto-del-real/",
 "fecha": "2026-11-07T17:28+00:00"
-}
-]
-},
-{
-"medios": 7,
-"desde": "2026-11-09T11:08+00:00",
-"hasta": "2026-11-09T12:42+00:00",
-"temas": [
-"defensa",
-"territorio"
-],
-"comunes": [
-"psoe",
-"aldama",
-"delcy",
-"rodriguez",
-"querella",
-"financiacion",
-"vincularla",
-"injurias"
-],
-"titulares": [
-{
-"medio": "El Confidencial",
-"titulo": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/delcy-rodriguez-querella-aldama-injurias-1tps_4461602/",
-"fecha": "2026-11-09T11:54+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Delcy Rodríguez denuncia a Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.eldebate.com/espana/20261109/delcy-rodriguez-denuncia-aldama-injurias-vincularla-financiacion-psoe_478822.html",
-"fecha": "2026-11-09T11:10+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Delcy Rodríguez se querella por injurias contra Aldama y niega la financiación ilegal del PSOE",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a8eee85ece28168b4584.html",
-"fecha": "2026-11-09T11:31+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Delcy Rodríguez se querella contra Aldama por deslizar que Venezuela financió de manera ilegal al PSOE",
-"url": "https://www.larazon.es/espana/delcy-rodriguez-querella-aldama-decir-que-venezuela-financio-manera-ilegal-psoe_202611096af1bfaad3bddc0868ab1cfe.html",
-"fecha": "2026-11-09T12:42+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Delcy Rodríguez se querella contra Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.lavanguardia.com/politica/20261109/11680000/delcy-rodriguez-querella-aldama-injurias-vincularla-financiacion-psoe.html",
-"fecha": "2026-11-09T12:36+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Delcy Rodríguez se querella contra Aldama por el sobre con los cupos de 250 millones de PDVSA para financiar al PSOE",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/delcy-rodriguez-se-querella-contra-aldama-por-el-sobre-con-los-cupos-de-250-millones-de-pdvsa-para-financiar-al-psoe-7488522/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T11:41+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Delcy se querella contra Aldama por vincularla con la presunta financiación ilegal del PSOE",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/delcy-almada-presunta-financiacion-ilegal-psoe/",
-"fecha": "2026-11-09T11:08+00:00"
-}
-]
-},
-{
-"medios": 7,
-"desde": "2026-11-10T08:45+00:00",
-"hasta": "2026-11-10T10:54+00:00",
-"temas": [],
-"comunes": [
-"policia",
-"oviedo",
-"herido",
-"explosion",
-"muere",
-"resulta",
-"grave",
-"tiroteo"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
-"url": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
-"fecha": "2026-11-10T10:53+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Un policía muerto y otro herido grave tras un tiroteo y una explosión en Oviedo",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/al-menos-un-policia-muerto-y-varios-heridos-en-un-tiroteo-y-una-explosion-en-oviedo_4461910/",
-"fecha": "2026-11-10T08:45+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Muere un policía y otro resulta herido grave en una explosión tras un tiroteo en Oviedo",
-"url": "https://www.eldebate.com/espana/20261110/muere-policia-otro-resulta-herido-grave-explosion-tiroteo-oviedo_479056.html",
-"fecha": "2026-11-10T08:57+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
-"fecha": "2026-11-10T10:45+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
-"url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
-"fecha": "2026-11-10T10:54+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Un policía nacional fallecido y otro herido grave por la explosión de un artefacto en Oviedo",
-"url": "https://www.europapress.es/asturias/noticia-policia-fallecido-otro-herido-grave-incidente-barrio-otero-20261110094857.html",
-"fecha": "2026-11-10T08:48+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Muere un policía y otro pierde una pierna tras la explosión de un artefacto en Oviedo",
-"url": "https://theobjective.com/espana/2026-11-10/muere-policia-explosion-asturias/",
-"fecha": "2026-11-10T08:57+00:00"
 }
 ]
 },
@@ -774,11 +813,11 @@
 "territorio"
 ],
 "comunes": [
-"lema",
 "casa",
-"voto",
 "frente",
-"amplio"
+"voto",
+"amplio",
+"lema"
 ],
 "titulares": [
 {
@@ -821,107 +860,110 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-07T12:57+00:00",
-"hasta": "2026-11-10T10:54+00:00",
+"desde": "2026-11-10T09:21+00:00",
+"hasta": "2026-11-10T13:06+00:00",
 "temas": [
-"inmigracion",
-"empleo"
+"impuestos",
+"defensa"
 ],
 "comunes": [
-"urda",
-"funeral",
-"victimas",
-"catedral",
-"accidente",
-"misa",
-"toledo"
+"fiscalia",
+"chambers",
+"eeuu",
+"fergie",
+"extraditar",
+"propalestino",
+"multimillonario",
+"apoya"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Los reyes asisten a la misa funeral en Toledo por las 69 víctimas del accidente en Urda sin la presencia de Sánchez",
-"url": "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html",
-"fecha": "2026-11-10T05:17+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "La Catedral de Córdoba acogerá una misa funeral por las víctimas del accidente ferroviario de Urda",
-"url": "https://www.abc.es/espana/andalucia/cordoba/catedral-cordoba-acogera-misa-funeral-victimas-accidente-20261107135754-nts.html",
-"fecha": "2026-11-07T12:57+00:00"
-},
-{
 "medio": "El Debate",
-"titulo": "Pérez Llorca asistirá este martes al funeral en la Catedral de Toledo por las víctimas del accidente de Urda",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261109/perez-llorca-asistira-este-martes-funeral-catedral-toledo-victimas-accidente-urda_478964.html",
-"fecha": "2026-11-09T16:38+00:00"
+"titulo": "La Fiscalía apoya extraditar a EEUU al multimillonario propalestino 'Fergie' por beneficiar a Hamás",
+"url": "https://www.eldebate.com/espana/baleares/20261110/fiscalia-apoya-extraditar-eeuu-multimillonario-propalestino-fergie-beneficiar-hamas_479193.html",
+"fecha": "2026-11-10T11:46+00:00"
 },
 {
 "medio": "El País",
-"titulo": "El funeral por las víctimas de Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
-"url": "https://elpais.com/espana/2026-11-10/el-funeral-por-las-victimas-de-urda-reune-en-la-catedral-de-toledo-a-las-familias-con-los-reyes-el-gobierno-y-la-oposicion.html",
-"fecha": "2026-11-10T04:30+00:00"
+"titulo": "La Fiscalía se muestra a favor de extraditar a ‘Fergie’ Chambers a Estados Unidos",
+"url": "https://elpais.com/espana/2026-11-10/la-fiscalia-se-muestra-a-favor-de-extraditar-a-fergie-chambers-a-estados-unidos.html",
+"fecha": "2026-11-10T09:43+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "Última hora de las elecciones generales del 29-N en España | Misa funeral por las víctimas de Urda, huelga de Renfe y crisis de inmigración en El Hierro",
-"url": "https://okdiario.com/espana/ultima-hora-elecciones-generales-del-29-n-espana-misa-funeral-victimas-urda-huelga-renfe-crisis-inmigracion-hierro-20740063",
+"medio": "elDiario.es",
+"titulo": "La Fiscalía informa a favor de extraditar a EEUU a 'Fergie' Chambers y dice que no es una persecución política",
+"url": "https://www.eldiario.es/politica/fiscalia-informa-favor-extraditar-eeuu-activista-propalestino-fergie-chambers-dice-no-persecucion-politica_1_13651182.html",
+"fecha": "2026-11-10T09:28+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Fiscalía apoya la extradición del multimillonario propalestino Fergie Chambers a EEUU: ve probado que benefició a Hamás",
+"url": "https://www.europapress.es/nacional/noticia-fiscalia-apoya-extradicion-multimillonario-propalestino-fergie-chambers-eeuu-ve-probado-beneficio-hamas-20261110110036.html",
 "fecha": "2026-11-10T10:00+00:00"
 },
 {
-"medio": "The Objective",
-"titulo": "Tellado tacha de «cobarde» a Sánchez por no acudir al funeral de las víctimas de Urda",
-"url": "https://theobjective.com/espana/politica/2026-11-10/tellado-sanchez-funeral-victimas-urda/",
-"fecha": "2026-11-10T09:09+00:00"
+"medio": "infoLibre",
+"titulo": "La Fiscalía apoya extraditar a EEUU al filántropo Chambers Jr por delitos de terrorismo",
+"url": "https://www.infolibre.es/politica/fiscalia-apoya-extraditar-eeuu-filantropo-chambers-jr-delitos-terrorismo_1_2239711.html",
+"fecha": "2026-11-10T13:06+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La Fiscalía pide extraditar al multimillonario propalestino Fergie Chambers a EEUU: \"No es político\"",
+"url": "https://www.larazon.es/espana/fiscalia-pide-extraditar-multimillonario-propalestino-fergie-chambers-politico_202611106af2e2144196933d7ed7b8dd.html",
+"fecha": "2026-11-10T09:21+00:00"
 }
 ]
 },
 {
-"medios": 5,
-"desde": "2026-11-07T12:56+00:00",
-"hasta": "2026-11-08T11:06+00:00",
-"temas": [
-"impuestos"
-],
+"medios": 6,
+"desde": "2026-11-10T10:22+00:00",
+"hasta": "2026-11-10T13:06+00:00",
+"temas": [],
 "comunes": [
-"cayetana",
-"freir",
-"colau",
-"amigos",
-"impuestos",
-"marquesa",
-"pijos",
-"usted"
+"piedralaves",
+"riesgo",
+"avila",
+"presa",
+"desbordamiento",
+"evacuar"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Ada Colau: \"Marquesa Cayetana, a usted y a sus amigos pijos los vamos a freír a impuestos\"",
-"url": "https://www.20minutos.es/nacional/ada-colau-marquesa-cayetana-usted-sus-amigos-pijos-los-vamos-freir-impuestos_7058538_0.html",
-"fecha": "2026-11-07T15:51+00:00"
+"medio": "ABC",
+"titulo": "La presa de Piedralaves (Ávila), situada a kilómetro y medio del casco urbano, corre riesgo de colapso",
+"url": "https://www.abc.es/espana/castilla-leon/presa-piedralaves-avila-situada-kilometro-medio-casco-20261110135100-nt.html",
+"fecha": "2026-11-10T12:52+00:00"
 },
 {
-"medio": "elDiario.es",
-"titulo": "Colau se dirige a Cayetana Álvarez de Toledo: \"Marquesa, a usted y a sus amigos ricos les vamos a freir a impuestos\"",
-"url": "https://www.eldiario.es/catalunya/colau-dirige-cayetana-alvarez-toledo-marquesa-amigos-ricos-les-freir-impuestos_1_13646254.html",
-"fecha": "2026-11-07T13:25+00:00"
+"medio": "El Debate",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
+"fecha": "2026-11-10T10:35+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Colau: “Señora marquesa Cayetana. A usted y a sus amigos pijos les vamos a freír a impuestos”",
-"url": "https://www.lavanguardia.com/politica/20261107/11678754/colau-senora-marquesa-cayetana-amigos-pijos-les-freir-impuestos.html",
-"fecha": "2026-11-07T13:15+00:00"
+"medio": "El Mundo",
+"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+"fecha": "2026-11-10T10:38+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Colau amenaza con \"freír a impuestos\" a los \"amigos pijos\" de la \"marquesa Cayetana\"",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-08/colau-amenaza-con-freir-a-impuestos-a-los-amigos-pijos-de-la-marquesa-cayetana-7488271/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-08T11:06+00:00"
+"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:16+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
+"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
+"fecha": "2026-11-10T10:59+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Colau manda un mensaje a la «marquesa Cayetana»: «A usted y a sus amigos pijos les vamos a freír a impuestos»",
-"url": "https://theobjective.com/videos/espana/politica/2026-11-07/colau-mensaje-marquesa-cayetana-pijos-impuestos/",
-"fecha": "2026-11-07T12:56+00:00"
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
+"fecha": "2026-11-10T10:22+00:00"
 }
 ]
 },
@@ -931,14 +973,14 @@
 "hasta": "2026-11-08T17:55+00:00",
 "temas": [],
 "comunes": [
-"detenidos",
 "nucleo",
-"diez",
 "nacional",
+"detenidos",
+"diez",
 "libertad",
 "miembros",
 "pais",
-"pasaporte"
+"jueza"
 ],
 "titulares": [
 {
@@ -975,147 +1017,147 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-07T12:44+00:00",
-"hasta": "2026-11-09T06:42+00:00",
-"temas": [],
+"desde": "2026-11-09T15:36+00:00",
+"hasta": "2026-11-10T12:24+00:00",
+"temas": [
+"pensiones"
+],
 "comunes": [
-"rufian",
+"europa",
+"hijos",
+"iustitia",
+"nietos",
+"recurre",
 "votar",
-"psoe",
-"montero",
-"memoria",
-"util",
-"voto",
-"puede"
+"ley",
+"puedan"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Irene Montero y Rufián animan a votar con \"memoria\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-"url": "https://www.20minutos.es/nacional/irene-montero-rufian-animan-votar-con-memoria-obviando-voto-util-psoe-si-puede-te-come_7058511_0.html",
-"fecha": "2026-11-07T13:08+00:00"
+"titulo": "Iustitia Europa recurre al Supremo que voten los hijos de los nacionalizados por la ‘ley de nietos’ el 29N y pide apartar sus sufragios",
+"url": "https://www.20minutos.es/nacional/iustitia-europa-recurre-supremo-que-voten-los-hijos-los-nacionalizados-por-ley-nietos-29n-pide-apartar-sus-sufragios_7059276_0.html",
+"fecha": "2026-11-10T12:24+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Luis María Pardo, presidente de Iustitia Europa: \"Es una contradicción que puedan votar los hijos y no los padres. Habrá gente votando que igual no tiene derecho porque no son españoles ya que sus antecesores no lo son\"",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/luis-maria-pardo-presidente-iustitia-europa-contradiccion-puedan-votar-hijos-no-padres-habra-gente-votando-igual-no-derecho-no-son-espanoles-antecesores-no-son-20261109_3471700.html",
+"fecha": "2026-11-09T15:36+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Montero y Rufián animan a votar con \"memoria y conciencia\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-"url": "https://www.europapress.es/nacional/noticia-montero-rufian-animan-votar-memoria-conciencia-obviando-voto-util-psoe-si-puede-te-come-20261107134413.html",
-"fecha": "2026-11-07T12:44+00:00"
+"titulo": "Iustitia Europa recurre la no suspensión del voto a los hijos de la 'ley de nietos' y avisa de impacto en el escrutinio",
+"url": "https://www.europapress.es/nacional/noticia-iustitia-europa-recurre-no-suspension-voto-hijos-ley-nietos-avisa-impacto-escrutinio-20261110115823.html",
+"fecha": "2026-11-10T10:58+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "Montero y Rufián, tándem en Madrid: \"El voto útil es la manera del PSOE de obligarte a votar lo que no quieres\"",
-"url": "https://www.infolibre.es/politica/montero-rufian-tandem-madrid-voto-util-manera-psoe-obligarte-votar-no-quieres_1_2239683.html",
-"fecha": "2026-11-07T13:56+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Montero y Rufián animan a votar con \"memoria y conciencia\" y obviando el voto útil: \"El PSOE, si puede, te come\"",
-"url": "https://www.larazon.es/espana/montero-rufian-animan-votar-memoria-conciencia-obviando-voto-util-psoe-puede-come_202611076aef1e904196933d7ed45708.html",
-"fecha": "2026-11-07T12:50+00:00"
+"medio": "Libertad Digital",
+"titulo": "Iustitia Europa recurre la \"contradictoria\" decisión del Supremo de dejar votar a los hijos de los Nietos",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/iustitia-europa-recurre-la-contradictoria-decision-del-supremo-de-dejar-votar-a-los-hijos-de-los-nietos-7489010/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:27+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Montero y Rufián llaman a votar con «memoria y conciencia»: «El PSOE, si puede, te come»",
-"url": "https://theobjective.com/espana/politica/2026-11-07/montero-rufian-llaman-votar-memoria-conciencia-psoe-si-puede-te-come/",
-"fecha": "2026-11-07T12:59+00:00"
+"titulo": "Iustitia Europa recurre que los hijos de los beneficiados por la ‘ley de nietos’ puedan votar",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/iustitia-europa-hijos-ley-nietos/",
+"fecha": "2026-11-10T10:54+00:00"
 }
 ]
 },
 {
 "medios": 5,
-"desde": "2026-11-09T06:05+00:00",
-"hasta": "2026-11-09T21:54+00:00",
-"temas": [
-"impuestos"
-],
+"desde": "2026-11-09T16:38+00:00",
+"hasta": "2026-11-10T13:04+00:00",
+"temas": [],
 "comunes": [
-"abuso",
-"tiktok",
-"infantil",
-"sexual",
-"gobierno",
-"pide",
-"fiscalia",
-"espana"
+"victimas",
+"urda",
+"funeral",
+"toledo",
+"catedral",
+"accidente",
+"reyes",
+"sanchez"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
-"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
-"fecha": "2026-11-09T10:34+00:00"
+"titulo": "Los reyes asisten a la misa funeral en Toledo por las 69 víctimas del accidente en Urda sin la presencia de Sánchez",
+"url": "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html",
+"fecha": "2026-11-10T05:17+00:00"
 },
 {
-"medio": "El Confidencial",
-"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
-"fecha": "2026-11-09T10:30+00:00"
+"medio": "El Debate",
+"titulo": "Pérez Llorca asistirá este martes al funeral en la Catedral de Toledo por las víctimas del accidente de Urda",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261109/perez-llorca-asistira-este-martes-funeral-catedral-toledo-victimas-accidente-urda_478964.html",
+"fecha": "2026-11-09T16:38+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
-"fecha": "2026-11-09T11:48+00:00"
+"medio": "El País",
+"titulo": "El funeral por las víctimas de Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
+"url": "https://elpais.com/espana/2026-11-10/el-funeral-por-las-victimas-de-urda-reune-en-la-catedral-de-toledo-a-las-familias-con-los-reyes-el-gobierno-y-la-oposicion.html",
+"fecha": "2026-11-10T04:30+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "Más de 7.700 perfiles en español comparten material de abuso sexual infantil a la vista de todos en TikTok",
-"url": "https://www.infolibre.es/medios/7-700-perfiles-espanol-intercambian-piden-material-abuso-sexual-infantil-vista-tiktok_1_2239679.html",
-"fecha": "2026-11-09T06:05+00:00"
+"medio": "Libertad Digital",
+"titulo": "EN DIRECTO | Funeral por las víctimas de Urda desde la catedral de Toledo",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-10/en-directo-funeral-por-las-victimas-de-urda-desde-la-catedral-de-toledo-7489106/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T13:04+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
-"fecha": "2026-11-09T10:53+00:00"
+"titulo": "Ayuso cuestiona que Sánchez no acuda al funeral por las víctimas del accidente de Urda",
+"url": "https://theobjective.com/espana/politica/2026-11-10/ayuso-sanchez-funeral-urda/",
+"fecha": "2026-11-10T10:54+00:00"
 }
 ]
 },
 {
 "medios": 5,
-"desde": "2026-11-10T01:18+00:00",
-"hasta": "2026-11-10T09:48+00:00",
+"desde": "2026-11-10T12:59+00:00",
+"hasta": "2026-11-10T13:12+00:00",
 "temas": [],
 "comunes": [
-"temprana",
-"atencion",
-"ayudas",
-"terapias",
-"madrid",
-"euros",
-"000",
-"dara"
+"avala",
+"bolivia",
+"zapatero",
+"audiencia",
+"nacional",
+"negocios",
+"investigar",
+"trafico"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "La Comunidad dará ayudas de hasta 4.000 euros para terapia de atención temprana hasta los 12 años a partir de 2027",
-"url": "https://www.abc.es/espana/madrid/comunidad-dara-ayudas-4000-euros-terapia-atencion-20261109021809-nt.html",
-"fecha": "2026-11-10T01:18+00:00"
+"medio": "20minutos",
+"titulo": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
+"url": "https://www.20minutos.es/nacional/audiencia-avala-investigar-zapatero-por-presunto-trafico-influencias-bolivia_7059327_0.html",
+"fecha": "2026-11-10T13:02+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "Madrid concederá ayudas de hasta 4.000 euros para terapias de Atención Temprana a menores de hasta 12 años",
-"url": "https://www.eldebate.com/espana/madrid/20261110/madrid-concedera-ayudas-hasta-4000-euros-terapias-atencion-temprana-menores-hasta-12-anos_479060.html",
-"fecha": "2026-11-10T09:48+00:00"
+"medio": "El Mundo",
+"titulo": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af3166a21efa0f1788b4590.html",
+"fecha": "2026-11-10T13:11+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "Madrid dará 4.000 euros de ayuda para terapias a niños con discapacidad hasta los 12 años",
-"url": "https://www.libertaddigital.com/madrid/2026-11-10/madrid-dara-4-000-euros-de-ayuda-para-terapias-a-ninos-con-discapacidad-hasta-los-12-anos-7488652/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T04:00+00:00"
+"medio": "elDiario.es",
+"titulo": "La Audiencia Nacional avala que se investiguen los ingresos de Zapatero por negocios en Bolivia",
+"url": "https://www.eldiario.es/politica/audiencia-nacional-avala-investiguen-ingresos-zapatero-negocios-bolivia_1_13652466.html",
+"fecha": "2026-11-10T13:12+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "Madrid facilitará las nuevas ayudas para terapias de Atención Temprana hasta 12 años a través de los centros de tratamiento",
-"url": "https://okdiario.com/madrid/madrid-facilitara-nuevas-ayudas-terapias-atencion-temprana-hasta-12-anos-traves-centros-tratamiento-20740024",
-"fecha": "2026-11-10T03:40+00:00"
+"medio": "La Razón",
+"titulo": "La Audiencia Nacional avala investigar los negocios de Zapatero en Bolivia por presunto tráfico de influencias",
+"url": "https://www.larazon.es/espana/audiencia-abre-puerta-investigar-negocios-zapatero-bolivia-presunto-trafico-influencias_202611106af3157cea8d897997805f0d.html",
+"fecha": "2026-11-10T13:00+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Comunidad de Madrid facilitará a las familias las ayudas para terapias de atención temprana",
-"url": "https://theobjective.com/espana/madrid/2026-11-10/comunidad-madrid-familias-ayudas-atencion-temprana/",
-"fecha": "2026-11-10T09:37+00:00"
+"titulo": "La Audiencia Nacional avala que Calama investigue los negocios de Zapatero en Bolivia",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-negocios-zapatero-bolivia/",
+"fecha": "2026-11-10T12:59+00:00"
 }
 ]
 },
@@ -1128,13 +1170,13 @@
 "territorio"
 ],
 "comunes": [
+"comision",
 "interministerial",
 "sanchez",
-"comision",
 "convocar",
 "urgencia",
-"canarias",
 "martes",
+"canarias",
 "compromete"
 ],
 "titulares": [
@@ -1170,14 +1212,14 @@
 "hasta": "2026-11-08T11:28+00:00",
 "temas": [],
 "comunes": [
+"acto",
+"bilbao",
 "precampana",
 "sanchez",
-"bilbao",
-"acto",
 "directo",
 "pedro",
-"patxi",
-"lopez"
+"lopez",
+"patxi"
 ],
 "titulares": [
 {
@@ -1212,13 +1254,13 @@
 "hasta": "2026-11-08T13:31+00:00",
 "temas": [],
 "comunes": [
-"ibarra",
-"enclenque",
 "psoe",
-"rodriguez",
 "partido",
 "sustancia",
-"encogido",
+"enclenque",
+"ibarra",
+"rodriguez",
+"peso",
 "momentos"
 ],
 "titulares": [
@@ -1257,11 +1299,11 @@
 ],
 "comunes": [
 "feijoo",
-"trump",
-"sanchez",
-"menos",
 "mirar",
+"menos",
+"trump",
 "trenes",
+"sanchez",
 "pide"
 ],
 "titulares": [
@@ -1297,13 +1339,13 @@
 "hasta": "2026-11-09T04:00+00:00",
 "temas": [],
 "comunes": [
-"feijoo",
 "adif",
+"feijoo",
 "devuelvan",
 "gratificaciones",
 "vomitivo",
-"exige",
 "directivos",
+"exige",
 "cobrado"
 ],
 "titulares": [
@@ -1336,19 +1378,19 @@
 {
 "medios": 4,
 "desde": "2026-11-08T09:03+00:00",
-"hasta": "2026-11-10T09:38+00:00",
+"hasta": "2026-11-10T10:00+00:00",
 "temas": [
 "inmigracion",
 "empleo"
 ],
 "comunes": [
-"ultima",
 "hora",
+"ultima",
 "directo",
 "actualidad",
 "politica",
-"generales",
 "elecciones",
+"generales",
 "precampana"
 ],
 "titulares": [
@@ -1380,153 +1422,129 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-10T09:21+00:00",
-"hasta": "2026-11-10T10:00+00:00",
+"desde": "2026-11-09T10:30+00:00",
+"hasta": "2026-11-10T11:47+00:00",
 "temas": [
-"impuestos",
-"defensa"
+"impuestos"
 ],
 "comunes": [
-"chambers",
-"fergie",
+"gobierno",
+"tiktok",
+"abuso",
+"sexual",
+"infantil",
 "fiscalia",
-"eeuu",
-"extraditar",
-"multimillonario",
-"propalestino",
-"favor"
-],
-"titulares": [
-{
-"medio": "El País",
-"titulo": "La Fiscalía se muestra a favor de extraditar a ‘Fergie’ Chambers a Estados Unidos",
-"url": "https://elpais.com/espana/2026-11-10/la-fiscalia-se-muestra-a-favor-de-extraditar-a-fergie-chambers-a-estados-unidos.html",
-"fecha": "2026-11-10T09:43+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "La Fiscalía informa a favor de extraditar a EEUU a 'Fergie' Chambers y dice que no es una persecución política",
-"url": "https://www.eldiario.es/politica/fiscalia-informa-favor-extraditar-eeuu-activista-propalestino-fergie-chambers-dice-no-persecucion-politica_1_13651182.html",
-"fecha": "2026-11-10T09:28+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Fiscalía apoya la extradición del multimillonario propalestino Fergie Chambers a EEUU: ve probado que benefició a Hamás",
-"url": "https://www.europapress.es/nacional/noticia-fiscalia-apoya-extradicion-multimillonario-propalestino-fergie-chambers-eeuu-ve-probado-beneficio-hamas-20261110110036.html",
-"fecha": "2026-11-10T10:00+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "La Fiscalía pide extraditar al multimillonario propalestino Fergie Chambers a EEUU: \"No es político\"",
-"url": "https://www.larazon.es/espana/fiscalia-pide-extraditar-multimillonario-propalestino-fergie-chambers-politico_202611106af2e2144196933d7ed7b8dd.html",
-"fecha": "2026-11-10T09:21+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-07T11:43+00:00",
-"hasta": "2026-11-07T12:49+00:00",
-"temas": [
-"inmigracion",
-"territorio"
-],
-"comunes": [
-"entrada",
-"barcelona",
-"irregular",
-"inmigrantes",
-"lucrarse",
-"personas"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "50 detenidos en toda Barcelona de una presunta red de entrada irregular de inmigrantes a España",
-"url": "https://www.abc.es/espana/cataluna/detenidos-barcelona-presunta-red-entrada-irregular-migrantes-20261107124131-nt.html",
-"fecha": "2026-11-07T11:43+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Los Mossos detienen a 50 personas en Barcelona, 43 de ellos empresarios, por lucrarse con la entrada de migrantes",
-"url": "https://www.elmundo.es/cataluna/2026/11/07/6aef1c32fdddffad598b4582.html",
-"fecha": "2026-11-07T12:49+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Detenidas 50 personas en Cataluña por lucrarse con la entrada irregular de inmigrantes",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-07/detenidos-mossos-red-inmigracion-irregular-barcelona/",
-"fecha": "2026-11-07T11:48+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-07T12:33+00:00",
-"hasta": "2026-11-07T13:08+00:00",
-"temas": [],
-"comunes": [
-"trasero",
-"patio",
-"ultraderechista",
-"sanchez",
-"espana",
-"internacional"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "El PSOE recupera la campaña del miedo tras Urda: «No seremos el patio trasero de la internacional ultraderechista»",
-"url": "https://www.abc.es/espana/cataluna/psoe-recupera-campana-miedo-derecha-tras-urda-20261107130022-nt.html",
-"fecha": "2026-11-07T12:54+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Sánchez proclama que España no será \"el patio trasero de la internacional ultraderechista\": \"Este país no se gobierna desde Washington y Tel Aviv\"",
-"url": "https://www.elconfidencial.com/espana/2026-11-07/sanchez-proclama-que-espana-no-sera_4460996/",
-"fecha": "2026-11-07T13:08+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez asegura que “España no va a ser el patio trasero de la terminal ultraderechista”",
-"url": "https://www.lavanguardia.com/local/valencia/20261107/11678722/sanchez-asegura-espana-patio-trasero-terminal-ultraderechista.html",
-"fecha": "2026-11-07T12:33+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-07T12:32+00:00",
-"hasta": "2026-11-07T14:05+00:00",
-"temas": [],
-"comunes": [
-"entrar",
-"tendran",
-"carcel",
-"feijoo",
-"dinero",
-"psoe",
-"salir",
-"avisa"
+"pide",
+"espana"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Feijóo recuerda a las víctimas de Urda y avisa: \"Si el dinero de los trenes acabó en el PSOE tendrán que entrar en la cárcel\"",
-"url": "https://www.20minutos.es/nacional/feijoo-recuerda-victimas-urda-avisa-dinero-trenes-acabo-psoe-tendran-entrar-carcel_7058515_0.html",
-"fecha": "2026-11-07T14:05+00:00"
+"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
+"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
+"fecha": "2026-11-09T10:34+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
+"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
+"fecha": "2026-11-09T10:30+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "El bonus de Adif \"en mitad de los muertos\" sacude la campaña: \"¿Por qué no dimite Sánchez?\", \"tendrán que salir del poder para entrar en la cárcel\"",
-"url": "https://www.elmundo.es/espana/2026/11/07/6aef1a9efc6c83a47c8b4575.html",
-"fecha": "2026-11-07T13:03+00:00"
+"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
+"fecha": "2026-11-09T11:48+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
+"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
+"fecha": "2026-11-09T10:53+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-09T22:36+00:00",
+"hasta": "2026-11-10T12:09+00:00",
+"temas": [],
+"comunes": [
+"extraordinarios",
+"ministros",
+"consejos",
+"sociales",
+"sanchez",
+"medidas",
+"generales"
+],
+"titulares": [
+{
+"medio": "El País",
+"titulo": "Pedro Sánchez anuncia consejos de ministros extraordinarios antes del 29-N con medidas sociales: “Hay temas que se nos han quedado pendientes”",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-09/pedro-sanchez-anuncia-consejos-de-ministros-extraordinarios-antes-de-las-elecciones-con-medidas-sociales-hay-temas-que-se-nos-han-quedado-pendientes.html",
+"fecha": "2026-11-09T22:36+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Sánchez avanza que habrá Consejos de Ministros extraordinarios para aprobar medidas sociales antes de las generales",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-avanza-habra-consejos-ministros-extraordinarios-aprobar-medidas-sociales-antes-generales-20261110001609.html",
+"fecha": "2026-11-09T23:16+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Sánchez insistirá con los decretos sociales en Consejos de Ministros extraordinarios antes de las elecciones generales",
+"url": "https://www.larazon.es/espana/sanchez-insistira-decretos-sociales-consejos-ministros-extraordinarios-antes-elecciones-generales_202611106af2d0399a31a65adcd6b04a.html",
+"fecha": "2026-11-10T08:10+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Gobierno convocará dos Consejos de Ministros extraordinarios antes del 29-N",
+"url": "https://theobjective.com/espana/politica/2026-11-10/gobierno-consejos-ministros-extraordinarios-29-n/",
+"fecha": "2026-11-10T12:09+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-10T11:41+00:00",
+"hasta": "2026-11-10T13:18+00:00",
+"temas": [
+"igualdad"
+],
+"comunes": [
+"nacional",
+"gobierno",
+"prioridad",
+"constitucional",
+"lleva",
+"valenciana",
+"comunidad"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "El Gobierno lleva al Constitucional la prioridad nacional, el veto al burka y la protección a los nonatos en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/gobierno-lleva-constitucional-prioridad-nacional-veto-burka-proteccion-nonatos-comunidad-valenciana_479180.html",
+"fecha": "2026-11-10T11:57+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Feijóo avisa al PSOE: “Si han robado el dinero para la seguridad de los trenes, tendrán que salir del poder para entrar en la cárcel”",
-"url": "https://www.lavanguardia.com/politica/20261107/11678745/feijoo-avisa-psoe-han-robado-dinero-seguridad-trenes-tendran-salir-entrar-carcel.html",
-"fecha": "2026-11-07T12:32+00:00"
+"titulo": "El Gobierno lleva al Constitucional la prioridad nacional del PP y Vox en Valencia",
+"url": "https://www.lavanguardia.com/local/valencia/20261110/11680732/gobierno-lleva-constitucional-prioridad-nacional-pp-vox-valencia.html",
+"fecha": "2026-11-10T11:41+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El Gobierno lleva al Constitucional la prioridad nacional en la Comunidad Valenciana: «Contradice la igualdad básica»",
+"url": "https://okdiario.com/espana/gobierno-lleva-constitucional-prioridad-nacional-comunidad-valenciana-contradice-igualdad-basica-20743573",
+"fecha": "2026-11-10T13:04+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Gobierno recurre ante el Constitucional la «prioridad nacional» en la Comunitat Valenciana",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/gobierno-constitucional-prioridad-nacional-comunidad-valenciana/",
+"fecha": "2026-11-10T13:18+00:00"
 }
 ]
 },
@@ -1539,8 +1557,8 @@
 ],
 "comunes": [
 "guillem",
-"sanchez",
 "agullo",
+"sanchez",
 "reune"
 ],
 "titulares": [
@@ -1570,14 +1588,14 @@
 "hasta": "2026-11-07T19:25+00:00",
 "temas": [],
 "comunes": [
+"mujer",
 "euros",
+"125",
 "robar",
 "000",
-"125",
-"mujer",
-"detenida",
 "familiar",
-"luque"
+"luque",
+"detenida"
 ],
 "titulares": [
 {
@@ -1602,50 +1620,16 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-07T12:48+00:00",
-"hasta": "2026-11-08T07:54+00:00",
-"temas": [],
-"comunes": [
-"generalitat",
-"macia",
-"tarradellas",
-"expresident",
-"josep",
-"hijo"
-],
-"titulares": [
-{
-"medio": "Ara",
-"titulo": "Mor Josep Tarradellas Macià, fill de l'expresident de la Generalitat Josep Tarradellas",
-"url": "https://www.ara.cat/politica/mor-josep-tarradellas-macia-fill-l-expresident-generalitat-josep-tarradellas_25_5903111.html",
-"fecha": "2026-11-07T12:48+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Muere el científico Tarradellas Macià, hijo del expresidente de la Generalitat Tarradellas",
-"url": "https://www.eldebate.com/espana/20261108/muere-cientifico-tarradellas-macia-hijo-expresidente-generalitat-tarradellas_478546.html",
-"fecha": "2026-11-08T07:54+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Fallece Josep Tarradellas Macià, hijo del expresident de la Generalitat",
-"url": "https://www.lavanguardia.com/politica/20261107/11678831/fallece-josep-tarradellas-macia-hijo-expresident-generalitat.html",
-"fecha": "2026-11-07T18:53+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-07T17:33+00:00",
 "hasta": "2026-11-08T12:44+00:00",
 "temas": [],
 "comunes": [
+"pelea",
 "blanca",
 "arma",
-"pelea",
-"baneza",
 "tres",
 "leon",
+"baneza",
 "heridos"
 ],
 "titulares": [
@@ -1675,13 +1659,13 @@
 "hasta": "2026-11-08T12:53+00:00",
 "temas": [],
 "comunes": [
-"aumento",
-"violencia",
+"montero",
+"gobierno",
+"movilizaciones",
+"irene",
 "policial",
 "premeditado",
-"irene",
-"montero",
-"movilizaciones",
+"aumento",
 "acusa"
 ],
 "titulares": [
@@ -1713,11 +1697,11 @@
 "vivienda"
 ],
 "comunes": [
-"albacete",
 "hombre",
-"hijo",
-"arma",
+"albacete",
 "mujer",
+"arma",
+"hijo",
 "fuego",
 "vivienda"
 ],
@@ -1744,56 +1728,18 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-07T12:02+00:00",
-"hasta": "2026-11-08T17:08+00:00",
-"temas": [
-"vivienda"
-],
-"comunes": [
-"allariz",
-"bebe",
-"congelador",
-"hallazgo",
-"guardia",
-"vivienda",
-"civil",
-"investiga"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Investigan el hallazgo del cadáver de un bebé en un congelador de Allariz (Orense)",
-"url": "https://www.abc.es/espana/galicia/investigan-hallazgo-cadaver-bebe-congelador-allariz-orense-20261107130242-nt.html",
-"fecha": "2026-11-07T12:02+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La Guardia Civil investiga si el bebé hallado en un congelador fue trasladado a Allariz desde otra vivienda",
-"url": "https://www.eldebate.com/espana/galicia/20261108/guardia-civil-investiga-bebe-hallado-congelador-trasladado-allariz-desde-otra-vivienda_478614.html",
-"fecha": "2026-11-08T17:08+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La Guardia Civil investiga el hallazgo del cuerpo de un bebé en una vivienda de Allariz",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-07/investigacion-hallazgo-bebe-muerto-allariz-ourense/",
-"fecha": "2026-11-07T14:41+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-08T14:03+00:00",
 "hasta": "2026-11-08T17:35+00:00",
 "temas": [],
 "comunes": [
-"perras",
-"monica",
 "garcia",
+"monica",
+"perro",
 "mucho",
+"perras",
 "somos",
 "habla",
-"cosas",
-"perro"
+"cosas"
 ],
 "titulares": [
 {
@@ -1824,14 +1770,14 @@
 "defensa"
 ],
 "comunes": [
-"israel",
 "opositor",
+"israel",
 "eisenkot",
 "gadi",
 "formar",
-"presidente",
+"lider",
 "gobierno",
-"lider"
+"presidente"
 ],
 "titulares": [
 {
@@ -1863,14 +1809,14 @@
 "empleo"
 ],
 "comunes": [
-"agredir",
-"acogida",
-"ceuta",
-"centros",
 "reyertas",
+"agredir",
+"centros",
+"ceuta",
 "diez",
+"acogida",
 "menores",
-"detenidos"
+"personal"
 ],
 "titulares": [
 {
@@ -1901,11 +1847,11 @@
 "inmigracion"
 ],
 "comunes": [
-"cayucos",
 "tres",
-"hierro",
 "domingo",
+"hierro",
 "inmigrantes",
+"cayucos",
 "600",
 "llegan"
 ],
@@ -1936,14 +1882,14 @@
 "hasta": "2026-11-08T22:20+00:00",
 "temas": [],
 "comunes": [
-"haya",
 "adif",
 "niega",
+"cupula",
 "empresa",
 "bonus",
-"cupula",
-"aprobado",
-"directiva"
+"haya",
+"directiva",
+"aprobado"
 ],
 "titulares": [
 {
@@ -1965,7 +1911,112 @@
 "fecha": "2026-11-08T22:20+00:00"
 }
 ]
+},
+{
+"medios": 3,
+"desde": "2026-11-08T07:32+00:00",
+"hasta": "2026-11-09T09:06+00:00",
+"temas": [],
+"comunes": [
+"estas",
+"bruna",
+"borrasca",
+"lluvias",
+"zonas",
+"fuertes",
+"viento",
+"afectadas"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "La borrasca Bruna trae fuertes lluvias y viento en las próximas horas a buena parte de España: estas son las zonas en alerta",
+"url": "https://www.20minutos.es/nacional/borrasca-bruna-trae-fuertes-lluvias-viento-las-proximas-horas-buena-parte-espana-estas-son-las-zonas-alerta_7058731_0.html",
+"fecha": "2026-11-08T18:25+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Llega la borrasca Bruna a España y la Aemet avisa: lluvias muy fuertes, tormentas y rachas de viento de 100 km/h y estas serán las zonas más afectadas",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/llega-la-borrasca-bruna-a-espana-y-la-aemet-avisa-lluvias-muy-fuertes-tormentas-y-rachas-de-viento-intensas-y-estas-seran-las-zonas-mas-afectadas_4461160/",
+"fecha": "2026-11-08T07:32+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La borrasca Bruna deja varios avisos por lluvias y vientos en Andalucía: estas son las zonas más afectadas",
+"url": "https://www.eldebate.com/espana/andalucia/20261109/borrasca-brunadeja-varios-avisos-lluvias-vientos-andalucia-estas-son-zonas-afectadas_478758.html",
+"fecha": "2026-11-09T08:43+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-09T12:17+00:00",
+"hasta": "2026-11-09T12:30+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"gamarra",
+"melilla",
+"denuncia",
+"parlamentarios",
+"frontera",
+"expulsion",
+"nacionales"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Gamarra denuncia su expulsión y la de parlamentarios nacionales en la frontera de Melilla",
+"url": "https://www.eldebate.com/espana/20261109/gamarra-denuncia-expulsion-parlamentarios-nacionales-frontera-melilla_478870.html",
+"fecha": "2026-11-09T12:23+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Gamarra denuncia su expulsión y la de parlamentarios del PP en la frontera de Melilla y responsabiliza de ello a la Delegación del Gobierno y a Interior",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1bb8021efa0996a8b45a0.html",
+"fecha": "2026-11-09T12:30+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Gamarra denuncia su expulsión y la de parlamentarios nacionales en la frontera de Melilla",
+"url": "https://www.larazon.es/espana/gamarra-denuncia-expulsion-parlamentarios-nacionales-frontera-melilla_202611096af1b92b03bbf30bb045a560.html",
+"fecha": "2026-11-09T12:17+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-08T16:10+00:00",
+"hasta": "2026-11-09T12:44+00:00",
+"temas": [],
+"comunes": [
+"almudena",
+"catedral",
+"madrid",
+"misa"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Misa en la catedral y dulces para celebrar la Almudena con amenaza de lluvia en Madrid",
+"url": "https://www.abc.es/espana/madrid/misa-catedral-dulces-celebrar-almudena-amenaza-lluvia-20261108172650-nt.html",
+"fecha": "2026-11-08T16:57+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Madrid celebra este lunes a su patrona, la Virgen de la Almudena, con una misa en la catedral",
+"url": "https://www.eldebate.com/espana/madrid/20261108/madrid-celebra-este-lunes-patrona-virgen-almudena-misa-catedral_478680.html",
+"fecha": "2026-11-08T16:10+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Misa en la Catedral de la Almudena 2026 en Madrid: fecha, horarios de las celebraciones religiosas, programa de actos y cómo asistir",
+"url": "https://okdiario.com/madrid/misa-catedral-almudena-2026-madrid-fecha-horarios-celebraciones-religiosas-programa-actos-como-asistir-20692898",
+"fecha": "2026-11-09T07:00+00:00"
+}
+]
 }
 ],
-"recogidas": 1851
+"recogidas": 1957
 }

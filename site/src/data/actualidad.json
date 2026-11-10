@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-10T11:02+00:00",
+"actualizado": "2026-11-10T11:04+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
@@ -26,20 +26,20 @@
 ],
 "grupos": [
 {
-"medios": 15,
-"desde": "2026-11-07T11:03+00:00",
+"medios": 14,
+"desde": "2026-11-09T12:40+00:00",
 "hasta": "2026-11-10T10:52+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
-"hijos",
 "nietos",
+"hijos",
 "supremo",
 "ley",
 "voto",
-"nacionalizados",
 "suspender",
+"nacionalizados",
 "rechaza"
 ],
 "titulares": [
@@ -66,12 +66,6 @@
 "titulo": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la ley de nietos",
 "url": "https://www.eldebate.com/espana/20261109/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos_478883.html",
 "fecha": "2026-11-09T13:02+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "El Supremo no suspende el voto de los que se nacionalizaron españoles por ser hijos de los favorecidos por la 'ley de nietos'",
-"url": "https://www.elespanol.com/espana/tribunales/20261109/supremo-no-suspende-voto-nacionalizaron-espanoles-hijos-favorecidos-ley-nietos/1003744444287_0.html",
-"fecha": "2026-11-09T12:44+00:00"
 },
 {
 "medio": "El Mundo",
@@ -105,9 +99,9 @@
 },
 {
 "medio": "La Razón",
-"titulo": "El Supremo acelera el fallo que puede cambiar el voto de los hijos nacionalizados por la Ley de Nietos",
-"url": "https://www.larazon.es/espana/supremo-acelera-fallo-que-puede-cambiar-voto-hijos-nacionalizados-ley-nietos_202611076aeee74803bbf30bb04331e7.html",
-"fecha": "2026-11-07T11:03+00:00"
+"titulo": "El Supremo descarta suspender el derecho a voto a los hijos de nacionalizados por la \"ley de nietos\"",
+"url": "https://www.larazon.es/espana/supremo-descarta-suspender-derecho-voto-hijos-nacionalizados-ley-nietos_202611096af1c3b94196933d7ed6b4b5.html",
+"fecha": "2026-11-09T12:59+00:00"
 },
 {
 "medio": "La Vanguardia",
@@ -141,10 +135,10 @@
 "hasta": "2026-11-09T20:10+00:00",
 "temas": [],
 "comunes": [
-"television",
 "academia",
 "acepta",
 "debates",
+"television",
 "electorales",
 "organice",
 "psoe"
@@ -212,10 +206,10 @@
 "hasta": "2026-11-09T18:29+00:00",
 "temas": [],
 "comunes": [
-"organice",
 "academia",
-"television",
+"organice",
 "psoe",
+"television",
 "propone",
 "debate",
 "rtve",
@@ -282,8 +276,8 @@
 "comunes": [
 "puerto",
 "policia",
-"campamento",
 "ceuta",
+"campamento",
 "inmigrantes",
 "desaloja"
 ],
@@ -411,11 +405,11 @@
 "hasta": "2026-11-10T10:55+00:00",
 "temas": [],
 "comunes": [
-"abascal",
 "broncano",
+"abascal",
 "entrevista",
-"paso",
 "mal",
+"paso",
 "izquierda",
 "revuelta",
 "presion"
@@ -479,14 +473,14 @@
 "inmigracion"
 ],
 "comunes": [
-"comun",
 "vox",
-"lema",
 "sentido",
+"lema",
+"comun",
 "campana",
-"desregulacion",
-"prioridad",
-"nacional"
+"nacional",
+"remigracion",
+"prioridad"
 ],
 "titulares": [
 {
@@ -539,12 +533,12 @@
 "hasta": "2026-11-09T11:51+00:00",
 "temas": [],
 "comunes": [
-"moncloa",
 "cambiar",
-"miedo",
-"real",
-"soto",
 "ayuso",
+"real",
+"moncloa",
+"miedo",
+"soto",
 "sanchez"
 ],
 "titulares": [
@@ -601,12 +595,12 @@
 "territorio"
 ],
 "comunes": [
-"aldama",
 "psoe",
+"aldama",
 "delcy",
 "rodriguez",
-"financiacion",
 "querella",
+"financiacion",
 "vincularla",
 "injurias"
 ],
@@ -728,9 +722,9 @@
 "muere",
 "instruccion",
 "militar",
+"gregorio",
 "maniobras",
-"san",
-"gregorio"
+"san"
 ],
 "titulares": [
 {
@@ -780,11 +774,11 @@
 "territorio"
 ],
 "comunes": [
+"lema",
 "casa",
-"frente",
-"amplio",
 "voto",
-"lema"
+"frente",
+"amplio"
 ],
 "titulares": [
 {
@@ -834,11 +828,11 @@
 "empleo"
 ],
 "comunes": [
-"funeral",
 "urda",
+"funeral",
 "victimas",
-"accidente",
 "catedral",
+"accidente",
 "misa",
 "toledo"
 ],
@@ -889,14 +883,14 @@
 "impuestos"
 ],
 "comunes": [
-"impuestos",
 "cayetana",
-"marquesa",
-"amigos",
 "freir",
 "colau",
-"usted",
-"vamos"
+"amigos",
+"impuestos",
+"marquesa",
+"pijos",
+"usted"
 ],
 "titulares": [
 {
@@ -939,8 +933,8 @@
 "comunes": [
 "detenidos",
 "nucleo",
-"nacional",
 "diez",
+"nacional",
 "libertad",
 "miembros",
 "pais",
@@ -985,14 +979,14 @@
 "hasta": "2026-11-09T06:42+00:00",
 "temas": [],
 "comunes": [
-"montero",
 "rufian",
-"psoe",
 "votar",
+"psoe",
+"montero",
 "memoria",
-"puede",
+"util",
 "voto",
-"util"
+"puede"
 ],
 "titulares": [
 {
@@ -1036,9 +1030,9 @@
 ],
 "comunes": [
 "abuso",
-"sexual",
-"infantil",
 "tiktok",
+"infantil",
+"sexual",
 "gobierno",
 "pide",
 "fiscalia",
@@ -1083,11 +1077,11 @@
 "hasta": "2026-11-10T09:48+00:00",
 "temas": [],
 "comunes": [
+"temprana",
 "atencion",
 "ayudas",
-"temprana",
-"madrid",
 "terapias",
+"madrid",
 "euros",
 "000",
 "dara"
@@ -1134,13 +1128,13 @@
 "territorio"
 ],
 "comunes": [
-"comision",
 "interministerial",
 "sanchez",
+"comision",
 "convocar",
 "urgencia",
-"martes",
 "canarias",
+"martes",
 "compromete"
 ],
 "titulares": [
@@ -1176,10 +1170,10 @@
 "hasta": "2026-11-08T11:28+00:00",
 "temas": [],
 "comunes": [
-"acto",
-"bilbao",
-"sanchez",
 "precampana",
+"sanchez",
+"bilbao",
+"acto",
 "directo",
 "pedro",
 "patxi",
@@ -1218,14 +1212,14 @@
 "hasta": "2026-11-08T13:31+00:00",
 "temas": [],
 "comunes": [
-"rodriguez",
 "ibarra",
-"psoe",
-"partido",
 "enclenque",
+"psoe",
+"rodriguez",
+"partido",
 "sustancia",
-"momentos",
-"peso"
+"encogido",
+"momentos"
 ],
 "titulares": [
 {
@@ -1262,12 +1256,12 @@
 "defensa"
 ],
 "comunes": [
-"trump",
 "feijoo",
-"trenes",
+"trump",
 "sanchez",
 "menos",
 "mirar",
+"trenes",
 "pide"
 ],
 "titulares": [
@@ -1304,12 +1298,12 @@
 "temas": [],
 "comunes": [
 "feijoo",
+"adif",
 "devuelvan",
 "gratificaciones",
-"adif",
 "vomitivo",
-"directivos",
 "exige",
+"directivos",
 "cobrado"
 ],
 "titulares": [
@@ -1349,12 +1343,12 @@
 ],
 "comunes": [
 "ultima",
-"directo",
 "hora",
-"politica",
+"directo",
 "actualidad",
-"elecciones",
+"politica",
 "generales",
+"elecciones",
 "precampana"
 ],
 "titulares": [
@@ -1393,9 +1387,9 @@
 "defensa"
 ],
 "comunes": [
+"chambers",
 "fergie",
 "fiscalia",
-"chambers",
 "eeuu",
 "extraditar",
 "multimillonario",
@@ -1510,10 +1504,10 @@
 "tendran",
 "carcel",
 "feijoo",
+"dinero",
 "psoe",
-"avisa",
-"trenes",
-"salir"
+"salir",
+"avisa"
 ],
 "titulares": [
 {
@@ -1544,9 +1538,9 @@
 "energia"
 ],
 "comunes": [
-"agullo",
 "guillem",
 "sanchez",
+"agullo",
 "reune"
 ],
 "titulares": [
@@ -1576,14 +1570,14 @@
 "hasta": "2026-11-07T19:25+00:00",
 "temas": [],
 "comunes": [
-"125",
-"robar",
 "euros",
+"robar",
 "000",
+"125",
 "mujer",
+"detenida",
 "familiar",
-"luque",
-"detenida"
+"luque"
 ],
 "titulares": [
 {
@@ -1612,9 +1606,9 @@
 "hasta": "2026-11-08T07:54+00:00",
 "temas": [],
 "comunes": [
-"tarradellas",
-"macia",
 "generalitat",
+"macia",
+"tarradellas",
 "expresident",
 "josep",
 "hijo"
@@ -1646,13 +1640,13 @@
 "hasta": "2026-11-08T12:44+00:00",
 "temas": [],
 "comunes": [
-"arma",
 "blanca",
+"arma",
 "pelea",
-"leon",
-"heridos",
 "baneza",
-"tres"
+"tres",
+"leon",
+"heridos"
 ],
 "titulares": [
 {
@@ -1681,14 +1675,14 @@
 "hasta": "2026-11-08T12:53+00:00",
 "temas": [],
 "comunes": [
-"acusa",
-"montero",
-"violencia",
 "aumento",
-"movilizaciones",
+"violencia",
 "policial",
 "premeditado",
-"gobierno"
+"irene",
+"montero",
+"movilizaciones",
+"acusa"
 ],
 "titulares": [
 {
@@ -1721,10 +1715,10 @@
 "comunes": [
 "albacete",
 "hombre",
-"arma",
 "hijo",
-"fuego",
+"arma",
 "mujer",
+"fuego",
 "vivienda"
 ],
 "titulares": [
@@ -1756,14 +1750,14 @@
 "vivienda"
 ],
 "comunes": [
-"bebe",
 "allariz",
+"bebe",
 "congelador",
 "hallazgo",
+"guardia",
 "vivienda",
 "civil",
-"investiga",
-"guardia"
+"investiga"
 ],
 "titulares": [
 {
@@ -1792,13 +1786,13 @@
 "hasta": "2026-11-08T17:35+00:00",
 "temas": [],
 "comunes": [
-"mucho",
-"habla",
-"cosas",
-"garcia",
-"somos",
 "perras",
 "monica",
+"garcia",
+"mucho",
+"somos",
+"habla",
+"cosas",
 "perro"
 ],
 "titulares": [
@@ -1830,14 +1824,14 @@
 "defensa"
 ],
 "comunes": [
-"eisenkot",
 "israel",
 "opositor",
+"eisenkot",
 "gadi",
 "formar",
-"lider",
 "presidente",
-"gobierno"
+"gobierno",
+"lider"
 ],
 "titulares": [
 {
@@ -1869,13 +1863,13 @@
 "empleo"
 ],
 "comunes": [
-"centros",
-"reyertas",
 "agredir",
 "acogida",
+"ceuta",
+"centros",
+"reyertas",
 "diez",
 "menores",
-"ceuta",
 "detenidos"
 ],
 "titulares": [
@@ -1909,9 +1903,9 @@
 "comunes": [
 "cayucos",
 "tres",
+"hierro",
 "domingo",
 "inmigrantes",
-"hierro",
 "600",
 "llegan"
 ],
@@ -1942,11 +1936,11 @@
 "hasta": "2026-11-08T22:20+00:00",
 "temas": [],
 "comunes": [
+"haya",
+"adif",
+"niega",
 "empresa",
 "bonus",
-"niega",
-"adif",
-"haya",
 "cupula",
 "aprobado",
 "directiva"

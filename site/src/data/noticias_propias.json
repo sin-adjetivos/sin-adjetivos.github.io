@@ -1,5 +1,90 @@
 [
 {
+"id": "buenos-dias-10-noviembre-2026",
+"fecha": "2026-11-10",
+"tema": null,
+"etiqueta": "Buenos días",
+"claves": [],
+"titulo": "Buenos días. Es martes, 10 de noviembre, y quedan 19 días para votar",
+"entradilla": "El PP acepta que la Academia de Televisión organice los debates. Más de 200 personas desalojadas del puerto de Ceuta optaron por regresar a su país, según fuentes policiales citadas por dos medios. Mañana hay huelga general.",
+"imagen": null,
+"esencial": [],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Lo que está pasando"
+},
+{
+"tipo": "p",
+"html": "El PP aceptó que la Academia de Televisión organice el cara a cara y el debate entre varios candidatos, tras la propuesta del PSOE. Las fechas y el formato siguen pendientes de negociación.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup> <a href=\"/actualidad/psoe-propone-academia-television-debates-pp-rtve/\">Lo contamos aquí</a>."
+},
+{
+"tipo": "p",
+"html": "Más de 200 personas desalojadas del campamento del puerto de Ceuta optaron por regresar a su país de origen, según fuentes policiales citadas por El Debate y The Objective. Otras personas con la solicitud de asilo denegada también volvieron a Marruecos.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup> <a href=\"/actualidad/policia-desmantela-campamento-migrantes-puerto-ceuta/\">Lo contamos aquí</a>."
+},
+{
+"tipo": "h",
+"texto": "Lo que viene"
+},
+{
+"tipo": "p",
+"html": "El miércoles 11 de noviembre hay convocada una huelga general de 24 horas en toda España. Los sindicatos piden medidas sobre vivienda, salarios y servicios públicos.<sup class=\"ref\"><a href=\"#f5\">5</a></sup> <a href=\"/actualidad/huelga-general-11-noviembre-sindicatos-pp-vox/\">Qué se sabe de la convocatoria</a>."
+},
+{
+"tipo": "h",
+"texto": "Lo que no sabemos esta mañana"
+},
+{
+"tipo": "p",
+"html": "Las direcciones de campaña deben decidir las fechas y el formato de los debates. Tampoco está cerrada la participación de Podemos en el debate entre varios candidatos.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "No hemos localizado un recuento oficial de cuántas personas quedan en el campamento de Ceuta ni de cuántas optaron por regresar. El dato de más de 200 procede de fuentes policiales citadas por dos medios.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [],
+"sin_voz": "",
+"no_sabemos": [],
+"fuentes": [
+{
+"n": 1,
+"nombre": "COPE",
+"url": "https://www.cope.es/actualidad/espana/noticias/pp-acepta-debates-electorales-organice-academia-television-20261109_3471746.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "La Vanguardia, 10 de noviembre",
+"url": "https://www.lavanguardia.com/politica/20261110/11680314/psoe-pp-cierran-pulso-debates-electorales-mes-negociacion.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Debate, 10 de noviembre",
+"url": "https://www.eldebate.com/espana/20261110/200-inmigrantes-vuelven-marruecos-desalojo-campamento-puerto-ceuta_479052.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "The Objective, 10 de noviembre",
+"url": "https://theobjective.com/sociedad/2026-11-10/inmigrantes-ceuta-desalojo-puerto/",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Nuestra noticia sobre la huelga general",
+"url": "/actualidad/huelga-general-11-noviembre-sindicatos-pp-vox/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": "balance",
+"partido": null
+},
+{
 "id": "supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos",
 "fecha": "2026-11-09",
 "tema": null,
@@ -146,8 +231,8 @@
 "academia",
 "debate"
 ],
-"titulo": "El PSOE propone que la Academia de Televisión organice el cara a cara y el debate a cuatro si el PP no acepta uno en RTVE",
-"entradilla": "El PP mantiene su propuesta: cara a cara el 16 de noviembre en Mediaset y debate a cuatro el 26 en Atresmedia. A tres días de la campaña, no hay acuerdo.",
+"titulo": "El PP acepta que la Academia de Televisión organice los debates electorales",
+"entradilla": "El partido ha aceptado la fórmula que el PSOE planteó el 9 de noviembre. La Academia está dispuesta a organizar dos debates, pero faltan por negociar sus fechas y formatos.",
 "imagen": {
 "archivo": "edificio-rtve.jpg",
 "alt": "Vista aérea de un edificio de RTVE con el logotipo de la cadena.",
@@ -157,50 +242,38 @@
 "origen": "https://commons.wikimedia.org/wiki/File:Edificio_TVE.jpg"
 },
 "esencial": [
-"El comité electoral del PSOE propuso el lunes 9 de noviembre que la Academia de Televisión organice los dos debates, como en 2015 y 2019, si el PP no acepta que uno de ellos sea en RTVE.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
-"El PP propone un cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo el 16 de noviembre en Mediaset y un debate a cuatro el 26 en Atresmedia. Dice que no se moverá.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
-"El debate a cuatro incluiría también a Santiago Abascal, de Vox, y a Ada Colau, de Frente Amplio.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+"El PP ha aceptado que la Academia de Televisión organice el cara a cara y el debate entre varios candidatos, tras la propuesta del PSOE.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>",
+"Miguel Tellado llamó el lunes 9 de noviembre a Rebeca Torró para tratar la organización de los debates, según fuentes del PP.<sup class=\"ref\"><a href=\"#f6\">6</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>",
+"La Academia dijo que está disponible para organizar los encuentros y ofrecer una señal institucional a los medios.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
 ],
 "cuerpo": [
 {
 "tipo": "h",
-"texto": "Qué ha pasado"
+"texto": "Qué ha cambiado"
 },
 {
 "tipo": "p",
-"html": "El PSOE lo anunció en un comunicado. Pide que uno de los dos debates lo organice RTVE y el otro un grupo de comunicación privado. Si el PP no lo acepta, propone a todos los partidos y cadenas que la Academia de Televisión organice los dos, con una señal abierta para que cualquier medio pueda emitirlos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+"html": "El PSOE planteó el lunes 9 de noviembre que la Academia organizara el cara a cara y el debate entre varios candidatos. Esa tarde, el PP aceptó la fórmula y dijo estar dispuesto a negociar los términos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
 },
 {
 "tipo": "p",
-"html": "La Academia de las Ciencias y las Artes de Televisión la preside la periodista María Casado, según La Vanguardia. Ya organizó debates en las elecciones generales de 2015 y 2019.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "La Academia confirmó que está disponible para organizar los debates y ofrecer una señal institucional que puedan emitir los medios interesados.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
 },
 {
 "tipo": "h",
-"texto": "Qué propone el PP"
+"texto": "Fechas y participantes"
 },
 {
 "tipo": "p",
-"html": "El PP quiere los dos debates en cadenas privadas. Según elDiario.es, fuentes del partido confirmaron el viernes su negativa a RTVE con el argumento de que las privadas <span class=\"cita-linea\">«son capaces de garantizar la neutralidad»</span>.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "El PP había propuesto el 16 de noviembre para el cara a cara y el 26 para el debate a cuatro o cinco líderes. La Vanguardia informó el 10 de noviembre de que las direcciones de campaña decidirán las fechas y el formato.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 },
 {
 "tipo": "p",
-"html": "Según El Debate, el secretario general del PP, Miguel Tellado, envió cartas a Mediaset y Atresmedia para confirmar que Feijóo participará. El PP reprocha al PSOE que no haya confirmado si Sánchez irá al cara a cara en Telecinco.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
-},
-{
-"tipo": "h",
-"texto": "Cómo se ha llegado hasta aquí"
+"html": "La Vanguardia informó de que el cara a cara sería entre Pedro Sánchez y Alberto Núñez Feijóo, y que en el otro participarían Santiago Abascal y Ada Colau. La participación de Podemos seguía en discusión.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 },
 {
 "tipo": "p",
-"html": "El 8 de noviembre, fuentes del equipo de Sánchez dijeron a El Debate que querían negociar los dos debates juntos: <span class=\"cita-linea\">«O existen los dos o no existe ninguno»</span>. No descartaban que no se celebre ninguno.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
-},
-{
-"tipo": "p",
-"html": "El PSOE recuerda que dirigentes del PP como Juanma Moreno e Isabel Díaz Ayuso debaten en las televisiones públicas de sus comunidades, Canal Sur y Telemadrid.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
-},
-{
-"tipo": "p",
-"html": "El equipo de Feijóo no ha aclarado si aceptará la invitación del programa La Revuelta, al que Santiago Abascal acudía el lunes, según elDiario.es.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+"html": "Frente Amplio comunicó que está abierto a que la Academia organice el debate si eso facilita un acuerdo sobre las candidaturas participantes.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
 }
 ],
 "voces": [
@@ -217,18 +290,38 @@
 {
 "candidatura": "pp",
 "rotulo": "Justicia",
-"quien": "Fuentes del PP, citadas por El Debate, el 8 de noviembre",
-"cita": "Nuestra propuesta es la que es y nosotros no nos moveremos",
+"quien": "Fuentes del PP, citadas por El Español, 9 de noviembre",
+"cita": "en el ánimo de poder ofrecer a los españoles espacios en los que confrontar ideas y programas",
 "traduccion": null,
-"fuente": 4,
-"medio": "El Debate",
-"url": "https://www.eldebate.com/espana/20261108/psoe-condiciona-cara-cara-entre-sanchez-feijoo-haya-debate-cuatro-rtve-pp-reafirma-atresmedia_478230.html"
+"fuente": 7,
+"medio": "El Español",
+"url": "https://www.elespanol.com/espana/politica/20261109/pp-acepta-academia-television-organice-debates-electorales-veto-psoe-cadenas-privadas/1003744451834_0.html"
+},
+{
+"candidatura": "frente-amplio",
+"rotulo": "Justicia",
+"quien": "Comunicado de Frente Amplio, citado por El Español, 9 de noviembre",
+"cita": "si ello facilita que se pueda avanzar en el consenso de cara a contar con la participación de las cuatro formaciones políticas implicadas",
+"traduccion": null,
+"fuente": 7,
+"medio": "El Español",
+"url": "https://www.elespanol.com/espana/politica/20261109/pp-acepta-academia-television-organice-debates-electorales-veto-psoe-cadenas-privadas/1003744451834_0.html"
+},
+{
+"candidatura": null,
+"rotulo": "Institución",
+"quien": "Academia de Televisión, en un comunicado citado por 20minutos",
+"cita": "siempre estarán disponibles",
+"traduccion": null,
+"fuente": 9,
+"medio": "20minutos",
+"url": "https://www.20minutos.es/nacional/psoe-propone-que-academia-television-organice-cara-cara-debate-cuatro-si-pp-mantiene-su-veto-rtve_7058940_0.html"
 }
 ],
-"sin_voz": "No hemos localizado una respuesta del PP a la propuesta de la Academia, ni declaraciones de Vox o de Frente Amplio sobre ella.",
+"sin_voz": "No hemos localizado una declaración de Vox sobre el acuerdo. La participación de Podemos seguía pendiente en la información consultada.",
 "no_sabemos": [
-"Si el PP aceptará que organice los debates la Academia. No hemos localizado su respuesta.",
-"Si habrá cara a cara y debate a cuatro, y en qué cadenas.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+"Qué fechas tendrán los dos debates y cuál será su formato. Las direcciones de campaña deben decidirlo.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>",
+"Si Podemos participará en el debate entre varios candidatos.<sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 ],
 "fuentes": [
 {
@@ -254,9 +347,44 @@
 "nombre": "El Debate, 8 de noviembre",
 "url": "https://www.eldebate.com/espana/20261108/psoe-condiciona-cara-cara-entre-sanchez-feijoo-haya-debate-cuatro-rtve-pp-reafirma-atresmedia_478230.html",
 "tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "COPE",
+"url": "https://www.cope.es/actualidad/espana/noticias/pp-acepta-debates-electorales-organice-academia-television-20261109_3471746.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "El Debate",
+"url": "https://www.eldebate.com/espana/20261109/pp-acepta-debates-electorales-sean-organizados-academia-television_478996.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
+"nombre": "El Español",
+"url": "https://www.elespanol.com/espana/politica/20261109/pp-acepta-academia-television-organice-debates-electorales-veto-psoe-cadenas-privadas/1003744451834_0.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "La Vanguardia, 10 de noviembre",
+"url": "https://www.lavanguardia.com/politica/20261110/11680314/psoe-pp-cierran-pulso-debates-electorales-mes-negociacion.html",
+"tipo": "prensa"
+},
+{
+"n": 9,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/psoe-propone-que-academia-television-organice-cara-cara-debate-cuatro-si-pp-mantiene-su-veto-rtve_7058940_0.html",
+"tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-10",
+"texto": "Actualizamos la noticia tras la aceptación del PP de que la Academia de Televisión organice los debates. Las fechas y el formato siguen pendientes de negociación."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": null,
@@ -601,7 +729,7 @@
 "puerto"
 ],
 "titulo": "La Policía empieza a desmantelar el campamento de migrantes del puerto de Ceuta tras llegar las primeras órdenes de expulsión",
-"entradilla": "Quienes tienen rechazado el asilo son trasladados al centro de El Tarajal para devolverlos a Marruecos, y el resto, a otros centros de acogida. El lunes hubo un segundo desalojo, y el objetivo es cerrar el campamento.",
+"entradilla": "Quienes tienen rechazado el asilo son trasladados al centro de El Tarajal para devolverlos a Marruecos, y el resto, a otros centros de acogida. El martes, dos medios informaron de que más de 200 personas optaron por regresar a su país tras los desalojos.",
 "imagen": {
 "archivo": "puerto-ceuta.jpg",
 "alt": "Vista de Ceuta y de su puerto desde una colina.",
@@ -613,7 +741,7 @@
 "esencial": [
 "La Policía Nacional empezó el domingo 8 de noviembre a desmantelar el campamento de migrantes del puerto de Ceuta.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
 "Son personas que llegaron en la entrada masiva del 30 y el 31 de julio. A quienes ya tienen rechazado el asilo se les traslada al CATE de El Tarajal para expulsarlos a Marruecos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
-"El lunes 9 de noviembre hubo un segundo desalojo. El domingo salieron unas 450 personas, según El Mundo, y el objetivo es cerrar el campamento, según The Objective.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+"Más de 200 personas desalojadas entre el domingo 8 y el lunes 9 optaron por regresar a su país, según fuentes policiales citadas por El Debate y The Objective.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 ],
 "cuerpo": [
 {
@@ -642,7 +770,11 @@
 },
 {
 "tipo": "p",
-"html": "Los últimos datos oficiales, que dio la ministra de Inclusión, Elma Saiz, el 3 de noviembre, cifran en 14.818 las personas que habían vuelto a Marruecos desde la entrada masiva: 14.180 de forma voluntaria y 638 expulsadas. La Guardia Civil da otra cifra, que explicamos en la noticia enlazada más abajo.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+"html": "El martes 10 de noviembre, El Debate y The Objective informaron, citando fuentes policiales, de que más de 200 personas desalojadas entre el domingo y el lunes optaron por regresar voluntariamente a su país de origen. Otros que tenían denegada la solicitud de asilo también volvieron a Marruecos.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los últimos datos oficiales, que dio la ministra de Inclusión, Elma Saiz, el 3 de noviembre, cifran en 14.818 las personas que habían vuelto a Marruecos desde la entrada masiva: 14.180 de forma voluntaria y 638 expulsadas. La Guardia Civil da otra cifra, que explicamos en la noticia enlazada más abajo.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
 },
 {
 "tipo": "h",
@@ -654,14 +786,15 @@
 },
 {
 "tipo": "p",
-"html": "Lo que se sabe del informe sobre la entrada masiva y de la cifra de regresos está en <a href=\"/actualidad/policia-situa-dos-mandos-marroquies-frontera-ceuta/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+"html": "Lo que se sabe del informe sobre la entrada masiva y de la cifra de regresos está en <a href=\"/actualidad/policia-situa-dos-mandos-marroquies-frontera-ceuta/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f9\">9</a></sup>"
 }
 ],
 "voces": [],
 "sin_voz": "No hemos localizado declaraciones del Gobierno, de la ciudad de Ceuta, de organizaciones de ayuda ni de los partidos sobre el desmantelamiento.",
 "no_sabemos": [
 "Cuántas personas quedan en el campamento y cuántas serán expulsadas. No lo hemos localizado.",
-"Cuándo quedará cerrado del todo. Fuentes policiales dijeron el domingo que dependía de las plazas en otros centros.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+"Cuándo quedará cerrado del todo. Fuentes policiales dijeron el domingo que dependía de las plazas en otros centros.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"No hemos localizado un recuento oficial publicado de las más de 200 personas que, según fuentes policiales citadas por dos medios, optaron por regresar a su país.<sup class=\"ref\"><a href=\"#f7\">7</a></sup><sup class=\"ref\"><a href=\"#f8\">8</a></sup>"
 ],
 "fuentes": [
 {
@@ -702,6 +835,18 @@
 },
 {
 "n": 7,
+"nombre": "El Debate, 10 de noviembre",
+"url": "https://www.eldebate.com/espana/20261110/200-inmigrantes-vuelven-marruecos-desalojo-campamento-puerto-ceuta_479052.html",
+"tipo": "prensa"
+},
+{
+"n": 8,
+"nombre": "The Objective, 10 de noviembre",
+"url": "https://theobjective.com/sociedad/2026-11-10/inmigrantes-ceuta-desalojo-puerto/",
+"tipo": "prensa"
+},
+{
+"n": 9,
 "nombre": "Nuestra noticia sobre el informe de la Policía",
 "url": "/actualidad/policia-situa-dos-mandos-marroquies-frontera-ceuta/",
 "tipo": "propia"
@@ -711,6 +856,10 @@
 {
 "fecha": "2026-11-09",
 "texto": "Añadimos el segundo día de desalojo, la cifra de personas desalojadas el domingo según El Mundo y que el objetivo es cerrar el campamento."
+},
+{
+"fecha": "2026-11-10",
+"texto": "Añadimos que más de 200 personas desalojadas optaron por regresar a su país, según fuentes policiales citadas por El Debate y The Objective."
 }
 ],
 "borrador": false,

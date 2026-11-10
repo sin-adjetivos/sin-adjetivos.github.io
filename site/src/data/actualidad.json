@@ -1,23 +1,23 @@
 {
-"actualizado": "2026-11-10T13:25+00:00",
+"actualizado": "2026-11-10T20:30+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 114,
+"COPE": 118,
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 51,
 "El País": 19,
 "Europa Press": 10,
-"infoLibre": 53,
+"infoLibre": 54,
 "La Vanguardia": 100,
 "Libertad Digital": 73,
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 33,
-"El Debate": 116,
+"20minutos": 34,
+"El Debate": 117,
 "La Razón": 15
 },
 "sin_feed": [
@@ -26,20 +26,20 @@
 ],
 "grupos": [
 {
-"medios": 14,
+"medios": 15,
 "desde": "2026-11-09T12:40+00:00",
 "hasta": "2026-11-10T10:52+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
-"nietos",
 "supremo",
+"nietos",
 "hijos",
 "voto",
 "ley",
-"nacionalizados",
 "suspender",
+"nacionalizados",
 "rechaza"
 ],
 "titulares": [
@@ -66,6 +66,12 @@
 "titulo": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la ley de nietos",
 "url": "https://www.eldebate.com/espana/20261109/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos_478883.html",
 "fecha": "2026-11-09T13:02+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El Supremo no suspende el voto de los que se nacionalizaron españoles por ser hijos de los favorecidos por la 'ley de nietos'",
+"url": "https://www.elespanol.com/espana/tribunales/20261109/supremo-no-suspende-voto-nacionalizaron-espanoles-hijos-favorecidos-ley-nietos/1003744444287_0.html",
+"fecha": "2026-11-09T12:44+00:00"
 },
 {
 "medio": "El Mundo",
@@ -136,8 +142,8 @@
 "temas": [],
 "comunes": [
 "debates",
-"television",
 "academia",
+"television",
 "acepta",
 "electorales",
 "organice",
@@ -207,160 +213,84 @@
 ]
 },
 {
-"medios": 10,
-"desde": "2026-11-09T21:40+00:00",
-"hasta": "2026-11-10T11:31+00:00",
+"medios": 9,
+"desde": "2026-11-10T18:10+00:00",
+"hasta": "2026-11-10T19:31+00:00",
 "temas": [],
 "comunes": [
-"abascal",
-"entrevista",
-"revuelta",
-"broncano"
+"semilibertad",
+"anboto",
+"eta",
+"nacional",
+"audiencia",
+"exjefa",
+"revoca"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
-"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
-"fecha": "2026-11-10T10:14+00:00"
+"titulo": "La Audiencia Nacional vuelve a revocar la semilibertad de la exjefa de ETA 'Anboto' y anula los terceros grados de otros dos presos",
+"url": "https://www.20minutos.es/nacional/audiencia-nacional-vuelve-revocar-semilibertad-exjefa-eta-anboto-anula-los-terceros-grados-otros-dos-presos_7059515_0.html",
+"fecha": "2026-11-10T19:21+00:00"
 },
 {
 "medio": "ABC",
-"titulo": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
-"url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
-"fecha": "2026-11-10T01:34+00:00"
+"titulo": "La Audiencia Nacional tumba la segunda semilibertad concedida a la exjefa de ETA 'Anboto' por el Gobierno vasco en un año",
+"url": "https://www.abc.es/espana/pais-vasco/audiencia-nacional-tumba-segunda-semilibertad-concedida-exjefa-20261110193348-nt.html",
+"fecha": "2026-11-10T19:31+00:00"
 },
 {
 "medio": "El Confidencial",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
-"fecha": "2026-11-10T10:55+00:00"
+"titulo": "La Audiencia Nacional frena la semilibertad de Anboto y revoca el tercer grado de Olarra Guridi y Aguirregabiria",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/la-audiencia-nacional-frena-la-semilibertad-de-anboto-y-revoca-el-tercer-grado-de-olarra-guridi-y-aguirregabiria_4462517/",
+"fecha": "2026-11-10T18:10+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
-"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
-"fecha": "2026-11-10T09:24+00:00"
+"titulo": "La Audiencia Nacional revoca la semilibertad de la exjefa de ETA 'Anboto' y los terceros grados de otros dos etarras",
+"url": "https://www.eldebate.com/espana/20261110/audiencia-nacional-revoca-semilibertad-exjefa-eta-anboto-terceros-grados-otros-dos-etarras_479454.html",
+"fecha": "2026-11-10T18:27+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Abascal en 'La Revuelta', elecciones en directo | El líder de Vox protagoniza una tensa entrevista con David Broncano en RTVE",
-"url": "https://www.elespanol.com/espana/20261109/abascal-revuelta-elecciones-directo-ultima-hora-entrevista-lider-vox-tve-pedro-sanchez-septima/1003744451641_10.html",
-"fecha": "2026-11-09T23:02+00:00"
+"titulo": "El juez revoca por segunda vez la semilibertad de la jefa de ETA 'Anboto' y el tercer grado a un etarra condenado a 2.459 años",
+"url": "https://www.elespanol.com/espana/tribunales/20261110/juez-revoca-segunda-vez-semilibertad-jefa-eta-anboto-tercer-grado-etarra-condenado-mil-anos/1003744453126_0.html",
+"fecha": "2026-11-10T18:31+00:00"
 },
 {
-"medio": "elDiario.es",
-"titulo": "Las mentiras de Abascal en 'La Revuelta'",
-"url": "https://www.eldiario.es/politica/mentiras-abascal-revuelta_1_13651203.html",
-"fecha": "2026-11-10T10:31+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
-"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
-"fecha": "2026-11-10T08:59+00:00"
-},
-{
-"medio": "infoLibre",
-"titulo": "La entrevista fallida de Broncano a Abascal se convierte en la más vista de 'La Revuelta'",
-"url": "https://www.infolibre.es/politica/entrevista-fallida-broncano-abascal-convierte-vista-revuelta_1_2239692.html",
-"fecha": "2026-11-10T08:15+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Santiago Abascal hoy en 'La Revuelta', última hora de la entrevista con Broncano en directo",
-"url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
-"fecha": "2026-11-09T22:30+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Visita de Abascal en ‘La Revuelta’, en directo: dónde ver la entrevista al líder de Vox, reacciones y última hora de las elecciones generales del 29-N en vivo online hoy",
-"url": "https://okdiario.com/espana/visita-abascal-revuelta-directo-que-hora-empieza-entrevista-reacciones-ultima-hora-elecciones-generales-del-29-n-actualidad-politica-hoy-vivo-online-20728621",
-"fecha": "2026-11-09T21:40+00:00"
-}
-]
-},
-{
-"medios": 9,
-"desde": "2026-11-08T08:21+00:00",
-"hasta": "2026-11-10T08:48+00:00",
-"temas": [
-"inmigracion"
-],
-"comunes": [
-"puerto",
-"campamento",
-"ceuta",
-"policia",
-"inmigrantes",
-"migrantes",
-"desaloja"
-],
-"titulares": [
-{
-"medio": "El Confidencial",
-"titulo": "La Policía inicia el desmantelamiento del campamento de inmigrantes del Puerto de Ceuta",
-"url": "https://www.elconfidencial.com/espana/2026-11-08/desmantelan-campamento-migrantes-puerto-ceuta-1tna-1tps_4461175/",
-"fecha": "2026-11-08T08:43+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de inmigrantes del puerto de Ceuta",
-"url": "https://www.eldebate.com/espana/20261109/policia-desaloja-segundo-dia-consecutivo-campamento-inmigrantes-puerto-ceuta_478807.html",
-"fecha": "2026-11-09T10:41+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "La Policía empieza a desalojar el campamento de inmigrantes del puerto de Ceuta para trasladarlos al Tarajal",
-"url": "https://www.elespanol.com/espana/20261108/policia-empieza-desmantelar-campamento-inmigrantes-puerto-ceuta/1003744450509_0.html",
-"fecha": "2026-11-08T09:11+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "La Policía Nacional desmantela el campamento de migrantes del Puerto de Ceuta",
-"url": "https://www.elmundo.es/espana/2026/11/08/6af03dffe9cf4a8a4e8b456e.html",
-"fecha": "2026-11-08T09:16+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Comienza a desmantelarse el campamento de migrantes del Puerto de Ceuta",
-"url": "https://www.europapress.es/nacional/noticia-comienza-desmantelarse-campamento-migrantes-puerto-ceuta-20261108092122.html",
-"fecha": "2026-11-08T08:21+00:00"
+"medio": "El País",
+"titulo": "El juez revoca el régimen de semilibertad de la exjefa de ETA Anboto",
+"url": "https://elpais.com/espana/2026-11-10/el-juez-revoca-el-regimen-de-semilibertad-de-la-exjefa-de-eta-anboto.html",
+"fecha": "2026-11-10T19:15+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de migrantes del puerto de Ceuta",
-"url": "https://www.larazon.es/espana/policia-desaloja-segundo-dia-consecutivo-campamento-migrantes-puerto-ceuta_202611096af19aadd3bddc0868aaec06.html",
-"fecha": "2026-11-09T10:04+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "La policía empieza a desmantelar el campamento de migrantes del puerto de Ceuta",
-"url": "https://www.lavanguardia.com/politica/20261108/11679173/policia-empieza-desmantelar-campamento-migrantes-puerto-ceuta.html",
-"fecha": "2026-11-08T09:45+00:00"
+"titulo": "La Audiencia Nacional vuelve a frenar la semilibertad de la exjefa de ETA \"Anboto\"",
+"url": "https://www.larazon.es/espana/audiencia-nacional-vuelve-frenar-semilibertad-exjefa-eta-anboto_202611106af3621903bbf30bb0475a12.html",
+"fecha": "2026-11-10T18:27+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La Policía Nacional desaloja el campamento de inmigrantes irregulares en el puerto de Ceuta",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/la-policia-nacional-desaloja-el-campamento-de-inmigrantes-irregulares-en-el-puerto-de-ceuta-7488468/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T09:51+00:00"
+"titulo": "La Audiencia Nacional revoca la semilibertad de la exjefa de ETA Anboto y otros dos terroristas",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/la-audiencia-nacional-revoca-la-semilibertad-de-la-exjefa-de-eta-anboto-y-otros-dos-terroristas-7489378/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T18:55+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Policía desaloja el campamento de inmigrantes del puerto de Ceuta para cerrarlo",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-09/policia-campamento-inmigrantes-puerto-ceuta-cerrarlo/",
-"fecha": "2026-11-09T09:12+00:00"
+"titulo": "La Audiencia Nacional vuelve a revocar la semilibertad de la exjefa de ETA Anboto",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-revocar-semilibertad-eta-anboto/",
+"fecha": "2026-11-10T18:44+00:00"
 }
 ]
 },
 {
 "medios": 9,
 "desde": "2026-11-10T08:45+00:00",
-"hasta": "2026-11-10T13:08+00:00",
+"hasta": "2026-11-10T19:59+00:00",
 "temas": [],
 "comunes": [
-"oviedo",
 "policia",
+"oviedo",
 "herido",
 "explosion",
 "muere",
@@ -430,8 +360,8 @@
 "hasta": "2026-11-09T18:29+00:00",
 "temas": [],
 "comunes": [
-"organice",
 "academia",
+"organice",
 "psoe",
 "television",
 "propone",
@@ -492,77 +422,74 @@
 },
 {
 "medios": 8,
-"desde": "2026-11-09T10:59+00:00",
-"hasta": "2026-11-09T21:26+00:00",
+"desde": "2026-11-08T08:43+00:00",
+"hasta": "2026-11-10T08:48+00:00",
 "temas": [
-"defensa",
-"territorio"
+"inmigracion"
 ],
 "comunes": [
-"delcy",
-"aldama",
-"rodriguez",
-"psoe",
-"querella",
-"injurias",
-"financiacion",
-"vincularla"
+"ceuta",
+"policia",
+"campamento",
+"puerto",
+"inmigrantes",
+"desaloja"
 ],
 "titulares": [
 {
 "medio": "El Confidencial",
-"titulo": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/delcy-rodriguez-querella-aldama-injurias-1tps_4461602/",
-"fecha": "2026-11-09T11:54+00:00"
+"titulo": "La Policía inicia el desmantelamiento del campamento de inmigrantes del Puerto de Ceuta",
+"url": "https://www.elconfidencial.com/espana/2026-11-08/desmantelan-campamento-migrantes-puerto-ceuta-1tna-1tps_4461175/",
+"fecha": "2026-11-08T08:43+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Delcy Rodríguez denuncia a Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.eldebate.com/espana/20261109/delcy-rodriguez-denuncia-aldama-injurias-vincularla-financiacion-psoe_478822.html",
-"fecha": "2026-11-09T11:10+00:00"
+"titulo": "La Policía desaloja por segundo día consecutivo el campamento de inmigrantes del puerto de Ceuta",
+"url": "https://www.eldebate.com/espana/20261109/policia-desaloja-segundo-dia-consecutivo-campamento-inmigrantes-puerto-ceuta_478807.html",
+"fecha": "2026-11-09T10:41+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La Policía empieza a desalojar el campamento de inmigrantes del puerto de Ceuta para trasladarlos al Tarajal",
+"url": "https://www.elespanol.com/espana/20261108/policia-empieza-desmantelar-campamento-inmigrantes-puerto-ceuta/1003744450509_0.html",
+"fecha": "2026-11-08T09:11+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "Delcy Rodríguez se querella por injurias contra Aldama y niega la financiación ilegal del PSOE",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a8eee85ece28168b4584.html",
-"fecha": "2026-11-09T11:31+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Delcy Rodríguez presenta una querella contra Víctor de Aldama por presuntas injurias con publicidad",
-"url": "https://www.europapress.es/nacional/noticia-delcy-rodriguez-presenta-querella-contra-victor-aldama-presuntas-injurias-publicidad-20261109115939.html",
-"fecha": "2026-11-09T10:59+00:00"
+"titulo": "La Policía Nacional desmantela el campamento de migrantes del Puerto de Ceuta",
+"url": "https://www.elmundo.es/espana/2026/11/08/6af03dffe9cf4a8a4e8b456e.html",
+"fecha": "2026-11-08T09:16+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Delcy Rodríguez se querella contra Aldama por deslizar que Venezuela financió de manera ilegal al PSOE",
-"url": "https://www.larazon.es/espana/delcy-rodriguez-querella-aldama-decir-que-venezuela-financio-manera-ilegal-psoe_202611096af1bfaad3bddc0868ab1cfe.html",
-"fecha": "2026-11-09T12:42+00:00"
+"titulo": "La Policía desaloja por segundo día consecutivo el campamento de migrantes del puerto de Ceuta",
+"url": "https://www.larazon.es/espana/policia-desaloja-segundo-dia-consecutivo-campamento-migrantes-puerto-ceuta_202611096af19aadd3bddc0868aaec06.html",
+"fecha": "2026-11-09T10:04+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Delcy Rodríguez se querella contra Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.lavanguardia.com/politica/20261109/11680000/delcy-rodriguez-querella-aldama-injurias-vincularla-financiacion-psoe.html",
-"fecha": "2026-11-09T12:36+00:00"
+"titulo": "La policía empieza a desmantelar el campamento de migrantes del puerto de Ceuta",
+"url": "https://www.lavanguardia.com/politica/20261108/11679173/policia-empieza-desmantelar-campamento-migrantes-puerto-ceuta.html",
+"fecha": "2026-11-08T09:45+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Delcy Rodríguez se querella contra Aldama por el sobre con los cupos de 250 millones de PDVSA para financiar al PSOE",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/delcy-rodriguez-se-querella-contra-aldama-por-el-sobre-con-los-cupos-de-250-millones-de-pdvsa-para-financiar-al-psoe-7488522/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T11:41+00:00"
+"titulo": "La Policía Nacional desaloja el campamento de inmigrantes irregulares en el puerto de Ceuta",
+"url": "https://www.libertaddigital.com/espana/2026-11-09/la-policia-nacional-desaloja-el-campamento-de-inmigrantes-irregulares-en-el-puerto-de-ceuta-7488468/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-09T09:51+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Delcy se querella contra Aldama por vincularla con la presunta financiación ilegal del PSOE",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/delcy-almada-presunta-financiacion-ilegal-psoe/",
-"fecha": "2026-11-09T11:08+00:00"
+"titulo": "La Policía desaloja el campamento de inmigrantes del puerto de Ceuta para cerrarlo",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-09/policia-campamento-inmigrantes-puerto-ceuta-cerrarlo/",
+"fecha": "2026-11-09T09:12+00:00"
 }
 ]
 },
 {
 "medios": 8,
 "desde": "2026-11-08T17:43+00:00",
-"hasta": "2026-11-10T12:27+00:00",
+"hasta": "2026-11-10T15:54+00:00",
 "temas": [
 "empleo",
 "sanidad",
@@ -570,8 +497,8 @@
 "territorio"
 ],
 "comunes": [
-"servicios",
 "minimos",
+"servicios",
 "huelga",
 "maquinistas"
 ],
@@ -627,6 +554,72 @@
 ]
 },
 {
+"medios": 8,
+"desde": "2026-11-10T13:59+00:00",
+"hasta": "2026-11-10T17:03+00:00",
+"temas": [
+"defensa",
+"justicia"
+],
+"comunes": [
+"abogada",
+"koldo",
+"defensa",
+"renuncia",
+"garcia"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Leticia de la Hoz, abogada de Koldo García, renuncia a su defensa por \"razones profesionales\"",
+"url": "https://www.20minutos.es/nacional/abogada-koldo-garcia-renuncia-su-defensa-por-razones-profesionales_7059386_0.html",
+"fecha": "2026-11-10T14:45+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "La abogada de Koldo García renuncia a su defensa en plena polémica tras sus acusaciones contra el PP",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/la-abogada-de-koldo-garcia-renuncia-a-su-defensa-por-motivos-profesionales_4462242/",
+"fecha": "2026-11-10T13:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Koldo se queda sin defensa: su abogada renuncia por razones profesionales tras los últimos registros de Adif",
+"url": "https://www.eldebate.com/espana/20261110/koldo-queda-defensa-abogada-renuncia-razones-profesionales_479291.html",
+"fecha": "2026-11-10T14:14+00:00"
+},
+{
+"medio": "El País",
+"titulo": "La abogada de Koldo García renuncia a su defensa tras revelar los pagos de ‘Okdiario’",
+"url": "https://elpais.com/espana/2026-11-10/la-abogada-de-koldo-garcia-renuncia-a-su-defensa-tras-revelar-los-pagos-de-okdiario.html",
+"fecha": "2026-11-10T17:03+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "La abogada de Koldo García renuncia a su defensa",
+"url": "https://www.eldiario.es/politica/abogada-koldo-garcia-renuncia-defensa_1_13652818.html",
+"fecha": "2026-11-10T14:33+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "La abogada de Koldo García renuncia a su defensa por \"razones profesionales\"",
+"url": "https://www.infolibre.es/justicia/abogada-koldo-garcia-renuncia-defensa-razones-profesionales_1_2239726.html",
+"fecha": "2026-11-10T14:56+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La abogada de Koldo renuncia a su defensa en plena polémica por los \"audios\" de la reunión con el PP",
+"url": "https://www.larazon.es/espana/abogada-koldo-renuncia-defensa-plena-polemica-audios-reunion_202611106af32443ea8d8979978073f3.html",
+"fecha": "2026-11-10T14:03+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Koldo García se queda sin abogada tras su audio sobre la supuesta oferta del PP para pagarle",
+"url": "https://www.lavanguardia.com/politica/20261110/11680937/koldo-garcia-queda-abogada-audio-sobre-supeusta-oferta-pp-pagarle.html",
+"fecha": "2026-11-10T15:36+00:00"
+}
+]
+},
+{
 "medios": 7,
 "desde": "2026-11-08T08:59+00:00",
 "hasta": "2026-11-08T14:13+00:00",
@@ -634,14 +627,14 @@
 "inmigracion"
 ],
 "comunes": [
-"vox",
 "comun",
 "sentido",
 "lema",
+"vox",
 "campana",
-"remigracion",
-"prioridad",
-"nacional"
+"nacional",
+"desregulacion",
+"remigracion"
 ],
 "titulares": [
 {
@@ -690,61 +683,242 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-07T13:42+00:00",
-"hasta": "2026-11-09T11:51+00:00",
+"desde": "2026-11-09T11:08+00:00",
+"hasta": "2026-11-09T12:42+00:00",
+"temas": [
+"defensa",
+"territorio"
+],
+"comunes": [
+"psoe",
+"aldama",
+"delcy",
+"rodriguez",
+"financiacion",
+"querella",
+"vincularla",
+"injurias"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias al vincularla a la financiación del PSOE",
+"url": "https://www.elconfidencial.com/espana/2026-11-09/delcy-rodriguez-querella-aldama-injurias-1tps_4461602/",
+"fecha": "2026-11-09T11:54+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Delcy Rodríguez denuncia a Aldama por injurias al vincularla a la financiación del PSOE",
+"url": "https://www.eldebate.com/espana/20261109/delcy-rodriguez-denuncia-aldama-injurias-vincularla-financiacion-psoe_478822.html",
+"fecha": "2026-11-09T11:10+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Delcy Rodríguez se querella por injurias contra Aldama y niega la financiación ilegal del PSOE",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1a8eee85ece28168b4584.html",
+"fecha": "2026-11-09T11:31+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Delcy Rodríguez se querella contra Aldama por deslizar que Venezuela financió de manera ilegal al PSOE",
+"url": "https://www.larazon.es/espana/delcy-rodriguez-querella-aldama-decir-que-venezuela-financio-manera-ilegal-psoe_202611096af1bfaad3bddc0868ab1cfe.html",
+"fecha": "2026-11-09T12:42+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Delcy Rodríguez se querella contra Aldama por injurias al vincularla a la financiación del PSOE",
+"url": "https://www.lavanguardia.com/politica/20261109/11680000/delcy-rodriguez-querella-aldama-injurias-vincularla-financiacion-psoe.html",
+"fecha": "2026-11-09T12:36+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Delcy Rodríguez se querella contra Aldama por el sobre con los cupos de 250 millones de PDVSA para financiar al PSOE",
+"url": "https://www.libertaddigital.com/espana/2026-11-09/delcy-rodriguez-se-querella-contra-aldama-por-el-sobre-con-los-cupos-de-250-millones-de-pdvsa-para-financiar-al-psoe-7488522/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-09T11:41+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Delcy se querella contra Aldama por vincularla con la presunta financiación ilegal del PSOE",
+"url": "https://theobjective.com/espana/tribunales/2026-11-09/delcy-almada-presunta-financiacion-ilegal-psoe/",
+"fecha": "2026-11-09T11:08+00:00"
+}
+]
+},
+{
+"medios": 7,
+"desde": "2026-11-10T10:22+00:00",
+"hasta": "2026-11-10T13:06+00:00",
 "temas": [],
 "comunes": [
-"ayuso",
-"miedo",
-"cambiar",
-"moncloa",
-"real",
-"soto",
-"sanchez",
-"cambio"
+"piedralaves",
+"avila",
+"presa",
+"riesgo",
+"desbordamiento",
+"evacuar",
+"horcajo"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "La presa de Piedralaves (Ávila), situada a kilómetro y medio del casco urbano, corre riesgo de colapso",
+"url": "https://www.abc.es/espana/castilla-leon/presa-piedralaves-avila-situada-kilometro-medio-casco-20261110135100-nt.html",
+"fecha": "2026-11-10T12:52+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
+"fecha": "2026-11-10T10:35+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+"fecha": "2026-11-10T10:38+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Ordenada la evacuación de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
+"url": "https://elpais.com/espana/2026-11-10/ordenan-la-evacuacion-del-municipio-de-piedralaves-avila-ante-el-posible-rebosamiento-de-la-presa-del-horcajo.html",
+"fecha": "2026-11-10T12:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:16+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
+"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
+"fecha": "2026-11-10T10:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
+"fecha": "2026-11-10T10:22+00:00"
+}
+]
+},
+{
+"medios": 7,
+"desde": "2026-11-10T12:59+00:00",
+"hasta": "2026-11-10T16:29+00:00",
+"temas": [],
+"comunes": [
+"audiencia",
+"bolivia",
+"zapatero",
+"nacional",
+"avala",
+"influencias",
+"investigar",
+"trafico"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Ayuso asegura que Sánchez tiene \"miedo\" a cambiar Moncloa \"por Soto del Real\"",
-"url": "https://www.20minutos.es/nacional/ayuso-asegura-que-sanchez-tiene-miedo-cambiar-moncloa-por-soto-real_7058535_0.html",
-"fecha": "2026-11-07T15:50+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Ayuso cuestiona la campaña del miedo del PSOE: «Lo que temen es cambiar Moncloa por Soto del Real»",
-"url": "https://www.abc.es/espana/comunidad-valenciana/ayuso-cuestiona-campana-miedo-psoe-temen-cambiar-20261107144349-nt.html",
-"fecha": "2026-11-07T17:02+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Ayuso: «Intentan trasladar el miedo al cambio, cuando el miedo es a que esto siga como está»",
-"url": "https://www.eldebate.com/espana/madrid/20261109/ayuso-intentan-trasladar-miedo-cambio-cuando-miedo-esto-siga-como-esta_478800.html",
-"fecha": "2026-11-09T10:42+00:00"
+"titulo": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
+"url": "https://www.20minutos.es/nacional/audiencia-avala-investigar-zapatero-por-presunto-trafico-influencias-bolivia_7059327_0.html",
+"fecha": "2026-11-10T13:02+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "Díaz Ayuso contra el \"miedo al cambio\" que agita Sánchez: \"Será de cambiar La Moncloa por Soto del Real. Lo colonizaron todo para su mafia\"",
-"url": "https://www.elmundo.es/comunidad-valenciana/2026/11/07/6aef0a09fc6c8390798b45a7.html",
-"fecha": "2026-11-07T13:42+00:00"
+"titulo": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af3166a21efa0f1788b4590.html",
+"fecha": "2026-11-10T13:11+00:00"
+},
+{
+"medio": "El País",
+"titulo": "La Audiencia Nacional da luz verde a investigar a Zapatero por un supuesto tráfico de influencias en Bolivia",
+"url": "https://elpais.com/espana/2026-11-10/la-audiencia-nacional-da-luz-verde-a-investigar-a-zapatero-por-un-supuesto-trafico-de-influencias-en-bolivia.html",
+"fecha": "2026-11-10T16:29+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "La Audiencia Nacional avala que se investiguen los ingresos de Zapatero por negocios en Bolivia",
+"url": "https://www.eldiario.es/politica/audiencia-nacional-avala-investiguen-ingresos-zapatero-negocios-bolivia_1_13652466.html",
+"fecha": "2026-11-10T13:12+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La Audiencia Nacional avala investigar los negocios de Zapatero en Bolivia por presunto tráfico de influencias",
+"url": "https://www.larazon.es/espana/audiencia-abre-puerta-investigar-negocios-zapatero-bolivia-presunto-trafico-influencias_202611106af3157cea8d897997805f0d.html",
+"fecha": "2026-11-10T13:00+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Ayuso asegura que Sánchez tiene \"miedo a cambiar Moncloa por Soto del Real\"",
-"url": "https://www.libertaddigital.com/madrid/2026-11-07/ayuso-asegura-que-sanchez-tiene-miedo-a-cambiar-moncloa-por-soto-del-real-7488179/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-07T17:07+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Ayuso retrata la campaña del «miedo al cambio» de Sánchez: «Lo que tiene es miedo a cambiar La Moncloa por Soto del Real»",
-"url": "https://okdiario.com/espana/ayuso-retrata-campana-del-miedo-cambio-sanchez-lo-que-tiene-miedo-cambiar-moncloa-soto-del-real-20722966",
-"fecha": "2026-11-07T16:59+00:00"
+"titulo": "La Audiencia Nacional secunda a Calama y le permite investigar a Zapatero por sus influencias en Bolivia",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/la-audiencia-nacional-secunda-a-calama-y-le-permite-investigar-a-zapatero-por-sus-influencias-en-bolivia-7489136/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T13:43+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Ayuso carga contra Sánchez: «Tiene miedo a cambiar La Moncloa por Soto del Real»",
-"url": "https://theobjective.com/espana/politica/2026-11-07/ayuso-sanchez-miedo-moncloa-soto-del-real/",
-"fecha": "2026-11-07T17:28+00:00"
+"titulo": "La Audiencia Nacional avala que Calama investigue los negocios de Zapatero en Bolivia",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-negocios-zapatero-bolivia/",
+"fecha": "2026-11-10T12:59+00:00"
+}
+]
+},
+{
+"medios": 7,
+"desde": "2026-11-09T16:38+00:00",
+"hasta": "2026-11-10T19:47+00:00",
+"temas": [],
+"comunes": [
+"urda",
+"victimas",
+"funeral",
+"accidente",
+"toledo",
+"catedral",
+"sanchez"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Los reyes asisten a la misa funeral en Toledo por las 69 víctimas del accidente en Urda sin la presencia de Sánchez",
+"url": "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html",
+"fecha": "2026-11-10T05:17+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Toledo arropa a los pies de la Catedral a los familiares de las víctimas del accidente de Urda",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-arropa-pies-catedral-familiares-victimas-accidente-20261110195552-nt.html",
+"fecha": "2026-11-10T19:24+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Pérez Llorca asistirá este martes al funeral en la Catedral de Toledo por las víctimas del accidente de Urda",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261109/perez-llorca-asistira-este-martes-funeral-catedral-toledo-victimas-accidente-urda_478964.html",
+"fecha": "2026-11-09T16:38+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Elecciones generales 29-N, en directo | Última hora de Pedro Sánchez y el funeral a los familiares y víctimas del accidente de Urda",
+"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-funeral-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
+"fecha": "2026-11-10T18:24+00:00"
+},
+{
+"medio": "El País",
+"titulo": "El funeral por las víctimas de Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
+"url": "https://elpais.com/espana/2026-11-10/el-funeral-por-las-victimas-de-urda-reune-en-la-catedral-de-toledo-a-las-familias-con-los-reyes-el-gobierno-y-la-oposicion.html",
+"fecha": "2026-11-10T04:30+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "EN DIRECTO | Funeral por las víctimas de Urda desde la catedral de Toledo",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-10/en-directo-funeral-por-las-victimas-de-urda-desde-la-catedral-de-toledo-7489106/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T13:04+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Ayuso cuestiona que Sánchez no acuda al funeral por las víctimas del accidente de Urda",
+"url": "https://theobjective.com/espana/politica/2026-11-10/ayuso-sanchez-funeral-urda/",
+"fecha": "2026-11-10T10:54+00:00"
 }
 ]
 },
@@ -762,8 +936,8 @@
 "instruccion",
 "militar",
 "gregorio",
-"maniobras",
-"san"
+"san",
+"maniobras"
 ],
 "titulares": [
 {
@@ -813,11 +987,11 @@
 "territorio"
 ],
 "comunes": [
-"casa",
-"frente",
+"lema",
 "voto",
 "amplio",
-"lema"
+"frente",
+"casa"
 ],
 "titulares": [
 {
@@ -870,8 +1044,8 @@
 "fiscalia",
 "chambers",
 "eeuu",
-"fergie",
 "extraditar",
+"fergie",
 "propalestino",
 "multimillonario",
 "apoya"
@@ -917,53 +1091,57 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-10T10:22+00:00",
-"hasta": "2026-11-10T13:06+00:00",
-"temas": [],
+"desde": "2026-11-09T10:30+00:00",
+"hasta": "2026-11-10T18:04+00:00",
+"temas": [
+"impuestos"
+],
 "comunes": [
-"piedralaves",
-"riesgo",
-"avila",
-"presa",
-"desbordamiento",
-"evacuar"
+"sexual",
+"tiktok",
+"infantil",
+"abuso",
+"pide",
+"gobierno",
+"espana",
+"videos"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "La presa de Piedralaves (Ávila), situada a kilómetro y medio del casco urbano, corre riesgo de colapso",
-"url": "https://www.abc.es/espana/castilla-leon/presa-piedralaves-avila-situada-kilometro-medio-casco-20261110135100-nt.html",
-"fecha": "2026-11-10T12:52+00:00"
+"medio": "20minutos",
+"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
+"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
+"fecha": "2026-11-09T10:34+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
-"fecha": "2026-11-10T10:35+00:00"
+"medio": "El Confidencial",
+"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
+"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
+"fecha": "2026-11-09T10:30+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Infancia pide a Protección de Datos paralizar TikTok tras destaparse más de mil vídeos de abuso sexual infantil",
+"url": "https://www.elespanol.com/espana/politica/20261110/infancia-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-manera-excepcional/1003744453011_0.html",
+"fecha": "2026-11-10T17:16+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
-"fecha": "2026-11-10T10:38+00:00"
+"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
+"fecha": "2026-11-09T11:48+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
-"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T11:16+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
-"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
-"fecha": "2026-11-10T10:59+00:00"
+"titulo": "Sira Rego pide a Protección de Datos que suspenda TikTok en España por los vídeos de abuso sexual infantil",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/sira-rego-pide-a-proteccion-de-datos-que-suspenda-tiktok-en-espana-por-los-videos-de-abuso-sexual-infantil-7489345/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T18:04+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
-"fecha": "2026-11-10T10:22+00:00"
+"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
+"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
+"fecha": "2026-11-09T10:53+00:00"
 }
 ]
 },
@@ -973,9 +1151,9 @@
 "hasta": "2026-11-08T17:55+00:00",
 "temas": [],
 "comunes": [
+"detenidos",
 "nucleo",
 "nacional",
-"detenidos",
 "diez",
 "libertad",
 "miembros",
@@ -1017,15 +1195,63 @@
 },
 {
 "medios": 5,
+"desde": "2026-11-10T08:59+00:00",
+"hasta": "2026-11-10T10:55+00:00",
+"temas": [],
+"comunes": [
+"mal",
+"broncano",
+"paso",
+"abascal",
+"entrevista",
+"presion",
+"cree",
+"izquierda"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
+"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
+"fecha": "2026-11-10T10:14+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
+"fecha": "2026-11-10T10:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
+"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
+"fecha": "2026-11-10T09:24+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Elecciones generales 29-N, en directo | Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la \"presión inaceptable\" de la izquierda",
+"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
+"fecha": "2026-11-10T09:15+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
+"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
+"fecha": "2026-11-10T08:59+00:00"
+}
+]
+},
+{
+"medios": 5,
 "desde": "2026-11-09T15:36+00:00",
 "hasta": "2026-11-10T12:24+00:00",
 "temas": [
 "pensiones"
 ],
 "comunes": [
+"iustitia",
 "europa",
 "hijos",
-"iustitia",
 "nietos",
 "recurre",
 "votar",
@@ -1067,184 +1293,149 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-09T16:38+00:00",
-"hasta": "2026-11-10T13:04+00:00",
-"temas": [],
+"desde": "2026-11-10T11:41+00:00",
+"hasta": "2026-11-10T13:18+00:00",
+"temas": [
+"igualdad"
+],
 "comunes": [
-"victimas",
-"urda",
-"funeral",
-"toledo",
-"catedral",
-"accidente",
-"reyes",
-"sanchez"
+"nacional",
+"gobierno",
+"constitucional",
+"prioridad",
+"valenciana",
+"lleva",
+"vox",
+"comunidad"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Los reyes asisten a la misa funeral en Toledo por las 69 víctimas del accidente en Urda sin la presencia de Sánchez",
-"url": "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html",
-"fecha": "2026-11-10T05:17+00:00"
-},
-{
 "medio": "El Debate",
-"titulo": "Pérez Llorca asistirá este martes al funeral en la Catedral de Toledo por las víctimas del accidente de Urda",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261109/perez-llorca-asistira-este-martes-funeral-catedral-toledo-victimas-accidente-urda_478964.html",
-"fecha": "2026-11-09T16:38+00:00"
+"titulo": "El Gobierno lleva al Constitucional la prioridad nacional, el veto al burka y la protección a los nonatos en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/gobierno-lleva-constitucional-prioridad-nacional-veto-burka-proteccion-nonatos-comunidad-valenciana_479180.html",
+"fecha": "2026-11-10T11:57+00:00"
 },
 {
 "medio": "El País",
-"titulo": "El funeral por las víctimas de Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
-"url": "https://elpais.com/espana/2026-11-10/el-funeral-por-las-victimas-de-urda-reune-en-la-catedral-de-toledo-a-las-familias-con-los-reyes-el-gobierno-y-la-oposicion.html",
-"fecha": "2026-11-10T04:30+00:00"
+"titulo": "El Gobierno recurrirá al Constitucional la prioridad nacional y 20 artículos de una ley valenciana pactada por el PP y Vox",
+"url": "https://elpais.com/espana/comunidad-valenciana/2026-11-10/el-gobierno-recurria-al-constitucional-la-prioridad-nacional-y-20-articulos-de-una-ley-valenciana-pactada-por-el-pp-y-vox.html",
+"fecha": "2026-11-10T13:08+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "EN DIRECTO | Funeral por las víctimas de Urda desde la catedral de Toledo",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-10/en-directo-funeral-por-las-victimas-de-urda-desde-la-catedral-de-toledo-7489106/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"medio": "La Vanguardia",
+"titulo": "El Gobierno lleva al Constitucional la prioridad nacional del PP y Vox en Valencia",
+"url": "https://www.lavanguardia.com/local/valencia/20261110/11680732/gobierno-lleva-constitucional-prioridad-nacional-pp-vox-valencia.html",
+"fecha": "2026-11-10T11:41+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El Gobierno lleva al Constitucional la prioridad nacional en la Comunidad Valenciana: «Contradice la igualdad básica»",
+"url": "https://okdiario.com/espana/gobierno-lleva-constitucional-prioridad-nacional-comunidad-valenciana-contradice-igualdad-basica-20743573",
 "fecha": "2026-11-10T13:04+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Ayuso cuestiona que Sánchez no acuda al funeral por las víctimas del accidente de Urda",
-"url": "https://theobjective.com/espana/politica/2026-11-10/ayuso-sanchez-funeral-urda/",
-"fecha": "2026-11-10T10:54+00:00"
+"titulo": "El Gobierno recurre ante el Constitucional la «prioridad nacional» en la Comunitat Valenciana",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/gobierno-constitucional-prioridad-nacional-comunidad-valenciana/",
+"fecha": "2026-11-10T13:18+00:00"
 }
 ]
 },
 {
 "medios": 5,
-"desde": "2026-11-10T12:59+00:00",
-"hasta": "2026-11-10T13:12+00:00",
+"desde": "2026-11-09T22:36+00:00",
+"hasta": "2026-11-10T15:16+00:00",
 "temas": [],
 "comunes": [
-"avala",
-"bolivia",
-"zapatero",
-"audiencia",
-"nacional",
-"negocios",
-"investigar",
-"trafico"
+"ministros",
+"consejos",
+"extraordinarios",
+"sanchez",
+"medidas",
+"sociales",
+"generales",
+"aprobar"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
-"url": "https://www.20minutos.es/nacional/audiencia-avala-investigar-zapatero-por-presunto-trafico-influencias-bolivia_7059327_0.html",
-"fecha": "2026-11-10T13:02+00:00"
+"medio": "El País",
+"titulo": "Pedro Sánchez anuncia consejos de ministros extraordinarios antes del 29-N con medidas sociales: “Hay temas que se nos han quedado pendientes”",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-09/pedro-sanchez-anuncia-consejos-de-ministros-extraordinarios-antes-de-las-elecciones-con-medidas-sociales-hay-temas-que-se-nos-han-quedado-pendientes.html",
+"fecha": "2026-11-09T22:36+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af3166a21efa0f1788b4590.html",
-"fecha": "2026-11-10T13:11+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "La Audiencia Nacional avala que se investiguen los ingresos de Zapatero por negocios en Bolivia",
-"url": "https://www.eldiario.es/politica/audiencia-nacional-avala-investiguen-ingresos-zapatero-negocios-bolivia_1_13652466.html",
-"fecha": "2026-11-10T13:12+00:00"
+"medio": "Europa Press",
+"titulo": "Sánchez avanza que habrá Consejos de Ministros extraordinarios para aprobar medidas sociales antes de las generales",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-avanza-habra-consejos-ministros-extraordinarios-aprobar-medidas-sociales-antes-generales-20261110001609.html",
+"fecha": "2026-11-09T23:16+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "La Audiencia Nacional avala investigar los negocios de Zapatero en Bolivia por presunto tráfico de influencias",
-"url": "https://www.larazon.es/espana/audiencia-abre-puerta-investigar-negocios-zapatero-bolivia-presunto-trafico-influencias_202611106af3157cea8d897997805f0d.html",
-"fecha": "2026-11-10T13:00+00:00"
+"titulo": "Sánchez insistirá con los decretos sociales en Consejos de Ministros extraordinarios antes de las elecciones generales",
+"url": "https://www.larazon.es/espana/sanchez-insistira-decretos-sociales-consejos-ministros-extraordinarios-antes-elecciones-generales_202611106af2d0399a31a65adcd6b04a.html",
+"fecha": "2026-11-10T08:10+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El Gobierno programa dos consejos de ministros extraordinarios para aprobar medidas electoralistas",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-10/el-gobierno-programa-dos-consejos-de-ministros-extraordinarios-para-aprobar-medidas-electoralistas-7489191/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T14:57+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Audiencia Nacional avala que Calama investigue los negocios de Zapatero en Bolivia",
-"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-negocios-zapatero-bolivia/",
-"fecha": "2026-11-10T12:59+00:00"
+"titulo": "El Gobierno convocará dos Consejos de Ministros extraordinarios antes del 29-N",
+"url": "https://theobjective.com/espana/politica/2026-11-10/gobierno-consejos-ministros-extraordinarios-29-n/",
+"fecha": "2026-11-10T12:09+00:00"
 }
 ]
 },
 {
-"medios": 4,
-"desde": "2026-11-07T17:50+00:00",
-"hasta": "2026-11-07T18:15+00:00",
+"medios": 5,
+"desde": "2026-11-10T19:08+00:00",
+"hasta": "2026-11-10T20:09+00:00",
 "temas": [
-"inmigracion",
-"territorio"
+"justicia"
 ],
 "comunes": [
-"comision",
-"interministerial",
-"sanchez",
-"convocar",
-"urgencia",
-"martes",
-"canarias",
-"compromete"
+"asuman",
+"responsabilidades",
+"toledo",
+"arzobispo",
+"urda",
+"funeral",
+"pide",
+"esclarezcan"
 ],
 "titulares": [
 {
-"medio": "El Confidencial",
-"titulo": "Sánchez se compromete a convocar este martes una Comisión Interministerial por la presión migratoria en Canarias",
-"url": "https://www.elconfidencial.com/espana/2026-11-07/canarias-inmigracion-comision-interministerial-clavijo-sanchez-1tps_4461084/",
-"fecha": "2026-11-07T17:50+00:00"
+"medio": "ABC",
+"titulo": "El funeral por las víctimas de Urda exige «que se esclarezcan las causas y se asuman responsabilidades»",
+"url": "https://www.abc.es/espana/funeral-victimas-urda-exige-esclarezcan-causas-asuman-20261110195633-nt.html",
+"fecha": "2026-11-10T20:09+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "Sánchez convoca de urgencia una Comisión Interministerial de Inmigración tras la llegada de miles de inmigrantes a la isla de El Hierro",
-"url": "https://www.elmundo.es/espana/2026/11/07/6aef6566e85ece64678b4574.html",
-"fecha": "2026-11-07T18:02+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Sánchez se compromete con Clavijo a convocar de urgencia este martes una Comisión Interministerial de Inmigración",
-"url": "https://www.larazon.es/espana/sanchez-compromete-clavijo-convocar-urgencia-este-martes-comision-interministerial-inmigracion_202611076aef66524196933d7ed49d72.html",
-"fecha": "2026-11-07T17:56+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Canarias fuerza a Sánchez a convocar «de urgencia» una Comisión Interministerial tras la llegada de 8.000 inmigrantes en 5 semanas",
-"url": "https://okdiario.com/espana/canarias-fuerza-sanchez-convocar-urgencia-comision-interministerial-presion-migratoria-islas-20723380",
-"fecha": "2026-11-07T18:15+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-08T10:28+00:00",
-"hasta": "2026-11-08T11:28+00:00",
-"temas": [],
-"comunes": [
-"acto",
-"bilbao",
-"precampana",
-"sanchez",
-"directo",
-"pedro",
-"lopez",
-"patxi"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Acto de precampaña de Pedro Sánchez en Bilbao, en directo",
-"url": "https://www.eldebate.com/espana/20261108/acto-precampana-pedro-sanchez-bilbao-directo_478616.html",
-"fecha": "2026-11-08T11:05+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Elecciones generales del 29-N, en directo | Siga en directo el acto de precampaña de Pedro Sánchez junto a Patxi López en Bilbao",
-"url": "https://www.elespanol.com/espana/20261108/elecciones-generales-directo-ultima-hora-pedro-sanchez-adelanto-electoral-actos-pp-psoe-vox-encuestas-sondeos-voto-correo-2026-partidos-espana/1003744450272_10.html",
-"fecha": "2026-11-08T11:28+00:00"
+"medio": "El País",
+"titulo": "El arzobispo de Toledo pide en el funeral de las víctimas del tren de Urda “que se asuman responsabilidades y se repare en justicia”",
+"url": "https://elpais.com/espana/2026-11-10/el-arzobispo-de-toledo-pide-en-el-funeral-de-las-victimas-del-tren-de-urda-que-se-asuman-responsabilidades-y-se-repare-en-justicia.html",
+"fecha": "2026-11-10T19:49+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Acto de precampaña de Pedro Sánchez en Bilbao",
-"url": "https://www.larazon.es/espana/acto-precampana-pedro-sanchez-bilbao_202611086af050b54196933d7ed557fb.html",
-"fecha": "2026-11-08T10:36+00:00"
+"titulo": "El arzobispo de Toledo reclama que se asuman \"responsabilidades\" en el funeral presidido por los Reyes",
+"url": "https://www.larazon.es/espana/arzobispo-toledo-reclama-que-asuman-responsabilidades-funeral-presidido-reyes_202611106af36b38d3bddc0868acd0dc.html",
+"fecha": "2026-11-10T19:08+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El arzobispo de Toledo pide que \"se esclarezcan las causas\" y se \"asuman las responsabilidades\" del accidente de Urda",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/el-arzobispo-de-toledo-pide-que-se-esclarezcan-las-causas-y-se-asuman-las-responsabilidades-del-accidente-7489390/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T19:15+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "EN DIRECTO | Sánchez participa en un acto de precampaña con Patxi López en Bilbao",
-"url": "https://theobjective.com/videos/espana/politica/2026-11-08/directo-sanchez-patxi-lopez-bilbao/",
-"fecha": "2026-11-08T10:28+00:00"
+"titulo": "El arzobispo de Toledo pide en la misa por Urda «que se asuman responsabilidades»",
+"url": "https://theobjective.com/sociedad/2026-11-10/arzobispo-toledo-misa-urda-responsabilidades/",
+"fecha": "2026-11-10T19:40+00:00"
 }
 ]
 },
@@ -1255,13 +1446,13 @@
 "temas": [],
 "comunes": [
 "psoe",
-"partido",
 "sustancia",
-"enclenque",
+"partido",
 "ibarra",
+"enclenque",
 "rodriguez",
-"peso",
-"momentos"
+"momentos",
+"encogido"
 ],
 "titulares": [
 {
@@ -1299,11 +1490,11 @@
 ],
 "comunes": [
 "feijoo",
+"sanchez",
+"trenes",
 "mirar",
 "menos",
 "trump",
-"trenes",
-"sanchez",
 "pide"
 ],
 "titulares": [
@@ -1339,10 +1530,10 @@
 "hasta": "2026-11-09T04:00+00:00",
 "temas": [],
 "comunes": [
-"adif",
 "feijoo",
-"devuelvan",
 "gratificaciones",
+"devuelvan",
+"adif",
 "vomitivo",
 "directivos",
 "exige",
@@ -1377,18 +1568,62 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-08T19:37+00:00",
+"hasta": "2026-11-09T12:36+00:00",
+"temas": [
+"inmigracion",
+"territorio"
+],
+"comunes": [
+"cayucos",
+"llegan",
+"inmigrantes",
+"hierro",
+"domingo",
+"tres",
+"600"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Más de 600 inmigrantes llegan a El Hierro este domingo a bordo de tres cayucos",
+"url": "https://www.eldebate.com/espana/20261108/600-inmigrantes-llegan-hierro-este-domingo-bordo-tres-cayucos_478722.html",
+"fecha": "2026-11-08T19:37+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Llegan a Canarias 500 migrantes en cuatro cayucos en las últimas horas",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1be43e4d4d8c66d8b4579.html",
+"fecha": "2026-11-09T12:36+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Cerca de 300 inmigrantes ilegales alcanzan El Hierro en tres cayucos durante el domingo",
+"url": "https://www.libertaddigital.com/canarias/2026-11-08/cerca-de-300-inmigrantes-ilegales-alcanzan-el-hierro-en-tres-cayucos-durante-el-domingo-7488361/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-08T20:09+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Más de 600 inmigrantes llegan a El Hierro este domingo en tres cayucos",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-08/mas-600-inmigrantes-llegan-el-hierro-domingo-tres-cayucos/",
+"fecha": "2026-11-08T20:47+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-08T09:03+00:00",
-"hasta": "2026-11-10T10:00+00:00",
+"hasta": "2026-11-10T19:00+00:00",
 "temas": [
 "inmigracion",
 "empleo"
 ],
 "comunes": [
-"hora",
 "ultima",
 "directo",
-"actualidad",
+"hora",
 "politica",
+"actualidad",
 "elecciones",
 "generales",
 "precampana"
@@ -1422,234 +1657,170 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-09T10:30+00:00",
-"hasta": "2026-11-10T11:47+00:00",
-"temas": [
-"impuestos"
-],
-"comunes": [
-"gobierno",
-"tiktok",
-"abuso",
-"sexual",
-"infantil",
-"fiscalia",
-"pide",
-"espana"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
-"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
-"fecha": "2026-11-09T10:34+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
-"fecha": "2026-11-09T10:30+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
-"fecha": "2026-11-09T11:48+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
-"fecha": "2026-11-09T10:53+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-09T22:36+00:00",
-"hasta": "2026-11-10T12:09+00:00",
+"desde": "2026-11-08T10:28+00:00",
+"hasta": "2026-11-10T19:42+00:00",
 "temas": [],
 "comunes": [
-"extraordinarios",
-"ministros",
-"consejos",
-"sociales",
 "sanchez",
-"medidas",
-"generales"
+"bilbao",
+"acto",
+"precampana",
+"directo",
+"pedro",
+"lopez",
+"patxi"
 ],
 "titulares": [
 {
-"medio": "El País",
-"titulo": "Pedro Sánchez anuncia consejos de ministros extraordinarios antes del 29-N con medidas sociales: “Hay temas que se nos han quedado pendientes”",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-09/pedro-sanchez-anuncia-consejos-de-ministros-extraordinarios-antes-de-las-elecciones-con-medidas-sociales-hay-temas-que-se-nos-han-quedado-pendientes.html",
-"fecha": "2026-11-09T22:36+00:00"
+"medio": "El Debate",
+"titulo": "Acto de precampaña de Pedro Sánchez en Bilbao, en directo",
+"url": "https://www.eldebate.com/espana/20261108/acto-precampana-pedro-sanchez-bilbao-directo_478616.html",
+"fecha": "2026-11-08T11:05+00:00"
 },
 {
-"medio": "Europa Press",
-"titulo": "Sánchez avanza que habrá Consejos de Ministros extraordinarios para aprobar medidas sociales antes de las generales",
-"url": "https://www.europapress.es/nacional/noticia-sanchez-avanza-habra-consejos-ministros-extraordinarios-aprobar-medidas-sociales-antes-generales-20261110001609.html",
-"fecha": "2026-11-09T23:16+00:00"
+"medio": "El Español",
+"titulo": "Elecciones generales del 29-N, en directo | Siga en directo el acto de precampaña de Pedro Sánchez junto a Patxi López en Bilbao",
+"url": "https://www.elespanol.com/espana/20261108/elecciones-generales-directo-ultima-hora-pedro-sanchez-adelanto-electoral-actos-pp-psoe-vox-encuestas-sondeos-voto-correo-2026-partidos-espana/1003744450272_10.html",
+"fecha": "2026-11-08T11:28+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Sánchez insistirá con los decretos sociales en Consejos de Ministros extraordinarios antes de las elecciones generales",
-"url": "https://www.larazon.es/espana/sanchez-insistira-decretos-sociales-consejos-ministros-extraordinarios-antes-elecciones-generales_202611106af2d0399a31a65adcd6b04a.html",
-"fecha": "2026-11-10T08:10+00:00"
+"titulo": "Acto de precampaña de Pedro Sánchez en Bilbao",
+"url": "https://www.larazon.es/espana/acto-precampana-pedro-sanchez-bilbao_202611086af050b54196933d7ed557fb.html",
+"fecha": "2026-11-08T10:36+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "El Gobierno convocará dos Consejos de Ministros extraordinarios antes del 29-N",
-"url": "https://theobjective.com/espana/politica/2026-11-10/gobierno-consejos-ministros-extraordinarios-29-n/",
-"fecha": "2026-11-10T12:09+00:00"
+"titulo": "EN DIRECTO | Sánchez participa en un acto de precampaña con Patxi López en Bilbao",
+"url": "https://theobjective.com/videos/espana/politica/2026-11-08/directo-sanchez-patxi-lopez-bilbao/",
+"fecha": "2026-11-08T10:28+00:00"
 }
 ]
 },
 {
 "medios": 4,
-"desde": "2026-11-10T11:41+00:00",
-"hasta": "2026-11-10T13:18+00:00",
+"desde": "2026-11-10T11:12+00:00",
+"hasta": "2026-11-10T19:51+00:00",
 "temas": [
-"igualdad"
+"inmigracion"
 ],
 "comunes": [
-"nacional",
-"gobierno",
-"prioridad",
-"constitucional",
-"lleva",
-"valenciana",
-"comunidad"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "El Gobierno lleva al Constitucional la prioridad nacional, el veto al burka y la protección a los nonatos en la Comunidad Valenciana",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/gobierno-lleva-constitucional-prioridad-nacional-veto-burka-proteccion-nonatos-comunidad-valenciana_479180.html",
-"fecha": "2026-11-10T11:57+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El Gobierno lleva al Constitucional la prioridad nacional del PP y Vox en Valencia",
-"url": "https://www.lavanguardia.com/local/valencia/20261110/11680732/gobierno-lleva-constitucional-prioridad-nacional-pp-vox-valencia.html",
-"fecha": "2026-11-10T11:41+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "El Gobierno lleva al Constitucional la prioridad nacional en la Comunidad Valenciana: «Contradice la igualdad básica»",
-"url": "https://okdiario.com/espana/gobierno-lleva-constitucional-prioridad-nacional-comunidad-valenciana-contradice-igualdad-basica-20743573",
-"fecha": "2026-11-10T13:04+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Gobierno recurre ante el Constitucional la «prioridad nacional» en la Comunitat Valenciana",
-"url": "https://theobjective.com/espana/tribunales/2026-11-10/gobierno-constitucional-prioridad-nacional-comunidad-valenciana/",
-"fecha": "2026-11-10T13:18+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-07T15:21+00:00",
-"hasta": "2026-11-07T16:33+00:00",
-"temas": [
-"energia"
-],
-"comunes": [
-"guillem",
-"agullo",
-"sanchez",
-"reune"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Sánchez marca sus prioridades en Valencia: se reúne con la familia de Guillem Agulló y evita pisar la zona dana",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261107/sanchez-marca-prioridades-valencia-reune-familia-guillem-agullo-evita-pisar-zona-dana_478495.html",
-"fecha": "2026-11-07T16:33+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez se reúne con los padres de Guillem Agulló, el joven asesinado en 1993 por fascistas",
-"url": "https://www.lavanguardia.com/local/valencia/20261107/11678791/sanchez-reune-padres-guillem-agullo-joven-antifascista-asesinado-1993-grupo-extrema-derecha-servimedia20261107.html",
-"fecha": "2026-11-07T16:00+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Sánchez promete estudiar el reconocimiento de Guillem Agulló como víctima del terrorismo",
-"url": "https://theobjective.com/espana/politica/2026-11-07/sanchez-estudiara-reconocer-guillem-agullo-victima-terrorismo/",
-"fecha": "2026-11-07T15:21+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-07T13:28+00:00",
-"hasta": "2026-11-07T19:25+00:00",
-"temas": [],
-"comunes": [
-"mujer",
-"euros",
-"125",
-"robar",
-"000",
-"familiar",
-"luque",
-"detenida"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Detenida una mujer por robar una caja fuerte entera con más de 125.000 euros a un familiar de 91 años en Luque",
-"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/provincia/20261107/detenida-mujer-robar-caja-fuerte-entera-125000-euros-familiar-91-anos-luque_478456.html",
-"fecha": "2026-11-07T13:28+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Detenida una mujer acusada de robar más de 125.000 euros de un anciano de su familia en Luque",
-"url": "https://www.libertaddigital.com/andalucia/2026-11-07/detenida-una-mujer-acusada-de-robar-mas-de-125-000-euros-de-un-anciano-de-su-familia-en-luque-7488191/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-07T19:25+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Detienen a una mujer en Córdoba tras robar 125.000 euros a un familiar anciano",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-07/detenida-mujer-robar-anciano-luque-cordoba/",
-"fecha": "2026-11-07T18:34+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-07T17:33+00:00",
-"hasta": "2026-11-08T12:44+00:00",
-"temas": [],
-"comunes": [
-"pelea",
-"blanca",
-"arma",
-"tres",
-"leon",
-"baneza",
-"heridos"
+"feijoo",
+"electoral",
+"programa",
+"presenta",
+"convierte"
 ],
 "titulares": [
 {
 "medio": "ABC",
-"titulo": "Tres heridos por arma blanca y golpes en una pelea en La Bañeza (León)",
-"url": "https://www.abc.es/espana/castilla-leon/tres-heridos-arma-blanca-golpes-pelea-baneza-20261107173511-nt.html",
-"fecha": "2026-11-07T17:33+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Dos hombres resultan heridos por arma blanca durante una pelea en plena calle en Almansa",
-"url": "https://www.elconfidencial.com/espana/2026-11-08/pelea-heridos-arma-blanca-almansa-1tna-1tps_4461202/",
-"fecha": "2026-11-08T09:37+00:00"
+"titulo": "Feijóo convierte la política de inmigración en la gran novedad de su programa electoral",
+"url": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html",
+"fecha": "2026-11-10T19:51+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Tres detenidos por una pelea con arma blanca en La Bañeza (León): encuentran un hacha en la casa de uno de ellos",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261108/tres-detenidos-pelea-arma-blanca-baneza-leon-hallan-hacha-vivienda-ellos_478638.html",
-"fecha": "2026-11-08T12:44+00:00"
+"titulo": "Feijóo presenta el programa electoral para el 29N, en directo",
+"url": "https://www.eldebate.com/espana/20261110/feijoo-presenta-programa-electoral-29n-directo_479041.html",
+"fecha": "2026-11-10T11:28+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Feijóo presenta el programa electoral del PP",
+"url": "https://www.larazon.es/espana/feijoo-presenta-programa-electoral_202611106af2fc3a9a31a65adcd6df76.html",
+"fecha": "2026-11-10T11:12+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Feijóo convierte su programa electoral en una enmienda a la totalidad a Sánchez",
+"url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
+"fecha": "2026-11-10T12:22+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-10T19:42+00:00",
+"hasta": "2026-11-10T19:59+00:00",
+"temas": [],
+"comunes": [
+"cadiz",
+"huelva",
+"litoral",
+"borrasca",
+"charles",
+"suspende",
+"clases",
+"miercoles"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "No habrá colegio este miércoles en el litoral de Cádiz y Huelva por el temporal",
+"url": "https://www.abc.es/espana/andalucia/colegio-miercoles-litoral-cadiz-huelva-temporal-20261110202336-nts.html",
+"fecha": "2026-11-10T19:45+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Andalucía suspende las clases en 30 municipios del litoral de Huelva y Cádiz ante la llegada de la borrasca Charles",
+"url": "https://www.cope.es/actualidad/espana/noticias/andalucia-suspende-clases-30-municipios-litoral-huelva-cadiz-llegada-borrasca-charles-20261110_3472580.html",
+"fecha": "2026-11-10T19:42+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Junta suspende las clases para este miércoles en el litoral de Cádiz y Huelva por la borrasca Charles",
+"url": "https://www.eldebate.com/espana/andalucia/20261110/junta-suspende-clases-este-miercoles-litoral-cadiz-huelva-borrasca-charles_479465.html",
+"fecha": "2026-11-10T19:46+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Andalucía suspende este miércoles las clases en 30 pueblos de Cádiz y Huelva por la borrasca Charles",
+"url": "https://www.elespanol.com/espana/andalucia/20261110/andalucia-suspende-miercoles-clases-pueblos-cadiz-huelva-borrasca-charles/1003744453224_0.html",
+"fecha": "2026-11-10T19:59+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-09T20:03+00:00",
+"hasta": "2026-11-10T20:19+00:00",
+"temas": [
+"territorio"
+],
+"comunes": [
+"clases",
+"borrasca",
+"suspenden",
+"palma",
+"graciosa",
+"avila",
+"alerta",
+"charles"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Extremadura, La Palma y La Graciosa suspenden las clases este miércoles por un aviso rojo que también afecta a Ávila",
+"url": "https://www.20minutos.es/nacional/extremadura-palma-graciosa-suspenden-las-clases-este-miercoles-por-un-aviso-rojo-que-tambien-afecta-avila_7059402_0.html",
+"fecha": "2026-11-10T15:52+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Suspenden las clases en 32 municipios del sur de Ávila, en alerta roja por la borrasca",
+"url": "https://www.abc.es/espana/castilla-leon/lluvias-vuelven-intensidad-castilla-leon-borrasca-bruna-20261109192031-nt.html",
+"fecha": "2026-11-09T20:03+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Canarias decreta alerta máxima por viento en Tenerife y La Palma por la borrasca Charles y suspende las clases presenciales en La Palma y La Graciosa",
+"url": "https://www.cope.es/actualidad/espana/noticias/canarias-decreta-alerta-maxima-viento-tenerife-palma-borrasca-charles-suspende-clases-presenciales-palma-graciosa-20261110_3472589.html",
+"fecha": "2026-11-10T20:19+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Palma y La Graciosa suspenden las clases presenciales este miércoles por la borrasca Charles",
+"url": "https://www.libertaddigital.com/canarias/2026-11-10/la-palma-y-la-graciosa-suspenden-las-clases-presenciales-este-miercoles-por-la-borrasca-charles-7489209/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T15:16+00:00"
 }
 ]
 },
@@ -1659,14 +1830,14 @@
 "hasta": "2026-11-08T12:53+00:00",
 "temas": [],
 "comunes": [
-"montero",
-"gobierno",
+"acusa",
 "movilizaciones",
-"irene",
-"policial",
 "premeditado",
+"gobierno",
+"montero",
 "aumento",
-"acusa"
+"policial",
+"violencia"
 ],
 "titulares": [
 {
@@ -1691,55 +1862,18 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-08T09:36+00:00",
-"hasta": "2026-11-08T17:04+00:00",
-"temas": [
-"vivienda"
-],
-"comunes": [
-"hombre",
-"albacete",
-"mujer",
-"arma",
-"hijo",
-"fuego",
-"vivienda"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Un hombre de 55 años, herido por arma de fuego en una vivienda de Albacete",
-"url": "https://www.abc.es/espana/castilla-la-mancha/hombre-anos-herido-arma-fuego-vivienda-albacete-20261108121250-nt.html",
-"fecha": "2026-11-08T11:12+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Muere un hombre por arma de fuego en Albacete y detienen a su mujer y su hijo",
-"url": "https://www.elconfidencial.com/espana/2026-11-08/herido-agresion-arma-fuego-albacete-1tna-1tps_4461203/",
-"fecha": "2026-11-08T09:36+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Detenidos la mujer y el hijo de un hombre asesinado a tiros en una vivienda de Albacete",
-"url": "https://www.elmundo.es/espana/2026/11/08/6af0aa6de85ecea6308b457d.html",
-"fecha": "2026-11-08T17:04+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-08T14:03+00:00",
 "hasta": "2026-11-08T17:35+00:00",
 "temas": [],
 "comunes": [
-"garcia",
-"monica",
-"perro",
 "mucho",
 "perras",
-"somos",
+"monica",
+"perro",
+"cosas",
+"garcia",
 "habla",
-"cosas"
+"somos"
 ],
 "titulares": [
 {
@@ -1764,44 +1898,6 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-07T19:55+00:00",
-"hasta": "2026-11-08T18:24+00:00",
-"temas": [
-"defensa"
-],
-"comunes": [
-"opositor",
-"israel",
-"eisenkot",
-"gadi",
-"formar",
-"lider",
-"gobierno",
-"presidente"
-],
-"titulares": [
-{
-"medio": "Ara",
-"titulo": "El president d'Israel encarrega a l'opositor Gadi Eisenkot formar el nou govern",
-"url": "https://www.ara.cat/internacional/proxim-orient/president-d-israel-encarrega-gadi-eisenkot-formar-nou-govern_1_5903824.html",
-"fecha": "2026-11-07T19:55+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Eisenkot, líder opositor a Netanyahu en Israel, llama a formar un «gobierno nacional de emergencia» tras su designación por parte del presidente, Isaac Herzog",
-"url": "https://www.cope.es/actualidad/noticias/presidente-israel-encarga-formar-gobierno-gadi-eisenkot-lider-opositor-rival-netanyahu-20261107_3470862.html",
-"fecha": "2026-11-07T21:02+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El presidente de Israel encarga al líder opositor Gadi Eisenkot la formación de gobierno",
-"url": "https://theobjective.com/internacional/2026-11-07/presidente-israel-encarga-lider-opositor-formacion-gobierno/",
-"fecha": "2026-11-07T20:04+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-08T18:08+00:00",
 "hasta": "2026-11-08T20:00+00:00",
 "temas": [
@@ -1809,14 +1905,14 @@
 "empleo"
 ],
 "comunes": [
-"reyertas",
-"agredir",
-"centros",
 "ceuta",
-"diez",
-"acogida",
+"reyertas",
 "menores",
-"personal"
+"diez",
+"centros",
+"agredir",
+"acogida",
+"detenidos"
 ],
 "titulares": [
 {
@@ -1841,53 +1937,16 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-08T19:37+00:00",
-"hasta": "2026-11-08T20:47+00:00",
-"temas": [
-"inmigracion"
-],
-"comunes": [
-"tres",
-"domingo",
-"hierro",
-"inmigrantes",
-"cayucos",
-"600",
-"llegan"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Más de 600 inmigrantes llegan a El Hierro este domingo a bordo de tres cayucos",
-"url": "https://www.eldebate.com/espana/20261108/600-inmigrantes-llegan-hierro-este-domingo-bordo-tres-cayucos_478722.html",
-"fecha": "2026-11-08T19:37+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Cerca de 300 inmigrantes ilegales alcanzan El Hierro en tres cayucos durante el domingo",
-"url": "https://www.libertaddigital.com/canarias/2026-11-08/cerca-de-300-inmigrantes-ilegales-alcanzan-el-hierro-en-tres-cayucos-durante-el-domingo-7488361/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-08T20:09+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Más de 600 inmigrantes llegan a El Hierro este domingo en tres cayucos",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-08/mas-600-inmigrantes-llegan-el-hierro-domingo-tres-cayucos/",
-"fecha": "2026-11-08T20:47+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-08T20:46+00:00",
 "hasta": "2026-11-08T22:20+00:00",
 "temas": [],
 "comunes": [
-"adif",
-"niega",
 "cupula",
-"empresa",
 "bonus",
+"niega",
 "haya",
+"empresa",
+"adif",
 "directiva",
 "aprobado"
 ],
@@ -1918,14 +1977,14 @@
 "hasta": "2026-11-09T09:06+00:00",
 "temas": [],
 "comunes": [
-"estas",
-"bruna",
 "borrasca",
-"lluvias",
+"estas",
 "zonas",
-"fuertes",
+"lluvias",
+"bruna",
 "viento",
-"afectadas"
+"espana",
+"fuertes"
 ],
 "titulares": [
 {
@@ -1956,12 +2015,12 @@
 "inmigracion"
 ],
 "comunes": [
-"gamarra",
 "melilla",
+"gamarra",
+"expulsion",
 "denuncia",
 "parlamentarios",
 "frontera",
-"expulsion",
 "nacionales"
 ],
 "titulares": [
@@ -1987,36 +2046,76 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-08T16:10+00:00",
-"hasta": "2026-11-09T12:44+00:00",
-"temas": [],
+"desde": "2026-11-08T06:01+00:00",
+"hasta": "2026-11-09T12:47+00:00",
+"temas": [
+"inmigracion",
+"territorio"
+],
 "comunes": [
-"almudena",
-"catedral",
-"madrid",
-"misa"
+"salvamento",
+"inmigrantes",
+"maritimo",
+"500",
+"rescata"
 ],
 "titulares": [
 {
 "medio": "ABC",
-"titulo": "Misa en la catedral y dulces para celebrar la Almudena con amenaza de lluvia en Madrid",
-"url": "https://www.abc.es/espana/madrid/misa-catedral-dulces-celebrar-almudena-amenaza-lluvia-20261108172650-nt.html",
-"fecha": "2026-11-08T16:57+00:00"
+"titulo": "Salvamento rescata a más de 500 personas en dos islas en las primeras horas del lunes",
+"url": "https://www.abc.es/espana/canarias/salvamento-rescata-500-personas-dos-islas-primeras-20261109134741-nt.html",
+"fecha": "2026-11-09T12:47+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Madrid celebra este lunes a su patrona, la Virgen de la Almudena, con una misa en la catedral",
-"url": "https://www.eldebate.com/espana/madrid/20261108/madrid-celebra-este-lunes-patrona-virgen-almudena-misa-catedral_478680.html",
-"fecha": "2026-11-08T16:10+00:00"
+"titulo": "Salvamento marítimo intercepta 24 inmigrantes en varias en Mallorca y Formentera",
+"url": "https://www.eldebate.com/espana/baleares/20261108/salvamento-maritimo-intercepta-24-inmigrantes-varias-mallorca-formentera_478563.html",
+"fecha": "2026-11-08T06:01+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "Misa en la Catedral de la Almudena 2026 en Madrid: fecha, horarios de las celebraciones religiosas, programa de actos y cómo asistir",
-"url": "https://okdiario.com/madrid/misa-catedral-almudena-2026-madrid-fecha-horarios-celebraciones-religiosas-programa-actos-como-asistir-20692898",
-"fecha": "2026-11-09T07:00+00:00"
+"medio": "The Objective",
+"titulo": "Salvamento Marítimo rescata a unos 500 inmigrantes en cuatro cayucos en Canarias",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-09/salvamento-maritimo-500-inmigrantes-cuatro-cayucos-canarias/",
+"fecha": "2026-11-09T12:30+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-09T13:12+00:00",
+"hasta": "2026-11-09T13:52+00:00",
+"temas": [
+"vivienda"
+],
+"comunes": [
+"promete",
+"feijoo",
+"okupas",
+"horas",
+"fuera",
+"millon"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Feijóo promete un millón de viviendas nuevas y garantiza \"okupas fuera\" en 48 horas",
+"url": "https://www.20minutos.es/nacional/feijoo-promete-un-millon-viviendas-nuevas-garantiza-okupas-fuera-48-horas_7058916_0.html",
+"fecha": "2026-11-09T13:52+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Feijóo promete «okupas fuera» en 48 horas",
+"url": "https://www.eldebate.com/espana/20261109/feijoo-promete-okupas-fuera-48-horas_478890.html",
+"fecha": "2026-11-09T13:12+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Alberto Núñez Feijóo promete un millón de pisos y expulsar a los okupas en \"48 horas\"",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-09/alberto-nunez-feijoo-promete-un-millon-de-pisos-y-expulsar-a-los-okupas-en-48-horas-7488606/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-09T13:26+00:00"
 }
 ]
 }
 ],
-"recogidas": 1957
+"recogidas": 2065
 }

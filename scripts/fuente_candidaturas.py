@@ -5,6 +5,7 @@ TEMAS = [
  ('defensa','Defensa y exterior'),('territorio','Modelo territorial'),('justicia','Justicia y corrupción'),('igualdad','Igualdad'),
 ]
 DOCS = {
+ 'pp-2026': dict(c='pp', nombre='La reconstrucción nacional. Programa electoral', anio=2026, tipo='Programa electoral para estas elecciones, presentado el 10 de noviembre de 2026', url='https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf'),
  'pp-contrato-2026': dict(c='pp', nombre='Mi contrato con España', anio=2026, tipo='Compromiso firmado por el candidato; no es el programa completo', url='https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf', copia='Copia del PDF alojada por El Debate'),
  'pp-2023': dict(c='pp', nombre='Programa electoral 2023', anio=2023, tipo='Programa de las elecciones anteriores', url='https://www.pp.es/wp-content/uploads/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf'),
  'psoe-2023': dict(c='psoe', nombre='Programa electoral 2023', anio=2023, tipo='Programa de las elecciones anteriores', url='https://www.diariocritico.com/adjuntos/564284/Programa_electoral_PSOE_2023.pdf', copia='Copia alojada por Diariocrítico; el enlace original del partido no responde'),

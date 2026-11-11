@@ -1,7 +1,7 @@
 # tema -> doc -> cita literal. Se admite un fragmento de frase. build_data.py localiza la página y falla si no aparece.
 P = {
 'vivienda': {
- 'pp-contrato-2026':'El objetivo es aumentar la oferta y construir al menos un millón de nuevas viviendas.',
+ 'pp-2026':'CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado en colaboración con las Comunidades Autónomas y las entidades locales.',
  'psoe-2023':'Incrementaremos el actual parque de vivienda pública de alquiler social mediante una decidida y ambiciosa política de inversión pública a medio y largo plazo en viviendas de calidad',
  'vox-2023':'Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez',
  'sumar-2023':'Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago',
@@ -11,7 +11,7 @@ P = {
  'bng-2023':'Incrementar as reservas mínimas de solo de vivenda protexida, especialmente para actuacións de renovación e rexeneración urbanas.',
 },
 'pensiones': {
- 'pp-contrato-2026':'Esto exige actualizar conforme al IPC las pensiones actuales y garantizárselo a los más jóvenes.',
+ 'pp-2026':'Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista.',
  'psoe-2023':'Garantizaremos ante cualquier circunstancia el poder adquisitivo de todas las pensiones con arreglo al IPC.',
  'vox-2025':'Iniciar el proceso de capitalización de un fondo de pensión público con criterios de rentabilidad privada.',
  'sumar-2023':'Aseguraremos que la suficiencia de las prestaciones, inseparable de la revalorización de las prestaciones, se siga haciendo mediante ley, de acuerdo, como mínimo, con la subida del IPC para asegurar su poder adquisitivo.',
@@ -21,7 +21,7 @@ P = {
  'bng-2023':'Garantía de sostemento do sistema público de pensións a través da supresión do veto ao financiamento público, con cargo aos orzamentos e aos impostos que gravan a riqueza.',
 },
 'inmigracion': {
- 'pp-contrato-2026':'Reducir la inmigración irregular es irrenunciable, igual que la integración y contribución de quien quiera quedarse.',
+ 'pp-2026':'Fijaremos cupos anuales que determinen cuántos trabajadores pueden venir y para qué sectores.',
  'psoe-2023':'Habilitaremos mejores vías para la migración regular y ordenada que permitan una mejor inserción social y laboral de las personas migrantes',
  'vox-2023':'Expulsaremos de forma inmediata a los inmigrantes legales que cometan delitos graves o hagan del delito leve su forma de vida',
  'sumar-2023':'Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX) que prime los criterios de reconocimiento de derechos y que introduzca un procedimiento de regularización permanente.',
@@ -31,7 +31,7 @@ P = {
  'bng-2023':'Impulsar as reformas lexislativas necesarias para garantir os dereitos da poboación migrante',
 },
 'impuestos': {
- 'pp-contrato-2026':'Revisaremos una a una las más de cien subidas fiscales de los últimos años y bajaremos los impuestos',
+ 'pp-2026':'Reduciremos el IRPF de los trabajadores y autónomos de 18 a 35 años durante los cuatro primeros años en que paguen IRPF.',
  'psoe-2023':'Evaluaremos los resultados del Impuesto Temporal de Solidaridad de las Grandes Fortunas y, en su caso, avanzaremos en el debate sobre la tributación de la riqueza',
  'vox-2025':'Se establecerá un mínimo exento de 22.000€, un primer tramo hasta los 70.000€ que tributará a un tipo del 15%',
  'sumar-2023':'Implementaremos un impuesto a las grandes fortunas de forma permanente, reforzando además su progresividad, hasta llegar a tipos impositivos de al menos el 4% para los patrimonios más elevados.',
@@ -40,7 +40,7 @@ P = {
  'bng-2023':'En relación co Imposto sobre o Valor Engadido (IVE), por se tratar dun imposto indirecto que deben pagar as persoas con independencia do seu nivel de renda',
 },
 'empleo': {
- 'pp-2023':'ACTUALIZAREMOS EL SALARIO MÍNIMO INTERPROFESIONAL EN EL MARCO DEL DIÁLOGO SOCIAL.',
+ 'pp-2026':'Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo.',
  'psoe-2023':'Continuaremos impulsando el proyecto piloto de reducción de jornada laboral para empresas industriales',
  'vox-2023':'Impulsaremos la subida de todos los salarios, especialmente los más bajos.',
  'sumar-2023':'En 2024 se establecerá por ley una jornada laboral máxima de 37,5 horas y se abrirá un proceso de diálogo social para seguir reduciendo la jornada hasta alcanzar las 32 horas semanales.',
@@ -49,7 +49,7 @@ P = {
  'bng-2023':'Promover a implantación da xornada laboral de 35 horas semanais sen redución salarial.',
 },
 'sanidad': {
- 'pp-contrato-2026':'Hacerse cargo de esta situación exige mejorar las plantillas de los profesionales sanitarios, velando especialmente por el aumento de médicos y la mejora de sus condiciones laborales y retributivas.',
+ 'pp-2026':'En Atención Primaria, al menos 4.500 médicos más.',
  'psoe-2023':'Acabaremos con las listas de espera, estableciendo por ley unos tiempos máximos de espera en el SNS de 120 días para intervenciones quirúrgicas, 60 días para consultas externas especializadas, y 30 días para pruebas complementarias',
  'vox-2023':'Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada.',
  'sumar-2023':'aprobaremos una ley de listas de espera que establezca tiempos máximos de espera y garantice un registro homogéneo, transparente y fiable de las listas de espera en todo el país.',
@@ -59,7 +59,7 @@ P = {
  'bng-2023':'Modificar o Estatuto Marco para reforzar os dereitos das traballadoras e traballadores da sanidade pública',
 },
 'educacion': {
- 'pp-contrato-2026':'la educación tiene que premiar el esfuerzo, incrementar la exigencia y reforzar la autoridad del docente.',
+ 'pp-2026':'IMPLANTAREMOS UNA PRUEBA DE ACCESO A LA UNIVERSIDAD (PAU) COMÚN. Se aplicará en todo el territorio nacional.',
  'psoe-2023':'Aumentaremos la dotación de las becas en algunos conceptos e incorporaremos nuevas becas para colectivos con necesidades específicas',
  'vox-2023':'Blindaremos la libre elección de centro educativo en todos los niveles a través de un cheque escolar',
  'sumar-2023':'Se eliminará el sistema variable de becas, de modo que los y las estudiantes conocerán con suficiente antelación si pueden contar con una ayuda al estudio y la cuantía de la misma.',
@@ -68,7 +68,7 @@ P = {
  'bng-2023':'Impulsar os convenios para o ensino do galego como segundo idioma na educación secundaria e nas Escolas Oficiais de Idiomas noutros territorios do Estado.',
 },
 'energia': {
- 'pp-2023':'PROPONDREMOS, CON EL VISTO BUENO DEL CONSEJO DE SEGURIDAD NUCLEAR, LA EXTENSIÓN DE LA VIDA ÚTIL DE LAS CENTRALES NUCLEARES EXISTENTES',
+ 'pp-2026':'ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO.',
  'psoe-2023':'Continuaremos trabajando para acelerar la transición energética justa, para ser más sostenibles y para reducir nuestra dependencia energética del exterior, incentivando la inversión en energías renovables.',
  'vox-2025':'Retirar la adhesión de España a los acuerdos de París, al pacto verde europeo',
  'sumar-2023':'Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear',
@@ -78,7 +78,7 @@ P = {
  'bng-2023':'defenderemos a aplicación rigorosa do principio de precaución en todas aquelas actuacións que poidan xerar danos no medio e perdas de biodiversidade',
 },
 'defensa': {
- 'pp-2023':'Cumpliremos el compromiso adquirido por los aliados de destinar un 2% del PIB nacional en seguridad y defensa.',
+ 'pp-2026':'Reforzaremos el despliegue militar en Ceuta, Melilla, Canarias y el resto de los territorios españoles en el norte de África',
  'psoe-2023':'Continuaremos trabajando en el seno de la OTAN por la defensa de la paz y la seguridad, del orden internacional y de los valores democráticos.',
  'vox-2023':'Exigiremos la modificación del Tratado del Atlántico Norte para que este recoja e incluya, de forma explícita, a las ciudades españolas de Ceuta y Melilla bajo la protección de la OTAN.',
  'sumar-2023':'daremos los pasos necesarios para avanzar hacia una política exterior que cuide la democracia y el planeta',
@@ -87,7 +87,7 @@ P = {
  'bng-2023':'Anular o compromiso do goberno español de aumentar o gasto militar até chegar a 2 % do PIB estatal',
 },
 'territorio': {
- 'pp-2023':'ACORDAREMOS UNA REFORMA DEL SISTEMA DE FINANCIACIÓN AUTONÓMICA que sustituya al vigente desde hace 15 años y lo negociaremos con todas las Comunidades Autónomas',
+ 'pp-2026':'Convocaremos la Conferencia de Presidentes al inicio de la legislatura para sentar las bases de un nuevo modelo de financiación autonómica',
  'psoe-2023':'El nuevo modelo reconocerá el mayor coste que determinadas variables',
  'vox-2023':'El estado de las autonomías ha traído consigo una consolidación del estado de bienestar de los políticos y de todos los entes y organismos que lo han sustentado durante las últimas décadas.',
  'sumar-2023':'España es una realidad plurinacional, un país de países, en el que todas las naciones y comunidades políticas deben desarrollarse en un marco igualitario y solidario.',
@@ -97,7 +97,7 @@ P = {
  'bng-2023':'promoveremos e apoiaremos as mudanzas legais precisas que posibilitaren a convocatoria de referendos vinculantes en asuntos de interese, incluído o dereito de autodeterminación',
 },
 'justicia': {
- 'pp-contrato-2026':'Los jueces elegirán a los jueces, y el Gobierno no los cuestionará.',
+ 'pp-2026':'LOS CORRUPTOS DEVOLVERÁN LO ROBADO. Restableceremos las penas por malversación.',
  'psoe-2023':'Estrategia de lucha contra la corrupción: pondremos en funcionamiento la Autoridad Independiente de protección del informante.',
  'vox-2023':'Prohibiremos los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial',
  'sumar-2023':'Impulsaremos la creación de un plan europeo contra la corrupción y el fortalecimiento de la Oficina Europea de Lucha contra el Fraude',
@@ -106,7 +106,7 @@ P = {
  'erc-2023':'denunciar l’adjudicació de contractes públics a empreses implicades (i condemnades), sistemàticament, en casos de corrupció.',
 },
 'igualdad': {
- 'pp-2023':'combatiremos la brecha salarial causada por la maternidad y promoveremos la contratación indefinida de mujeres con hijos.',
+ 'pp-2026':'Integraremos los servicios asistenciales autonómicos y municipales en VioGen para que Policía, Justicia y asistencia actúen sin dejar espacios de desprotección.',
  'psoe-2023':'Seguiremos avanzando en políticas que permitan eliminar la brecha salarial, profundizando en materia de transparencia salarial',
  'vox-2023':'Derogaremos la ley de violencia de género y toda la normativa que, lejos de proteger a las mujeres eficazmente, ha alentado una guerra de sexos',
  'sumar-2023':'Reducir la brecha salarial de género y combatir la violencia y el acoso en el ámbito laboral.',

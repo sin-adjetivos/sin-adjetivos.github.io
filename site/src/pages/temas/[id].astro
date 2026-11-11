@@ -27,7 +27,7 @@ const delGobierno = frases.filter((f) => f.bando === 'gobierno').slice(0, 3);
   <div class="marco">
     <header class="entrada">
       <h1>{tema.nombre}</h1>
-      <p>A 4 de noviembre de 2026 no hemos localizado programas completos para estas elecciones. Mostramos el documento más reciente de cada candidatura e indicamos de qué año es.</p>
+      <p>A 11 de noviembre de 2026, el único programa completo para estas elecciones que hemos localizado es el del PP, presentado el día 10. Del resto mostramos el documento más reciente de cada candidatura e indicamos de qué año es.</p>
     </header>
     <nav class="temas-nav" aria-label="Otros temas">
       {temas.filter((t) => t.id !== tema.id).map((t) => <a href={`/temas/${t.id}/`}>{t.nombre}</a>)}

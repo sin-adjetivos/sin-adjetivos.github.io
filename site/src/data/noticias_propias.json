@@ -1,5 +1,433 @@
 [
 {
+"id": "huelga-general-11-noviembre-primeros-datos",
+"fecha": "2026-11-11",
+"tema": "vivienda",
+"etiqueta": "Vivienda y empleo",
+"claves": [
+"huelga",
+"11n"
+],
+"titulo": "Huelga general por la vivienda y los salarios: los sindicatos hablan de un seguimiento desigual y la CEOE, de bajo seguimiento",
+"entradilla": "Son los primeros datos de la mañana, y sindicatos y patronal miden cosas distintas. Las manifestaciones son por la tarde. Actualizaremos la noticia con los balances del día.",
+"imagen": {
+"archivo": "plaza-espana-madrid.jpg",
+"alt": "Plaza de España de Madrid al atardecer, con el monumento a Cervantes y árboles en otoño.",
+"pie": "Plaza de España, en Madrid, donde está convocada la manifestación de la tarde. Foto de archivo de 2021.",
+"autor": "Javier Pérez Montes",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_Noviembre_2021.jpg"
+},
+"esencial": [
+"CCOO, UGT y otros sindicatos y organizaciones celebran el miércoles 11 de noviembre una huelga general de 24 horas por el acceso a la vivienda y la mejora de los salarios.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"CCOO y UGT hablan de un seguimiento <span class=\"cita-linea\">«dispar»</span>, del 75% en Andalucía y Aragón al 41% en Extremadura o Castilla-La Mancha. La CEOE habla de <span class=\"cita-linea\">«bajo seguimiento»</span> en la mayoría de sectores y territorios.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"La demanda eléctrica cayó en torno a un 10% en las primeras horas, según Red Eléctrica. La CEOE recuerda que en huelgas anteriores la caída superó el 14%.<sup class=\"ref\"><a href=\"#f2\">2</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "La huelga empezó a las 0.00 y es de 24 horas. En las empresas con turnos empieza con el primero y acaba con el último. La convocan CCOO, UGT, CGT, CNT, Co.Bas, Intersindical, Solidaridad Obrera, la Unión de Actores y Actrices y la Confederación de Sindicatos de Inquilinas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Por qué se convoca, quién la apoya y quién pedía desconvocarla lo contamos en <a href=\"/actualidad/huelga-general-11-noviembre-sindicatos-pp-vox/\">esta noticia del 4 de noviembre</a>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Los primeros datos"
+},
+{
+"tipo": "p",
+"html": "Según CCOO y UGT, el paro es mayor en la costa que en el interior, y en sectores con mucha afiliación sindical, como la automoción o la industria cárnica.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> Unai Sordo, de CCOO, admitió en la Cadena SER <span class=\"cita-linea\">«puntos de desigualdad»</span>, según El Español.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "La CEOE dice que el seguimiento es bajo en la mayoría de sectores y territorios, y algo más alto en los más sindicalizados. Lo mide por la demanda eléctrica: pasadas las 8 caía en torno a un 10%.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El Ayuntamiento de Madrid informó de que en la hora punta el tráfico bajó un 13% y los viajeros de la EMT, un 63%, respecto a un día normal.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Incidentes"
+},
+{
+"tipo": "p",
+"html": "Hubo cortes de tráfico por piquetes en accesos a Madrid como la M-30 y la A-5, según el Ayuntamiento.<sup class=\"ref\"><a href=\"#f1\">1</a></sup> Los sindicatos denuncian cargas policiales contra piquetes, con varios detenidos, y CCOO dice que el gas pimienta usado en Mercamadrid afectó a 15 trabajadores y estudia acciones legales.<sup class=\"ref\"><a href=\"#f2\">2</a></sup> No hemos localizado la versión de la Delegación del Gobierno ni del Ministerio del Interior."
+},
+{
+"tipo": "h",
+"texto": "Qué queda del día"
+},
+{
+"tipo": "p",
+"html": "Hay manifestaciones por la tarde: en Madrid, a las 18:00 en la Plaza de España, y en Barcelona, sobre las 17:30, según El Español.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Borja Sémper, portavoz nacional del PP, 11 de noviembre",
+"cita": "Las huelgas generales en teoría suelen estar convocadas para provocar un cambio político, para provocar al menos unas elecciones, para ir contra un gobierno",
+"traduccion": null,
+"fuente": 1,
+"medio": "The Objective",
+"url": "https://theobjective.com/sociedad/2026-11-11/ultima-hora-huelga-general-11-n/directo/"
+},
+{
+"candidatura": "pnv",
+"rotulo": "Justicia",
+"quien": "Comunicado del PNV, 11 de noviembre",
+"cita": "intentar paralizar el país no es la solución a los problemas",
+"traduccion": null,
+"fuente": 1,
+"medio": "The Objective",
+"url": "https://theobjective.com/sociedad/2026-11-11/ultima-hora-huelga-general-11-n/directo/"
+},
+{
+"candidatura": null,
+"rotulo": "Sindicatos",
+"quien": "Unai Sordo, secretario general de CCOO, en la Cadena SER",
+"cita": "La cuestión es colocar en la discusión pública el problema de la vivienda y su acceso en condiciones asequibles",
+"traduccion": null,
+"fuente": 3,
+"medio": "El Español",
+"url": "https://www.elespanol.com/invertia/economia/empleo/20261111/unai-sordo-ccoo-anticipa-pinchazo-huelga-admite-movilizacion-desigual-trabajadores/1003744453579_0.html"
+},
+{
+"candidatura": null,
+"rotulo": "Patronal",
+"quien": "Comunicado de la CEOE, 11 de noviembre",
+"cita": "en todo caso, algo más elevado en zonas y sectores más sindicalizados",
+"traduccion": null,
+"fuente": 3,
+"medio": "El Español",
+"url": "https://www.elespanol.com/invertia/economia/empleo/20261111/unai-sordo-ccoo-anticipa-pinchazo-huelga-admite-movilizacion-desigual-trabajadores/1003744453579_0.html"
+}
+],
+"sin_voz": "No hemos localizado declaraciones de hoy del Gobierno, del PSOE, de Vox ni de Frente Amplio sobre el desarrollo de la huelga.",
+"no_sabemos": [
+"El seguimiento real. Las cifras de sindicatos y patronal son de las primeras horas y no miden lo mismo.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Cuántas personas han sido detenidas y por qué.<sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"Cuánta gente acudirá a las manifestaciones de la tarde."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "The Objective, en directo",
+"url": "https://theobjective.com/sociedad/2026-11-11/ultima-hora-huelga-general-11-n/directo/",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es, en directo",
+"url": "https://www.eldiario.es/economia/huelga-general-11-noviembre-ultima-hora-directo-arranca-gran-paro-vivienda_133_13653845.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "El Español",
+"url": "https://www.elespanol.com/invertia/economia/empleo/20261111/unai-sordo-ccoo-anticipa-pinchazo-huelga-admite-movilizacion-desigual-trabajadores/1003744453579_0.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "El Español, en directo",
+"url": "https://www.elespanol.com/espana/20261110/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones-piquetes-incidencias-sindicatos/1003744452728_10.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Nuestra noticia del 4 de noviembre",
+"url": "/actualidad/huelga-general-11-noviembre-sindicatos-pp-vox/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": true,
+"tipo": null,
+"partido": null
+},
+{
+"id": "pp-presenta-programa-electoral-249-medidas",
+"fecha": "2026-11-10",
+"tema": null,
+"etiqueta": "Programas",
+"claves": [
+"programa",
+"249"
+],
+"titulo": "El PP presenta su programa: 249 medidas, con un millón de viviendas, cupos de inmigración y menos IRPF para los jóvenes",
+"entradilla": "Es el primer programa completo para estas elecciones que hemos localizado. Lo hemos leído en el documento original, publicado en la web del PP, y lo citamos tal cual.",
+"imagen": {
+"archivo": "feijoo-epp-2025.jpg",
+"alt": "Alberto Núñez Feijóo habla en un atril en un escenario azul, con su nombre en una pantalla.",
+"pie": "Feijóo en el congreso del Partido Popular Europeo en Valencia. Foto de archivo de 2025.",
+"autor": "European People's Party",
+"licencia": "CC BY 2.0",
+"origen": "https://commons.wikimedia.org/wiki/File:EPP_Congress_2025_(54485226896).jpg"
+},
+"esencial": [
+"El PP presentó el martes 10 de noviembre su programa, titulado La reconstrucción nacional. Tiene 249 medidas en cuatro bloques: reparar el Estado, regenerar la democracia, reunir a la nación y recuperar la ambición y la autoestima.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>",
+"En vivienda promete construir un millón de viviendas, bajar el IVA de la primera vivienda del 10% al 4% para menores de 40 años y una ley para recuperar en 48 horas una vivienda ocupada.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Propone cupos anuales de trabajadores extranjeros y prioridad en ayudas públicas para quienes tengan <span class=\"cita-linea\">«un arraigo real, duradero y verificable con España»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha pasado"
+},
+{
+"tipo": "p",
+"html": "Alberto Núñez Feijóo presentó el programa en un acto en Madrid. La Vanguardia cuenta 82 páginas. Feijóo pidió que se le juzgue por él: <span class=\"cita-linea\">«Quiero ser evaluado»</span>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Vivienda"
+},
+{
+"tipo": "p",
+"html": "La medida 144 dice: <span class=\"cita-linea\">«CONSTRUIREMOS UN MILLÓN DE VIVIENDAS»</span>. Para ello promete movilizar suelo público y privado con las comunidades y los ayuntamientos, y una nueva Ley del Suelo.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Para los menores de 40 años propone reducir el IVA de la compra de la primera vivienda <span class=\"cita-linea\">«del 10% al 4%»</span>, ampliarles el aval público, que cubre hasta el 20% del valor de la vivienda, y una cuenta de ahorro, la Hucha Hogar Joven, con una deducción del 20% de lo aportado.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Sobre la ocupación de viviendas, la medida 157 promete una ley <span class=\"cita-linea\">«para que el propietario pueda recuperar su vivienda en 48 horas desde el primer día»</span>, por orden judicial.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Inmigración"
+},
+{
+"tipo": "p",
+"html": "ABC destaca la inmigración como la principal novedad respecto a su programa de 2023.<sup class=\"ref\"><a href=\"#f4\">4</a></sup> El programa propone fijar cada año cupos de trabajadores extranjeros por sectores, que solo participen los países que colaboren en los retornos, y prohibir por ley las regularizaciones masivas.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "También promete <span class=\"cita-linea\">«criterios de prioridad en el acceso a determinadas ayudas, prestaciones y recursos públicos»</span> para quienes tengan arraigo en España, que no podrán basarse solo en la nacionalidad. elDiario.es lo relaciona con la <span class=\"cita-linea\">«prioridad nacional»</span> que el PP ha pactado con Vox en cuatro comunidades.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Promete prohibir el burka y el niqab en los espacios públicos.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Impuestos, empleo y pensiones"
+},
+{
+"tipo": "p",
+"html": "Los jóvenes de 18 a 35 años no pagarían IRPF el primer año en que tributen, y en los tres siguientes tendrían una reducción del 75%, el 50% y el 25%. Los nuevos autónomos no pagarían cuota el primer año. Mientras dure la crisis de inflación, el IVA de los alimentos básicos sería del 0%.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Las pensiones subirían cada año con el IPC. Propone también reforzar el papel de las mutuas en la gestión de las bajas por enfermedad.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Estado, justicia y memoria"
+},
+{
+"tipo": "p",
+"html": "Habría menos ministerios, altos cargos y asesores, y una auditoría del gasto del Estado. Restablecería las penas por malversación, derogaría la Ley de Amnistía y sustituiría la Ley de Memoria Democrática por una <span class=\"cita-linea\">«norma de concordia»</span>.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
+"tipo": "p",
+"html": "En sanidad promete al menos 4.500 médicos más en Atención Primaria. En energía, eliminar el calendario de cierre de las centrales nucleares de Almaraz, Ascó, Vandellós, Cofrentes y Trillo.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Ya hemos puesto sus propuestas en <a href=\"/temas/\">Temas</a>, junto a las del resto de partidos. Para los demás seguimos mostrando su documento más reciente, porque no hemos localizado sus programas de 2026.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": "pp",
+"rotulo": "Justicia",
+"quien": "Alberto Núñez Feijóo, en la presentación del programa, el 10 de noviembre",
+"cita": "Quiero que los españoles, si lo consideran oportuno, lo guarden y dentro de cuatro años lo juzguen",
+"traduccion": null,
+"fuente": 5,
+"medio": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de otros partidos al programa en las fuentes consultadas.",
+"no_sabemos": [
+"Cuánto costarían las medidas. El programa dice que las inversiones se harán <span class=\"cita-linea\">«conforme dispongamos de recursos para financiarlas»</span>; no hemos localizado una memoria económica.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Los programas del resto de partidos. A 11 de noviembre no los hemos localizado publicados."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "PP, programa electoral La reconstrucción nacional (PDF)",
+"url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+"tipo": "oficial"
+},
+{
+"n": 2,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/programa-electoral-pp-consulta-medidas-reconstruccion-nacional_7059504_0.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/pp-asume-programa-electoral-prioridad-nacional-vox-modificar-imv-atajar-absentismo-injustificado_1_13652361.html",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "ABC",
+"url": "https://www.abc.es/espana/feijoo-convierte-politica-inmigracion-gran-novedad-programa-20261110201649-nt.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "La Vanguardia",
+"url": "https://www.lavanguardia.com/politica/20261110/11680798/feijoo-convierte-programa-electoral-enmienda-totalidad-sanchez.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "Nuestra sección Temas",
+"url": "/temas/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
+"id": "audiencia-nacional-avala-investigar-zapatero-bolivia",
+"fecha": "2026-11-10",
+"tema": "justicia",
+"etiqueta": "Justicia",
+"claves": [
+"zapatero",
+"bolivia"
+],
+"titulo": "La Audiencia Nacional avala que el juez investigue un cobro de 200.000 euros de Zapatero vinculado a gestiones en Bolivia",
+"entradilla": "Rechaza el recurso de su defensa, que pedía sacar de la causa un informe policial. Zapatero está investigado; no hay juicio ni condena.",
+"imagen": {
+"archivo": "palacio-quemado-la-paz.jpg",
+"alt": "Fachada del Palacio Quemado, en La Paz, con las banderas de Bolivia.",
+"pie": "Palacio Quemado, antigua sede del Gobierno de Bolivia, en La Paz. Foto de archivo de 2018.",
+"autor": "Camil Mendoza",
+"licencia": "CC BY-SA 4.0",
+"origen": "https://commons.wikimedia.org/wiki/File:Palacio_quemado,_La_Paz,_Bolivia.jpg"
+},
+"esencial": [
+"La Sala de lo Penal de la Audiencia Nacional rechazó el recurso de José Luis Rodríguez Zapatero contra la inclusión en su causa de un informe de la Policía sobre Bolivia.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup>",
+"Según ese informe, Zapatero cobró 200.000 euros del grupo empresarial peruano Gloria por mediar, presuntamente, ante las autoridades de Bolivia por una indemnización pendiente.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f3\">3</a></sup>",
+"Zapatero está investigado en la causa sobre el rescate de Plus Ultra. No hay juicio ni condena, y rige la presunción de inocencia.<sup class=\"ref\"><a href=\"#f3\">3</a></sup>"
+],
+"cuerpo": [
+{
+"tipo": "h",
+"texto": "Qué ha decidido el tribunal"
+},
+{
+"tipo": "p",
+"html": "La sección tercera de la Sala de lo Penal desestimó el recurso. La defensa pedía excluir el informe de la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional, por considerar que se refería a <span class=\"cita-linea\">«hechos ajenos»</span> a la causa.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Los magistrados responden que los datos sobre Bolivia surgieron de los dispositivos intervenidos en el registro de la oficina de Zapatero, en mayo, y que el análisis de esos pagos <span class=\"cita-linea\">«en modo alguno puede considerarse como prospectivo»</span>, es decir, como una búsqueda general de cualquier delito.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "Qué dice el informe policial"
+},
+{
+"tipo": "p",
+"html": "Según la UDEF, Zapatero intentó <span class=\"cita-linea\">«mediar o influir»</span> a favor del grupo Gloria en litigios con la Administración de Bolivia, y cobró 200.000 euros a través de la sociedad Focus Social Research.<sup class=\"ref\"><a href=\"#f1\">1</a></sup><sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El Mundo escribe que, según el informe, Zapatero se reunió en Bolivia el 15 de septiembre de 2024 con el entonces presidente, Luis Alberto Arce, y con el ministro de Economía, Marcelo Montenegro.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+},
+{
+"tipo": "p",
+"html": "El auto recoge, citando el informe, que se investiga una organización <span class=\"cita-linea\">«presuntamente liderada por Zapatero»</span>. Es lo que sostiene la investigación, no un hecho probado.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f2\">2</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "En qué punto está la causa"
+},
+{
+"tipo": "p",
+"html": "El juez José Luis Calama investiga a Zapatero como presunto líder de una red de tráfico de influencias que habría cobrado por mediar en el rescate de 53 millones de euros a Plus Ultra. Lo que sabemos de esa causa está en <a href=\"/actualidad/zapatero-recurre-arabia-saudi-joyas/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f3\">3</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+}
+],
+"voces": [
+{
+"candidatura": null,
+"rotulo": "Defensa",
+"quien": "Víctor Moreno Catena, abogado de Zapatero, en su recurso, según elDiario.es",
+"cita": "una entrada y registro en la que se incautó información masiva",
+"traduccion": null,
+"fuente": 2,
+"medio": "elDiario.es",
+"url": "https://www.eldiario.es/politica/audiencia-nacional-avala-investiguen-ingresos-zapatero-negocios-bolivia_1_13652466.html"
+}
+],
+"sin_voz": "No hemos localizado reacciones de Zapatero, del grupo Gloria, del PSOE ni de otros partidos a este auto.",
+"no_sabemos": [
+"Si la investigación sobre Bolivia llevará a nuevas acusaciones. La causa está en fase de instrucción.",
+"Qué responde el grupo Gloria. No lo hemos localizado."
+],
+"fuentes": [
+{
+"n": 1,
+"nombre": "20minutos",
+"url": "https://www.20minutos.es/nacional/audiencia-avala-investigar-zapatero-por-presunto-trafico-influencias-bolivia_7059327_0.html",
+"tipo": "prensa"
+},
+{
+"n": 2,
+"nombre": "elDiario.es",
+"url": "https://www.eldiario.es/politica/audiencia-nacional-avala-investiguen-ingresos-zapatero-negocios-bolivia_1_13652466.html",
+"tipo": "prensa"
+},
+{
+"n": 3,
+"nombre": "The Objective",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-negocios-zapatero-bolivia/",
+"tipo": "prensa"
+},
+{
+"n": 4,
+"nombre": "El Mundo",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af3166a21efa0f1788b4590.html",
+"tipo": "prensa"
+},
+{
+"n": 5,
+"nombre": "Nuestra noticia del 4 de noviembre",
+"url": "/actualidad/zapatero-recurre-arabia-saudi-joyas/",
+"tipo": "propia"
+}
+],
+"cambios": [],
+"borrador": false,
+"abre": false,
+"tipo": null,
+"partido": null
+},
+{
 "id": "buenos-dias-10-noviembre-2026",
 "fecha": "2026-11-10",
 "tema": null,
@@ -119,7 +547,7 @@
 },
 {
 "tipo": "p",
-"html": "La ley de nietos es el nombre con el que se conoce una disposición de la Ley de Memoria Democrática de 2022. Permite obtener la nacionalidad española a descendientes de personas que perdieron la suya por exiliarse por razones políticas, ideológicas o de creencia.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+"html": "La ley de nietos es el nombre con el que se conoce una disposición de la Ley de Memoria Democrática de 2022. Permite obtener la nacionalidad española a descendientes de personas que perdieron la suya por exiliarse por razones políticas, ideológicas o de creencia.<sup class=\"ref\"><a href=\"#f4\">4</a></sup><sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
 },
 {
 "tipo": "h",
@@ -164,6 +592,18 @@
 {
 "tipo": "p",
 "html": "Son medidas cautelares, es decir, provisionales. Lo que decida el tribunal sobre el fondo llegará en la sentencia, sin fecha conocida.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "El recurso de Iustitia Europa"
+},
+{
+"tipo": "p",
+"html": "El martes 10 de noviembre, Iustitia Europa presentó un recurso de reposición ante la misma sala para que revoque el auto sobre los hijos. Pide que sus votos se reciban pero queden <span class=\"cita-linea\">«separados y bajo custodia»</span>, fuera del recuento, hasta comprobar cada caso.<sup class=\"ref\"><a href=\"#f5\">5</a></sup><sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+},
+{
+"tipo": "p",
+"html": "Su presidente, Luis María Pardo, argumenta que casi 190.000 votos pueden ser decisivos donde el último escaño se decida por poco, y que, una vez contados, corregir el censo después <span class=\"cita-linea\">«puede resultar inútil para reparar sus efectos sobre el resultado»</span>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
 }
 ],
 "voces": [
@@ -181,6 +621,7 @@
 "sin_voz": "No hemos localizado reacciones de Vox, de Iustitia Europa ni de otros partidos a estos autos.",
 "no_sabemos": [
 "Cuándo se dictará la sentencia sobre el fondo y qué dirá.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>",
+"Qué responderá el Supremo al recurso de Iustitia Europa, y si lo hará antes del 29 de noviembre.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
 "No hemos podido leer los autos completos: los citamos a través de los medios.",
 "Cuántos de los padres afectados votarían si pudieran. El Supremo dice que no es posible saberlo.<sup class=\"ref\"><a href=\"#f1\">1</a></sup>"
 ],
@@ -211,12 +652,29 @@
 },
 {
 "n": 5,
+"nombre": "20minutos, sobre el recurso de Iustitia Europa",
+"url": "https://www.20minutos.es/nacional/iustitia-europa-recurre-supremo-que-voten-los-hijos-los-nacionalizados-por-ley-nietos-29n-pide-apartar-sus-sufragios_7059276_0.html",
+"tipo": "prensa"
+},
+{
+"n": 6,
+"nombre": "Europa Press, sobre el recurso de Iustitia Europa",
+"url": "https://www.europapress.es/nacional/noticia-iustitia-europa-recurre-no-suspension-voto-hijos-ley-nietos-avisa-impacto-escrutinio-20261110115823.html",
+"tipo": "prensa"
+},
+{
+"n": 7,
 "nombre": "infoLibre, sobre la ley de nietos",
 "url": "https://www.infolibre.es/justicia/suspension-voto-descendientes-exilio-nacionalizados-ley-nietos-desborda-supremo_1_2239479.html",
 "tipo": "prensa"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-11",
+"texto": "Añadimos el recurso de Iustitia Europa contra el auto sobre los hijos."
+}
+],
 "borrador": false,
 "abre": true,
 "tipo": null,
@@ -655,12 +1113,16 @@
 "html": "Juan Bravo, vicesecretario de Hacienda del PP, adelantó el lunes que el programa tendrá 249 medidas. Entre sus ejes citó la seguridad, la soberanía, la inmigración, las infraestructuras y la vivienda, con el objetivo de <span class=\"cita-linea\">«construir un millón de hogares»</span>.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
 },
 {
+"tipo": "p",
+"html": "El PP presentó el programa el 10 de noviembre. La medida 157 dice que el propietario podrá recuperar su vivienda <span class=\"cita-linea\">«en 48 horas desde el primer día»</span>, por orden judicial. Lo resumimos en <a href=\"/actualidad/pp-presenta-programa-electoral-249-medidas/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+},
+{
 "tipo": "h",
 "texto": "Qué ha votado sobre la ocupación"
 },
 {
 "tipo": "p",
-"html": "El 19 de mayo de 2026, el Congreso admitió a trámite una proposición de ley orgánica del PP contra la ocupación ilegal de inmuebles, por 171 votos a favor, 164 en contra y 11 abstenciones. Votaron a favor PP, Vox y Coalición Canaria; en contra, PSOE, el grupo de Frente Amplio, ERC, EH Bildu, Podemos, Compromís y BNG; PNV y Junts se abstuvieron. Lo explicamos, con lo que dijo cada grupo, en <a href=\"/fichas/propuesta-del-pp-contra-la-ocupacion-ilegal-de-inmuebles/\">esta ficha</a>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
+"html": "El 19 de mayo de 2026, el Congreso admitió a trámite una proposición de ley orgánica del PP contra la ocupación ilegal de inmuebles, por 171 votos a favor, 164 en contra y 11 abstenciones. Votaron a favor PP, Vox y Coalición Canaria; en contra, PSOE, el grupo de Frente Amplio, ERC, EH Bildu, Podemos, Compromís y BNG; PNV y Junts se abstuvieron. Lo explicamos, con lo que dijo cada grupo, en <a href=\"/fichas/propuesta-del-pp-contra-la-ocupacion-ilegal-de-inmuebles/\">esta ficha</a>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
 }
 ],
 "voces": [
@@ -678,8 +1140,7 @@
 "sin_voz": "No hemos localizado reacciones de otros partidos a estas propuestas.",
 "no_sabemos": [
 "Cómo se financiaría el plan de vivienda, en qué plazo se harían el millón de viviendas y si serían públicas o privadas. No lo hemos visto explicado.",
-"Qué cambio legal haría falta para desalojar a los okupas en 48 horas. No lo hemos visto explicado.",
-"El programa completo del PP, que se presenta el 10 de noviembre.<sup class=\"ref\"><a href=\"#f4\">4</a></sup>"
+"Cómo se conseguiría que un juez ordene el desalojo en 48 horas. El programa promete una ley, pero no hemos visto cómo se acortarían los plazos de los juzgados.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
 ],
 "fuentes": [
 {
@@ -708,12 +1169,23 @@
 },
 {
 "n": 5,
+"nombre": "PP, programa electoral La reconstrucción nacional (PDF)",
+"url": "https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf",
+"tipo": "oficial"
+},
+{
+"n": 6,
 "nombre": "Nuestra ficha de la votación, con datos oficiales del Congreso",
 "url": "/fichas/propuesta-del-pp-contra-la-ocupacion-ilegal-de-inmuebles/",
 "tipo": "propia"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-11",
+"texto": "El PP publicó su programa el 10 de noviembre. Añadimos lo que dice sobre la ocupación y lo quitamos de lo que no se sabía."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": "propuesta",
@@ -3435,7 +3907,15 @@
 },
 {
 "tipo": "p",
-"html": "No hemos localizado ninguna votación de Presupuestos en esta legislatura. La más cercana son los objetivos de estabilidad, los límites de déficit y deuda que propone el Gobierno. El 23 de julio de 2026 cayeron con 166 votos a favor y 176 en contra. El PP votó en contra, con 135 diputados, y otros 2 no votaron. Vox y Junts también votaron en contra. Están en <a href=\"/votaciones/\">Votaciones</a>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
+"html": "No hemos localizado ninguna votación de Presupuestos en esta legislatura. La más cercana son los objetivos de estabilidad, los límites de déficit y deuda que propone el Gobierno. El 23 de julio de 2026 cayeron con 166 votos a favor y 176 en contra. El PP votó en contra, con 135 diputados, y otros 2 no votaron. Vox y Junts también votaron en contra. Están en <a href=\"/votaciones/\">Votaciones</a>.<sup class=\"ref\"><a href=\"#f7\">7</a></sup>"
+},
+{
+"tipo": "h",
+"texto": "El programa"
+},
+{
+"tipo": "p",
+"html": "El PP publicó su programa completo el 10 de noviembre. Lo resumimos en <a href=\"/actualidad/pp-presenta-programa-electoral-249-medidas/\">esta noticia</a>.<sup class=\"ref\"><a href=\"#f6\">6</a></sup>"
 }
 ],
 "voces": [
@@ -3453,8 +3933,7 @@
 "sin_voz": "No hemos localizado reacciones de otros partidos a este compromiso.",
 "no_sabemos": [
 "Qué cifras tendrían esos Presupuestos y con qué apoyos saldrían adelante.",
-"Si el plazo se puede cumplir: el propio Feijóo lo llama <span class=\"cita-linea\">«test de estrés máximo»</span>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>",
-"El programa completo del PP para estas elecciones, que no hemos localizado publicado. Sí está el Contrato con España, en <a href=\"/temas/\">Temas</a>."
+"Si el plazo se puede cumplir: el propio Feijóo lo llama <span class=\"cita-linea\">«test de estrés máximo»</span>.<sup class=\"ref\"><a href=\"#f5\">5</a></sup>"
 ],
 "fuentes": [
 {
@@ -3489,12 +3968,23 @@
 },
 {
 "n": 6,
+"nombre": "Nuestra noticia sobre el programa del PP",
+"url": "/actualidad/pp-presenta-programa-electoral-249-medidas/",
+"tipo": "propia"
+},
+{
+"n": 7,
 "nombre": "Datos oficiales de la votación del Congreso",
 "url": "/votaciones/",
 "tipo": "propia"
 }
 ],
-"cambios": [],
+"cambios": [
+{
+"fecha": "2026-11-11",
+"texto": "El PP publicó su programa el 10 de noviembre. Lo enlazamos y lo quitamos de lo que no se sabía."
+}
+],
 "borrador": false,
 "abre": false,
 "tipo": "propuesta",

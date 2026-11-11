@@ -1,13 +1,13 @@
 {
-"actualizado": "2026-11-11T14:45+00:00",
+"actualizado": "2026-11-11T20:15+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 116,
-"El Confidencial": "ERROR HTTP Error 404: Not Found",
+"COPE": 117,
+"El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
-"El Mundo": 48,
+"El Mundo": 46,
 "El País": 19,
 "Europa Press": 10,
 "infoLibre": 50,
@@ -16,7 +16,7 @@
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 33,
+"20minutos": 34,
 "El Debate": 117,
 "La Razón": 15
 },
@@ -28,16 +28,16 @@
 {
 "medios": 15,
 "desde": "2026-11-09T12:40+00:00",
-"hasta": "2026-11-11T05:00+00:00",
+"hasta": "2026-11-11T17:19+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
+"supremo",
 "hijos",
 "nietos",
-"supremo",
-"voto",
 "ley",
+"voto",
 "suspender",
 "nacionalizados",
 "rechaza"
@@ -302,11 +302,11 @@
 "hasta": "2026-11-10T21:30+00:00",
 "temas": [],
 "comunes": [
-"anboto",
 "semilibertad",
+"anboto",
 "eta",
-"nacional",
 "audiencia",
+"nacional",
 "exjefa",
 "revoca"
 ],
@@ -375,72 +375,213 @@
 },
 {
 "medios": 9,
-"desde": "2026-11-10T08:45+00:00",
-"hasta": "2026-11-11T09:10+00:00",
+"desde": "2026-11-09T21:40+00:00",
+"hasta": "2026-11-10T19:00+00:00",
 "temas": [],
 "comunes": [
-"policia",
-"oviedo",
-"explosion",
-"herido",
-"muere",
-"resulta",
-"mochila"
+"entrevista",
+"abascal",
+"broncano",
+"revuelta",
+"paso",
+"mal"
 ],
 "titulares": [
 {
+"medio": "20minutos",
+"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
+"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
+"fecha": "2026-11-10T10:14+00:00"
+},
+{
 "medio": "ABC",
-"titulo": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
-"url": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
-"fecha": "2026-11-10T10:53+00:00"
+"titulo": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
+"url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
+"fecha": "2026-11-10T01:34+00:00"
 },
 {
 "medio": "El Confidencial",
-"titulo": "Un policía muerto y otro herido grave tras un tiroteo y una explosión en Oviedo",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/al-menos-un-policia-muerto-y-varios-heridos-en-un-tiroteo-y-una-explosion-en-oviedo_4461910/",
-"fecha": "2026-11-10T08:45+00:00"
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
+"fecha": "2026-11-10T10:55+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Muere un policía y otro resulta herido grave en una explosión tras un tiroteo en Oviedo",
-"url": "https://www.eldebate.com/espana/20261110/muere-policia-otro-resulta-herido-grave-explosion-tiroteo-oviedo_479056.html",
-"fecha": "2026-11-10T08:57+00:00"
+"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
+"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
+"fecha": "2026-11-10T09:24+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Esta es la imagen del hombre al que busca la Policía por matar a un agente con una mochila bomba en Oviedo",
-"url": "https://www.elespanol.com/espana/20261110/imagen-hombre-busca-policia-matar-policia-mochila-bomba-oviedo/1003744452229_0.html",
-"fecha": "2026-11-10T11:46+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
-"fecha": "2026-11-10T10:45+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
-"url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
-"fecha": "2026-11-10T10:54+00:00"
+"titulo": "Abascal en 'La Revuelta', elecciones en directo | El líder de Vox protagoniza una tensa entrevista con David Broncano en RTVE",
+"url": "https://www.elespanol.com/espana/20261109/abascal-revuelta-elecciones-directo-ultima-hora-entrevista-lider-vox-tve-pedro-sanchez-septima/1003744451641_10.html",
+"fecha": "2026-11-09T23:02+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Un policía nacional fallecido y otro herido grave por la explosión de un artefacto en Oviedo",
-"url": "https://www.europapress.es/asturias/noticia-policia-fallecido-otro-herido-grave-incidente-barrio-otero-20261110094857.html",
-"fecha": "2026-11-10T08:48+00:00"
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
+"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
+"fecha": "2026-11-10T08:59+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "La entrevista fallida de Broncano a Abascal se convierte en la más vista de 'La Revuelta'",
+"url": "https://www.infolibre.es/politica/entrevista-fallida-broncano-abascal-convierte-vista-revuelta_1_2239692.html",
+"fecha": "2026-11-10T08:15+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Santiago Abascal hoy en 'La Revuelta', última hora de la entrevista con Broncano en directo",
+"url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
+"fecha": "2026-11-09T22:30+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Visita de Abascal en ‘La Revuelta’, en directo: dónde ver la entrevista al líder de Vox, reacciones y última hora de las elecciones generales del 29-N en vivo online hoy",
+"url": "https://okdiario.com/espana/visita-abascal-revuelta-directo-que-hora-empieza-entrevista-reacciones-ultima-hora-elecciones-generales-del-29-n-actualidad-politica-hoy-vivo-online-20728621",
+"fecha": "2026-11-09T21:40+00:00"
+}
+]
+},
+{
+"medios": 9,
+"desde": "2026-11-09T16:38+00:00",
+"hasta": "2026-11-10T20:51+00:00",
+"temas": [],
+"comunes": [
+"urda",
+"victimas",
+"funeral",
+"accidente",
+"sanchez",
+"toledo"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Los reyes asisten a la misa funeral en Toledo por las 69 víctimas del accidente en Urda sin la presencia de Sánchez",
+"url": "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html",
+"fecha": "2026-11-10T05:17+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Sánchez grabará su entrevista con Jordi Wild mientras se celebra el funeral de las víctimas de Urda",
+"url": "https://www.abc.es/espana/sanchez-grabara-podcast-misa-urda-20261110121341-nt.html",
+"fecha": "2026-11-10T12:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Pérez Llorca asistirá este martes al funeral en la Catedral de Toledo por las víctimas del accidente de Urda",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261109/perez-llorca-asistira-este-martes-funeral-catedral-toledo-victimas-accidente-urda_478964.html",
+"fecha": "2026-11-09T16:38+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Elecciones generales 29-N, en directo | Última hora de Pedro Sánchez y el funeral a los familiares y víctimas del accidente de Urda",
+"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-funeral-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
+"fecha": "2026-11-10T18:24+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Solemne despedida a las víctimas del accidente de Urda con la exigencia de que \"se esclarezcan las causas\"",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af34bbde9cf4aed4e8b4597.html",
+"fecha": "2026-11-10T20:50+00:00"
+},
+{
+"medio": "El País",
+"titulo": "El funeral por las víctimas de Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
+"url": "https://elpais.com/espana/2026-11-10/el-funeral-por-las-victimas-de-urda-reune-en-la-catedral-de-toledo-a-las-familias-con-los-reyes-el-gobierno-y-la-oposicion.html",
+"fecha": "2026-11-10T04:30+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "¿Por qué Pedro Sánchez no acudirá al funeral por las víctimas de Urda?",
+"url": "https://www.larazon.es/espana/que-pedro-sanchez-acudira-funeral-victimas-urda_202611106af324ed9a31a65adcd719cd.html",
+"fecha": "2026-11-10T14:06+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Muere un policía nacional y otro pierde una pierna al explotar una mochila en Oviedo",
-"url": "https://www.libertaddigital.com/sucesos/2026-11-10/muere-un-policia-nacional-y-otro-pierde-una-pierna-tras-la-explosion-de-una-mochila-en-oviedo-7488892/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T09:08+00:00"
+"titulo": "EN DIRECTO | Funeral por las víctimas de Urda desde la catedral de Toledo",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-10/en-directo-funeral-por-las-victimas-de-urda-desde-la-catedral-de-toledo-7489106/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T13:04+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Muere un policía y otro pierde una pierna tras la explosión de un artefacto en Oviedo",
-"url": "https://theobjective.com/espana/2026-11-10/muere-policia-explosion-asturias/",
-"fecha": "2026-11-10T08:57+00:00"
+"titulo": "Ayuso cuestiona que Sánchez no acuda al funeral por las víctimas del accidente de Urda",
+"url": "https://theobjective.com/espana/politica/2026-11-10/ayuso-sanchez-funeral-urda/",
+"fecha": "2026-11-10T10:54+00:00"
+}
+]
+},
+{
+"medios": 9,
+"desde": "2026-11-11T10:19+00:00",
+"hasta": "2026-11-11T18:51+00:00",
+"temas": [
+"sanidad"
+],
+"comunes": [
+"jordi",
+"abascal",
+"wild",
+"entrevista",
+"revuelta",
+"vox"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Jordi Wild critica a Vox tras cancelar la entrevista a Abascal: \"¿Qué tiene que ver Broncano conmigo? Yo soy otro mundo\"",
+"url": "https://www.20minutos.es/nacional/jordi-wild-critica-vox-tras-cancelar-entrevista-abascal-que-tiene-que-ver-broncano-conmigo-yo-soy-otro-mundo_7059878_0.html",
+"fecha": "2026-11-11T16:16+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Vox suspèn l'entrevista de Santiago Abascal amb Jordi Wild",
+"url": "https://www.ara.cat/politica/vox-suspen-l-entrevista-santiago-abascal-jordi-wild_25_5907069.html",
+"fecha": "2026-11-11T10:38+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "VOX señala a COPE las razones de cancelar la entrevista entre Abascal y Jordi Wild: \"Abascal estaba predispuesto, pero no nos van a secuestrar más contenido. Queríamos tener la entrevista íntegra pero él dijo que no\"",
+"url": "https://www.cope.es/actualidad/espana/noticias/vox-senala-cope-razones-cancelar-entrevista-abascal-jordi-wild-abascal-predispuesto-no-secuestrar-contenido-queriamos-entrevista-integra-dijo-no-20261111_3473246.html",
+"fecha": "2026-11-11T16:15+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Abascal rechaza a última hora su cita con Jordi Wild por la \"censura\" de Broncano y RTVE a 40 minutos de su entrevista",
+"url": "https://www.elconfidencial.com/espana/2026-11-11/abascal-rechaza-a-ultima-hora-ser-entrevistado-por-jordi-wild-y-pone-a-broncano-como-excusa_4462817/",
+"fecha": "2026-11-11T10:21+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Quién es Jordi Wild, el youtuber al que Abascal ha dejado plantado tras su paso por 'La Revuelta'",
+"url": "https://www.larazon.es/espana/quien-jordi-wild-youtuber-que-abascal-dejado-plantado-paso-revuelta_202611116af4b382d3bddc0868ae1ab5.html",
+"fecha": "2026-11-11T18:51+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Abascal cancela su entrevista con Jordi Wild tras el descontento de Vox con 'La Revuelta'",
+"url": "https://www.lavanguardia.com/politica/20261111/11681528/abascal-cancela-entrevista-jordi-wild-descontento-vox-revuelta.html",
+"fecha": "2026-11-11T10:19+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Abascal suspende su entrevista con Jordi Wild para \"proteger su imagen\" tras los incumplimientos de 'La Revuelta'",
+"url": "https://www.libertaddigital.com/chic/entretenimiento/2026-11-11/abascal-suspende-su-entrevista-con-jordi-wild-para-proteger-su-imagen-tras-los-incumplimientos-de-la-revuelta-7489701/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:24+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Jordi Wild responde al plantón de Abascal: «Después de salir tan reforzado de ‘La Revuelta’ no quiere asumir más riesgos»",
+"url": "https://okdiario.com/espana/jordi-wild-responde-planton-abascal-despues-salir-tan-reforzado-revuelta-no-quiere-asumir-mas-riesgos-20753946",
+"fecha": "2026-11-11T16:09+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Abascal no acudirá a la entrevista con Jordi Wild tras la «censura» en ‘La revuelta’",
+"url": "https://theobjective.com/espana/politica/2026-11-11/abascal-entrevista-jordi-wild-la-revuelta/",
+"fecha": "2026-11-11T10:20+00:00"
 }
 ]
 },
@@ -512,65 +653,133 @@
 },
 {
 "medios": 8,
-"desde": "2026-11-09T16:38+00:00",
-"hasta": "2026-11-10T20:56+00:00",
+"desde": "2026-11-10T08:45+00:00",
+"hasta": "2026-11-11T09:10+00:00",
 "temas": [],
 "comunes": [
-"victimas",
-"urda",
-"toledo",
-"funeral",
-"accidente",
-"catedral"
+"policia",
+"oviedo",
+"herido",
+"explosion",
+"muere",
+"resulta"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Muere un policía y otro resulta herido de gravedad al explotar una mochila bomba en Oviedo",
+"url": "https://www.abc.es/espana/asturias/muere-policia-resulta-herido-grave-explosion-oviedo-20261110093550-nt.html",
+"fecha": "2026-11-10T10:53+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Un policía muerto y otro herido grave tras un tiroteo y una explosión en Oviedo",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/al-menos-un-policia-muerto-y-varios-heridos-en-un-tiroteo-y-una-explosion-en-oviedo_4461910/",
+"fecha": "2026-11-10T08:45+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Muere un policía y otro resulta herido grave en una explosión tras un tiroteo en Oviedo",
+"url": "https://www.eldebate.com/espana/20261110/muere-policia-otro-resulta-herido-grave-explosion-tiroteo-oviedo_479056.html",
+"fecha": "2026-11-10T08:57+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Muere un policía y otro resulta herido con la amputación de una pierna por la explosión de una mochila en Oviedo tras un tiroteo cuyo autor permanece huido y armado",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2d90ae85ecebb328b459d.html",
+"fecha": "2026-11-10T10:45+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Muere un policía y otro resulta gravemente herido en una explosión en Oviedo",
+"url": "https://elpais.com/espana/2026-11-10/un-policia-muerto-y-otro-herido-tras-una-explosion-en-oviedo.html",
+"fecha": "2026-11-10T10:54+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Un policía nacional fallecido y otro herido grave por la explosión de un artefacto en Oviedo",
+"url": "https://www.europapress.es/asturias/noticia-policia-fallecido-otro-herido-grave-incidente-barrio-otero-20261110094857.html",
+"fecha": "2026-11-10T08:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Muere un policía nacional y otro pierde una pierna al explotar una mochila en Oviedo",
+"url": "https://www.libertaddigital.com/sucesos/2026-11-10/muere-un-policia-nacional-y-otro-pierde-una-pierna-tras-la-explosion-de-una-mochila-en-oviedo-7488892/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T09:08+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Muere un policía y otro pierde una pierna tras la explosión de un artefacto en Oviedo",
+"url": "https://theobjective.com/espana/2026-11-10/muere-policia-explosion-asturias/",
+"fecha": "2026-11-10T08:57+00:00"
+}
+]
+},
+{
+"medios": 8,
+"desde": "2026-11-09T15:27+00:00",
+"hasta": "2026-11-11T14:40+00:00",
+"temas": [
+"empleo",
+"sanidad",
+"educacion",
+"energia"
+],
+"comunes": [
+"servicios",
+"general",
+"huelga",
+"minimos",
+"directo"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Los reyes asisten a la misa funeral en Toledo por las 69 víctimas del accidente en Urda sin la presencia de Sánchez",
-"url": "https://www.20minutos.es/nacional/los-reyes-asisten-hoy-misa-funeral-toledo-por-las-69-victimas-accidente-urda-sin-presencia-sanchez_7058805_0.html",
-"fecha": "2026-11-10T05:17+00:00"
+"titulo": "Horario de la huelga general del 11 de noviembre: estos son los servicios mínimos en transportes públicos, sanidad y educación",
+"url": "https://www.20minutos.es/nacional/horario-huelga-general-11-noviembre-servicios-minimos-transportes-publicos-sanidad-educacion_7058836_0.html",
+"fecha": "2026-11-09T15:27+00:00"
 },
 {
 "medio": "ABC",
-"titulo": "Toledo arropa a los pies de la Catedral a los familiares de las víctimas del accidente de Urda",
-"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/toledo-arropa-pies-catedral-familiares-victimas-accidente-20261110195552-nt.html",
-"fecha": "2026-11-10T19:24+00:00"
+"titulo": "Estos son los servicios mínimos de la huelga general del 11 de noviembre en la Comunidad Valenciana",
+"url": "https://www.abc.es/espana/comunidad-valenciana/servicios-minimos-huelga-general-noviembre-comunidad-valenciana-20261110113721-nt.html",
+"fecha": "2026-11-10T10:37+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Huelga general el 11 de noviembre en Madrid: horario y recorrido de la manifestación, servicios mínimos en transporte y hospitales y cortes de tráfico",
+"url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
+"fecha": "2026-11-10T10:00+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Pérez Llorca asistirá este martes al funeral en la Catedral de Toledo por las víctimas del accidente de Urda",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261109/perez-llorca-asistira-este-martes-funeral-catedral-toledo-victimas-accidente-urda_478964.html",
-"fecha": "2026-11-09T16:38+00:00"
+"titulo": "Huelga general del 11N: servicios mínimos en sanidad, educación y transporte público en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/huelga-general-11n-servicios-minimos-sanidad-educacion-transporte-publico-comunidad-valenciana_478754.html",
+"fecha": "2026-11-10T03:00+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "Solemne despedida a las víctimas del accidente de Urda con la exigencia de que \"se esclarezcan las causas\"",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af34bbde9cf4aed4e8b4597.html",
-"fecha": "2026-11-10T20:50+00:00"
+"medio": "El Español",
+"titulo": "Huelga general del 11-N, en directo | Manifestaciones, piquetes, servicios mínimos, sindicatos, incidencias y cortes de tráfico",
+"url": "https://www.elespanol.com/espana/20261110/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones-piquetes-incidencias-sindicatos/1003744452728_10.html",
+"fecha": "2026-11-11T10:31+00:00"
 },
 {
-"medio": "El País",
-"titulo": "El funeral por las víctimas de Urda reúne en la catedral de Toledo a las familias con los Reyes, el Gobierno y la oposición",
-"url": "https://elpais.com/espana/2026-11-10/el-funeral-por-las-victimas-de-urda-reune-en-la-catedral-de-toledo-a-las-familias-con-los-reyes-el-gobierno-y-la-oposicion.html",
-"fecha": "2026-11-10T04:30+00:00"
+"medio": "La Razón",
+"titulo": "Huelga general 11N, en directo: última hora de los paros, piquetes, cargas policiales, manifestaciones y servicios mínimos en toda España",
+"url": "https://www.larazon.es/espana/huelga-general-11n-directo-ultima-hora-paros-manifestaciones-servicios-minimos-toda-espana_202611116af3f78a03bbf30bb047d601.html",
+"fecha": "2026-11-11T10:30+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "EN DIRECTO | Funeral por las víctimas de Urda desde la catedral de Toledo",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-10/en-directo-funeral-por-las-victimas-de-urda-desde-la-catedral-de-toledo-7489106/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T13:04+00:00"
+"titulo": "EN DIRECTO | Huelga general del 11N: seguimiento, servicios mínimos y noticias de última hora",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-11/en-directo-huelga-general-11n-seguimiento-servicios-minimos-noticias-ultima-hora-7488896/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T04:30+00:00"
 },
 {
 "medio": "OKdiario",
-"titulo": "Feijóo honra a las víctimas de Urda en el funeral de Toledo mientras Sánchez se va a grabar un podcast: «Todo mi cariño»",
-"url": "https://okdiario.com/espana/feijoo-honra-victimas-urda-funeral-toledo-mientras-sanchez-va-grabar-podcast-todo-carino-20747463",
-"fecha": "2026-11-10T20:56+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Ayuso cuestiona que Sánchez no acuda al funeral por las víctimas del accidente de Urda",
-"url": "https://theobjective.com/espana/politica/2026-11-10/ayuso-sanchez-funeral-urda/",
-"fecha": "2026-11-10T10:54+00:00"
+"titulo": "Huelga general 11-N, en directo: última hora de los piquetes, manifestaciones, servicios mínimos y cortes de tráfico en toda España",
+"url": "https://okdiario.com/espana/ultima-hora-huelga-general-actualidad-elecciones-generales-del-29-n-directo-20748233",
+"fecha": "2026-11-11T09:55+00:00"
 }
 ]
 },
@@ -583,12 +792,12 @@
 "territorio"
 ],
 "comunes": [
-"psoe",
 "delcy",
+"psoe",
 "aldama",
 "rodriguez",
-"querella",
 "financiacion",
+"querella",
 "vincularla",
 "injurias"
 ],
@@ -639,15 +848,75 @@
 },
 {
 "medios": 7,
+"desde": "2026-11-10T10:22+00:00",
+"hasta": "2026-11-10T13:06+00:00",
+"temas": [],
+"comunes": [
+"piedralaves",
+"presa",
+"riesgo",
+"avila",
+"desbordamiento",
+"evacuar",
+"horcajo",
+"rebosamiento"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "«Muy nerviosos» en Piedralaves ante el riesgo de rebosamiento de la presa que se encuentra por encima del pueblo",
+"url": "https://www.abc.es/espana/castilla-leon/nerviosos-piedralaves-ante-riesgo-rebosamiento-presa-encuentra-20261110140608-nt.html",
+"fecha": "2026-11-10T13:06+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
+"fecha": "2026-11-10T10:35+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+"fecha": "2026-11-10T10:38+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Ordenada la evacuación de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
+"url": "https://elpais.com/espana/2026-11-10/ordenan-la-evacuacion-del-municipio-de-piedralaves-avila-ante-el-posible-rebosamiento-de-la-presa-del-horcajo.html",
+"fecha": "2026-11-10T12:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:16+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
+"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
+"fecha": "2026-11-10T10:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
+"fecha": "2026-11-10T10:22+00:00"
+}
+]
+},
+{
+"medios": 7,
 "desde": "2026-11-10T12:59+00:00",
 "hasta": "2026-11-10T16:29+00:00",
 "temas": [],
 "comunes": [
-"audiencia",
 "bolivia",
+"audiencia",
 "zapatero",
-"nacional",
 "avala",
+"nacional",
 "investigar",
 "influencias",
 "trafico"
@@ -699,67 +968,6 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-08T17:43+00:00",
-"hasta": "2026-11-11T08:51+00:00",
-"temas": [
-"empleo",
-"sanidad",
-"educacion"
-],
-"comunes": [
-"servicios",
-"minimos",
-"huelga",
-"maquinistas",
-"rodalies"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Transportes fija los servicios mínimos en Renfe para la huelga de maquinistas del 10 y 12 de noviembre",
-"url": "https://www.20minutos.es/nacional/transportes-fija-los-servicios-minimos-renfe-para-huelga-maquinistas-10-12-noviembre_7058637_0.html",
-"fecha": "2026-11-08T17:43+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Estos son los servicios mínimos de la huelga general del 11 de noviembre en la Comunidad Valenciana",
-"url": "https://www.abc.es/espana/comunidad-valenciana/servicios-minimos-huelga-general-noviembre-comunidad-valenciana-20261110113721-nt.html",
-"fecha": "2026-11-10T10:37+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Huelga de maquinistas: sin servicios mínimos en Rodalíes y Cercanías",
-"url": "https://www.cope.es/actualidad/espana/noticias/huelga-maquinistas-servicios-minimos-rodalies-cercanias-20261110_3471933.html",
-"fecha": "2026-11-10T09:24+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Huelga general del 11N: servicios mínimos en sanidad, educación y transporte público en la Comunidad Valenciana",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/huelga-general-11n-servicios-minimos-sanidad-educacion-transporte-publico-comunidad-valenciana_478754.html",
-"fecha": "2026-11-10T03:00+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Illa promete actuar ante el incumplimiento de los servicios mínimos en Rodalies",
-"url": "https://www.lavanguardia.com/politica/20261110/11680643/illa-promete-actuar-incumplimiento-servicios-minimos-rodalies.html",
-"fecha": "2026-11-10T09:41+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Caos en Rodalies por la huelga de maquinistas: suspendido el 60% de los servicios mínimos a primera hora",
-"url": "https://www.libertaddigital.com/cataluna/2026-11-10/caos-en-rodalies-por-la-huelga-de-maquinistas-suspendido-el-60-por-ciento-de-los-servicios-minimos-a-primera-hora-7488879/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T08:48+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Renfe fija servicios mínimos del 75% en cercanías durante el 11-N",
-"url": "https://theobjective.com/economia/transporte/2026-11-09/renfe-servicios-minimos-75-cercanias-11-n/",
-"fecha": "2026-11-09T08:38+00:00"
-}
-]
-},
-{
-"medios": 7,
 "desde": "2026-11-09T22:36+00:00",
 "hasta": "2026-11-11T10:36+00:00",
 "temas": [],
@@ -768,8 +976,8 @@
 "consejos",
 "sanchez",
 "extraordinarios",
-"sociales",
 "medidas",
+"sociales",
 "aprobar"
 ],
 "titulares": [
@@ -826,10 +1034,10 @@
 "territorio"
 ],
 "comunes": [
-"frente",
-"voto",
 "casa",
+"frente",
 "lema",
+"voto",
 "amplio"
 ],
 "titulares": [
@@ -880,9 +1088,9 @@
 ],
 "comunes": [
 "policia",
-"puerto",
 "campamento",
 "ceuta",
+"puerto",
 "desaloja",
 "inmigrantes",
 "migrantes",
@@ -937,10 +1145,10 @@
 ],
 "comunes": [
 "fiscalia",
+"eeuu",
+"fergie",
 "extraditar",
 "chambers",
-"fergie",
-"eeuu",
 "multimillonario",
 "propalestino",
 "apoya"
@@ -986,77 +1194,21 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-09T10:30+00:00",
-"hasta": "2026-11-10T18:04+00:00",
-"temas": [
-"impuestos"
-],
-"comunes": [
-"abuso",
-"infantil",
-"tiktok",
-"sexual",
-"pide",
-"gobierno",
-"videos",
-"espana"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
-"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
-"fecha": "2026-11-09T10:34+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
-"fecha": "2026-11-09T10:30+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Infancia pide a Protección de Datos paralizar TikTok tras destaparse más de mil vídeos de abuso sexual infantil",
-"url": "https://www.elespanol.com/espana/politica/20261110/infancia-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-manera-excepcional/1003744453011_0.html",
-"fecha": "2026-11-10T17:16+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
-"fecha": "2026-11-09T11:48+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Sira Rego pide a Protección de Datos que suspenda TikTok en España por los vídeos de abuso sexual infantil",
-"url": "https://www.libertaddigital.com/espana/2026-11-10/sira-rego-pide-a-proteccion-de-datos-que-suspenda-tiktok-en-espana-por-los-videos-de-abuso-sexual-infantil-7489345/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T18:04+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
-"fecha": "2026-11-09T10:53+00:00"
-}
-]
-},
-{
-"medios": 6,
 "desde": "2026-11-09T07:02+00:00",
-"hasta": "2026-11-11T10:05+00:00",
+"hasta": "2026-11-11T09:04+00:00",
 "temas": [
 "inmigracion",
 "empleo"
 ],
 "comunes": [
-"hora",
-"ultima",
 "directo",
+"ultima",
+"hora",
 "generales",
 "elecciones",
+"precampana",
 "politica",
-"actualidad",
-"precampana"
+"actualidad"
 ],
 "titulares": [
 {
@@ -1067,9 +1219,9 @@
 },
 {
 "medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Última hora de Pedro Sánchez y el funeral a los familiares y víctimas del accidente de Urda",
-"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-funeral-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
-"fecha": "2026-11-10T18:24+00:00"
+"titulo": "Elecciones generales 29-N, en directo | Última hora de Pedro Sánchez, encuestas y actos de precampaña de PP, PSOE y Vox",
+"url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html",
+"fecha": "2026-11-11T06:37+00:00"
 },
 {
 "medio": "elDiario.es",
@@ -1154,154 +1306,114 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-10T10:00+00:00",
-"hasta": "2026-11-11T14:31+00:00",
+"desde": "2026-11-11T12:13+00:00",
+"hasta": "2026-11-11T13:50+00:00",
 "temas": [
-"empleo",
-"sanidad"
+"defensa",
+"justicia"
 ],
 "comunes": [
-"general",
-"huelga",
-"recorrido",
-"manifestacion",
-"horario",
-"noviembre",
-"trafico",
-"madrid"
+"pago",
+"koldo",
+"105",
+"juez",
+"euros",
+"000",
+"psoe",
+"zarrias"
 ],
 "titulares": [
-{
-"medio": "20minutos",
-"titulo": "Horario y recorrido de la manifestación por la huelga general del 11N en Madrid",
-"url": "https://www.20minutos.es/nacional/manifestacion-huelga-general-11-noviembre-madrid-horario-recorrido_7059269_0.html",
-"fecha": "2026-11-10T14:54+00:00"
-},
 {
 "medio": "ABC",
-"titulo": "Huelga general 11 de noviembre en Valencia: horario, recorrido y cortes de tráfico previstos por la manifestación hoy",
-"url": "https://www.abc.es/espana/comunidad-valenciana/huelga-general-noviembre-valencia-horario-recorrido-cortes-20261111053000-nt.html",
-"fecha": "2026-11-11T14:18+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Huelga general el 11 de noviembre en Madrid: horario y recorrido de la manifestación, servicios mínimos en transporte y hospitales y cortes de tráfico",
-"url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
-"fecha": "2026-11-10T10:00+00:00"
+"titulo": "El juez del caso 'cloacas' rastrea el pago de 105.000 euros del exabogado de Koldo a un letrado del PSOE",
+"url": "https://www.abc.es/espana/juez-cloacas-rastrea-pago-105000-euros-exabogado-20261111143119-nt.html",
+"fecha": "2026-11-11T13:50+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Manifestación por la huelga general del 11N en Valencia: horario y recorrido",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/manifestacion-huelga-general-11n-valencia-horario-recorrido_479230.html",
-"fecha": "2026-11-11T03:00+00:00"
+"titulo": "El juez Pedraz investiga un pago de 105.000 euros del ex abogado de Koldo a otro abogado contratado por el PSOE",
+"url": "https://www.eldebate.com/espana/20261111/juez-pedraz-investiga-pago-ex-abogado-koldo-otro-abogado-contratado-psoe_479697.html",
+"fecha": "2026-11-11T12:34+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Huelga general del 11 de noviembre, en directo | Horario, recorrido, piquetes, calles cortadas, servicios mínimos y última hora de las movilizaciones",
-"url": "https://www.elespanol.com/espana/20261111/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones/1003744453316_10.html",
-"fecha": "2026-11-11T14:31+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "¿A qué hora es la manifestación de la huelga general del 11 de noviembre? Horarios y cortes de tráfico en Madrid, Barcelona y Valencia",
-"url": "https://okdiario.com/espana/que-hora-manifestacion-huelga-general-del-11-noviembre-horarios-cortes-trafico-madrid-barcelona-valencia-20745175",
-"fecha": "2026-11-10T22:30+00:00"
-}
-]
-},
-{
-"medios": 5,
-"desde": "2026-11-10T08:59+00:00",
-"hasta": "2026-11-10T10:55+00:00",
-"temas": [],
-"comunes": [
-"abascal",
-"entrevista",
-"paso",
-"broncano",
-"mal",
-"cree",
-"izquierda",
-"presion"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
-"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
-"fecha": "2026-11-10T10:14+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
-"fecha": "2026-11-10T10:55+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
-"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
-"fecha": "2026-11-10T09:24+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la \"presión inaceptable\" de la izquierda",
-"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
-"fecha": "2026-11-10T09:15+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
-"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
-"fecha": "2026-11-10T08:59+00:00"
-}
-]
-},
-{
-"medios": 5,
-"desde": "2026-11-10T10:22+00:00",
-"hasta": "2026-11-10T11:16+00:00",
-"temas": [],
-"comunes": [
-"piedralaves",
-"avila",
-"riesgo",
-"desbordamiento",
-"presa",
-"evacuar",
-"civil",
-"ordena"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
-"fecha": "2026-11-10T10:35+00:00"
+"titulo": "El juez del 'caso Leire' investiga un pago de 105.000 euros del exabogado de Koldo García al letrado histórico del PSOE",
+"url": "https://www.elespanol.com/espana/tribunales/20261111/juez-caso-leire-investiga-pago-euros-exabogado-koldo-garcia-letrado-historico-psoe/1003744453979_0.html",
+"fecha": "2026-11-11T12:25+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
-"fecha": "2026-11-10T10:38+00:00"
+"titulo": "El juez del 'caso Cloacas' detecta un pago de 105.000 euros entre un ex abogado del PSOE y el histórico socialista Gaspar Zarrías, imputados por financiar a la 'fontanera'",
+"url": "https://www.elmundo.es/espana/2026/11/11/6af462a5e9cf4a0e668b4575.html",
+"fecha": "2026-11-11T13:43+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El juez Pedraz pide al exabogado de Koldo que aclare un pago de 105.000 euros a la defensa de Zarrías",
+"url": "https://www.larazon.es/espana/juez-pedraz-pide-exabogado-koldo-que-aclare-pago-105000-euros-defensa-zarrias_202611116af45cbf03bbf30bb0484314.html",
+"fecha": "2026-11-11T12:17+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
-"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T11:16+00:00"
+"titulo": "Pedraz requiere a la exabogada de Koldo más información respecto a quién pagó su defensa y vincula a Oliver con Zarrías",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/pedraz-requiere-a-la-exabogada-de-koldo-mas-informacion-respecto-a-quien-pago-su-defensa-y-vincula-a-oliver-con-zarrias-7489838/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T12:13+00:00"
+}
+]
 },
 {
-"medio": "OKdiario",
-"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
-"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
-"fecha": "2026-11-10T10:59+00:00"
+"medios": 6,
+"desde": "2026-11-09T10:30+00:00",
+"hasta": "2026-11-11T19:42+00:00",
+"temas": [
+"impuestos"
+],
+"comunes": [
+"abuso",
+"sexual",
+"infantil",
+"tiktok",
+"pide",
+"gobierno",
+"videos",
+"espana"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
+"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
+"fecha": "2026-11-09T10:34+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
+"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
+"fecha": "2026-11-09T10:30+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Infancia pide a Protección de Datos paralizar TikTok tras destaparse más de mil vídeos de abuso sexual infantil",
+"url": "https://www.elespanol.com/espana/politica/20261110/infancia-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-manera-excepcional/1003744453011_0.html",
+"fecha": "2026-11-10T17:16+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
+"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
+"fecha": "2026-11-09T11:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Sira Rego pide a Protección de Datos que suspenda TikTok en España por los vídeos de abuso sexual infantil",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/sira-rego-pide-a-proteccion-de-datos-que-suspenda-tiktok-en-espana-por-los-videos-de-abuso-sexual-infantil-7489345/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T18:04+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
-"fecha": "2026-11-10T10:22+00:00"
+"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
+"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
+"fecha": "2026-11-09T10:53+00:00"
 }
 ]
 },
@@ -1313,10 +1425,10 @@
 "igualdad"
 ],
 "comunes": [
+"gobierno",
+"constitucional",
 "nacional",
 "prioridad",
-"constitucional",
-"gobierno",
 "valenciana",
 "lleva",
 "vox",
@@ -1365,12 +1477,12 @@
 "comunes": [
 "responsabilidades",
 "asuman",
-"toledo",
 "arzobispo",
+"toledo",
 "urda",
 "funeral",
 "pide",
-"esclarezcan"
+"causas"
 ],
 "titulares": [
 {
@@ -1413,14 +1525,14 @@
 "empleo"
 ],
 "comunes": [
-"preventiva",
 "huelga",
+"preventiva",
 "gobierno",
 "electoral",
 "denuncia",
 "tellado",
 "proximo",
-"arremete"
+"sanchez"
 ],
 "titulares": [
 {
@@ -1457,101 +1569,147 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-11T10:18+00:00",
-"hasta": "2026-11-11T13:00+00:00",
-"temas": [
-"pensiones"
-],
+"desde": "2026-11-11T11:51+00:00",
+"hasta": "2026-11-11T13:30+00:00",
+"temas": [],
 "comunes": [
-"abascal",
-"entrevista",
-"wild",
-"jordi",
-"vox",
-"revuelta",
-"santiago"
+"eceiza",
+"tercer",
+"etarra",
+"asier",
+"grado",
+"gobierno",
+"priede",
+"asesinato"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Ortega-Smith ironiza sobre Santiago Abascal tras cancelar su entrevista con Jordi Wild: \"Sin miedo a nada ni nadie\"",
-"url": "https://www.20minutos.es/nacional/ortega-smith-ironiza-sobre-santiago-abascal-tras-cancelar-su-entrevista-con-jordi-wild-sin-miedo-nada-ni-nadie_7059801_0.html",
-"fecha": "2026-11-11T13:00+00:00"
+"medio": "El Debate",
+"titulo": "Otro tercer grado del Gobierno vasco a un preso de ETA: esta vez a Asier Eceiza, condenado por el asesinato de Priede",
+"url": "https://www.eldebate.com/espana/pais-vasco/20261111/otro-tercer-grado-gobierno-vasco-preso-eta-esta-vez-asier-eceiza-condenado-asesinato-priede_479648.html",
+"fecha": "2026-11-11T11:52+00:00"
 },
 {
-"medio": "ABC",
-"titulo": "Vox denuncia que RTVE no ha cumplido lo acordado en la entrevista de Broncano a Abascal y anuncia la suspensión de la grabación con Jordi Wild",
-"url": "https://www.abc.es/espana/vox-denuncia-rtve-cumplido-acordado-entrevista-broncano-20261111111831-nt.html",
-"fecha": "2026-11-11T10:18+00:00"
+"medio": "La Razón",
+"titulo": "Covite denuncia la concesión de un tercer grado \"fraudulento\" al etarra Asier Eceiza",
+"url": "https://www.larazon.es/espana/covite-denuncia-concesion-nuevo-tercer-grado-fraudulento-etarra-asier-eceiza_202611116af46de303bbf30bb0485a4d.html",
+"fecha": "2026-11-11T13:30+00:00"
 },
 {
-"medio": "Ara",
-"titulo": "Vox suspèn l'entrevista de Santiago Abascal amb Jordi Wild",
-"url": "https://www.ara.cat/politica/vox-suspen-l-entrevista-santiago-abascal-jordi-wild_25_5907069.html",
-"fecha": "2026-11-11T10:38+00:00"
+"medio": "Libertad Digital",
+"titulo": "El Gobierno Vasco otorga el tercer grado al etarra Asier Eceiza, implicado en el asesinato del edil Juan Priede",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/el-gobierno-vasco-otorga-el-tercer-grado-al-etarra-asier-eceiza-implicado-en-el-asesinato-del-edil-juan-priede-7489822/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T11:51+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Abascal cancela su entrevista con Jordi Wild tras el descontento de Vox con 'La Revuelta'",
-"url": "https://www.lavanguardia.com/politica/20261111/11681528/abascal-cancela-entrevista-jordi-wild-descontento-vox-revuelta.html",
-"fecha": "2026-11-11T10:19+00:00"
+"medio": "OKdiario",
+"titulo": "El Gobierno vasco concede la semilibertad al etarra Asier Eceiza, condenado a 201 años de cárcel",
+"url": "https://okdiario.com/espana/gobierno-vasco-concede-semilibertad-etarra-asier-eceiza-condenado-201-anos-carcel-20751841",
+"fecha": "2026-11-11T11:57+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Abascal no acudirá a la entrevista con Jordi Wild tras la «censura» en ‘La revuelta’",
-"url": "https://theobjective.com/espana/politica/2026-11-11/abascal-entrevista-jordi-wild-la-revuelta/",
-"fecha": "2026-11-11T10:20+00:00"
+"titulo": "Tercer grado para el etarra Eceiza, condenado por participar en el asesinato de Priede",
+"url": "https://theobjective.com/espana/politica/2026-11-11/tercer-grado-etarra-eceiza/",
+"fecha": "2026-11-11T12:07+00:00"
 }
 ]
 },
 {
 "medios": 5,
-"desde": "2026-11-11T12:13+00:00",
-"hasta": "2026-11-11T13:50+00:00",
-"temas": [
-"defensa",
-"justicia"
-],
+"desde": "2026-11-10T19:42+00:00",
+"hasta": "2026-11-11T16:54+00:00",
+"temas": [],
 "comunes": [
-"pago",
-"koldo",
-"juez",
-"105",
-"000",
-"euros",
-"pedraz",
-"exabogado"
+"cadiz",
+"charles",
+"huelva",
+"borrasca",
+"clases",
+"suspende",
+"litoral",
+"andalucia"
 ],
 "titulares": [
 {
 "medio": "ABC",
-"titulo": "El juez del caso 'cloacas' rastrea el pago de 105.000 euros del exabogado de Koldo a un letrado del PSOE",
-"url": "https://www.abc.es/espana/juez-cloacas-rastrea-pago-105000-euros-exabogado-20261111143119-nt.html",
-"fecha": "2026-11-11T13:50+00:00"
+"titulo": "No habrá colegio este miércoles en el litoral de Cádiz y Huelva por el temporal",
+"url": "https://www.abc.es/espana/andalucia/colegio-miercoles-litoral-cadiz-huelva-temporal-20261110202336-nts.html",
+"fecha": "2026-11-10T19:45+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Andalucía suspende las clases en 30 municipios del litoral de Huelva y Cádiz ante la llegada de la borrasca Charles",
+"url": "https://www.cope.es/actualidad/espana/noticias/andalucia-suspende-clases-30-municipios-litoral-huelva-cadiz-llegada-borrasca-charles-20261110_3472580.html",
+"fecha": "2026-11-10T19:42+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "El juez Pedraz investiga un pago de 105.000 euros del ex abogado de Koldo a otro abogado contratado por el PSOE",
-"url": "https://www.eldebate.com/espana/20261111/juez-pedraz-investiga-pago-ex-abogado-koldo-otro-abogado-contratado-psoe_479697.html",
-"fecha": "2026-11-11T12:34+00:00"
+"titulo": "La Junta suspende las clases para este miércoles en el litoral de Cádiz y Huelva por la borrasca Charles",
+"url": "https://www.eldebate.com/espana/andalucia/20261110/junta-suspende-clases-este-miercoles-litoral-cadiz-huelva-borrasca-charles_479465.html",
+"fecha": "2026-11-10T19:46+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "El juez del 'caso Leire' investiga un pago de 105.000 euros del exabogado de Koldo García al letrado histórico del PSOE",
-"url": "https://www.elespanol.com/espana/tribunales/20261111/juez-caso-leire-investiga-pago-euros-exabogado-koldo-garcia-letrado-historico-psoe/1003744453979_0.html",
-"fecha": "2026-11-11T12:25+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "El juez Pedraz pide al exabogado de Koldo que aclare un pago de 105.000 euros a la defensa de Zarrías",
-"url": "https://www.larazon.es/espana/juez-pedraz-pide-exabogado-koldo-que-aclare-pago-105000-euros-defensa-zarrias_202611116af45cbf03bbf30bb0484314.html",
-"fecha": "2026-11-11T12:17+00:00"
+"titulo": "Andalucía suspende este miércoles las clases en 30 pueblos de Cádiz y Huelva por la borrasca Charles",
+"url": "https://www.elespanol.com/espana/andalucia/20261110/andalucia-suspende-miercoles-clases-pueblos-cadiz-huelva-borrasca-charles/1003744453224_0.html",
+"fecha": "2026-11-10T19:59+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Pedraz requiere a la exabogada de Koldo más información respecto a quién pagó su defensa y vincula a Oliver con Zarrías",
-"url": "https://www.libertaddigital.com/espana/2026-11-11/pedraz-requiere-a-la-exabogada-de-koldo-mas-informacion-respecto-a-quien-pago-su-defensa-y-vincula-a-oliver-con-zarrias-7489838/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-11T12:13+00:00"
+"titulo": "Andalucía envía el ES-Alert en 30 municipios y mantiene la alerta naranja por la borrasca Charles",
+"url": "https://www.libertaddigital.com/andalucia/2026-11-11/andalucia-envia-el-es-alert-en-30-municipios-y-mantiene-la-alerta-naranja-por-la-borrasca-charles-7490078/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T16:54+00:00"
+}
+]
+},
+{
+"medios": 5,
+"desde": "2026-11-11T08:40+00:00",
+"hasta": "2026-11-11T17:30+00:00",
+"temas": [
+"empleo"
+],
+"comunes": [
+"canal",
+"negro",
+"general",
+"huelga",
+"sur",
+"television",
+"andalucia",
+"emision"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Canal Sur Televisión corta la emisión y se va a negro por la huelga general",
+"url": "https://www.abc.es/espana/andalucia/canal-sur-television-negro-huelga-general-20261111091638-nts.html",
+"fecha": "2026-11-11T09:54+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Canal Sur, la televisión pública de Andalucía, se va a negro por la huelga general",
+"url": "https://www.eldebate.com/espana/andalucia/20261111/canal-sur-negro-huelga-general_479513.html",
+"fecha": "2026-11-11T08:40+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Canal Sur Televisión se va a negro por la huelga general e interrumpe la programación",
+"url": "https://www.elespanol.com/espana/andalucia/20261111/canal-sur-television-va-negro-huelga-general-interrumpe-programacion/1003744453691_0.html",
+"fecha": "2026-11-11T09:59+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Huelga general en Andalucía: Canal Sur Televisión se va a negro cinco horas y la Policía detiene a diez miembros de piquetes en la Alhambra y por quemar contenedores en Málaga",
+"url": "https://www.elmundo.es/andalucia/2026/11/11/6af446ffe85ece4d6f8b458a.html",
+"fecha": "2026-11-11T17:30+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Canal Sur se va a negro en plena emisión por la huelga general",
+"url": "https://theobjective.com/medios/2026-11-11/canal-sur-huelga-general/",
+"fecha": "2026-11-11T10:58+00:00"
 }
 ]
 },
@@ -1563,9 +1721,9 @@
 "inmigracion"
 ],
 "comunes": [
-"feijoo",
-"programa",
 "electoral",
+"programa",
+"feijoo",
 "presenta",
 "convierte"
 ],
@@ -1598,92 +1756,6 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-10T19:42+00:00",
-"hasta": "2026-11-10T19:59+00:00",
-"temas": [],
-"comunes": [
-"cadiz",
-"huelva",
-"litoral",
-"suspende",
-"charles",
-"clases",
-"borrasca",
-"miercoles"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "No habrá colegio este miércoles en el litoral de Cádiz y Huelva por el temporal",
-"url": "https://www.abc.es/espana/andalucia/colegio-miercoles-litoral-cadiz-huelva-temporal-20261110202336-nts.html",
-"fecha": "2026-11-10T19:45+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Andalucía suspende las clases en 30 municipios del litoral de Huelva y Cádiz ante la llegada de la borrasca Charles",
-"url": "https://www.cope.es/actualidad/espana/noticias/andalucia-suspende-clases-30-municipios-litoral-huelva-cadiz-llegada-borrasca-charles-20261110_3472580.html",
-"fecha": "2026-11-10T19:42+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La Junta suspende las clases para este miércoles en el litoral de Cádiz y Huelva por la borrasca Charles",
-"url": "https://www.eldebate.com/espana/andalucia/20261110/junta-suspende-clases-este-miercoles-litoral-cadiz-huelva-borrasca-charles_479465.html",
-"fecha": "2026-11-10T19:46+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Andalucía suspende este miércoles las clases en 30 pueblos de Cádiz y Huelva por la borrasca Charles",
-"url": "https://www.elespanol.com/espana/andalucia/20261110/andalucia-suspende-miercoles-clases-pueblos-cadiz-huelva-borrasca-charles/1003744453224_0.html",
-"fecha": "2026-11-10T19:59+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-09T20:03+00:00",
-"hasta": "2026-11-10T22:41+00:00",
-"temas": [
-"territorio"
-],
-"comunes": [
-"clases",
-"suspenden",
-"borrasca",
-"graciosa",
-"palma",
-"avila",
-"alerta",
-"charles"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Extremadura, La Palma y La Graciosa suspenden las clases este miércoles por un aviso rojo que también afecta a Ávila",
-"url": "https://www.20minutos.es/nacional/extremadura-palma-graciosa-suspenden-las-clases-este-miercoles-por-un-aviso-rojo-que-tambien-afecta-avila_7059402_0.html",
-"fecha": "2026-11-10T15:52+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Suspenden las clases en 32 municipios del sur de Ávila, en alerta roja por la borrasca",
-"url": "https://www.abc.es/espana/castilla-leon/lluvias-vuelven-intensidad-castilla-leon-borrasca-bruna-20261109192031-nt.html",
-"fecha": "2026-11-09T20:03+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Canarias decreta alerta máxima por viento en Tenerife y La Palma por la borrasca Charles y suspende las clases presenciales en La Palma y La Graciosa",
-"url": "https://www.cope.es/actualidad/espana/noticias/canarias-decreta-alerta-maxima-viento-tenerife-palma-borrasca-charles-suspende-clases-presenciales-palma-graciosa-20261110_3472589.html",
-"fecha": "2026-11-10T20:19+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La Palma y La Graciosa suspenden las clases presenciales este miércoles por la borrasca Charles",
-"url": "https://www.libertaddigital.com/canarias/2026-11-10/la-palma-y-la-graciosa-suspenden-las-clases-presenciales-este-miercoles-por-la-borrasca-charles-7489209/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T15:16+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-10T18:31+00:00",
 "hasta": "2026-11-11T06:58+00:00",
 "temas": [
@@ -1691,12 +1763,12 @@
 "empleo"
 ],
 "comunes": [
-"inquilinas",
-"alquiler",
-"madrid",
 "sindicato",
+"madrid",
 "sede",
 "seguro",
+"inquilinas",
+"alquiler",
 "huelga",
 "general"
 ],
@@ -1729,25 +1801,67 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-08T18:25+00:00",
+"desde": "2026-11-10T08:31+00:00",
+"hasta": "2026-11-11T08:51+00:00",
+"temas": [
+"empleo"
+],
+"comunes": [
+"servicios",
+"rodalies",
+"minimos",
+"maquinistas",
+"huelga",
+"caos"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Huelga de maquinistas: sin servicios mínimos en Rodalíes y Cercanías",
+"url": "https://www.cope.es/actualidad/espana/noticias/huelga-maquinistas-servicios-minimos-rodalies-cercanias-20261110_3471933.html",
+"fecha": "2026-11-10T09:24+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Caos en Rodalies por la huelga de maquinistas: no se están cumpliendo los servicios mínimos",
+"url": "https://www.eldebate.com/espana/cataluna/20261110/caos-rodalies-huelga-maquinistas-no-estan-cumpliendo-servicios-minimos_479039.html",
+"fecha": "2026-11-10T08:31+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Illa promete actuar ante el incumplimiento de los servicios mínimos en Rodalies",
+"url": "https://www.lavanguardia.com/politica/20261110/11680643/illa-promete-actuar-incumplimiento-servicios-minimos-rodalies.html",
+"fecha": "2026-11-10T09:41+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Caos en Rodalies por la huelga de maquinistas: suspendido el 60% de los servicios mínimos a primera hora",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-10/caos-en-rodalies-por-la-huelga-de-maquinistas-suspendido-el-60-por-ciento-de-los-servicios-minimos-a-primera-hora-7488879/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T08:48+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-09T08:43+00:00",
 "hasta": "2026-11-11T09:10+00:00",
 "temas": [],
 "comunes": [
-"estas",
-"lluvias",
-"zonas",
-"borrasca",
 "afectadas",
-"espana",
-"alerta",
-"viento"
+"zonas",
+"lluvias",
+"borrasca",
+"estas",
+"vientos",
+"llega",
+"charles"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "La borrasca Bruna trae fuertes lluvias y viento en las próximas horas a buena parte de España: estas son las zonas en alerta",
-"url": "https://www.20minutos.es/nacional/borrasca-bruna-trae-fuertes-lluvias-viento-las-proximas-horas-buena-parte-espana-estas-son-las-zonas-alerta_7058731_0.html",
-"fecha": "2026-11-08T18:25+00:00"
+"titulo": "Llega lo peor de la borrasca Charles: horas y zonas más afectadas por lluvias torrenciales, posibles inundaciones y vientos huracanados",
+"url": "https://www.20minutos.es/nacional/llega-peor-borrasca-charles-horas-zonas-mas-afectadas-lluvias-torrenciales-inundaciones-vientos-huracanados_7059612_0.html",
+"fecha": "2026-11-11T09:10+00:00"
 },
 {
 "medio": "El Confidencial",
@@ -1780,9 +1894,9 @@
 "comunes": [
 "emergencia",
 "migratoria",
-"canarias",
-"declara",
 "gobierno",
+"declara",
+"canarias",
 "hierro",
 "medios"
 ],
@@ -1821,10 +1935,10 @@
 "territorio"
 ],
 "comunes": [
-"avila",
-"caceres",
-"bruna",
 "alerta",
+"bruna",
+"caceres",
+"avila",
 "borrascas",
 "charles",
 "roja",
@@ -1859,61 +1973,18 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-11T08:40+00:00",
-"hasta": "2026-11-11T10:58+00:00",
-"temas": [
-"empleo"
-],
-"comunes": [
-"negro",
-"canal",
-"sur",
-"general",
-"huelga",
-"television",
-"emision"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Canal Sur Televisión corta la emisión y se va a negro por la huelga general",
-"url": "https://www.abc.es/espana/andalucia/canal-sur-television-negro-huelga-general-20261111091638-nts.html",
-"fecha": "2026-11-11T09:54+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Canal Sur, la televisión pública de Andalucía, se va a negro por la huelga general",
-"url": "https://www.eldebate.com/espana/andalucia/20261111/canal-sur-negro-huelga-general_479513.html",
-"fecha": "2026-11-11T08:40+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Canal Sur Televisión se va a negro por la huelga general e interrumpe la programación",
-"url": "https://www.elespanol.com/espana/andalucia/20261111/canal-sur-television-va-negro-huelga-general-interrumpe-programacion/1003744453691_0.html",
-"fecha": "2026-11-11T09:59+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Canal Sur se va a negro en plena emisión por la huelga general",
-"url": "https://theobjective.com/medios/2026-11-11/canal-sur-huelga-general/",
-"fecha": "2026-11-11T10:58+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-11T09:58+00:00",
 "hasta": "2026-11-11T12:41+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
-"condena",
-"koldo",
-"constitucional",
 "pide",
-"recurso",
+"condena",
+"constitucional",
+"koldo",
 "suspenda",
+"recurso",
 "resuelve",
 "garcia"
 ],
@@ -1946,170 +2017,170 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-08T19:37+00:00",
-"hasta": "2026-11-11T13:26+00:00",
+"desde": "2026-11-11T10:25+00:00",
+"hasta": "2026-11-11T17:58+00:00",
 "temas": [
-"inmigracion"
-],
-"comunes": [
-"tres",
-"hierro",
-"cayucos",
-"inmigrantes",
-"llegan",
-"domingo",
-"600"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Más de 600 inmigrantes llegan a El Hierro este domingo a bordo de tres cayucos",
-"url": "https://www.eldebate.com/espana/20261108/600-inmigrantes-llegan-hierro-este-domingo-bordo-tres-cayucos_478722.html",
-"fecha": "2026-11-08T19:37+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Llegan tres cayucos con 211 migrantes a El Hierro en las últimas horas",
-"url": "https://www.lavanguardia.com/vida/20261111/11681699/llegan-tres-cayucos-211-migrantes-hierro-ultimas-horas.html",
-"fecha": "2026-11-11T13:26+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Cerca de 300 inmigrantes ilegales alcanzan El Hierro en tres cayucos durante el domingo",
-"url": "https://www.libertaddigital.com/canarias/2026-11-08/cerca-de-300-inmigrantes-ilegales-alcanzan-el-hierro-en-tres-cayucos-durante-el-domingo-7488361/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-08T20:09+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Más de 600 inmigrantes llegan a El Hierro este domingo en tres cayucos",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-08/mas-600-inmigrantes-llegan-el-hierro-domingo-tres-cayucos/",
-"fecha": "2026-11-08T20:47+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-11T11:51+00:00",
-"hasta": "2026-11-11T13:30+00:00",
-"temas": [],
-"comunes": [
-"grado",
-"tercer",
-"eceiza",
-"asier",
-"asesinato",
-"etarra",
-"priede",
-"vasco"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Otro tercer grado del Gobierno vasco a un preso de ETA: esta vez a Asier Eceiza, condenado por el asesinato de Priede",
-"url": "https://www.eldebate.com/espana/pais-vasco/20261111/otro-tercer-grado-gobierno-vasco-preso-eta-esta-vez-asier-eceiza-condenado-asesinato-priede_479648.html",
-"fecha": "2026-11-11T11:52+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Covite denuncia la concesión de un tercer grado \"fraudulento\" al etarra Asier Eceiza",
-"url": "https://www.larazon.es/espana/covite-denuncia-concesion-nuevo-tercer-grado-fraudulento-etarra-asier-eceiza_202611116af46de303bbf30bb0485a4d.html",
-"fecha": "2026-11-11T13:30+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "El Gobierno Vasco otorga el tercer grado al etarra Asier Eceiza, implicado en el asesinato del edil Juan Priede",
-"url": "https://www.libertaddigital.com/espana/2026-11-11/el-gobierno-vasco-otorga-el-tercer-grado-al-etarra-asier-eceiza-implicado-en-el-asesinato-del-edil-juan-priede-7489822/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-11T11:51+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Tercer grado para el etarra Eceiza, condenado por participar en el asesinato de Priede",
-"url": "https://theobjective.com/espana/politica/2026-11-11/tercer-grado-etarra-eceiza/",
-"fecha": "2026-11-11T12:07+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-11T09:37+00:00",
-"hasta": "2026-11-11T14:40+00:00",
-"temas": [
-"empleo",
-"energia"
-],
-"comunes": [
-"piquetes",
-"cargas",
-"policiales",
-"general",
-"huelga",
-"sindicatos",
-"cortes",
-"minimos"
-],
-"titulares": [
-{
-"medio": "El Español",
-"titulo": "Huelga general del 11-N, en directo | Manifestaciones, piquetes, servicios mínimos, sindicatos, incidencias y cortes de tráfico",
-"url": "https://www.elespanol.com/espana/20261110/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones-piquetes-incidencias-sindicatos/1003744452728_10.html",
-"fecha": "2026-11-11T10:31+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Los sindicatos planean acciones judiciales por las cargas policiales contra piquetes",
-"url": "https://www.eldiario.es/politica/sindicatos-planean-acciones-judiciales-cargas-policiales-piquetes_1_13654290.html",
-"fecha": "2026-11-11T09:37+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Huelga general 11N, en directo: última hora de los paros, piquetes, cargas policiales, manifestaciones y servicios mínimos en toda España",
-"url": "https://www.larazon.es/espana/huelga-general-11n-directo-ultima-hora-paros-manifestaciones-servicios-minimos-toda-espana_202611116af3f78a03bbf30bb047d601.html",
-"fecha": "2026-11-11T10:30+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "VÍDEO | Piquetes, cortes de carreteras y cargas policiales: las imágenes de la HUELGA GENERAL",
-"url": "https://theobjective.com/videos/espana/2026-11-11/piquetes-cortes-cargas-huelga-general/",
-"fecha": "2026-11-11T09:57+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-08T18:08+00:00",
-"hasta": "2026-11-08T20:00+00:00",
-"temas": [
-"inmigracion",
 "empleo"
 ],
 "comunes": [
-"menores",
-"diez",
-"acogida",
-"agredir",
-"reyertas",
-"centros",
-"ceuta",
-"personal"
+"huelga",
+"seguimiento",
+"ceoe",
+"califican",
+"exito",
+"sindicatos",
+"cifra",
+"general"
 ],
 "titulares": [
 {
-"medio": "El Debate",
-"titulo": "Detenidos diez menores en Ceuta por reyertas en centros de acogida y agredir al personal",
-"url": "https://www.eldebate.com/espana/20261108/detenidos-diez-menores-ceuta-reyertas-centros-acogida-agredir-personal_478713.html",
-"fecha": "2026-11-08T18:08+00:00"
+"medio": "COPE",
+"titulo": "La CEOE califica la huelga general de \"fracaso\" y \"mínimos históricos\", con un seguimiento por debajo del 5%",
+"url": "https://www.cope.es/actualidad/economia/noticias/ceoe-califica-huelga-general-fracaso-minimos-historicos-seguimiento-debajo-5-20261111_3473300.html",
+"fecha": "2026-11-11T17:58+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "La Policía Nacional detiene a diez menores en centros de acogida de Ceuta por protagonizar reyertas y agredir a cuatro trabajadores",
-"url": "https://okdiario.com/espana/policia-nacional-detiene-diez-menores-centros-acogida-ceuta-protagonizar-reyertas-20727103",
-"fecha": "2026-11-08T18:18+00:00"
+"medio": "El Debate",
+"titulo": "Los sindicatos califican de «éxito» la huelga en Castilla y León, pero CEOE cifra el seguimiento en el 2,6 %",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261111/sindicatos-califican-exito-huelga-castilla-leon-ceoe-cifra-seguimiento-26_479633.html",
+"fecha": "2026-11-11T11:41+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Los sindicatos presumen de un seguimiento de la huelga de entre el 41% y el 75% y la califican de \"éxito\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/los-sindicatos-presumen-de-un-seguimiento-de-la-huelga-de-entre-el-41-por-ciento-y-el-75-por-ciento-y-la-califican-de-exito-7489648/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:25+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Detenidos diez menores en Ceuta por reyertas en centros de acogida y agredir al personal",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-08/detenidos-diez-menores-ceuta-reyertas-centros-acogida-agredir-personal/",
-"fecha": "2026-11-08T20:00+00:00"
+"titulo": "La CEOE certifica el «fracaso» de la huelga general y cifra su seguimiento en menos del 5%",
+"url": "https://theobjective.com/economia/2026-11-11/ceoe-fracaso-huelga-general-seguimiento/",
+"fecha": "2026-11-11T17:37+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-11T08:48+00:00",
+"hasta": "2026-11-11T18:05+00:00",
+"temas": [],
+"comunes": [
+"arzobispo",
+"barcelona",
+"octavi",
+"vila",
+"nuevo",
+"omella"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona",
+"url": "https://www.cope.es/actualidad/linea-editorial/audios/octavi-vila-nuevo-arzobispo-barcelona-20261111_3473253.html",
+"fecha": "2026-11-11T18:05+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Fray Octavi Vilà, nuevo arzobispo de Barcelona en sustitución de Omella",
+"url": "https://www.eldebate.com/religion/20261111/leon-xiv-nombra-fray-octavi-vila-nuevo-arzobispo-barcelona_479576.html",
+"fecha": "2026-11-11T11:01+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Octavi Vilà, obispo de Girona, reemplazará a Omella como arzobispo de Barcelona",
+"url": "https://www.lavanguardia.com/politica/20261111/11681408/octavi-vila-obispo-girona-reemplazara-omella-arzobispo-barcelona.html",
+"fecha": "2026-11-11T08:48+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona por nombramiento del papa León XIV",
+"url": "https://theobjective.com/sociedad/2026-11-11/octavi-vila-arzobispo-barcelona/",
+"fecha": "2026-11-11T11:49+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-09T20:03+00:00",
+"hasta": "2026-11-11T18:59+00:00",
+"temas": [
+"territorio"
+],
+"comunes": [
+"clases",
+"suspenden",
+"borrasca",
+"palma",
+"graciosa",
+"avila",
+"alerta",
+"presenciales"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Extremadura, La Palma y La Graciosa suspenden las clases este miércoles por un aviso rojo que también afecta a Ávila",
+"url": "https://www.20minutos.es/nacional/extremadura-palma-graciosa-suspenden-las-clases-este-miercoles-por-un-aviso-rojo-que-tambien-afecta-avila_7059402_0.html",
+"fecha": "2026-11-10T15:52+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Suspenden las clases en 32 municipios del sur de Ávila, en alerta roja por la borrasca",
+"url": "https://www.abc.es/espana/castilla-leon/lluvias-vuelven-intensidad-castilla-leon-borrasca-bruna-20261109192031-nt.html",
+"fecha": "2026-11-09T20:03+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Canarias decreta alerta máxima por viento en Tenerife y La Palma por la borrasca Charles y suspende las clases presenciales en La Palma y La Graciosa",
+"url": "https://www.cope.es/actualidad/espana/noticias/canarias-decreta-alerta-maxima-viento-tenerife-palma-borrasca-charles-suspende-clases-presenciales-palma-graciosa-20261110_3472589.html",
+"fecha": "2026-11-10T20:19+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Palma y La Graciosa suspenden las clases presenciales este miércoles por la borrasca Charles",
+"url": "https://www.libertaddigital.com/canarias/2026-11-10/la-palma-y-la-graciosa-suspenden-las-clases-presenciales-este-miercoles-por-la-borrasca-charles-7489209/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T15:16+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-11T15:33+00:00",
+"hasta": "2026-11-11T19:06+00:00",
+"temas": [],
+"comunes": [
+"juez",
+"prorroga",
+"imputaciones",
+"zapatero",
+"descarta",
+"investigacion",
+"nuevas"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El juez prorroga la investigación a Zapatero y no descarta nuevas imputaciones",
+"url": "https://www.20minutos.es/nacional/juez-prorroga-investigacion-zapatero-no-descarta-nuevas-imputaciones_7059918_0.html",
+"fecha": "2026-11-11T17:37+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El juez prorroga el caso Plus Ultra a la espera de informes de la UDEF y no descarta más imputaciones",
+"url": "https://www.larazon.es/espana/juez-prorroga-caso-plus-ultra-espera-informes-udef-descarta-mas-imputaciones_202611116af48abdd3bddc0868adea61.html",
+"fecha": "2026-11-11T15:33+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El juez prorroga seis meses la causa contra Rodríguez Zapatero",
+"url": "https://www.lavanguardia.com/politica/20261111/11681907/juez-prorroga-seis-meses-causa-rodriguez-zapatero.html",
+"fecha": "2026-11-11T19:06+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El juez Calama prorroga hasta mayo de 2027 la investigación a Zapatero y abre la puerta a nuevas imputaciones",
+"url": "https://okdiario.com/espana/juez-calama-prorroga-hasta-mayo-2027-investigacion-zapatero-abre-puerta-nuevas-imputaciones-20755288",
+"fecha": "2026-11-11T18:07+00:00"
 }
 ]
 },
@@ -2120,13 +2191,13 @@
 "temas": [],
 "comunes": [
 "niega",
-"empresa",
 "bonus",
 "cupula",
+"empresa",
 "haya",
 "adif",
-"directiva",
-"aprobado"
+"aprobado",
+"directiva"
 ],
 "titulares": [
 {
@@ -2187,5 +2258,5 @@
 ]
 }
 ],
-"recogidas": 2252
+"recogidas": 2347
 }

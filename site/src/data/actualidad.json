@@ -1,10 +1,10 @@
 {
-"actualizado": "2026-11-11T10:43+00:00",
+"actualizado": "2026-11-11T12:38+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 117,
-"El Confidencial": 15,
+"COPE": 116,
+"El Confidencial": "ERROR HTTP Error 404: Not Found",
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 48,
@@ -17,7 +17,7 @@
 "RTVE": 180,
 "The Objective": 20,
 "20minutos": 30,
-"El Debate": 109,
+"El Debate": 114,
 "La Razón": 15
 },
 "sin_feed": [
@@ -34,10 +34,10 @@
 ],
 "comunes": [
 "supremo",
-"nietos",
 "hijos",
-"voto",
+"nietos",
 "ley",
+"voto",
 "nacionalizados",
 "suspender",
 "rechaza"
@@ -144,8 +144,8 @@
 "justicia"
 ],
 "comunes": [
-"abogada",
 "koldo",
+"abogada",
 "renuncia",
 "defensa",
 "garcia"
@@ -225,9 +225,9 @@
 "hasta": "2026-11-10T07:53+00:00",
 "temas": [],
 "comunes": [
-"debates",
 "academia",
 "television",
+"debates",
 "acepta",
 "electorales",
 "organice",
@@ -305,8 +305,8 @@
 "semilibertad",
 "anboto",
 "eta",
-"audiencia",
 "nacional",
+"audiencia",
 "exjefa",
 "revoca"
 ],
@@ -379,8 +379,8 @@
 "hasta": "2026-11-11T09:10+00:00",
 "temas": [],
 "comunes": [
-"oviedo",
 "policia",
+"oviedo",
 "explosion",
 "herido",
 "muere",
@@ -452,8 +452,8 @@
 "comunes": [
 "academia",
 "organice",
-"psoe",
 "television",
+"psoe",
 "propone",
 "debate",
 "rtve",
@@ -585,8 +585,8 @@
 ],
 "comunes": [
 "delcy",
-"aldama",
 "psoe",
+"aldama",
 "rodriguez",
 "financiacion",
 "querella",
@@ -640,77 +640,17 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-10T10:22+00:00",
-"hasta": "2026-11-10T13:06+00:00",
-"temas": [],
-"comunes": [
-"piedralaves",
-"presa",
-"avila",
-"riesgo",
-"desbordamiento",
-"evacuar",
-"horcajo",
-"rebosamiento"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "«Muy nerviosos» en Piedralaves ante el riesgo de rebosamiento de la presa que se encuentra por encima del pueblo",
-"url": "https://www.abc.es/espana/castilla-leon/nerviosos-piedralaves-ante-riesgo-rebosamiento-presa-encuentra-20261110140608-nt.html",
-"fecha": "2026-11-10T13:06+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
-"fecha": "2026-11-10T10:35+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
-"fecha": "2026-11-10T10:38+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Ordenada la evacuación de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
-"url": "https://elpais.com/espana/2026-11-10/ordenan-la-evacuacion-del-municipio-de-piedralaves-avila-ante-el-posible-rebosamiento-de-la-presa-del-horcajo.html",
-"fecha": "2026-11-10T12:33+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
-"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T11:16+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
-"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
-"fecha": "2026-11-10T10:59+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
-"fecha": "2026-11-10T10:22+00:00"
-}
-]
-},
-{
-"medios": 7,
 "desde": "2026-11-10T12:59+00:00",
 "hasta": "2026-11-10T16:29+00:00",
 "temas": [],
 "comunes": [
-"bolivia",
 "audiencia",
+"bolivia",
 "zapatero",
-"avala",
 "nacional",
-"investigar",
+"avala",
 "influencias",
+"investigar",
 "trafico"
 ],
 "titulares": [
@@ -825,8 +765,8 @@
 "hasta": "2026-11-11T10:36+00:00",
 "temas": [],
 "comunes": [
-"consejos",
 "ministros",
+"consejos",
 "sanchez",
 "extraordinarios",
 "sociales",
@@ -887,11 +827,11 @@
 "territorio"
 ],
 "comunes": [
-"amplio",
-"lema",
 "casa",
 "voto",
-"frente"
+"frente",
+"amplio",
+"lema"
 ],
 "titulares": [
 {
@@ -940,14 +880,14 @@
 "inmigracion"
 ],
 "comunes": [
-"ceuta",
-"puerto",
-"campamento",
 "policia",
+"campamento",
+"puerto",
+"ceuta",
 "desaloja",
 "inmigrantes",
 "migrantes",
-"segundo"
+"consecutivo"
 ],
 "titulares": [
 {
@@ -998,12 +938,12 @@
 ],
 "comunes": [
 "fiscalia",
-"fergie",
-"eeuu",
 "extraditar",
 "chambers",
-"multimillonario",
+"eeuu",
+"fergie",
 "propalestino",
+"multimillonario",
 "apoya"
 ],
 "titulares": [
@@ -1053,10 +993,10 @@
 "impuestos"
 ],
 "comunes": [
-"infantil",
 "tiktok",
 "abuso",
 "sexual",
+"infantil",
 "pide",
 "gobierno",
 "videos",
@@ -1111,12 +1051,12 @@
 ],
 "comunes": [
 "directo",
-"hora",
 "ultima",
-"elecciones",
+"hora",
 "generales",
-"politica",
+"elecciones",
 "actualidad",
+"politica",
 "precampana"
 ],
 "titulares": [
@@ -1159,19 +1099,74 @@
 ]
 },
 {
+"medios": 6,
+"desde": "2026-11-09T15:36+00:00",
+"hasta": "2026-11-11T11:17+00:00",
+"temas": [
+"pensiones"
+],
+"comunes": [
+"iustitia",
+"europa",
+"hijos",
+"nietos",
+"ley",
+"recurre",
+"votar"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Iustitia Europa recurre al Supremo que voten los hijos de los nacionalizados por la ‘ley de nietos’ el 29N y pide apartar sus sufragios",
+"url": "https://www.20minutos.es/nacional/iustitia-europa-recurre-supremo-que-voten-los-hijos-los-nacionalizados-por-ley-nietos-29n-pide-apartar-sus-sufragios_7059276_0.html",
+"fecha": "2026-11-10T12:24+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Luis María Pardo, presidente de Iustitia Europa: \"Es una contradicción que puedan votar los hijos y no los padres. Habrá gente votando que igual no tiene derecho porque no son españoles ya que sus antecesores no lo son\"",
+"url": "https://www.cope.es/programas/mediodia-cope/noticias/luis-maria-pardo-presidente-iustitia-europa-contradiccion-puedan-votar-hijos-no-padres-habra-gente-votando-igual-no-derecho-no-son-espanoles-antecesores-no-son-20261109_3471700.html",
+"fecha": "2026-11-09T15:36+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Iustitia Europa recurre la no suspensión del voto a los hijos de la 'ley de nietos' y avisa de impacto en el escrutinio",
+"url": "https://www.europapress.es/nacional/noticia-iustitia-europa-recurre-no-suspension-voto-hijos-ley-nietos-avisa-impacto-escrutinio-20261110115823.html",
+"fecha": "2026-11-10T10:58+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Iustitia Europa aboga por reforzar los controles electorales tras la polémica por la \"ley de nietos\"",
+"url": "https://www.larazon.es/espana/iustitia-europa-aboga-reforzar-controles-electorales-polemica-ley-nietos_202611116af44ec24196933d7ed930f7.html",
+"fecha": "2026-11-11T11:17+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Iustitia Europa recurre la \"contradictoria\" decisión del Supremo de dejar votar a los hijos de los Nietos",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/iustitia-europa-recurre-la-contradictoria-decision-del-supremo-de-dejar-votar-a-los-hijos-de-los-nietos-7489010/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:27+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Iustitia Europa recurre que los hijos de los beneficiados por la ‘ley de nietos’ puedan votar",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/iustitia-europa-hijos-ley-nietos/",
+"fecha": "2026-11-10T10:54+00:00"
+}
+]
+},
+{
 "medios": 5,
 "desde": "2026-11-08T13:54+00:00",
 "hasta": "2026-11-08T17:55+00:00",
 "temas": [],
 "comunes": [
-"detenidos",
 "diez",
 "nacional",
 "nucleo",
+"detenidos",
 "libertad",
 "miembros",
 "pais",
-"pasaporte"
+"jueza"
 ],
 "titulares": [
 {
@@ -1212,14 +1207,14 @@
 "hasta": "2026-11-10T10:55+00:00",
 "temas": [],
 "comunes": [
-"broncano",
+"paso",
+"abascal",
 "mal",
 "entrevista",
-"abascal",
-"paso",
+"broncano",
+"cree",
 "izquierda",
-"presion",
-"cree"
+"presion"
 ],
 "titulares": [
 {
@@ -1256,51 +1251,49 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-09T15:36+00:00",
-"hasta": "2026-11-10T12:24+00:00",
-"temas": [
-"pensiones"
-],
+"desde": "2026-11-10T10:22+00:00",
+"hasta": "2026-11-10T11:16+00:00",
+"temas": [],
 "comunes": [
-"europa",
-"iustitia",
-"hijos",
-"nietos",
-"recurre",
-"votar",
-"ley",
-"puedan"
+"piedralaves",
+"desbordamiento",
+"avila",
+"riesgo",
+"presa",
+"evacuar",
+"civil",
+"proteccion"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Iustitia Europa recurre al Supremo que voten los hijos de los nacionalizados por la ‘ley de nietos’ el 29N y pide apartar sus sufragios",
-"url": "https://www.20minutos.es/nacional/iustitia-europa-recurre-supremo-que-voten-los-hijos-los-nacionalizados-por-ley-nietos-29n-pide-apartar-sus-sufragios_7059276_0.html",
-"fecha": "2026-11-10T12:24+00:00"
+"medio": "El Debate",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
+"fecha": "2026-11-10T10:35+00:00"
 },
 {
-"medio": "COPE",
-"titulo": "Luis María Pardo, presidente de Iustitia Europa: \"Es una contradicción que puedan votar los hijos y no los padres. Habrá gente votando que igual no tiene derecho porque no son españoles ya que sus antecesores no lo son\"",
-"url": "https://www.cope.es/programas/mediodia-cope/noticias/luis-maria-pardo-presidente-iustitia-europa-contradiccion-puedan-votar-hijos-no-padres-habra-gente-votando-igual-no-derecho-no-son-espanoles-antecesores-no-son-20261109_3471700.html",
-"fecha": "2026-11-09T15:36+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Iustitia Europa recurre la no suspensión del voto a los hijos de la 'ley de nietos' y avisa de impacto en el escrutinio",
-"url": "https://www.europapress.es/nacional/noticia-iustitia-europa-recurre-no-suspension-voto-hijos-ley-nietos-avisa-impacto-escrutinio-20261110115823.html",
-"fecha": "2026-11-10T10:58+00:00"
+"medio": "El Mundo",
+"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+"fecha": "2026-11-10T10:38+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Iustitia Europa recurre la \"contradictoria\" decisión del Supremo de dejar votar a los hijos de los Nietos",
-"url": "https://www.libertaddigital.com/espana/2026-11-10/iustitia-europa-recurre-la-contradictoria-decision-del-supremo-de-dejar-votar-a-los-hijos-de-los-nietos-7489010/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T11:27+00:00"
+"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:16+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
+"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
+"fecha": "2026-11-10T10:59+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Iustitia Europa recurre que los hijos de los beneficiados por la ‘ley de nietos’ puedan votar",
-"url": "https://theobjective.com/espana/tribunales/2026-11-10/iustitia-europa-hijos-ley-nietos/",
-"fecha": "2026-11-10T10:54+00:00"
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
+"fecha": "2026-11-10T10:22+00:00"
 }
 ]
 },
@@ -1312,10 +1305,10 @@
 "igualdad"
 ],
 "comunes": [
-"constitucional",
-"prioridad",
 "gobierno",
+"prioridad",
 "nacional",
+"constitucional",
 "valenciana",
 "lleva",
 "vox",
@@ -1362,10 +1355,10 @@
 "justicia"
 ],
 "comunes": [
-"asuman",
 "responsabilidades",
-"arzobispo",
+"asuman",
 "toledo",
+"arzobispo",
 "urda",
 "funeral",
 "pide",
@@ -1412,12 +1405,12 @@
 "defensa"
 ],
 "comunes": [
-"menos",
-"mirar",
-"trump",
-"trenes",
 "sanchez",
+"menos",
 "feijoo",
+"trump",
+"mirar",
+"trenes",
 "pide"
 ],
 "titulares": [
@@ -1453,13 +1446,13 @@
 "hasta": "2026-11-09T04:00+00:00",
 "temas": [],
 "comunes": [
+"devuelvan",
+"feijoo",
 "adif",
 "gratificaciones",
-"feijoo",
-"devuelvan",
 "vomitivo",
-"directivos",
 "exige",
+"directivos",
 "cobrado"
 ],
 "titulares": [
@@ -1498,8 +1491,8 @@
 ],
 "comunes": [
 "programa",
-"feijoo",
 "electoral",
+"feijoo",
 "presenta",
 "convierte"
 ],
@@ -1538,11 +1531,11 @@
 "comunes": [
 "cadiz",
 "huelva",
-"borrasca",
-"litoral",
-"charles",
 "clases",
 "suspende",
+"litoral",
+"borrasca",
+"charles",
 "miercoles"
 ],
 "titulares": [
@@ -1575,7 +1568,7 @@
 {
 "medios": 4,
 "desde": "2026-11-09T20:03+00:00",
-"hasta": "2026-11-10T22:49+00:00",
+"hasta": "2026-11-10T22:41+00:00",
 "temas": [
 "territorio"
 ],
@@ -1585,9 +1578,9 @@
 "suspenden",
 "graciosa",
 "palma",
-"alerta",
 "avila",
-"charles"
+"alerta",
+"presenciales"
 ],
 "titulares": [
 {
@@ -1618,51 +1611,6 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-10T10:00+00:00",
-"hasta": "2026-11-11T03:00+00:00",
-"temas": [
-"empleo",
-"sanidad"
-],
-"comunes": [
-"general",
-"manifestacion",
-"huelga",
-"horario",
-"madrid",
-"recorrido",
-"noviembre",
-"cortes"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Horario y recorrido de la manifestación por la huelga general del 11N en Madrid",
-"url": "https://www.20minutos.es/nacional/manifestacion-huelga-general-11-noviembre-madrid-horario-recorrido_7059269_0.html",
-"fecha": "2026-11-10T14:54+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Huelga general el 11 de noviembre en Madrid: horario y recorrido de la manifestación, servicios mínimos en transporte y hospitales y cortes de tráfico",
-"url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
-"fecha": "2026-11-10T10:00+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Manifestación por la huelga general del 11N en Valencia: horario y recorrido",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/manifestacion-huelga-general-11n-valencia-horario-recorrido_479230.html",
-"fecha": "2026-11-11T03:00+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "¿A qué hora es la manifestación de la huelga general del 11 de noviembre? Horarios y cortes de tráfico en Madrid, Barcelona y Valencia",
-"url": "https://okdiario.com/espana/que-hora-manifestacion-huelga-general-del-11-noviembre-horarios-cortes-trafico-madrid-barcelona-valencia-20745175",
-"fecha": "2026-11-10T22:30+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-10T18:31+00:00",
 "hasta": "2026-11-11T06:58+00:00",
 "temas": [
@@ -1670,14 +1618,14 @@
 "empleo"
 ],
 "comunes": [
-"inquilinas",
-"alquiler",
-"seguro",
 "madrid",
-"sindicato",
 "sede",
+"sindicato",
+"seguro",
+"alquiler",
+"inquilinas",
 "huelga",
-"general"
+"toma"
 ],
 "titulares": [
 {
@@ -1712,14 +1660,14 @@
 "hasta": "2026-11-11T09:10+00:00",
 "temas": [],
 "comunes": [
-"zonas",
 "lluvias",
 "estas",
+"zonas",
 "borrasca",
 "afectadas",
-"alerta",
-"viento",
-"espana"
+"fuertes",
+"bruna",
+"viento"
 ],
 "titulares": [
 {
@@ -1759,9 +1707,9 @@
 "comunes": [
 "emergencia",
 "migratoria",
-"canarias",
-"declara",
 "gobierno",
+"declara",
+"canarias",
 "hierro",
 "medios"
 ],
@@ -1800,13 +1748,13 @@
 "territorio"
 ],
 "comunes": [
-"alerta",
-"caceres",
 "avila",
 "bruna",
+"alerta",
+"caceres",
 "borrascas",
-"charles",
 "roja",
+"charles",
 "lluvias"
 ],
 "titulares": [
@@ -1838,16 +1786,146 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-11T08:40+00:00",
+"hasta": "2026-11-11T10:58+00:00",
+"temas": [
+"empleo"
+],
+"comunes": [
+"canal",
+"negro",
+"sur",
+"general",
+"huelga",
+"television",
+"emision"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Canal Sur Televisión corta la emisión y se va a negro por la huelga general",
+"url": "https://www.abc.es/espana/andalucia/canal-sur-television-negro-huelga-general-20261111091638-nts.html",
+"fecha": "2026-11-11T09:54+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Canal Sur, la televisión pública de Andalucía, se va a negro por la huelga general",
+"url": "https://www.eldebate.com/espana/andalucia/20261111/canal-sur-negro-huelga-general_479513.html",
+"fecha": "2026-11-11T08:40+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Canal Sur Televisión se va a negro por la huelga general e interrumpe la programación",
+"url": "https://www.elespanol.com/espana/andalucia/20261111/canal-sur-television-va-negro-huelga-general-interrumpe-programacion/1003744453691_0.html",
+"fecha": "2026-11-11T09:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Canal Sur se va a negro en plena emisión por la huelga general",
+"url": "https://theobjective.com/medios/2026-11-11/canal-sur-huelga-general/",
+"fecha": "2026-11-11T10:58+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-10T10:00+00:00",
+"hasta": "2026-11-11T11:02+00:00",
+"temas": [
+"empleo",
+"sanidad"
+],
+"comunes": [
+"manifestacion",
+"general",
+"huelga",
+"recorrido",
+"madrid",
+"horario",
+"trafico",
+"noviembre"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Horario y recorrido de la manifestación por la huelga general del 11N en Madrid",
+"url": "https://www.20minutos.es/nacional/manifestacion-huelga-general-11-noviembre-madrid-horario-recorrido_7059269_0.html",
+"fecha": "2026-11-10T14:54+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Huelga general el 11 de noviembre en Madrid: horario y recorrido de la manifestación, servicios mínimos en transporte y hospitales y cortes de tráfico",
+"url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
+"fecha": "2026-11-10T10:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Manifestación por la huelga general del 11N en Valencia: horario y recorrido",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/manifestacion-huelga-general-11n-valencia-horario-recorrido_479230.html",
+"fecha": "2026-11-11T03:00+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "¿A qué hora es la manifestación de la huelga general del 11 de noviembre? Horarios y cortes de tráfico en Madrid, Barcelona y Valencia",
+"url": "https://okdiario.com/espana/que-hora-manifestacion-huelga-general-del-11-noviembre-horarios-cortes-trafico-madrid-barcelona-valencia-20745175",
+"fecha": "2026-11-10T22:30+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-09T11:57+00:00",
+"hasta": "2026-11-11T11:29+00:00",
+"temas": [
+"empleo"
+],
+"comunes": [
+"preventiva",
+"huelga",
+"gobierno",
+"electoral",
+"denuncia",
+"proximo"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El PP carga contra los sindicatos por la huelga \"preventiva\" y \"electoral\" que se celebra \"contra el próximo Gobierno\"",
+"url": "https://www.20minutos.es/nacional/pp-carga-contra-los-sindicatos-por-huelga-preventiva-electoral-que-se-celebra-contra-proximo-gobierno_7059724_0.html",
+"fecha": "2026-11-11T11:29+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El PP arremete contra la huelga general por \"electoral\", \"preventiva\" y por \"trabajar\" para la campaña de Sánchez",
+"url": "https://www.elmundo.es/espana/2026/11/11/6af43da8e4d4d8f8248b45a8.html",
+"fecha": "2026-11-11T10:10+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Tellado denuncia la huelga \"preventiva\" contra el PP y acusa al Gobierno de \"azuzarla\"",
+"url": "https://www.larazon.es/espana/tellado-denuncia-huelga-preventiva-acusa-gobierno-azuzarla_202611096af1b52a9a31a65adcd5a673.html",
+"fecha": "2026-11-09T11:57+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
+"url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
+"fecha": "2026-11-11T09:30+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-11T10:18+00:00",
-"hasta": "2026-11-11T10:38+00:00",
+"hasta": "2026-11-11T12:19+00:00",
 "temas": [
 "pensiones"
 ],
 "comunes": [
+"abascal",
 "jordi",
 "entrevista",
 "wild",
-"abascal",
 "vox",
 "revuelta"
 ],
@@ -1880,89 +1958,17 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-08T11:51+00:00",
-"hasta": "2026-11-08T12:53+00:00",
-"temas": [],
-"comunes": [
-"movilizaciones",
-"irene",
-"aumento",
-"policial",
-"violencia",
-"premeditado",
-"acusa",
-"gobierno"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
-"url": "https://www.20minutos.es/nacional/irene-montero-acusa-gobierno-un-aumento-premeditado-violencia-policial-contra-las-movilizaciones_7058674_0.html",
-"fecha": "2026-11-08T12:53+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
-"url": "https://www.europapress.es/nacional/noticia-irene-montero-acusa-gobierno-aumento-premeditado-violencia-policial-contra-movilizaciones-20261108125106.html",
-"fecha": "2026-11-08T11:51+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Irene Montero acusa al Gobierno de un aumento \"premeditado\" de la \"violencia policial\" contra las movilizaciones",
-"url": "https://www.larazon.es/espana/irene-montero-acusa-gobierno-aumento-premeditado-violencia-policial-movilizaciones_202611086af0634c9a31a65adcd477dd.html",
-"fecha": "2026-11-08T11:56+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-08T10:49+00:00",
-"hasta": "2026-11-08T13:31+00:00",
-"temas": [],
-"comunes": [
-"enclenque",
-"partido",
-"ibarra",
-"psoe",
-"rodriguez",
-"sustancia",
-"socialista",
-"encogido"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Rodríguez Ibarra, histórico líder socialista: «El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido»",
-"url": "https://www.eldebate.com/espana/20261108/rodriguez-ibarra-historico-lider-socialista-psoe-estos-momentos-partido-sustancia-peso-enclenque-encogido_478608.html",
-"fecha": "2026-11-08T10:49+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Rodríguez Ibarra: \"El PSOE en estos momentos es un partido sin sustancia, sin peso, enclenque y encogido\"",
-"url": "https://www.larazon.es/espana/rodriguez-ibarra-psoe-estos-momentos-partido-sustancia-peso-enclenque-encogido_202611086af057ba4196933d7ed56063.html",
-"fecha": "2026-11-08T11:06+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Rodríguez Ibarra, ex presidente socialista de Extremadura, retrata al PSOE de Sánchez: «Es un partido sin sustancia y enclenque»",
-"url": "https://okdiario.com/espana/rodriguez-ibarra-ex-presidente-socialista-extremadura-retrata-psoe-sanchez-partido-sin-sustancia-enclenque-20725943",
-"fecha": "2026-11-08T13:31+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-08T14:03+00:00",
 "hasta": "2026-11-08T17:35+00:00",
 "temas": [],
 "comunes": [
-"mucho",
 "perras",
-"garcia",
 "monica",
-"somos",
-"habla",
 "perro",
+"mucho",
+"habla",
+"garcia",
+"somos",
 "cosas"
 ],
 "titulares": [
@@ -1995,14 +2001,14 @@
 "empleo"
 ],
 "comunes": [
-"ceuta",
-"acogida",
 "reyertas",
+"diez",
+"acogida",
 "centros",
 "agredir",
-"diez",
 "menores",
-"personal"
+"ceuta",
+"detenidos"
 ],
 "titulares": [
 {
@@ -2033,13 +2039,13 @@
 "inmigracion"
 ],
 "comunes": [
-"hierro",
-"cayucos",
-"domingo",
 "tres",
+"cayucos",
 "inmigrantes",
-"llegan",
-"600"
+"domingo",
+"hierro",
+"600",
+"llegan"
 ],
 "titulares": [
 {
@@ -2068,12 +2074,12 @@
 "hasta": "2026-11-08T22:20+00:00",
 "temas": [],
 "comunes": [
-"haya",
-"adif",
-"niega",
 "empresa",
-"bonus",
+"haya",
 "cupula",
+"bonus",
+"niega",
+"adif",
 "directiva",
 "aprobado"
 ],
@@ -2106,13 +2112,13 @@
 "empleo"
 ],
 "comunes": [
-"perder",
 "sanchez",
+"perder",
 "instante",
 "vox",
+"pueden",
 "derechos",
-"huelga",
-"pueden"
+"huelga"
 ],
 "titulares": [
 {
@@ -2136,5 +2142,5 @@
 ]
 }
 ],
-"recogidas": 2168
+"recogidas": 2230
 }

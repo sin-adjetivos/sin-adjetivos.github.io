@@ -1,5 +1,725 @@
 [
 {
+"medio": "El Debate",
+"titulo": "García Albiol asegura que el seguimiento de la «huelga electoral» en Cataluña está siendo «muy flojo»",
+"url": "https://www.eldebate.com/espana/cataluna/20261111/garcia-albiol-asegura-seguimiento-huelga-electoral-cataluna-esta-siendo-flojo_479693.html",
+"fecha": "2026-11-11T12:36+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El juez Pedraz investiga un pago de 105.000 euros del ex abogado de Koldo a otro abogado contratado por el PSOE",
+"url": "https://www.eldebate.com/espana/20261111/juez-pedraz-investiga-pago-ex-abogado-koldo-otro-abogado-contratado-psoe_479697.html",
+"fecha": "2026-11-11T12:34+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Los indicadores para medir el seguimiento de la huelga general y cómo se calcula el éxito del 11N",
+"url": "https://www.20minutos.es/nacional/los-indicadores-para-medir-seguimiento-huelga-general-como-se-calcula-exito-11n_7059686_0.html",
+"fecha": "2026-11-11T12:33+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Córdoba vive con normalidad la jornada de huelga general",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261111/cordoba-vive-normalidad-jornada-huelga-general_479653.html",
+"fecha": "2026-11-11T12:33+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La sede del PP de Miguelturra sufre un «ataque vandálico» con pintadas de «fascistas» con motivo de la huelga",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261111/sede-pp-miguelturra-sufre-ataque-vandalico-pintadas-fascistas-motivo-huelga_479675.html",
+"fecha": "2026-11-11T12:30+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "«11-N, circo general»: el sindicato Solidaridad, afín a Vox, arremete contra UGT y CCOO por estar «al servicio» de Sánchez",
+"url": "https://www.eldebate.com/espana/20261111/11n-circo-general-sindicato-solidaridad-afin-vox-arremete-contra-ugt-ccoo-estar-servicio-sanchez_479684.html",
+"fecha": "2026-11-11T12:30+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Tocar el trasero a una mujer sin su consentimiento le cuesta 21.000 euros a un hombre en Lugo",
+"url": "https://www.eldebate.com/espana/galicia/20261111/tocar-trasero-mujer-consentimiento-le-cuesta-21000-euros-hombre-lugo_479683.html",
+"fecha": "2026-11-11T12:29+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Benalúa celebra este sábado su gran fiesta del comercio local con degustaciones, conciertos y actividades",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/benalua-celebra-este-sabado-gran-fiesta-comercio-local-degustaciones-conciertos-actividades_479689.html",
+"fecha": "2026-11-11T12:28+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Marta Bosquet se convierte en Defensora del Pueblo Andaluz con la izquierda ausente por la huelga",
+"url": "https://www.eldebate.com/espana/andalucia/20261111/marta-bosquet-convierte-defensora-pueblo-andaluz-izquierda-ausente-huelga_479682.html",
+"fecha": "2026-11-11T12:27+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El juez del 'caso Leire' investiga un pago de 105.000 euros del exabogado de Koldo García al letrado histórico del PSOE",
+"url": "https://www.elespanol.com/espana/tribunales/20261111/juez-caso-leire-investiga-pago-euros-exabogado-koldo-garcia-letrado-historico-psoe/1003744453979_0.html",
+"fecha": "2026-11-11T12:25+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "La Policía identifica a Belarra en un piquete de la huelga: \"¿Hay que recordar al Gobierno que así se consiguieron los derechos?\"",
+"url": "https://www.20minutos.es/nacional/policia-identifica-belarra-un-piquete-huelga-hay-que-recordar-gobierno-que-asi-se-consiguieron-los-derechos_7059745_0.html",
+"fecha": "2026-11-11T12:25+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "VÍDEO | La denuncia de los policías: víctimas de ‘El Ruso’ sin ser profesión de riesgo",
+"url": "https://theobjective.com/videos/sociedad/2026-11-11/policias-profesion-de-riesgo/",
+"fecha": "2026-11-11T12:23+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Alicante inaugura 'Cigarreras. Grandes Exposiciones' con más de 180 piezas de la colección de la Casa de Alba",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/alicante-inaugura-cigarreras-grandes-exposiciones-180-piezas-coleccion-casa-alba_479687.html",
+"fecha": "2026-11-11T12:23+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Pedraz pide a Leticia de la Hoz que detalle todos los honorarios que cobró por defender a Koldo",
+"url": "https://theobjective.com/espana/tribunales/2026-11-11/pedraz-leticia-de-la-hoz-facturas-koldo/",
+"fecha": "2026-11-11T12:21+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Cortes puntuales en carreteras, tranquilidad en las zonas industriales y el Metro 100% operativo el 11N",
+"url": "https://www.abc.es/espana/madrid/cortes-carreteras-tranquilidad-zonas-industriales-metro-100-20261111114331-nt.html",
+"fecha": "2026-11-11T12:20+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El PSOE no asiste al debate de los Presupuestos y ni siquiera aparece por el Parlamento de Andalucía",
+"url": "https://www.abc.es/espana/andalucia/psoe-asiste-debate-presupuestos-siquiera-aparece-parlamento-20261111122934-nts.html",
+"fecha": "2026-11-11T12:19+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Guardia Civil investiga a un cazador por abatir a un lince ibérico en Tordehumos (Valladolid)",
+"url": "https://www.abc.es/espana/castilla-leon/guardia-civil-investiga-cazador-abatir-lince-iberico-20261111130459-nt.html",
+"fecha": "2026-11-11T12:19+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Abascal suspèn l'entrevista amb Jordi Wild entre crítiques a La Revuelta",
+"url": "https://www.ara.cat/politica/eleccions-generals/abascal-suspen-l-entrevista-jordi-wild-critiques-revuelta_25_5907169.html",
+"fecha": "2026-11-11T12:19+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La huelga en el Ayuntamiento de Córdoba: un 12% de apoyo en Sadeco, un 10% en Emacsa y 30 buses más que los servicios mínimos",
+"url": "https://www.abc.es/espana/andalucia/cordoba/huelga-ayuntamiento-cordoba-apoyo-sadeco-emacsa-buses-20261111131312-nts.html",
+"fecha": "2026-11-11T12:18+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Huelga general del 11N: protestas nutridas de estudiantes en Zaragoza y Huesca y seguimiento dispar por sectores",
+"url": "https://www.abc.es/espana/aragon/huelga-general-11n-protestas-nutridas-estudiantes-zaragoza-20261111131801-nt.html",
+"fecha": "2026-11-11T12:18+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Alerta en Sevilla y Andalucía por lluvias y viento, en directo: última hora del tráfico, incidencias y avisos de Aemet por la borrasca Charles",
+"url": "https://www.abc.es/espana/andalucia/alerta-sevilla-andalucia-lluvias-viento-directo-ultima-20261111073607-dis.html",
+"fecha": "2026-11-11T12:18+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Podemos denuncia \"violencia policial\" durante la huelga y carga contra PP y Vox por \"defender a los que se están forrando\"",
+"url": "https://www.20minutos.es/nacional/podemos-denuncia-violencia-policial-durante-huelga-carga-contra-pp-vox-por-defender-los-que-se-estan-forrando_7059769_0.html",
+"fecha": "2026-11-11T12:18+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Diputación de Córdoba moviliza a 50 bomberos y pide evitar los viajes por carretera por la borrasca Charles",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/provincia/20261111/diputacion-cordoba-moviliza-50-bomberos-pide-evitar-viajes-carretera-borrasca-charles_479680.html",
+"fecha": "2026-11-11T12:18+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Tres detenidos y tres policías heridos durante la huelga general en Castilla y León",
+"url": "https://www.abc.es/espana/castilla-leon/tres-detenidos-tres-policias-heridos-huelga-general-20261111122721-nt.html",
+"fecha": "2026-11-11T12:17+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El juez Pedraz pide al exabogado de Koldo que aclare un pago de 105.000 euros a la defensa de Zarrías",
+"url": "https://www.larazon.es/espana/juez-pedraz-pide-exabogado-koldo-que-aclare-pago-105000-euros-defensa-zarrias_202611116af45cbf03bbf30bb0484314.html",
+"fecha": "2026-11-11T12:17+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Ciudad Real cierra las instalaciones deportivas y precinta parques y zonas verdes ante las fuertes lluvias y viento",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/ciudad-real-cierra-instalaciones-deportivas-precinta-parques-20261111131319-nt.html",
+"fecha": "2026-11-11T12:16+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Idiota, ilógica o inaudita: el comercio y la hostelería dicen un no rotundo a la huelga general en Córdoba",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261111/idiota-ilogica-inaudita-comercio-hosteleria-dicen-no-rotundo-huelga-general-cordoba_479632.html",
+"fecha": "2026-11-11T12:15+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Pedraz requiere a la exabogada de Koldo más información respecto a quién pagó su defensa y vincula a Oliver con Zarrías",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/pedraz-requiere-a-la-exabogada-de-koldo-mas-informacion-respecto-a-quien-pago-su-defensa-y-vincula-a-oliver-con-zarrias-7489838/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T12:13+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Once detenidos por quema de contenedores y atentado contra la autoridad en la huelga general",
+"url": "https://www.abc.es/espana/once-detenidos-quema-contenedores-atentado-autoridad-huelga-20261111131213-nt.html",
+"fecha": "2026-11-11T12:12+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Frente Amplio denuncia «represión policial» contra los trabajadores en la huelga general",
+"url": "https://theobjective.com/espana/politica/2026-11-11/frente-amplio-denuncia-policial-huelga-general/",
+"fecha": "2026-11-11T12:12+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Diputación de Castellón conmemora el 25N con actividades para visibilizar y erradicar la violencia de género",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/diputacion-castellon-conmemora-25n-actividades-visibilizar-erradicar-violencia-genero_479679.html",
+"fecha": "2026-11-11T12:12+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "De seis meses a tres años de prisión: estas son las penas que contempla el Código Penal para los piquetes que coaccionen e impidan por la fuerza a los trabajadores acudir a sus puestos de trabajo",
+"url": "https://www.cope.es/actualidad/espana/noticias/seis-meses-tres-anos-prision-son-penas-contempla-codigo-penal-piquetes-coaccionen-e-impidan-fuerza-trabajadores-acudir-puestos-trabajo-20261111_3472941.html",
+"fecha": "2026-11-11T12:11+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El BOE agradece al presidente de Adif «los servicios prestados» tras los dos trágicos accidentes",
+"url": "https://www.eldebate.com/espana/20261111/boe-agradece-presidente-adif-servicios-prestados-dos-tragicos-accidentes_479670.html",
+"fecha": "2026-11-11T12:11+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Vandalizada con pintadas la sede del PP de Miguelturra durante la huelga general",
+"url": "https://www.abc.es/espana/castilla-la-mancha/vandalizada-pintadas-sede-pp-miguelturra-huelga-general-20261111131030-nt.html",
+"fecha": "2026-11-11T12:10+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Irene Montero acusa al Gobierno de enviar a la Policía a dar \"palos\" contra los piquetes por la huelga",
+"url": "https://www.europapress.es/nacional/noticia-irene-montero-acusa-gobierno-enviar-policia-dar-palos-contra-piquetes-huelga-20261111131038.html",
+"fecha": "2026-11-11T12:10+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Junta revisará 133 normas para que sean derogadas",
+"url": "https://www.abc.es/espana/castilla-leon/junta-revisara-133-normas-derogadas-20261111130914-nt.html",
+"fecha": "2026-11-11T12:09+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Piquet informatiu al restaurant Honest Green de la Rambla de Barcelona.",
+"url": "https://www.ara.cat/economia/piquet-informatiu-restaurant-honest-green-rambla-barcelona_8_5907161.html",
+"fecha": "2026-11-11T12:09+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Huelga general del 11-N, hoy | Manifestaciones, piquetes, horarios, paros, servicios mínimos y última hora en directo",
+"url": "https://www.elespanol.com/espana/20261110/huelga-general-11-noviembre-ultima-hora-directo-calles-cortadas-paros-servicios-minimos-piquetes-incidencias-sindicatos-manifestaciones-detenidos-espana-hoy/1003744452728_10.html",
+"fecha": "2026-11-11T12:09+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Muere a los 85 años Stacy Keach, actor de ‘Prison Break’ y ‘American History X’",
+"url": "https://theobjective.com/cultura/cine/2026-11-11/muere-stacy-keach/",
+"fecha": "2026-11-11T12:09+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Colau afirma que Ayuso \"insulta\" a los sindicatos porque está \"nerviosa\" por el apoyo a la huelga general",
+"url": "https://www.europapress.es/nacional/noticia-colau-afirma-ayuso-insulta-sindicatos-porque-nerviosa-apoyo-huelga-general-20261111130843.html",
+"fecha": "2026-11-11T12:08+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Mantienen la evacuación de Piedralaves por la «situación de máxima incertidumbre»",
+"url": "https://www.abc.es/espana/castilla-leon/mantienen-evacuacion-piedralaves-situacion-maxima-incertidumbre-20261111130751-nt.html",
+"fecha": "2026-11-11T12:07+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Tercer grado para el etarra Eceiza, condenado por participar en el asesinato de Priede",
+"url": "https://theobjective.com/espana/politica/2026-11-11/tercer-grado-etarra-eceiza/",
+"fecha": "2026-11-11T12:07+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Almeida califica la huelga de «fracaso mayúsculo» y celebra la «normalidad» en la ciudad",
+"url": "https://www.abc.es/espana/madrid/almeida-califica-huelga-fracaso-mayusculo-celebra-normalidad-20261111125414-nt.html",
+"fecha": "2026-11-11T12:05+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Gobierno de Ayuso tacha de «rotundo fracaso» la huelga «de los sindicatos y de Sánchez»",
+"url": "https://www.abc.es/espana/madrid/gobierno-ayuso-tacha-rotundo-fracaso-huelga-sindicatos-20261111130509-nt.html",
+"fecha": "2026-11-11T12:05+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La huelga del 11N tiene una incidencia del 1% en los centros educativos de Córdoba: solo 90 docentes secundan el paro",
+"url": "https://www.abc.es/espana/andalucia/cordoba/huelga-11n-incidencia-centros-educativos-cordoba-solo-20261111114446-nts.html",
+"fecha": "2026-11-11T12:03+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La crisis entre Marruecos y el Polisario abre incertidumbre para Canarias sobre rutas aéreas, aguas y puertos",
+"url": "https://www.libertaddigital.com/canarias/2026-11-11/la-crisis-entre-marruecos-y-el-polisario-abre-incertidumbre-para-canarias-sobre-rutas-aereas-aguas-y-puertos-7489674/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T12:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "UGT y CCOO niegan que la cercanía de elecciones «reste credibilidad» a la huelga y servirá para quitar «caretas» a los partidos",
+"url": "https://www.eldebate.com/espana/baleares/20261111/ugt-ccoo-niegan-cercania-elecciones-reste-credibilidad-huelga-servira-quitar-caretas-partidos_479662.html",
+"fecha": "2026-11-11T11:59+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Dos detenidos y varios heridos en los piquetes al cortar el tráfico en Alicante",
+"url": "https://www.abc.es/espana/comunidad-valenciana/alicante/dos-detenidos-varios-heridos-piquetes-cortar-trafico-20261111125635-nt.html",
+"fecha": "2026-11-11T11:58+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "«Que yo soy el de las gambas»: el vídeo viral de un trabajador que ridiculiza a los piquetes en Mercamálaga",
+"url": "https://www.eldebate.com/espana/andalucia/malaga/20261111/gambas-video-viral-trabajador-ridiculiza-piquetes-mercamalaga_479647.html",
+"fecha": "2026-11-11T11:57+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Los piquetes se radicalizan: fuerzan el cierre de los comercios en el centro de Madrid y cortan Gran Vía",
+"url": "https://www.elespanol.com/espana/20261111/miles-manifestantes-cortan-gran-via-madrid-huelga-general-tiendas-cierran-precaucion/1003744453947_0.html",
+"fecha": "2026-11-11T11:53+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "El Gobierno anula su agenda “por respeto” a una huelga cuyas reivindicaciones sociales comparte",
+"url": "https://www.lavanguardia.com/politica/20261111/11681615/gobierno-anula-agenda-respeto-huelga-cuyas-reivindicaciones-sociales-comparte.html",
+"fecha": "2026-11-11T11:53+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Otro tercer grado del Gobierno vasco a un preso de ETA: esta vez a Asier Eceiza, condenado por el asesinato de Priede",
+"url": "https://www.eldebate.com/espana/pais-vasco/20261111/otro-tercer-grado-gobierno-vasco-preso-eta-esta-vez-asier-eceiza-condenado-asesinato-priede_479648.html",
+"fecha": "2026-11-11T11:52+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El Gobierno Vasco otorga el tercer grado al etarra Asier Eceiza, implicado en el asesinato del edil Juan Priede",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/el-gobierno-vasco-otorga-el-tercer-grado-al-etarra-asier-eceiza-implicado-en-el-asesinato-del-edil-juan-priede-7489822/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T11:51+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Garriga retrata en Valencia la huelga de Sánchez: «Un circo general convocado por el Gobierno de España»",
+"url": "https://okdiario.com/comunidad-valenciana/garriga-retrata-valencia-huelga-sanchez-circo-general-convocado-gobierno-espana-20749974",
+"fecha": "2026-11-11T11:51+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "GBSB Global reúne a 17 empresas y más de 200 estudiantes en su Career Fair 2026 en Barcelona",
+"url": "https://www.eldebate.com/espana/cataluna/20261111/gbsb-global-reune-17-empresas-200-estudiantes-career-fair-2026-barcelona_479659.html",
+"fecha": "2026-11-11T11:51+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Detenido en Granada por tirotear dos veces a un hombre, herido en el segundo ataque",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-11/detenido-granada-tirotear-hombre/",
+"fecha": "2026-11-11T11:49+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona por nombramiento del papa León XIV",
+"url": "https://theobjective.com/sociedad/2026-11-11/octavi-vila-arzobispo-barcelona/",
+"fecha": "2026-11-11T11:49+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Càtedra Barcelona Estudis d’Habitatge trabaja con 80 investigadores para mejorar las políticas de vivienda",
+"url": "https://www.eldebate.com/espana/cataluna/20261111/catedra-barcelona-estudis-dhabitatge-trabaja-80-investigadores-mejorar-politicas-vivienda_479656.html",
+"fecha": "2026-11-11T11:49+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Anthropic prepara su salida a Bolsa con una valoración récord de 1,4 billones de dólares",
+"url": "https://theobjective.com/internacional/2026-11-11/anthropic-bolsa-record-1-4-billones/",
+"fecha": "2026-11-11T11:48+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "12:20H | 11 NOVIEMBRE 2026 | HERRERA EN COPE EN CASTILLA LA MANCHA",
+"url": "https://www.cope.es/emisoras/castilla-la-mancha/podcast/boletines/12-20h-11-noviembre-2026-herrera-cope-castilla-mancha-20261111_3472932.html",
+"fecha": "2026-11-11T11:47+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Los maestros van a clase y dan la espalda a una huelga con escaso seguimiento en Andalucía pese a los piquetes",
+"url": "https://www.eldebate.com/espana/andalucia/20261111/maestros-clase-dan-espalda-huelga-escaso-seguimiento-andalucia-pese-piquetes_479625.html",
+"fecha": "2026-11-11T11:47+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Moreno denuncia el 'plantón' de la izquierda al Parlamento por la huelga: \"Es tremendamente irresponsable y anómalo\"",
+"url": "https://www.elespanol.com/espana/andalucia/20261111/moreno-denuncia-planton-izquierda-parlamento-huelga-tremendamente-irresponsable-anomalo/1003744453883_0.html",
+"fecha": "2026-11-11T11:46+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Los empresarios de Castilla-La Mancha hablan de una huelga de «seguimiento mínimo» en el sector privado",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261111/empresarios-castilla-mancha-hablan-huelga-seguimiento-minimo-sector-privado_479646.html",
+"fecha": "2026-11-11T11:44+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido en Redondela un hombre que robaba a mujeres mayores con el método de la siembra",
+"url": "https://www.eldebate.com/espana/galicia/20261111/detenido-redondela-hombre-robaba-mujeres-mayores-metodo-siembra_479644.html",
+"fecha": "2026-11-11T11:44+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Luz verde al inicio de las obras en aceras de varias calles de Santa Bárbara por 100.000 euros",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/luz-verde-inicio-obras-aceras-varias-calles-20261111124351-nt.html",
+"fecha": "2026-11-11T11:43+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Los profesores anti-Ayuso contra los trabajadores: bloquean durante unos minutos la línea 5 del Metro",
+"url": "https://okdiario.com/madrid/profesores-anti-ayuso-contra-trabajadores-bloquean-durante-unos-minutos-linea-5-del-metro-20751296",
+"fecha": "2026-11-11T11:43+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Madrid cierra El Retiro y otros cinco parques históricos por fuertes vientos",
+"url": "https://www.abc.es/espana/madrid/madrid-cierra-retiro-cinco-parques-historicos-fuertes-20261111122217-nt.html",
+"fecha": "2026-11-11T11:42+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Los sindicatos califican de «éxito» la huelga en Castilla y León, pero CEOE cifra el seguimiento en el 2,6 %",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261111/sindicatos-califican-exito-huelga-castilla-leon-ceoe-cifra-seguimiento-26_479633.html",
+"fecha": "2026-11-11T11:41+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Juanma Moreno: «Es tremendamente irresponsable que los diputados de izquierda no acudan al pleno»",
+"url": "https://www.abc.es/espana/andalucia/juanma-moreno-tremendamente-irresponsable-diputados-izquierda-acudan-20261111123837-nts.html",
+"fecha": "2026-11-11T11:38+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Evacúan 300 colegios en Italia tras recibir amenazas de bomba por correo electrónico",
+"url": "https://theobjective.com/internacional/2026-11-11/evacuan-colegios-italia-bomba/",
+"fecha": "2026-11-11T11:38+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Ábalos pide desde prisión fraccionar el pago de las multas e indemnizaciones del \"caso Koldo\"",
+"url": "https://www.larazon.es/espana/abalos-pide-prision-fraccionar-pago-multas-indemnizaciones-caso-koldo_202611116af453c2d3bddc0868ada7b3.html",
+"fecha": "2026-11-11T11:38+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La huelga sacude Granada: dos detenidos, comercios cerrados y piquetes en Correos",
+"url": "https://www.eldebate.com/espana/andalucia/20261111/huelga-sacude-granada-dos-detenidos-comercios-cerrados-piquetes-correos_479642.html",
+"fecha": "2026-11-11T11:37+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Les patronals parlen de baixa incidència de la vaga general i els sindicats d'èxit",
+"url": "https://www.ara.cat/economia/mercat-laboral/patronals-parlen-baixa-incidencia-vaga-sindicats-d-exit_1_5907059.html",
+"fecha": "2026-11-11T11:36+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El BNG se graba vandalizando mobiliario urbano y les critican por participar en la «españolada» de la huelga",
+"url": "https://www.eldebate.com/espana/galicia/20261111/bng-graba-vandalizando-mobiliario-urbano-les-critican-participar-espanolada-huelga_479568.html",
+"fecha": "2026-11-11T11:36+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Frente Amplio admite que sabía que el 11N \"no iba a parar el país\" pero apunta al \"espectacular\" seguimiento en algunas zonas",
+"url": "https://www.20minutos.es/nacional/frente-amplio-admite-que-sabia-que-11n-no-iba-parar-pais-pero-apunta-espectacular-seguimiento-algunas-zonas_7059728_0.html",
+"fecha": "2026-11-11T11:35+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Feijóo intenta contrarrestar el éxito de Abascal en La Revuelta yendo a El Hormiguero y a Horizonte",
+"url": "https://www.eldebate.com/espana/20261111/feijoo-intenta-contrarrestar-exito-abascal-revuelta-yendo-hormiguero-horizonte_479641.html",
+"fecha": "2026-11-11T11:35+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Alvise Pérez (SALF) se compromete a \"bloquear\" su sueldo y renunciar si incumple su programa",
+"url": "https://www.larazon.es/espana/alvise-perez-salf-compromete-bloquear-sueldo-renunciar-incumple-programa_202611116af452f1ea8d89799781974d.html",
+"fecha": "2026-11-11T11:35+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "La huelga provoca la supresión del 24% de trenes AVE y Alvia de Renfe y 10% de Cercanías, sobre todo en Madrid y Barcelona",
+"url": "https://www.20minutos.es/nacional/huelga-provoca-supresion-24-trenes-ave-alvia-renfe-10-cercanias-sobre-todo-madrid-barcelona_7059739_0.html",
+"fecha": "2026-11-11T11:32+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Moncloa renuncia a valorar la huelga general por la vivienda y los salarios",
+"url": "https://www.larazon.es/espana/moncloa-renuncia-valorar-huelga-general-vivienda-salarios_202611116af452369a31a65adcd83784.html",
+"fecha": "2026-11-11T11:32+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "UGT falsea los datos y habla de «cifras récord» de la huelga en Madrid",
+"url": "https://www.eldebate.com/espana/madrid/20261111/sindicatos-tildan-exito-huelga-madrid-empresarios-cifran-menos-10-seguimiento_479624.html",
+"fecha": "2026-11-11T11:31+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Fiscalía presenta una denuncia contra la difusión de los audios del accidente de Urda",
+"url": "https://theobjective.com/espana/tribunales/2026-11-11/fiscalia-denuncia-difusion-audios-accidente-urda/",
+"fecha": "2026-11-11T11:29+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "El PP carga contra los sindicatos por la huelga \"preventiva\" y \"electoral\" que se celebra \"contra el próximo Gobierno\"",
+"url": "https://www.20minutos.es/nacional/pp-carga-contra-los-sindicatos-por-huelga-preventiva-electoral-que-se-celebra-contra-proximo-gobierno_7059724_0.html",
+"fecha": "2026-11-11T11:29+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La borrasca Charles impacta con fuerza en Canarias, dejando vuelos cancelados y desprendimientos en varias islas",
+"url": "https://www.abc.es/espana/canarias/borrasca-charles-impacta-fuerza-canarias-deja-veintena-20261111100331-nt.html",
+"fecha": "2026-11-11T11:26+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Les amenaces de bomba s'escampen a centenars d'escoles a Itàlia, Irlanda, Escòcia i Irlanda del Nord",
+"url": "https://www.ara.cat/internacional/europa/almenys-300-escoles-d-italia-evacuades-amenaces-bomba_1_5907111.html",
+"fecha": "2026-11-11T11:22+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Indignación con los sindicalistas a las puertas del Hospital 12 de Octubre: \"Son unos mamarrachos\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-11/indignacion-a-las-puertas-del-hospital-12-de-octubre-que-se-vayan-al-congreso-y-no-molesten-a-los-pacientes-7489778/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T11:22+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Así fue la huelga La Canadiense de Barcelona que convirtió a España en el primer país europeo en aprobar la jornada laboral de 8 horas",
+"url": "https://www.20minutos.es/nacional/asi-fue-huelga-canadiense-barcelona-convirtio-espana-primer-pais-europeo-aprobar-jornada-laboral-8-horas_7059689_0.html",
+"fecha": "2026-11-11T11:22+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El bebé que estuvo dos décadas en un congelador de Allariz, cerca de ser identificado",
+"url": "https://www.eldebate.com/espana/galicia/20261111/bebe-estuvo-dos-decadas-congelador-allariz-cerca-identificado_479635.html",
+"fecha": "2026-11-11T11:19+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Un soldado israelí será acusado de untar heces y apagar cigarrillos sobre un detenido palestino",
+"url": "https://theobjective.com/internacional/2026-11-11/soldado-israeli-heces-cigarrillos-palestino/",
+"fecha": "2026-11-11T11:18+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Iustitia Europa aboga por reforzar los controles electorales tras la polémica por la \"ley de nietos\"",
+"url": "https://www.larazon.es/espana/iustitia-europa-aboga-reforzar-controles-electorales-polemica-ley-nietos_202611116af44ec24196933d7ed930f7.html",
+"fecha": "2026-11-11T11:17+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "PP y Vox acusan a los sindicatos y a sus líderes de \"mafia, basura, jetas y apesebrados del Gobierno\": \"Si no escuchan a la calle, no llegarán a gobernar\"",
+"url": "https://www.eldiario.es/politica/sindicatos-responden-ataques-pp-vox-si-no-escuchan-calle-no-llegaran-gobernar_1_13654794.html",
+"fecha": "2026-11-11T11:16+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Sílvia Orriols retrata a Pedro Sánchez en una frase: \"Es un inepto total\"",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-11/silvia-orriols-retrata-a-pedro-sanchez-en-una-frase-es-un-inepto-total-7489760/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T11:16+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "La guerra entre Ucraïna i Rússia es trasllada al Bàltic i posa en alerta els països de la zona",
+"url": "https://www.ara.cat/internacional/europa/guerra-ucraina-russia-trasllada-baltic-posa-alerta-paisos-zona_1_5907061.html",
+"fecha": "2026-11-11T11:13+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Los Salesianos celebran sus primeros 125 años en Córdoba",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/religion-y-cofradias/20261111/salesianos-celebran-primeros-125-anos-cordoba_479627.html",
+"fecha": "2026-11-11T11:13+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Jefe de Estado Mayor del Ejército da un espaldarazo a la Campaña Antártica",
+"url": "https://www.eldebate.com/espana/defensa/20261111/jefe-estado-mayor-ejercito-da-espaldarazo-campana-antartica_479621.html",
+"fecha": "2026-11-11T11:12+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Interior registra once detenidos hasta las 8.00 horas por quema de contenedores y atentado contra autoridad",
+"url": "https://www.europapress.es/nacional/noticia-interior-registra-once-detenidos-800-horas-quema-contenedores-atentado-contra-autoridad-20261111121046.html",
+"fecha": "2026-11-11T11:10+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Madrid cerrará El Retiro y otros cinco parques históricos desde las 12.00 horas por el mal tiempo",
+"url": "https://www.eldebate.com/espana/madrid/20261111/madrid-cerrara-retiro-otros-cinco-parques-historicos-desde-1200-horas-mal-tiempo_479617.html",
+"fecha": "2026-11-11T11:10+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Intervenidos 2.600 kilos de cocaína en el Puerto de Valencia procedentes de Ghana",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-11/intervenidos-2-600-kilos-cocaina/",
+"fecha": "2026-11-11T11:06+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Alquiler Seguro sufre la vandalización de 27 oficinas y denuncia amenazas graves a los trabajadores",
+"url": "https://okdiario.com/espana/alquiler-seguro-sufre-vandalizacion-27-oficinas-denuncia-amenazas-graves-trabajadores-20750763",
+"fecha": "2026-11-11T11:04+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Galicia afronta la jornada de huelga general con lluvia y a la espera de la llegada de la borrasca Charles",
+"url": "https://www.eldebate.com/espana/galicia/20261111/galicia-afronta-jornada-huelga-general-lluvia-espera-llegada-borrasca-charles_479595.html",
+"fecha": "2026-11-11T11:02+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Manifestación por la huelga general del 11N en Madrid: horario y recorrido",
+"url": "https://www.eldebate.com/espana/madrid/20261111/manifestacion-huelga-general-11n-madrid-horario-recorrido-cns_479612.html",
+"fecha": "2026-11-11T11:02+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Fray Octavi Vilà, nuevo arzobispo de Barcelona en sustitución de Omella",
+"url": "https://www.eldebate.com/religion/20261111/leon-xiv-nombra-fray-octavi-vila-nuevo-arzobispo-barcelona_479576.html",
+"fecha": "2026-11-11T11:01+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Tamara Falcó, las heridas de su infancia y el refugio de Isabel Preysler: «De pequeña me mandaban a fiestas y no quería ir; lo pasaba fatal, incluso lloraba»",
+"url": "https://theobjective.com/gente/2026-11-11/tamara-falco-infancia-isabel-preysler/",
+"fecha": "2026-11-11T11:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Catalunya demana quedar al marge de la reserva obligada d'oli d'oliva",
+"url": "https://www.ara.cat/economia/alimentacio/catalunya-demana-quedar-marge-reserva-obligada-d-oli-d-oliva_1_5907004.html",
+"fecha": "2026-11-11T10:59+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Vox acusa a TVE y La Revuelta de \"secuestrar\" 40 minutos del programa con Abascal y exige la emisión de la entrevista completa",
+"url": "https://www.20minutos.es/nacional/vox-acusa-tve-revuelta-secuestrar-40-minutos-programa-con-abascal-exige-emision-entrevista-completa_7059703_0.html",
+"fecha": "2026-11-11T10:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Madrid presenta su galería de 'Las meninas' con homenajes a las víctimas de Urda y en apoyo a Ceuta",
+"url": "https://www.eldebate.com/espana/madrid/20261111/madrid-presenta-galeria-meninas-homenajes-victimas-urda-apoyo-ceuta_479611.html",
+"fecha": "2026-11-11T10:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Canal Sur se va a negro en plena emisión por la huelga general",
+"url": "https://theobjective.com/medios/2026-11-11/canal-sur-huelga-general/",
+"fecha": "2026-11-11T10:58+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Gamarra evita entrar en detalles sobre la reunión del abogado del PP con Koldo y recalca que pidieron 30 años de cárcel",
+"url": "https://www.europapress.es/illes-balears/noticia-gamarra-evita-entrar-detalles-reunion-pp-koldo-garcia-le-pidio-fueron-30-anos-carcel-20261111115656.html",
+"fecha": "2026-11-11T10:56+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Los Reyes mantienen su jornada de trabajo en Zarzuela durante la huelga general",
+"url": "https://www.lavanguardia.com/politica/20261111/11681550/reyes-mantienen-jornada-trabajo-zarzuela-huelga-general.html",
+"fecha": "2026-11-11T10:55+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Tertulia de Federico: Más agentes que piquetes",
+"url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/tertulia-de-federico/2026-11-11/mas-agentes-que-piquetes-7489744/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:55+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "¿Hay alguien que hable hoy así a los jóvenes?",
+"url": "https://www.cope.es/programas/mediodia-cope/la-firma-de-jose-luis-restan-en-mediodia/noticias/hay-alguien-hable-hoy-asi-jovenes-20261111_3472834.html",
+"fecha": "2026-11-11T10:54+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "La huelga de Sánchez también pincha en la Comunidad Valenciana: los empresarios cifran el seguimiento en un 2,57%",
+"url": "https://okdiario.com/comunidad-valenciana/huelga-sanchez-tambien-pincha-valencia-empresarios-cifran-seguimiento-257-20746835",
+"fecha": "2026-11-11T10:54+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Piquetes y calles vacías en Barcelona en la huelga general",
+"url": "https://www.lavanguardia.com/politica/20261111/11681543/piquetes-calles-vacias-barcelona-huelga-general.html",
+"fecha": "2026-11-11T10:51+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El PP critica la huelga con un montaje de sindicalistas de UGT y CCOO comiendo gambas: «Momento crítico»",
+"url": "https://www.eldebate.com/espana/20261111/pp-critica-huelga-montaje-sindicalistas-ugt-ccoo-comiendo-gambas-momento-critico_479608.html",
+"fecha": "2026-11-11T10:51+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Vox acusa a RTVE de «secuestrar» 40 minutos sobre inmigración y sanidad de la entrevista de Abascal con Broncano",
+"url": "https://okdiario.com/espana/vox-acusa-rtve-secuestrar-40-minutos-sobre-inmigracion-sanidad-entrevista-abascal-broncano-20750833",
+"fecha": "2026-11-11T10:49+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Rusia y Ucrania cierran las negociaciones en Abu Dabi sin acuerdo sobre el Donbás",
+"url": "https://theobjective.com/internacional/2026-11-11/rusia-ucrania-negociaciones-abu-dabi-donbas/",
+"fecha": "2026-11-11T10:49+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Vandalizan la sede del PSOE en Ávila con pintadas de «traidores» y «asesinos»",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261111/vandalizan-sede-psoe-avila-pintadas-traidores-asesinos_479596.html",
+"fecha": "2026-11-11T10:49+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Huelga general, la realidad y el relato",
+"url": "https://www.cope.es/actualidad/linea-editorial/noticias/huelga-general-realidad-relato-20261111_3472846.html",
+"fecha": "2026-11-11T10:48+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La protesta sindical de sólo 10 minutos ante El Corte Inglés, en imágenes",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261111/protesta-sindical-solo-10-minutos-ante-corte-ingles-imagenes_479610.html",
+"fecha": "2026-11-11T10:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El mensaje por megafonía de un comandante a Feijóo: \"Enhorabuena y mucha suerte\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/feijoo-es-aplaudido-y-felicitado-por-el-piloto-en-un-avion-comercial-7489680/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:47+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Detenido un hombre por atacar a dos viandantes con un machete militar en Vicálvaro",
+"url": "https://www.eldebate.com/espana/madrid/20261111/detenido-hombre-atacar-dos-viandantes-machete-militar-vicalvaro_479566.html",
+"fecha": "2026-11-11T10:45+00:00"
+},
+{
 "medio": "The Objective",
 "titulo": "La bomba que fabricó ‘El Ruso’ sorprendió a la Policía: «Llevaba un temporizador»",
 "url": "https://theobjective.com/espana/2026-11-11/bomba-rusopolicia-temporizador/",
@@ -33,6 +753,18 @@
 "medio": "Ara",
 "titulo": "Vox suspèn l'entrevista de Santiago Abascal amb Jordi Wild",
 "url": "https://www.ara.cat/politica/vox-suspen-l-entrevista-santiago-abascal-jordi-wild_25_5907069.html",
+"fecha": "2026-11-11T10:38+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El TSJM suspende de forma cautelarísima los servicios mínimos acordados por Ayuso en justicia, educación y transportes",
+"url": "https://www.libertaddigital.com/madrid/2026-11-11/el-tsjm-suspende-de-forma-cautelarisima-los-servicios-minimos-acordados-por-ayuso-en-justicia-educacion-y-transportes-7489722/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:38+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Lista oficial de premios del Sorteo Extraordinario del Sorteo 11/11 de la ONCE",
+"url": "https://www.20minutos.es/nacional/lista-oficial-premios-sorteo-extraordinario-sorteo-11-11-once_7059661_0.html",
 "fecha": "2026-11-11T10:38+00:00"
 },
 {
@@ -96,15 +828,33 @@
 "fecha": "2026-11-11T10:28+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "¿Qué significa el brazalete que llevaba Silvia Intxaurrondo en el brazo?",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/que-significa-el-brazalete-que-llevaba-silvia-intxaurrondo-en-el-brazo-7489695/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:27+00:00"
+},
+{
 "medio": "The Objective",
 "titulo": "Digi continúa en pérdidas tras salir a bolsa e invertir 297 millones en red",
 "url": "https://theobjective.com/economia/telecomunicaciones/2026-11-11/digi-perdidas-salida-bolsa-inversion-red/",
 "fecha": "2026-11-11T10:26+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "Los sindicatos presumen de un seguimiento de la huelga de entre el 41% y el 75% y la califican de \"éxito\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/los-sindicatos-presumen-de-un-seguimiento-de-la-huelga-de-entre-el-41-por-ciento-y-el-75-por-ciento-y-la-califican-de-exito-7489648/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T10:25+00:00"
+},
+{
 "medio": "El Debate",
 "titulo": "A CCOO y UGT les basta con sólo 10 minutos de huelga en El Corte Inglés de Córdoba",
 "url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261111/ccoo-ugt-les-basta-solo-10-minutos-huelga-corte-ingles-cordoba_479558.html",
+"fecha": "2026-11-11T10:21+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Huelguistas, a patadas con un coche en Valencia: \"Esquirol\"",
+"url": "https://www.libertaddigital.com/libremercado/2026-11-11/huelguistas-a-patadas-con-un-coche-en-valencia-esquirol-7489658/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-11T10:21+00:00"
 },
 {
@@ -183,6 +933,12 @@
 "medio": "El Debate",
 "titulo": "La Guardia Civil detiene a dos personas por cinco robos de gasóleo en Villa del Río y Bujalance",
 "url": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20261111/guardia-civil-detiene-dos-personas-cinco-robos-gasoleo-villa-rio-bujalance_479587.html",
+"fecha": "2026-11-11T10:15+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Triste protesta en Ciudad Universitaria: \"Te pasas, que no tenemos casa\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-11/triste-protesta-en-ciudad-universitaria-te-pasas-que-no-tenemos-casa-7489677/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-11T10:15+00:00"
 },
 {
@@ -330,6 +1086,12 @@
 "fecha": "2026-11-11T09:58+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "El Vaticano entrega el arzobispado de Barcelona al separatismo y nombra a un amigo de Puigdemont",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-11/el-vaticano-entrega-el-arzobispado-de-barcelona-al-separatismo-y-nombra-a-un-amigo-de-puigdemont-7489676/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T09:58+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "La jornada de huelga arranca con un piquete atropellado en Pontevedra y cargas policiales en La Coruña y Santiago",
 "url": "https://www.abc.es/espana/galicia/jornada-huelga-arranca-piquete-atropellado-pontevedra-cargas-20261111105730-nt.html",
@@ -396,6 +1158,12 @@
 "fecha": "2026-11-11T09:52+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "El PP propone reforzar la presencia militar en Ceuta, Melilla, Canarias y los otros territorios que quiere Marruecos",
+"url": "https://www.libertaddigital.com/defensa/2026-11-11/el-pp-propone-reforzar-la-presencia-militar-en-ceuta-melilla-canarias-y-los-otros-territorios-que-quiere-marruecos-7489388/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T09:52+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "La Puerta del Sol que inspiró la huelga amanece con más seguridad y calma tensa: «Si pasa algo, cerramos»",
 "url": "https://www.abc.es/espana/madrid/puerta-sol-inspiro-huelga-amanece-seguridad-calma-20261111103417-nt.html",
@@ -423,6 +1191,12 @@
 "medio": "El Debate",
 "titulo": "El Euromillones deja un premio de 142 millones de euros en El Corte Inglés de Valencia",
 "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/euromillones-deja-premio-142-millones-euros-corte-ingles-valencia_479555.html",
+"fecha": "2026-11-11T09:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Así es 'El Ruso', el fugitivo por la explosión de Oviedo: quince años de antecedentes por amenazas, hurtos y lesiones",
+"url": "https://www.libertaddigital.com/espana/2026-11-11/asi-es-el-ruso-el-fugitivo-por-la-explosion-de-oviedo-quince-anos-de-antecedentes-por-amenazas-hurtos-y-lesiones-7489663/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-11T09:48+00:00"
 },
 {
@@ -501,6 +1275,12 @@
 "medio": "La Vanguardia",
 "titulo": "El PP denuncia una “huelga electoral” y “preventiva” contra el próximo Gobierno",
 "url": "https://www.lavanguardia.com/politica/20261111/11681473/pp-denuncia-huelga-electoral-preventiva-proximo-gobierno.html",
+"fecha": "2026-11-11T09:30+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Adelante Andalucía critica \"violencia policial\" contra su diputada en una carga en las vías del Metro de Granada",
+"url": "https://www.europapress.es/andalucia/noticia-adelante-andalucia-critica-violencia-policial-contra-diputada-carga-vias-metro-granada-20261111103032.html",
 "fecha": "2026-11-11T09:30+00:00"
 },
 {
@@ -933,6 +1713,12 @@
 "medio": "El Debate",
 "titulo": "Galicia vuelve a la huelga general 14 años después: manifestaciones en las siete ciudades y servicios mínimos en sanidad",
 "url": "https://www.eldebate.com/espana/galicia/20261111/galicia-vuelve-huelga-general-14-anos-despues-manifestaciones-siete-ciudades-servicios-minimos-sanidad_479500.html",
+"fecha": "2026-11-11T08:20+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Federico a las 8: El fracaso sindical arrasa a un gobierno desesperado",
+"url": "https://esradio.libertaddigital.com/es-la-manana-de-federico/federico-a-las-8/2026-11-11/el-fracaso-sindical-arrasa-a-un-gobierno-desesperado-7489613/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-11T08:20+00:00"
 },
 {
@@ -6327,6 +7113,12 @@
 "medio": "Ara",
 "titulo": "Quins ingressos calen per tenir una vida \"digna\" a Barcelona?",
 "url": "https://www.ara.cat/economia/macroeconomia/quins-ingressos-calen-vida-digna-barcelona_1_5905169.html",
+"fecha": "2026-11-10T06:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Robert Llimós, un artista visionari que encara ens mira",
+"url": "https://www.ara.cat/cultura/art/robert-llimos-artista-visionari-encara-mira_1_5905253.html",
 "fecha": "2026-11-10T06:00+00:00"
 },
 {

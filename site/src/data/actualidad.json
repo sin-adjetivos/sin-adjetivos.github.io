@@ -1,16 +1,16 @@
 {
-"actualizado": "2026-11-12T01:57+00:00",
+"actualizado": "2026-11-12T13:41+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 117,
+"COPE": 116,
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 50,
 "El País": 19,
 "Europa Press": 10,
-"infoLibre": 50,
+"infoLibre": 48,
 "La Vanguardia": 100,
 "Libertad Digital": 73,
 "OKdiario": 50,
@@ -26,126 +26,16 @@
 ],
 "grupos": [
 {
-"medios": 15,
-"desde": "2026-11-09T12:40+00:00",
-"hasta": "2026-11-11T17:19+00:00",
-"temas": [
-"justicia"
-],
-"comunes": [
-"nietos",
-"supremo",
-"hijos",
-"voto",
-"ley",
-"suspender",
-"nacionalizados",
-"rechaza"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El Supremo rechaza extender la prohibición del derecho a voto a los hijos de los nacionalizados por la 'ley de nietos'",
-"url": "https://www.20minutos.es/nacional/supremo-rechaza-extender-prohibicion-derecho-voto-los-hijos-los-nacionalizados-por-ley-nietos_7058904_0.html",
-"fecha": "2026-11-09T13:17+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "El Tribunal Supremo rechaza suspender el voto de los hijos de los nacionalizados por la 'ley de nietos'",
-"url": "https://www.abc.es/espana/tribunal-supremo-rechaza-suspender-voto-hijos-nacionalizados-20261109140336-nt.html",
-"fecha": "2026-11-09T13:03+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "El Supremo rechaza suspender el voto a los hijos de los nacionalizados por la ley de nietos",
-"url": "https://www.cope.es/actualidad/espana/noticias/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos-20261109_3471500.html",
-"fecha": "2026-11-09T13:11+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El Supremo rechaza suspender el voto de los hijos de los nacionalizados por la ley de nietos",
-"url": "https://www.eldebate.com/espana/20261109/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos_478883.html",
-"fecha": "2026-11-09T13:02+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "El Supremo no suspende el voto de los que se nacionalizaron españoles por ser hijos de los favorecidos por la 'ley de nietos'",
-"url": "https://www.elespanol.com/espana/tribunales/20261109/supremo-no-suspende-voto-nacionalizaron-espanoles-hijos-favorecidos-ley-nietos/1003744444287_0.html",
-"fecha": "2026-11-09T12:44+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "El Supremo rechaza suspender el voto a los casi 190.000 hijos de los nacionalizados por la 'ley de nietos': \"Se nos ha pedido a una semana de la campaña\"",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c361e9cf4ab4658b4571.html",
-"fecha": "2026-11-09T15:08+00:00"
-},
-{
-"medio": "El País",
-"titulo": "El Supremo rechaza suspender también el derecho al voto de los 189.000 hijos de los nacionalizados por la ‘ley de nietos’",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-supremo-rechaza-suspender-tambien-el-derecho-al-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html",
-"fecha": "2026-11-09T12:40+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "El Supremo rechaza la petición de Vox de impedir votar el 29N también a los hijos de los nacionalizados por la ley de nietos",
-"url": "https://www.eldiario.es/politica/supremo-rechaza-peticion-vox-impedir-votar-29n-hijos-nacionalizados-ley-nietos_1_13649698.html",
-"fecha": "2026-11-09T13:26+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "El Supremo descarta suspender el voto a los hijos de los nacionalizados por la 'ley de nietos'",
-"url": "https://www.europapress.es/nacional/noticia-supremo-descarta-suspender-voto-hijos-nacionalizados-ley-nietos-20261109135924.html",
-"fecha": "2026-11-09T12:59+00:00"
-},
-{
-"medio": "infoLibre",
-"titulo": "El Supremo rechaza suspender el voto a los hijos de los nacionalizados en la 'ley de nietos'",
-"url": "https://www.infolibre.es/politica/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos_1_2239687.html",
-"fecha": "2026-11-09T13:34+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "El Supremo descarta suspender el derecho a voto a los hijos de nacionalizados por la \"ley de nietos\"",
-"url": "https://www.larazon.es/espana/supremo-descarta-suspender-derecho-voto-hijos-nacionalizados-ley-nietos_202611096af1c3b94196933d7ed6b4b5.html",
-"fecha": "2026-11-09T12:59+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El Supremo rechaza suspender el voto de los hijos de los 'nietos'",
-"url": "https://www.lavanguardia.com/politica/20261109/11680019/supremo-rechaza-suspender-voto-hijos-nietos.html",
-"fecha": "2026-11-09T13:05+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "El Supremo descarta suspender el voto de los hijos de los nacionalizadas con la Ley de Nietos",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/el-supremo-rechaza-las-medidas-cautelares-sobre-el-voto-de-hijos-de-personas-nacionalizadas-con-la-ley-de-nietos-7488593/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T13:06+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "El Supremo rechaza suspender el voto a los 189.678 hijos de los nacionalizados por la Ley de Nietos",
-"url": "https://okdiario.com/espana/supremo-rechaza-suspender-voto-hijos-nacionalizados-ley-nietos-20736615",
-"fecha": "2026-11-09T13:22+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Supremo rechaza suspender el voto a los hijos de los nacionalizados por la ‘ley de nietos’",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/supremo-rechaza-voto-ley-nietos-nacionalizados/",
-"fecha": "2026-11-09T12:50+00:00"
-}
-]
-},
-{
 "medios": 11,
 "desde": "2026-11-10T13:48+00:00",
-"hasta": "2026-11-10T18:01+00:00",
+"hasta": "2026-11-12T11:30+00:00",
 "temas": [
 "defensa",
 "justicia"
 ],
 "comunes": [
-"abogada",
 "koldo",
+"abogada",
 "renuncia",
 "defensa",
 "garcia"
@@ -225,9 +115,9 @@
 "hasta": "2026-11-10T07:53+00:00",
 "temas": [],
 "comunes": [
-"television",
-"academia",
 "debates",
+"academia",
+"television",
 "acepta",
 "electorales",
 "organice",
@@ -298,93 +188,95 @@
 },
 {
 "medios": 10,
-"desde": "2026-11-10T18:10+00:00",
-"hasta": "2026-11-10T21:30+00:00",
-"temas": [],
+"desde": "2026-11-09T15:27+00:00",
+"hasta": "2026-11-11T14:40+00:00",
+"temas": [
+"empleo",
+"sanidad",
+"educacion",
+"energia"
+],
 "comunes": [
-"anboto",
-"semilibertad",
-"eta",
-"audiencia",
-"nacional",
-"exjefa",
-"revoca"
+"minimos",
+"servicios",
+"huelga",
+"general"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "La Audiencia Nacional vuelve a revocar la semilibertad de la exjefa de ETA 'Anboto' y anula los terceros grados de otros dos presos",
-"url": "https://www.20minutos.es/nacional/audiencia-nacional-vuelve-revocar-semilibertad-exjefa-eta-anboto-anula-los-terceros-grados-otros-dos-presos_7059515_0.html",
-"fecha": "2026-11-10T19:21+00:00"
+"titulo": "Horario de la huelga general del 11 de noviembre: estos son los servicios mínimos en transportes públicos, sanidad y educación",
+"url": "https://www.20minutos.es/nacional/horario-huelga-general-11-noviembre-servicios-minimos-transportes-publicos-sanidad-educacion_7058836_0.html",
+"fecha": "2026-11-09T15:27+00:00"
 },
 {
 "medio": "ABC",
-"titulo": "La Audiencia Nacional tumba la segunda semilibertad concedida a la exjefa de ETA 'Anboto' por el Gobierno vasco en un año",
-"url": "https://www.abc.es/espana/pais-vasco/audiencia-nacional-tumba-segunda-semilibertad-concedida-exjefa-20261110193348-nt.html",
-"fecha": "2026-11-10T19:31+00:00"
+"titulo": "Estos son los servicios mínimos de la huelga general del 11 de noviembre en la Comunidad Valenciana",
+"url": "https://www.abc.es/espana/comunidad-valenciana/servicios-minimos-huelga-general-noviembre-comunidad-valenciana-20261110113721-nt.html",
+"fecha": "2026-11-10T10:37+00:00"
 },
 {
 "medio": "El Confidencial",
-"titulo": "La Audiencia Nacional frena la semilibertad de Anboto y revoca el tercer grado de Olarra Guridi y Aguirregabiria",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/la-audiencia-nacional-frena-la-semilibertad-de-anboto-y-revoca-el-tercer-grado-de-olarra-guridi-y-aguirregabiria_4462517/",
-"fecha": "2026-11-10T18:10+00:00"
+"titulo": "Huelga general el 11 de noviembre en Madrid: horario y recorrido de la manifestación, servicios mínimos en transporte y hospitales y cortes de tráfico",
+"url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
+"fecha": "2026-11-10T10:00+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "La Audiencia Nacional revoca la semilibertad de la exjefa de ETA 'Anboto' y los terceros grados de otros dos etarras",
-"url": "https://www.eldebate.com/espana/20261110/audiencia-nacional-revoca-semilibertad-exjefa-eta-anboto-terceros-grados-otros-dos-etarras_479454.html",
-"fecha": "2026-11-10T18:27+00:00"
+"titulo": "Huelga general del 11N: servicios mínimos en sanidad, educación y transporte público en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/huelga-general-11n-servicios-minimos-sanidad-educacion-transporte-publico-comunidad-valenciana_478754.html",
+"fecha": "2026-11-10T03:00+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "El juez revoca por segunda vez la semilibertad de la jefa de ETA 'Anboto' y el tercer grado a un etarra condenado a 2.459 años",
-"url": "https://www.elespanol.com/espana/tribunales/20261110/juez-revoca-segunda-vez-semilibertad-jefa-eta-anboto-tercer-grado-etarra-condenado-mil-anos/1003744453126_0.html",
-"fecha": "2026-11-10T18:31+00:00"
+"titulo": "Huelga general del 11-N, en directo | Manifestaciones, piquetes, servicios mínimos, sindicatos, incidencias y cortes de tráfico",
+"url": "https://www.elespanol.com/espana/20261110/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones-piquetes-incidencias-sindicatos/1003744452728_10.html",
+"fecha": "2026-11-11T10:31+00:00"
 },
 {
-"medio": "El País",
-"titulo": "El juez revoca el régimen de semilibertad de la exjefa de ETA Anboto",
-"url": "https://elpais.com/espana/2026-11-10/el-juez-revoca-el-regimen-de-semilibertad-de-la-exjefa-de-eta-anboto.html",
-"fecha": "2026-11-10T19:15+00:00"
+"medio": "infoLibre",
+"titulo": "Así será la huelga general del 11N: reivindicaciones, servicios mínimos y la postura de los partidos",
+"url": "https://www.infolibre.es/politica/sera-huelga-general-11n-reivindicaciones-servicios-minimos-postura-partidos_1_2239770.html",
+"fecha": "2026-11-11T05:01+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "La Audiencia Nacional vuelve a frenar la semilibertad de la exjefa de ETA \"Anboto\"",
-"url": "https://www.larazon.es/espana/audiencia-nacional-vuelve-frenar-semilibertad-exjefa-eta-anboto_202611106af3621903bbf30bb0475a12.html",
-"fecha": "2026-11-10T18:27+00:00"
+"titulo": "Huelga general 11N, en directo: última hora de los paros, piquetes, cargas policiales, manifestaciones y servicios mínimos en toda España",
+"url": "https://www.larazon.es/espana/huelga-general-11n-directo-ultima-hora-paros-manifestaciones-servicios-minimos-toda-espana_202611116af3f78a03bbf30bb047d601.html",
+"fecha": "2026-11-11T10:30+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La Audiencia Nacional revoca la semilibertad de la exjefa de ETA Anboto y otros dos terroristas",
-"url": "https://www.libertaddigital.com/espana/2026-11-10/la-audiencia-nacional-revoca-la-semilibertad-de-la-exjefa-de-eta-anboto-y-otros-dos-terroristas-7489378/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T18:55+00:00"
+"titulo": "EN DIRECTO | Huelga general del 11N: seguimiento, servicios mínimos y noticias de última hora",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-11/en-directo-huelga-general-11n-seguimiento-servicios-minimos-noticias-ultima-hora-7488896/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-11T04:30+00:00"
 },
 {
 "medio": "OKdiario",
-"titulo": "La Audiencia Nacional revoca otra vez la semilibertad a la ex jefa de ETA ‘Anboto’ otorgada por Gobierno vasco",
-"url": "https://okdiario.com/espana/audiencia-nacional-revoca-otra-vez-semilibertad-ex-jefa-eta-anboto-otorgada-gobierno-vasco-20747600",
-"fecha": "2026-11-10T21:30+00:00"
+"titulo": "Huelga general 11-N, en directo: última hora de los piquetes, manifestaciones, servicios mínimos y cortes de tráfico en toda España",
+"url": "https://okdiario.com/espana/ultima-hora-huelga-general-actualidad-elecciones-generales-del-29-n-directo-20748233",
+"fecha": "2026-11-11T09:55+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La Audiencia Nacional vuelve a revocar la semilibertad de la exjefa de ETA Anboto",
-"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-revocar-semilibertad-eta-anboto/",
-"fecha": "2026-11-10T18:44+00:00"
+"titulo": "Transportes decreta servicios mínimos del 75% para Cercanías en hora punta el 11 de noviembre",
+"url": "https://theobjective.com/economia/transporte/2026-11-09/transportes-servicios-minimos-huelga/",
+"fecha": "2026-11-09T19:14+00:00"
 }
 ]
 },
 {
-"medios": 9,
+"medios": 10,
 "desde": "2026-11-09T16:38+00:00",
-"hasta": "2026-11-10T20:51+00:00",
+"hasta": "2026-11-12T10:28+00:00",
 "temas": [],
 "comunes": [
 "victimas",
 "urda",
 "funeral",
-"accidente",
 "sanchez",
-"toledo"
+"toledo",
+"accidente"
 ],
 "titulares": [
 {
@@ -436,6 +328,12 @@
 "fecha": "2026-11-10T13:04+00:00"
 },
 {
+"medio": "OKdiario",
+"titulo": "Feijóo honra a las víctimas de Urda en el funeral de Toledo mientras Sánchez se va a grabar un podcast: «Todo mi cariño»",
+"url": "https://okdiario.com/espana/feijoo-honra-victimas-urda-funeral-toledo-mientras-sanchez-va-grabar-podcast-todo-carino-20747463",
+"fecha": "2026-11-10T20:56+00:00"
+},
+{
 "medio": "The Objective",
 "titulo": "Ayuso cuestiona que Sánchez no acuda al funeral por las víctimas del accidente de Urda",
 "url": "https://theobjective.com/espana/politica/2026-11-10/ayuso-sanchez-funeral-urda/",
@@ -444,26 +342,25 @@
 ]
 },
 {
-"medios": 9,
+"medios": 10,
 "desde": "2026-11-11T10:19+00:00",
-"hasta": "2026-11-11T18:51+00:00",
+"hasta": "2026-11-12T13:05+00:00",
 "temas": [
 "sanidad"
 ],
 "comunes": [
-"wild",
 "abascal",
+"wild",
 "jordi",
 "entrevista",
-"revuelta",
-"vox"
+"revuelta"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Jordi Wild critica a Vox tras cancelar la entrevista a Abascal: \"¿Qué tiene que ver Broncano conmigo? Yo soy otro mundo\"",
-"url": "https://www.20minutos.es/nacional/jordi-wild-critica-vox-tras-cancelar-entrevista-abascal-que-tiene-que-ver-broncano-conmigo-yo-soy-otro-mundo_7059878_0.html",
-"fecha": "2026-11-11T16:16+00:00"
+"titulo": "Ortega-Smith ironiza sobre Santiago Abascal tras cancelar su entrevista con Jordi Wild: \"Sin miedo a nada ni nadie\"",
+"url": "https://www.20minutos.es/nacional/ortega-smith-ironiza-sobre-santiago-abascal-tras-cancelar-su-entrevista-con-jordi-wild-sin-miedo-nada-ni-nadie_7059801_0.html",
+"fecha": "2026-11-11T13:00+00:00"
 },
 {
 "medio": "Ara",
@@ -482,6 +379,12 @@
 "titulo": "Abascal rechaza a última hora su cita con Jordi Wild por la \"censura\" de Broncano y RTVE a 40 minutos de su entrevista",
 "url": "https://www.elconfidencial.com/espana/2026-11-11/abascal-rechaza-a-ultima-hora-ser-entrevistado-por-jordi-wild-y-pone-a-broncano-como-excusa_4462817/",
 "fecha": "2026-11-11T10:21+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Jordi Wild denuncia que Abascal cancele su entrevista para \"minimizar riesgos\" tras su participación en 'La Revuelta'",
+"url": "https://www.eldiario.es/politica/jordi-wild-denuncia-abascal-cancele-entrevista-minimizar-riesgos-salir-reforzado-revuelta_1_13656948.html",
+"fecha": "2026-11-12T08:35+00:00"
 },
 {
 "medio": "La Razón",
@@ -516,144 +419,215 @@
 ]
 },
 {
-"medios": 9,
-"desde": "2026-11-09T07:02+00:00",
-"hasta": "2026-11-11T22:01+00:00",
+"medios": 10,
+"desde": "2026-11-12T11:31+00:00",
+"hasta": "2026-11-12T13:12+00:00",
 "temas": [
-"inmigracion",
-"empleo",
-"energia"
+"justicia"
 ],
 "comunes": [
-"directo",
-"hora",
-"ultima",
-"elecciones",
-"generales",
-"precampana",
-"huelga",
-"general"
+"uco",
+"cuentas",
+"psoe",
+"tribunal",
+"informacion",
+"donaciones"
 ],
 "titulares": [
 {
+"medio": "20minutos",
+"titulo": "La UCO acude al Tribunal de Cuentas para requerir información sobre las donaciones del PSOE por orden del juez del caso Koldo",
+"url": "https://www.20minutos.es/nacional/uco-accede-tribunal-cuentas-busca-informacion-donaciones-psoe_7060209_0.html",
+"fecha": "2026-11-12T11:31+00:00"
+},
+{
 "medio": "ABC",
-"titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
-"url": "https://www.abc.es/espana/misa-funeral-catedral-toledo-victimas-tren-urda-20261110175926-di.html",
-"fecha": "2026-11-10T22:53+00:00"
+"titulo": "La UCO requiere más información al Tribunal de Cuentas sobre la pieza secreta de la financiación del PSOE",
+"url": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html",
+"fecha": "2026-11-12T13:12+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "La UCO busca información en el Tribunal de Cuentas sobre presuntas irregularidades en donaciones al PSOE",
+"url": "https://www.cope.es/actualidad/espana/noticias/uco-busca-informacion-tribunal-cuentas-sobre-presuntas-irregularidades-donaciones-psoe-20261112_3473733.html",
+"fecha": "2026-11-12T12:59+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La UCO entra al Tribunal de Cuentas por la presunta financiación ilegal del PSOE y en busca de donaciones irregulares",
+"url": "https://www.eldebate.com/espana/20261112/uco-entra-tribunal-cuentas-presunta-financiacion-ilegal-psoe-busca-donaciones-irregulares_480156.html",
+"fecha": "2026-11-12T12:34+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Última hora de Pedro Sánchez, encuestas y actos de precampaña de PP, PSOE y Vox",
-"url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html",
-"fecha": "2026-11-11T06:37+00:00"
+"titulo": "La UCO acude al Tribunal de Cuentas al notar \"discrepancias\" en la documentación sobre las donaciones al PSOE",
+"url": "https://www.elespanol.com/espana/tribunales/20261112/uco-pide-tribunal-cuentas-informacion-donaciones-psoe-detectar-discrepancias/1003744455572_0.html",
+"fecha": "2026-11-12T11:33+00:00"
+},
+{
+"medio": "El País",
+"titulo": "La UCO acude al Tribunal de Cuentas por la investigación sobre los pagos en efectivo en el PSOE",
+"url": "https://elpais.com/espana/2026-11-12/la-uco-acude-al-tribunal-de-cuentas-por-la-investigacion-sobre-los-pagos-en-efectivo-en-el-psoe.html",
+"fecha": "2026-11-12T12:57+00:00"
 },
 {
 "medio": "elDiario.es",
-"titulo": "Última hora sobre la actualidad política, en directo",
-"url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13648644.html",
-"fecha": "2026-11-09T07:02+00:00"
+"titulo": "La UCO requiere información al Tribunal de Cuentas sobre las cuentas del PSOE",
+"url": "https://www.eldiario.es/politica/uco-requiere-informacion-tribunal-cuentas-cuentas-psoe_1_13658082.html",
+"fecha": "2026-11-12T12:18+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Última hora de la actualidad política en España, en directo: elecciones generales del 29N y huelga general",
-"url": "https://www.europapress.es/nacional/noticia-ultima-hora-actualidad-politica-espana-directo-elecciones-generales-29n-huelga-general-20261110082835.html",
-"fecha": "2026-11-10T07:28+00:00"
+"titulo": "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
+"url": "https://www.europapress.es/nacional/noticia-uco-acude-tribunal-cuentas-informacion-presuntas-irregularidades-donaciones-psoe-20261112125251.html",
+"fecha": "2026-11-12T11:52+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Huelga general 11N, en directo: última hora de los paros, piquetes, cargas policiales, manifestaciones y servicios mínimos en toda España",
-"url": "https://www.larazon.es/espana/huelga-general-11n-directo-ultima-hora-paros-manifestaciones-servicios-minimos-toda-espana_202611116af3f78a03bbf30bb047d601.html",
-"fecha": "2026-11-11T10:30+00:00"
+"titulo": "La UCO vuelve al Tribunal de Cuentas por la investigación sobre la supuesta financiación ilegal del PSOE",
+"url": "https://www.larazon.es/espana/uco-vuelve-tribunal-cuentas-investigacion-supuesta-financiacion-ilegal-psoe_202611126af5a5a0ea8d89799782ec15.html",
+"fecha": "2026-11-12T11:40+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Elecciones generales del 29-N, en directo: última hora de la precampaña electoral, hoy lunes 9 de noviembre",
-"url": "https://www.lavanguardia.com/politica/20261109/11679844/elecciones-generales-29-n-precampana-electoral-ultima-hora-en-directo.html",
-"fecha": "2026-11-09T12:31+00:00"
+"titulo": "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE",
+"url": "https://www.lavanguardia.com/politica/20261112/11682461/agentes-uco-acuden-tribunal-cuentas-pieza-financiacion-poe.html",
+"fecha": "2026-11-12T11:43+00:00"
+}
+]
 },
 {
-"medio": "Libertad Digital",
-"titulo": "EN DIRECTO | Huelga general del 11N: seguimiento, servicios mínimos y noticias de última hora",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-11/en-directo-huelga-general-11n-seguimiento-servicios-minimos-noticias-ultima-hora-7488896/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-11T04:30+00:00"
+"medios": 9,
+"desde": "2026-11-09T21:40+00:00",
+"hasta": "2026-11-10T19:00+00:00",
+"temas": [],
+"comunes": [
+"abascal",
+"entrevista",
+"broncano",
+"revuelta",
+"paso",
+"mal"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
+"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
+"fecha": "2026-11-10T10:14+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
+"url": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html",
+"fecha": "2026-11-10T01:34+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
+"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
+"fecha": "2026-11-10T10:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
+"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
+"fecha": "2026-11-10T09:24+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Abascal en 'La Revuelta', elecciones en directo | El líder de Vox protagoniza una tensa entrevista con David Broncano en RTVE",
+"url": "https://www.elespanol.com/espana/20261109/abascal-revuelta-elecciones-directo-ultima-hora-entrevista-lider-vox-tve-pedro-sanchez-septima/1003744451641_10.html",
+"fecha": "2026-11-09T23:02+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
+"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
+"fecha": "2026-11-10T08:59+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "La entrevista fallida de Broncano a Abascal se convierte en la más vista de 'La Revuelta'",
+"url": "https://www.infolibre.es/politica/entrevista-fallida-broncano-abascal-convierte-vista-revuelta_1_2239692.html",
+"fecha": "2026-11-10T08:15+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Santiago Abascal hoy en 'La Revuelta', última hora de la entrevista con Broncano en directo",
+"url": "https://www.lavanguardia.com/politica/20261109/11680253/entrevista-santiago-abascal-la-revuelta-david-broncano-ultima-hora-hoy-en-directo.html",
+"fecha": "2026-11-09T22:30+00:00"
 },
 {
 "medio": "OKdiario",
-"titulo": "Elecciones generales del 29-N y actualidad política, en directo: última hora de la precampaña, crisis ferroviaria y nueva oleada de inmigrantes en El Hierro",
-"url": "https://okdiario.com/espana/elecciones-generales-del-29-n-actualidad-politica-directo-ultima-hora-precampana-crisis-ferroviaria-nueva-oleada-inmigrantes-hierro-20728621",
-"fecha": "2026-11-09T12:47+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Última hora sobre la huelga general del 11-N, en directo | Tensión en la Gran Vía, mientras sindicatos y patronal no se ponen de acuerdo en el «éxito» de la huelga",
-"url": "https://theobjective.com/sociedad/2026-11-11/ultima-hora-huelga-general-11-n/directo/",
-"fecha": "2026-11-11T14:40+00:00"
+"titulo": "Visita de Abascal en ‘La Revuelta’, en directo: dónde ver la entrevista al líder de Vox, reacciones y última hora de las elecciones generales del 29-N en vivo online hoy",
+"url": "https://okdiario.com/espana/visita-abascal-revuelta-directo-que-hora-empieza-entrevista-reacciones-ultima-hora-elecciones-generales-del-29-n-actualidad-politica-hoy-vivo-online-20728621",
+"fecha": "2026-11-09T21:40+00:00"
 }
 ]
 },
 {
 "medios": 8,
-"desde": "2026-11-09T06:51+00:00",
-"hasta": "2026-11-09T18:29+00:00",
+"desde": "2026-11-10T18:27+00:00",
+"hasta": "2026-11-10T21:30+00:00",
 "temas": [],
 "comunes": [
-"organice",
-"academia",
-"psoe",
-"television",
-"propone",
-"debate",
-"rtve",
-"veto"
+"eta",
+"anboto",
+"semilibertad",
+"audiencia",
+"exjefa",
+"nacional",
+"revoca"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "El PSOE propone que la Academia de Televisión organice el cara a cara y el debate a cuatro si el PP mantiene su veto a RTVE",
-"url": "https://www.20minutos.es/nacional/psoe-propone-que-academia-television-organice-cara-cara-debate-cuatro-si-pp-mantiene-su-veto-rtve_7058940_0.html",
-"fecha": "2026-11-09T15:42+00:00"
+"titulo": "La Audiencia Nacional vuelve a revocar la semilibertad de la exjefa de ETA 'Anboto' y anula los terceros grados de otros dos presos",
+"url": "https://www.20minutos.es/nacional/audiencia-nacional-vuelve-revocar-semilibertad-exjefa-eta-anboto-anula-los-terceros-grados-otros-dos-presos_7059515_0.html",
+"fecha": "2026-11-10T19:21+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Audiencia Nacional tumba la segunda semilibertad concedida a la exjefa de ETA 'Anboto' por el Gobierno vasco en un año",
+"url": "https://www.abc.es/espana/pais-vasco/audiencia-nacional-tumba-segunda-semilibertad-concedida-exjefa-20261110193348-nt.html",
+"fecha": "2026-11-10T19:31+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "El PSOE propone que la Academia de TV organice un cara a cara y un debate a cuatro si el PP mantiene su veto a RTVE",
-"url": "https://www.eldebate.com/cine-tv-series/20261109/psoe-propone-academia-tv-organice-cara-cara-debate-cuatro-pp-mantiene-veto-rtve_478896.html",
-"fecha": "2026-11-09T13:25+00:00"
+"titulo": "La Audiencia Nacional revoca la semilibertad de la exjefa de ETA 'Anboto' y los terceros grados de otros dos etarras",
+"url": "https://www.eldebate.com/espana/20261110/audiencia-nacional-revoca-semilibertad-exjefa-eta-anboto-terceros-grados-otros-dos-etarras_479454.html",
+"fecha": "2026-11-10T18:27+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "Elecciones generales del 29-N, en directo | El PSOE responde al veto del PP de hacer el debate en RTVE y propone que sea la Academia de Televisión la que organice el encuentro",
-"url": "https://www.elespanol.com/espana/20261109/elecciones-generales-directo-ultima-hora-adelanto-electoral-entrevistas-pedro-sanchez-feijoo-abascal-sondeos-voto-correo-2026-partidos-espana/1003744450803_10.html",
-"fecha": "2026-11-09T06:51+00:00"
+"medio": "El País",
+"titulo": "El juez revoca el régimen de semilibertad de la exjefa de ETA Anboto",
+"url": "https://elpais.com/espana/2026-11-10/el-juez-revoca-el-regimen-de-semilibertad-de-la-exjefa-de-eta-anboto.html",
+"fecha": "2026-11-10T19:15+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "El PP acepta la propuesta del PSOE de que sea la Academia de Televisión la que organice el 'cara a cara' y el debate a cuatro",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c467fc6c830f048b458f.html",
-"fecha": "2026-11-09T18:29+00:00"
+"medio": "La Razón",
+"titulo": "La Audiencia Nacional vuelve a frenar la semilibertad de la exjefa de ETA \"Anboto\"",
+"url": "https://www.larazon.es/espana/audiencia-nacional-vuelve-frenar-semilibertad-exjefa-eta-anboto_202611106af3621903bbf30bb0475a12.html",
+"fecha": "2026-11-10T18:27+00:00"
 },
 {
-"medio": "elDiario.es",
-"titulo": "El PSOE propone que la Academia de la Televisión organice los debates electorales si el PP mantiene su veto a RTVE",
-"url": "https://www.eldiario.es/politica/psoe-propone-academia-television-organice-debates-electorales-si-pp-mantiene-veto-rtve_1_13649719.html",
-"fecha": "2026-11-09T13:16+00:00"
+"medio": "Libertad Digital",
+"titulo": "La Audiencia Nacional revoca la semilibertad de la exjefa de ETA Anboto y otros dos terroristas",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/la-audiencia-nacional-revoca-la-semilibertad-de-la-exjefa-de-eta-anboto-y-otros-dos-terroristas-7489378/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T18:55+00:00"
 },
 {
-"medio": "Europa Press",
-"titulo": "Podemos apoya que la Academia de Televisión organice el debate entre candidatos y defiende que esté Irene Montero",
-"url": "https://www.europapress.es/nacional/noticia-podemos-apoya-academia-television-organice-debate-candidatos-defiende-irene-montero-20261109185153.html",
-"fecha": "2026-11-09T17:51+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El PSOE propone que la Academia de Televisión organice los debates con Sánchez y Feijóo",
-"url": "https://www.lavanguardia.com/politica/20261109/11680031/psoe-propone-academia-television-organice-debates-sanchez-feijoo.html",
-"fecha": "2026-11-09T13:05+00:00"
+"medio": "OKdiario",
+"titulo": "La Audiencia Nacional revoca otra vez la semilibertad a la ex jefa de ETA ‘Anboto’ otorgada por Gobierno vasco",
+"url": "https://okdiario.com/espana/audiencia-nacional-revoca-otra-vez-semilibertad-ex-jefa-eta-anboto-otorgada-gobierno-vasco-20747600",
+"fecha": "2026-11-10T21:30+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "El PSOE propone que la Academia de Televisión organice el debate si el PP veta RTVE",
-"url": "https://theobjective.com/medios/2026-11-09/psoe-academia-television-debate-pp-rtve/",
-"fecha": "2026-11-09T13:15+00:00"
+"titulo": "La Audiencia Nacional vuelve a revocar la semilibertad de la exjefa de ETA Anboto",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/audiencia-nacional-revocar-semilibertad-eta-anboto/",
+"fecha": "2026-11-10T18:44+00:00"
 }
 ]
 },
@@ -722,125 +696,134 @@
 ]
 },
 {
-"medios": 7,
-"desde": "2026-11-09T11:08+00:00",
-"hasta": "2026-11-09T12:42+00:00",
+"medios": 8,
+"desde": "2026-11-11T19:28+00:00",
+"hasta": "2026-11-12T13:20+00:00",
 "temas": [
-"defensa",
-"territorio"
+"empleo",
+"energia"
 ],
 "comunes": [
-"psoe",
-"delcy",
-"aldama",
-"rodriguez",
-"financiacion",
-"querella",
-"vincularla",
-"injurias"
+"marlaska",
+"cargas",
+"huelga",
+"policiales",
+"ordena"
 ],
 "titulares": [
 {
-"medio": "El Confidencial",
-"titulo": "Delcy Rodríguez denuncia a Víctor de Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/delcy-rodriguez-querella-aldama-injurias-1tps_4461602/",
-"fecha": "2026-11-09T11:54+00:00"
+"medio": "20minutos",
+"titulo": "Frente Amplio y Podemos reclaman a Sánchez el cese de Marlaska por las cargas policiales durante la huelga",
+"url": "https://www.20minutos.es/nacional/frente-amplio-podemos-reclaman-sanchez-cese-marlaska-por-las-cargas-policiales-durante-huelga_7059953_0.html",
+"fecha": "2026-11-11T19:28+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Delcy Rodríguez denuncia a Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.eldebate.com/espana/20261109/delcy-rodriguez-denuncia-aldama-injurias-vincularla-financiacion-psoe_478822.html",
-"fecha": "2026-11-09T11:10+00:00"
+"titulo": "Marlaska ordena investigar si hubo «uso desproporcionado de la fuerza» en las cargas policiales de la huelga",
+"url": "https://www.eldebate.com/espana/20261112/marlaska-ordena-investigar-hubo-desproporcionado-fuerza-cargas-policiales-huelga_479973.html",
+"fecha": "2026-11-12T08:53+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "Delcy Rodríguez se querella por injurias contra Aldama y niega la financiación ilegal del PSOE",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a8eee85ece28168b4584.html",
-"fecha": "2026-11-09T11:31+00:00"
+"medio": "El Español",
+"titulo": "Marlaska ordena investigar las cargas policiales en la huelga general mientras los socios de Gobierno piden su dimisión",
+"url": "https://www.elespanol.com/espana/politica/20261112/marlaska-ordena-investigar-cargas-policiales-huelga-general-socios-gobierno-piden-dimision/1003744455203_0.html",
+"fecha": "2026-11-12T09:52+00:00"
 },
 {
-"medio": "La Razón",
-"titulo": "Delcy Rodríguez se querella contra Aldama por deslizar que Venezuela financió de manera ilegal al PSOE",
-"url": "https://www.larazon.es/espana/delcy-rodriguez-querella-aldama-decir-que-venezuela-financio-manera-ilegal-psoe_202611096af1bfaad3bddc0868ab1cfe.html",
-"fecha": "2026-11-09T12:42+00:00"
+"medio": "El País",
+"titulo": "Marlaska promete investigar las cargas policiales mientras la izquierda le pide la dimisión",
+"url": "https://elpais.com/espana/2026-11-12/marlaska-ordena-una-investigacion-sobre-las-cargas-policiales-en-las-manifestaciones-y-pide-que-no-se-use-gas-lacrimogeno.html",
+"fecha": "2026-11-12T09:49+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Marlaska ordena dejar de usar gas lacrimógeno en las manifestaciones y una investigación sobre las \"incidencias\" en el día de la huelga",
+"url": "https://www.eldiario.es/politica/interior-ordena-gas-lacrimogeno-manifestaciones-investigacion-incidencias-dia-huelga_1_13657122.html",
+"fecha": "2026-11-12T08:53+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Frente Amplio exige a Sánchez el cese de Marlaska por las cargas policiales durante la huelga general",
+"url": "https://www.europapress.es/nacional/noticia-frente-amplio-exige-sanchez-cese-marlaska-dice-presidente-sera-responsable-si-mantiene-20261112090323.html",
+"fecha": "2026-11-12T08:03+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "Marlaska encarga una investigación sobre las cargas del 11N entre peticiones de dimisión",
+"url": "https://www.infolibre.es/politica/marlaska-encarga-investigacion-cargas-11n-peticiones-dimision_1_2240006.html",
+"fecha": "2026-11-12T10:34+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Delcy Rodríguez se querella contra Aldama por injurias al vincularla a la financiación del PSOE",
-"url": "https://www.lavanguardia.com/politica/20261109/11680000/delcy-rodriguez-querella-aldama-injurias-vincularla-financiacion-psoe.html",
-"fecha": "2026-11-09T12:36+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Delcy Rodríguez se querella contra Aldama por el sobre con los cupos de 250 millones de PDVSA para financiar al PSOE",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/delcy-rodriguez-se-querella-contra-aldama-por-el-sobre-con-los-cupos-de-250-millones-de-pdvsa-para-financiar-al-psoe-7488522/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T11:41+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Delcy se querella contra Aldama por vincularla con la presunta financiación ilegal del PSOE",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/delcy-almada-presunta-financiacion-ilegal-psoe/",
-"fecha": "2026-11-09T11:08+00:00"
+"titulo": "Marlaska ordena una investigación sobre las cargas policiales en las manifestaciones de la huelga general",
+"url": "https://www.lavanguardia.com/politica/20261112/11682251/marlaska-ordena-investigacion-sobre-cargas-policiales-manifestaciones-huelga-general.html",
+"fecha": "2026-11-12T08:52+00:00"
 }
 ]
 },
 {
-"medios": 7,
-"desde": "2026-11-10T10:22+00:00",
-"hasta": "2026-11-10T13:06+00:00",
-"temas": [],
+"medios": 8,
+"desde": "2026-11-12T12:26+00:00",
+"hasta": "2026-11-12T13:35+00:00",
+"temas": [
+"inmigracion"
+],
 "comunes": [
-"piedralaves",
-"presa",
-"riesgo",
-"avila",
-"desbordamiento",
-"evacuar",
-"horcajo",
-"rebosamiento"
+"exdelegado",
+"ceuta",
+"gobierno",
+"imputa",
+"jueza",
+"tardon"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "«Muy nerviosos» en Piedralaves ante el riesgo de rebosamiento de la presa que se encuentra por encima del pueblo",
-"url": "https://www.abc.es/espana/castilla-leon/nerviosos-piedralaves-ante-riesgo-rebosamiento-presa-encuentra-20261110140608-nt.html",
-"fecha": "2026-11-10T13:06+00:00"
-},
-{
 "medio": "El Debate",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
-"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
-"fecha": "2026-11-10T10:35+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
-"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
-"fecha": "2026-11-10T10:38+00:00"
+"titulo": "La jueza imputa al exdelegado del Gobierno en Ceuta por la entrada masiva de inmigrantes",
+"url": "https://www.eldebate.com/espana/20261112/jueza-imputa-exdelegado-gobierno-ceuta-entrada-masiva-inmigrantes_480157.html",
+"fecha": "2026-11-12T12:36+00:00"
 },
 {
 "medio": "El País",
-"titulo": "Ordenada la evacuación de Piedralaves (Ávila) ante el “posible rebosamiento” de la presa del Horcajo",
-"url": "https://elpais.com/espana/2026-11-10/ordenan-la-evacuacion-del-municipio-de-piedralaves-avila-ante-el-posible-rebosamiento-de-la-presa-del-horcajo.html",
-"fecha": "2026-11-10T12:33+00:00"
+"titulo": "La jueza imputa al exdelegado del Gobierno en Ceuta por la entrada masiva",
+"url": "https://elpais.com/espana/2026-11-12/la-jueza-imputa-al-exdelegado-del-gobierno-en-ceuta-por-la-entrada-masiva.html",
+"fecha": "2026-11-12T13:35+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "La jueza Tardón imputa al exdelegado del Gobierno en Ceuta por la crisis migratoria",
+"url": "https://www.eldiario.es/politica/jueza-tardon-imputa-exdelegado-gobierno-ceuta-crisis-migratoria_1_13658231.html",
+"fecha": "2026-11-12T12:26+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "La jueza cita como investigado al exdelegado del Gobierno en Ceuta en la causa sobre la entrada masiva de migrantes",
+"url": "https://www.europapress.es/nacional/noticia-jueza-cita-investigado-exdelegado-gobierno-ceuta-causa-entrada-masiva-migrantes-20261112133406.html",
+"fecha": "2026-11-12T12:34+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La jueza Tardón imputa al exdelegado del Gobierno en Ceuta y le cita a declarar el día 18",
+"url": "https://www.larazon.es/espana/jueza-tardon-imputa-exdelegado-gobierno-ceuta-cita-declarar-dia-18_202611126af5b2979a31a65adcd99ba4.html",
+"fecha": "2026-11-12T12:35+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La jueza Tardón cita como imputado al exdelegado del Gobierno en Ceuta por el asalto",
+"url": "https://www.lavanguardia.com/politica/20261112/11682527/jueza-tardon-cita-imputado-exdelegado-gobierno-ceuta-asalto.html",
+"fecha": "2026-11-12T12:32+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
-"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T11:16+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
-"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
-"fecha": "2026-11-10T10:59+00:00"
+"titulo": "La juez Tardón imputa al exdelegado de Gobierno de Ceuta y lo llama a declarar antes de las elecciones",
+"url": "https://www.libertaddigital.com/espana/2026-11-12/la-juez-tardon-imputa-al-exdelegado-de-gobierno-de-ceuta-y-lo-llama-a-declarar-antes-de-las-elecciones-7490451/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-12T12:34+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
-"fecha": "2026-11-10T10:22+00:00"
+"titulo": "La juez Tardón imputa al exdelegado del Gobierno en Ceuta por su papel en el asalto",
+"url": "https://theobjective.com/espana/tribunales/2026-11-12/juez-tardon-delegado-gobierno-ceuta/",
+"fecha": "2026-11-12T12:31+00:00"
 }
 ]
 },
@@ -850,13 +833,13 @@
 "hasta": "2026-11-10T16:29+00:00",
 "temas": [],
 "comunes": [
+"audiencia",
 "bolivia",
 "zapatero",
-"audiencia",
 "avala",
 "nacional",
-"influencias",
 "investigar",
+"influencias",
 "trafico"
 ],
 "titulares": [
@@ -910,10 +893,10 @@
 "hasta": "2026-11-11T10:36+00:00",
 "temas": [],
 "comunes": [
-"consejos",
 "ministros",
-"extraordinarios",
+"consejos",
 "sanchez",
+"extraordinarios",
 "sociales",
 "medidas",
 "aprobar"
@@ -964,112 +947,65 @@
 ]
 },
 {
-"medios": 6,
-"desde": "2026-11-09T11:21+00:00",
-"hasta": "2026-11-09T14:37+00:00",
+"medios": 7,
+"desde": "2026-11-12T10:38+00:00",
+"hasta": "2026-11-12T13:39+00:00",
 "temas": [
-"vivienda",
-"territorio"
+"impuestos",
+"igualdad"
 ],
 "comunes": [
-"voto",
-"casa",
-"frente",
-"amplio",
-"lema"
+"fraude",
+"pulseras",
+"antimaltrato",
+"europea",
+"fiscalia",
+"presunto",
+"fondos",
+"uco"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Frente Amplio lanza su lema para las elecciones del 29-N: \"Un voto como una casa\"",
-"url": "https://www.20minutos.es/nacional/frente-amplio-lanza-su-lema-para-las-elecciones-29-n-un-voto-como-una-casa_7058919_0.html",
-"fecha": "2026-11-09T14:02+00:00"
+"titulo": "La Fiscalía Europea manda a la UCO al Ministerio de Igualdad por un posible fraude en la compra de las pulseras antimaltrato",
+"url": "https://www.20minutos.es/nacional/fiscalia-europea-investiga-ministerio-igualdad-por-posible-fraude-compra-las-pulseras-antimaltrato-con-fondos-ue_7060180_0.html",
+"fecha": "2026-11-12T10:56+00:00"
 },
 {
-"medio": "El Confidencial",
-"titulo": "\"Un voto como una casa\", el lema del Frente Amplio para el 29 de noviembre",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/frente-amplio-vivienda-campana-electoral-1tps_4461688/",
-"fecha": "2026-11-09T14:37+00:00"
+"medio": "ABC",
+"titulo": "La Fiscalía Europea investiga un presunto fraude con fondos de la UE en las pulseras antimaltrato en España",
+"url": "https://www.abc.es/espana/fiscalia-europea-investiga-presunto-fraude-fondos-ue-20261112114442-nt.html",
+"fecha": "2026-11-12T12:49+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "El Frente Amplio convierte la campaña en un \"referéndum\" por la vivienda con el lema \"Un voto como una casa\"",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1d23ae9cf4a85548b459c.html",
-"fecha": "2026-11-09T14:01+00:00"
+"medio": "COPE",
+"titulo": "La Fiscalía Europea investiga un presunto fraude con fondos de la UE para las pulseras antimaltrato en España",
+"url": "https://www.cope.es/actualidad/sociedad/noticias/fiscalia-europea-investiga-presunto-fraude-fondos-ue-pulseras-antimaltrato-espana-20261112_3473610.html",
+"fecha": "2026-11-12T13:39+00:00"
 },
-{
-"medio": "elDiario.es",
-"titulo": "'Un voto como una casa' será el lema de campaña del Frente Amplio",
-"url": "https://www.eldiario.es/politica/voto-casa-sera-lema-campana-frente-amplio_1_13649510.html",
-"fecha": "2026-11-09T12:26+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "\"Un voto como una casa\": el lema electoral del Frente Amplio para el 29-N",
-"url": "https://www.larazon.es/espana/voto-como-casa-lema-electoral-frente-amplio-29n_202611096af1d69d03bbf30bb045d1b9.html",
-"fecha": "2026-11-09T14:20+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El Frente Amplio hace de “Un voto como una casa” su lema para el 29-N",
-"url": "https://www.lavanguardia.com/politica/20261109/11679809/frente-amplio-conjura-convertirse-voto-util-multiplicar-escanos.html",
-"fecha": "2026-11-09T11:21+00:00"
-}
-]
-},
-{
-"medios": 6,
-"desde": "2026-11-09T09:12+00:00",
-"hasta": "2026-11-10T08:48+00:00",
-"temas": [
-"inmigracion"
-],
-"comunes": [
-"policia",
-"puerto",
-"ceuta",
-"campamento",
-"desaloja",
-"inmigrantes",
-"migrantes",
-"segundo"
-],
-"titulares": [
 {
 "medio": "El Debate",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de inmigrantes del puerto de Ceuta",
-"url": "https://www.eldebate.com/espana/20261109/policia-desaloja-segundo-dia-consecutivo-campamento-inmigrantes-puerto-ceuta_478807.html",
-"fecha": "2026-11-09T10:41+00:00"
+"titulo": "La Fiscalía Europea y la UCO investigan al Ministerio de Igualdad por un presunto fraude de fondos comunitarios en las pulseras antimaltrato ​",
+"url": "https://www.eldebate.com/espana/20261112/fiscalia-europea-uco-investigan-ministerio-igualdad-presunto-fraude-fondos-comunitarios-pulseras-antimaltrato_480058.html",
+"fecha": "2026-11-12T10:39+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de migrantes del puerto de Ceuta",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a38ee4d4d8ec5f8b4587.html",
-"fecha": "2026-11-09T10:47+00:00"
+"titulo": "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
+"url": "https://www.elmundo.es/espana/2026/11/12/6af59511e85ecef6528b457a.html",
+"fecha": "2026-11-12T12:18+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "La Fiscalía Europea investiga un presunto fraude con fondos de la UE para las pulseras antimaltrato en España",
+"url": "https://www.europapress.es/nacional/noticia-fiscalia-europea-investiga-presunto-fraude-fondos-ue-pulseras-antimaltrato-espana-20261112113802.html",
+"fecha": "2026-11-12T10:38+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "La Policía desaloja por segundo día consecutivo el campamento de migrantes del puerto de Ceuta",
-"url": "https://www.larazon.es/espana/policia-desaloja-segundo-dia-consecutivo-campamento-migrantes-puerto-ceuta_202611096af19aadd3bddc0868aaec06.html",
-"fecha": "2026-11-09T10:04+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "La policía acude al puerto de Ceuta para completar el desalojo del campamento de migrantes",
-"url": "https://www.lavanguardia.com/politica/20261109/11679689/policia-acude-puerto-ceuta-completar-desalojo-campamento-migrantes.html",
-"fecha": "2026-11-09T09:19+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La Policía Nacional desaloja el campamento de inmigrantes irregulares en el puerto de Ceuta",
-"url": "https://www.libertaddigital.com/espana/2026-11-09/la-policia-nacional-desaloja-el-campamento-de-inmigrantes-irregulares-en-el-puerto-de-ceuta-7488468/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-09T09:51+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La Policía desaloja el campamento de inmigrantes del puerto de Ceuta para cerrarlo",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-09/policia-campamento-inmigrantes-puerto-ceuta-cerrarlo/",
-"fecha": "2026-11-09T09:12+00:00"
+"titulo": "La Fiscalía Europea manda a la UCO al Ministerio de Igualdad por presunto fraude con las pulseras antimaltrato",
+"url": "https://www.larazon.es/espana/fiscalia-europea-manda-uco-ministerio-igualdad-presunto-fraude-pulseras-antimaltrato_202611126af5999e9a31a65adcd97abc.html",
+"fecha": "2026-11-12T10:49+00:00"
 }
 ]
 },
@@ -1085,8 +1021,8 @@
 "fiscalia",
 "eeuu",
 "extraditar",
-"chambers",
 "fergie",
+"chambers",
 "propalestino",
 "multimillonario",
 "apoya"
@@ -1132,61 +1068,6 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-09T15:36+00:00",
-"hasta": "2026-11-11T11:17+00:00",
-"temas": [
-"pensiones"
-],
-"comunes": [
-"iustitia",
-"europa",
-"hijos",
-"nietos",
-"ley",
-"recurre",
-"votar"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Iustitia Europa recurre al Supremo que voten los hijos de los nacionalizados por la ‘ley de nietos’ el 29N y pide apartar sus sufragios",
-"url": "https://www.20minutos.es/nacional/iustitia-europa-recurre-supremo-que-voten-los-hijos-los-nacionalizados-por-ley-nietos-29n-pide-apartar-sus-sufragios_7059276_0.html",
-"fecha": "2026-11-10T12:24+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Luis María Pardo, presidente de Iustitia Europa: \"Es una contradicción que puedan votar los hijos y no los padres. Habrá gente votando que igual no tiene derecho porque no son españoles ya que sus antecesores no lo son\"",
-"url": "https://www.cope.es/programas/mediodia-cope/noticias/luis-maria-pardo-presidente-iustitia-europa-contradiccion-puedan-votar-hijos-no-padres-habra-gente-votando-igual-no-derecho-no-son-espanoles-antecesores-no-son-20261109_3471700.html",
-"fecha": "2026-11-09T15:36+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Iustitia Europa recurre la no suspensión del voto a los hijos de la 'ley de nietos' y avisa de impacto en el escrutinio",
-"url": "https://www.europapress.es/nacional/noticia-iustitia-europa-recurre-no-suspension-voto-hijos-ley-nietos-avisa-impacto-escrutinio-20261110115823.html",
-"fecha": "2026-11-10T10:58+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Iustitia Europa aboga por reforzar los controles electorales tras la polémica por la \"ley de nietos\"",
-"url": "https://www.larazon.es/espana/iustitia-europa-aboga-reforzar-controles-electorales-polemica-ley-nietos_202611116af44ec24196933d7ed930f7.html",
-"fecha": "2026-11-11T11:17+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Iustitia Europa recurre la \"contradictoria\" decisión del Supremo de dejar votar a los hijos de los Nietos",
-"url": "https://www.libertaddigital.com/espana/2026-11-10/iustitia-europa-recurre-la-contradictoria-decision-del-supremo-de-dejar-votar-a-los-hijos-de-los-nietos-7489010/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T11:27+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Iustitia Europa recurre que los hijos de los beneficiados por la ‘ley de nietos’ puedan votar",
-"url": "https://theobjective.com/espana/tribunales/2026-11-10/iustitia-europa-hijos-ley-nietos/",
-"fecha": "2026-11-10T10:54+00:00"
-}
-]
-},
-{
-"medios": 6,
 "desde": "2026-11-11T12:13+00:00",
 "hasta": "2026-11-11T13:50+00:00",
 "temas": [
@@ -1196,12 +1077,12 @@
 "comunes": [
 "pago",
 "koldo",
-"euros",
 "105",
-"juez",
+"euros",
 "000",
+"juez",
 "psoe",
-"zarrias"
+"pedraz"
 ],
 "titulares": [
 {
@@ -1244,105 +1125,167 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-09T10:30+00:00",
-"hasta": "2026-11-11T19:42+00:00",
+"desde": "2026-11-10T10:54+00:00",
+"hasta": "2026-11-11T15:23+00:00",
 "temas": [
-"impuestos"
+"pensiones"
 ],
 "comunes": [
-"tiktok",
-"sexual",
-"infantil",
-"abuso",
-"pide",
-"gobierno",
-"videos",
-"espana"
+"nietos",
+"iustitia",
+"europa",
+"hijos",
+"ley",
+"recurre",
+"votar",
+"supremo"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "El Gobierno pide a la Fiscalía cerrar Tiktok para investigar presuntos casos de abuso sexual infantil en la plataforma",
-"url": "https://www.20minutos.es/nacional/gobierno-pide-fiscalia-cerrar-tiktok-para-investigar-presuntos-casos-abuso-sexual-infantil-plataforma_7058845_0.html",
-"fecha": "2026-11-09T10:34+00:00"
+"titulo": "Iustitia Europa recurre al Supremo que voten los hijos de los nacionalizados por la ‘ley de nietos’ el 29N y pide apartar sus sufragios",
+"url": "https://www.20minutos.es/nacional/iustitia-europa-recurre-supremo-que-voten-los-hijos-los-nacionalizados-por-ley-nietos-29n-pide-apartar-sus-sufragios_7059276_0.html",
+"fecha": "2026-11-10T12:24+00:00"
 },
 {
-"medio": "El Confidencial",
-"titulo": "El Gobierno se plantea paralizar los servicios de TikTok en España por permitir vídeos de abuso sexual infantil",
-"url": "https://www.elconfidencial.com/espana/2026-11-09/tiktok-abuso-sexual-infantil-fiscalia-1tps_4461552/",
-"fecha": "2026-11-09T10:30+00:00"
+"medio": "El Debate",
+"titulo": "El Supremo da 20 días para defenderse a los hijos de la ley de nietos a los que acaba de permitir votar el 29-N",
+"url": "https://www.eldebate.com/espana/20261110/supremo-da-20-dias-defenderse-hijos-ley-nietos-acaba-permitir-votar-29n_479475.html",
+"fecha": "2026-11-10T21:09+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "Infancia pide a Protección de Datos paralizar TikTok tras destaparse más de mil vídeos de abuso sexual infantil",
-"url": "https://www.elespanol.com/espana/politica/20261110/infancia-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-manera-excepcional/1003744453011_0.html",
-"fecha": "2026-11-10T17:16+00:00"
+"medio": "Europa Press",
+"titulo": "Iustitia Europa recurre la no suspensión del voto a los hijos de la 'ley de nietos' y avisa de impacto en el escrutinio",
+"url": "https://www.europapress.es/nacional/noticia-iustitia-europa-recurre-no-suspension-voto-hijos-ley-nietos-avisa-impacto-escrutinio-20261110115823.html",
+"fecha": "2026-11-10T10:58+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "El Gobierno pide a la Fiscalía estudiar la paralización de TikTok en España por \"vulneración de derechos de la infancia\" tras detectarse abuso sexual infantil",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1a1d1e9cf4a0d5f8b4583.html",
-"fecha": "2026-11-09T11:48+00:00"
+"medio": "La Razón",
+"titulo": "Iustitia Europa aboga por reforzar los controles electorales tras la polémica por la \"ley de nietos\"",
+"url": "https://www.larazon.es/espana/iustitia-europa-aboga-reforzar-controles-electorales-polemica-ley-nietos_202611116af44ec24196933d7ed930f7.html",
+"fecha": "2026-11-11T11:17+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Sira Rego pide a Protección de Datos que suspenda TikTok en España por los vídeos de abuso sexual infantil",
-"url": "https://www.libertaddigital.com/espana/2026-11-10/sira-rego-pide-a-proteccion-de-datos-que-suspenda-tiktok-en-espana-por-los-videos-de-abuso-sexual-infantil-7489345/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-10T18:04+00:00"
+"titulo": "Iustitia Europa recurre la \"contradictoria\" decisión del Supremo de dejar votar a los hijos de los Nietos",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/iustitia-europa-recurre-la-contradictoria-decision-del-supremo-de-dejar-votar-a-los-hijos-de-los-nietos-7489010/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:27+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "El Gobierno pide a Fiscalía investigar presuntos casos de abuso sexual infantil en TikTok",
-"url": "https://theobjective.com/espana/tribunales/2026-11-09/gobierno-fiscalia-presuntos-abuso-sexual-infantil-tiktok/",
-"fecha": "2026-11-09T10:53+00:00"
+"titulo": "Iustitia Europa recurre que los hijos de los beneficiados por la ‘ley de nietos’ puedan votar",
+"url": "https://theobjective.com/espana/tribunales/2026-11-10/iustitia-europa-hijos-ley-nietos/",
+"fecha": "2026-11-10T10:54+00:00"
 }
 ]
 },
 {
-"medios": 5,
-"desde": "2026-11-10T08:59+00:00",
-"hasta": "2026-11-10T10:55+00:00",
-"temas": [],
+"medios": 6,
+"desde": "2026-11-10T07:28+00:00",
+"hasta": "2026-11-12T11:38+00:00",
+"temas": [
+"empleo"
+],
 "comunes": [
-"entrevista",
-"mal",
-"abascal",
-"paso",
-"broncano",
-"izquierda",
-"cree",
-"presion"
+"ultima",
+"directo",
+"hora",
+"generales",
+"elecciones",
+"sanchez",
+"precampana",
+"feijoo"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Precampaña elecciones generales en España, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
+"url": "https://www.abc.es/espana/misa-funeral-catedral-toledo-victimas-tren-urda-20261110175926-di.html",
+"fecha": "2026-11-10T22:53+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Elecciones generales 29-N, en directo | Última hora de Pedro Sánchez, encuestas y actos de precampaña de PP, PSOE y Vox",
+"url": "https://www.elespanol.com/espana/20261111/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-actos-precampana-pp-psoe-vox-espana-2026-partidos-voto-por-correo/1003744453331_10.html",
+"fecha": "2026-11-11T06:37+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Última hora sobre la actualidad política, en directo",
+"url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13651057.html",
+"fecha": "2026-11-10T07:30+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Última hora de la actualidad política en España, en directo: elecciones generales del 29N y huelga general",
+"url": "https://www.europapress.es/nacional/noticia-ultima-hora-actualidad-politica-espana-directo-elecciones-generales-29n-huelga-general-20261110082835.html",
+"fecha": "2026-11-10T07:28+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Elecciones generales del 29N, en directo: encuestas y última hora de la precampaña electoral de Feijóo, Sánchez, Abascal y resto de candidatos",
+"url": "https://www.lavanguardia.com/politica/20261110/11680069/elecciones-generales-29-n-ultima-hora-precampana-electoral-hoy-martes-10-noviembre.html",
+"fecha": "2026-11-10T09:38+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Visita de Feijóo en ‘El Hormiguero’, en directo: a qué hora empieza y dónde ver la entrevista, última hora de la huelga general y de las elecciones generales del 29-N hoy en vivo online",
+"url": "https://okdiario.com/espana/visita-feijoo-hormiguero-directo-que-hora-empieza-donde-ver-entrevista-ultima-hora-huelga-general-elecciones-generales-del-29-n-hoy-vivo-online-20748233",
+"fecha": "2026-11-11T22:01+00:00"
+}
+]
+},
+{
+"medios": 6,
+"desde": "2026-11-12T09:03+00:00",
+"hasta": "2026-11-12T13:07+00:00",
+"temas": [
+"vivienda"
+],
+"comunes": [
+"decreto",
+"permanente",
+"diputacion",
+"vivienda",
+"alquileres",
+"prorroga"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Abascal afirma que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión \"inaceptable\" de la izquierda",
-"url": "https://www.20minutos.es/nacional/abascal-afirma-que-broncano-paso-mal-su-entrevista-revuelta-por-presion-inaceptable-izquierda_7059176_0.html",
-"fecha": "2026-11-10T10:14+00:00"
+"titulo": "La Diputación Permanente salva el decreto 'antidesahucios' y la prórroga de alquileres y vuelve a tumbar los contratos indefinidos",
+"url": "https://www.20minutos.es/nacional/diputacion-permanente-salva-decreto-antidesahucios-prorroga-alquileres-vuelve-tumbar-los-contratos-indefinidos_7060053_0.html",
+"fecha": "2026-11-12T11:38+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "La Diputación Permanente del Congreso convalida el 'decreto Mari Carmen' de vivienda",
+"url": "https://www.cope.es/actualidad/economia/noticias/diputacion-permanente-aprueba-decreto-mari-carmen-vivienda-20261112_3473672.html",
+"fecha": "2026-11-12T11:57+00:00"
 },
 {
 "medio": "El Confidencial",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en la entrevista debido a las presiones por 'blanquear el franquismo'",
-"url": "https://www.elconfidencial.com/espana/2026-11-10/figaredo-revuelta-entrevista-sanidad-1tps_4462029/",
-"fecha": "2026-11-10T10:55+00:00"
+"titulo": "El Gobierno saca adelante su decreto de vivienda en un debate marcado por el 29-N y la \"violencia policial\"",
+"url": "https://www.elconfidencial.com/espana/2026-11-12/bustinduy-equipara-los-decretos-de-vivienda-con-los-derechos-laborales-y-advierte-que-se-van-a-abrir-paso_4463342/",
+"fecha": "2026-11-12T09:03+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Abascal cree que Broncano «lo pasó mal» en su entrevista por la «presión inaceptable» de la izquierda",
-"url": "https://www.eldebate.com/espana/20261110/abascal-cree-broncano-paso-mal-entrevista-presion-inaceptable-izquierda_479085.html",
-"fecha": "2026-11-10T09:24+00:00"
+"titulo": "La Diputación Permanente convalida el decreto ley de vivienda con la posibilidad de que tenga los días contados",
+"url": "https://www.eldebate.com/espana/20261112/diputacion-permanente-convalida-decreto-ley-vivienda-posibilidad-tenga-dias-contados_480167.html",
+"fecha": "2026-11-12T13:07+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la \"presión inaceptable\" de la izquierda",
-"url": "https://www.elespanol.com/espana/20261110/elecciones-generales-directo-ultima-hora-pedro-sanchez-feijoo-actos-precampana-pp-psoe-vox-encuestas-voto-correo-sondeos/1003744451631_10.html",
-"fecha": "2026-11-10T09:15+00:00"
+"medio": "elDiario.es",
+"titulo": "El Gobierno saca adelante el decreto que prorroga los alquileres y prohíbe desahucios en la Diputación Permanente",
+"url": "https://www.eldiario.es/politica/gobierno-sortea-rechazo-pp-vox-junts-logra-prohibir-desahucios-2031-horas-iniciarse-campana_1_13657109.html",
+"fecha": "2026-11-12T11:37+00:00"
 },
 {
-"medio": "Europa Press",
-"titulo": "Abascal cree que Broncano \"lo pasó mal\" en su entrevista en 'La Revuelta' por la presión de la izquierda",
-"url": "https://www.europapress.es/nacional/noticia-abascal-cree-broncano-paso-mal-entrevista-revuelta-presion-inaceptable-izquierda-20261110095928.html",
-"fecha": "2026-11-10T08:59+00:00"
+"medio": "La Vanguardia",
+"titulo": "La Diputación Permanente salva el decreto principal de vivienda pero tumba la prórroga de los alquileres",
+"url": "https://www.lavanguardia.com/politica/20261112/11682472/diputacion-permanente-salva-decreto-principal-vivienda-tumba-prorroga-alquileres.html",
+"fecha": "2026-11-12T11:46+00:00"
 }
 ]
 },
@@ -1355,9 +1298,9 @@
 ],
 "comunes": [
 "constitucional",
-"gobierno",
-"nacional",
 "prioridad",
+"nacional",
+"gobierno",
 "valenciana",
 "lleva",
 "vox",
@@ -1411,7 +1354,7 @@
 "urda",
 "funeral",
 "pide",
-"esclarezcan"
+"causas"
 ],
 "titulares": [
 {
@@ -1448,70 +1391,18 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-09T15:27+00:00",
-"hasta": "2026-11-11T10:31+00:00",
-"temas": [
-"empleo",
-"sanidad",
-"educacion"
-],
-"comunes": [
-"huelga",
-"general",
-"minimos",
-"servicios",
-"noviembre",
-"educacion",
-"sanidad",
-"horario"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Horario de la huelga general del 11 de noviembre: estos son los servicios mínimos en transportes públicos, sanidad y educación",
-"url": "https://www.20minutos.es/nacional/horario-huelga-general-11-noviembre-servicios-minimos-transportes-publicos-sanidad-educacion_7058836_0.html",
-"fecha": "2026-11-09T15:27+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Estos son los servicios mínimos de la huelga general del 11 de noviembre en la Comunidad Valenciana",
-"url": "https://www.abc.es/espana/comunidad-valenciana/servicios-minimos-huelga-general-noviembre-comunidad-valenciana-20261110113721-nt.html",
-"fecha": "2026-11-10T10:37+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Huelga general el 11 de noviembre en Madrid: horario y recorrido de la manifestación, servicios mínimos en transporte y hospitales y cortes de tráfico",
-"url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
-"fecha": "2026-11-10T10:00+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Huelga general del 11N: servicios mínimos en sanidad, educación y transporte público en la Comunidad Valenciana",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261110/huelga-general-11n-servicios-minimos-sanidad-educacion-transporte-publico-comunidad-valenciana_478754.html",
-"fecha": "2026-11-10T03:00+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Huelga general del 11-N, en directo | Manifestaciones, piquetes, servicios mínimos, sindicatos, incidencias y cortes de tráfico",
-"url": "https://www.elespanol.com/espana/20261110/huelga-general-noviembre-directo-horario-recorrido-calles-cortadas-servicios-minimos-ultima-hora-movilizaciones-piquetes-incidencias-sindicatos/1003744452728_10.html",
-"fecha": "2026-11-11T10:31+00:00"
-}
-]
-},
-{
-"medios": 5,
 "desde": "2026-11-11T11:51+00:00",
 "hasta": "2026-11-11T13:30+00:00",
 "temas": [],
 "comunes": [
 "eceiza",
+"asier",
 "grado",
 "etarra",
-"asier",
 "tercer",
 "vasco",
-"priede",
-"gobierno"
+"asesinato",
+"priede"
 ],
 "titulares": [
 {
@@ -1552,13 +1443,13 @@
 "hasta": "2026-11-11T16:54+00:00",
 "temas": [],
 "comunes": [
-"cadiz",
 "charles",
-"borrasca",
 "huelva",
+"borrasca",
+"cadiz",
 "suspende",
-"clases",
 "andalucia",
+"clases",
 "litoral"
 ],
 "titulares": [
@@ -1596,6 +1487,54 @@
 },
 {
 "medios": 5,
+"desde": "2026-11-09T15:08+00:00",
+"hasta": "2026-11-11T17:19+00:00",
+"temas": [],
+"comunes": [
+"voto",
+"nacionalizados",
+"hijos",
+"supremo",
+"nietos",
+"ley",
+"suspender",
+"rechaza"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Preguntas y respuestas: ¿por qué el Supremo rechaza suspender el voto de los hijos de nacionalizados?",
+"url": "https://www.eldebate.com/espana/20261109/preguntas-respuestas-supremo-rechaza-suspender-voto-hijos-nacionalizados_478989.html",
+"fecha": "2026-11-09T18:49+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El Supremo rechaza suspender el voto a los casi 190.000 hijos de los nacionalizados por la 'ley de nietos': \"Se nos ha pedido a una semana de la campaña\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1c361e9cf4ab4658b4571.html",
+"fecha": "2026-11-09T15:08+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Vox pedirá aclaraciones al Supremo por rechazar suspender el voto a hijos de nacionalizados por la 'ley de nietos'",
+"url": "https://www.europapress.es/nacional/noticia-vox-pedira-aclaraciones-supremo-rechazar-suspender-voto-hijos-nacionalizados-ley-nietos-20261110100530.html",
+"fecha": "2026-11-10T09:05+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Recurso in extremis en el Supremo para frenar el voto de los hijos de nacionalizados por la \"ley de nietos\"",
+"url": "https://www.larazon.es/espana/recurso-extremis-supremo-frenar-voto-hijos-nacionalizados-ley-nietos_202611106af2f738ea8d897997803564.html",
+"fecha": "2026-11-10T10:52+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Moncloa aplaude que no se suspenda el voto a hijos de nacionalizados por la ‘ley de nietos’",
+"url": "https://theobjective.com/espana/tribunales/2026-11-09/moncloa-aplaude-no-se-suspenda-voto-hijos-nacionalizados-ley-nietos/",
+"fecha": "2026-11-09T19:43+00:00"
+}
+]
+},
+{
+"medios": 5,
 "desde": "2026-11-11T08:40+00:00",
 "hasta": "2026-11-11T17:30+00:00",
 "temas": [
@@ -1603,10 +1542,10 @@
 ],
 "comunes": [
 "huelga",
-"negro",
 "canal",
-"general",
+"negro",
 "sur",
+"general",
 "television",
 "andalucia",
 "emision"
@@ -1645,6 +1584,96 @@
 ]
 },
 {
+"medios": 5,
+"desde": "2026-11-10T10:22+00:00",
+"hasta": "2026-11-12T12:13+00:00",
+"temas": [],
+"comunes": [
+"piedralaves",
+"avila",
+"riesgo",
+"desbordamiento",
+"presa",
+"evacuar",
+"proteccion",
+"ordena"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) ante el posible desbordamiento de la presa de Horcajo",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261110/proteccion-civil-ordena-evacuar-piedralaves-avila-ante-posible-desbordamiento-presa-horcajo_479131.html",
+"fecha": "2026-11-10T10:35+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
+"url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html",
+"fecha": "2026-11-10T10:38+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Junta de Castilla y León evacúa Piedralaves por el riesgo de desbordamiento de la presa del Horcajo",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-10/la-junta-de-castilla-y-leon-evacua-piedralaves-por-el-riesgo-de-desbordamiento-de-la-presa-del-horcajo-7489002/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T11:16+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Alerta roja por lluvias: desalojan Piedralaves (Ávila) por el riesgo de desbordamiento de una presa",
+"url": "https://okdiario.com/espana/alerta-roja-lluvias-desalojan-piedralaves-avila-riesgo-desbordamiento-presa-20742180",
+"fecha": "2026-11-10T10:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Protección Civil ordena evacuar Piedralaves (Ávila) por riesgo de desbordamiento",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-10/proteccion-civil-piedralaves-avila/",
+"fecha": "2026-11-10T10:22+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-09T14:01+00:00",
+"hasta": "2026-11-09T14:37+00:00",
+"temas": [
+"vivienda",
+"territorio"
+],
+"comunes": [
+"lema",
+"casa",
+"frente",
+"voto",
+"amplio"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Frente Amplio lanza su lema para las elecciones del 29-N: \"Un voto como una casa\"",
+"url": "https://www.20minutos.es/nacional/frente-amplio-lanza-su-lema-para-las-elecciones-29-n-un-voto-como-una-casa_7058919_0.html",
+"fecha": "2026-11-09T14:02+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "\"Un voto como una casa\", el lema del Frente Amplio para el 29 de noviembre",
+"url": "https://www.elconfidencial.com/espana/2026-11-09/frente-amplio-vivienda-campana-electoral-1tps_4461688/",
+"fecha": "2026-11-09T14:37+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El Frente Amplio convierte la campaña en un \"referéndum\" por la vivienda con el lema \"Un voto como una casa\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af1d23ae9cf4a85548b459c.html",
+"fecha": "2026-11-09T14:01+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "\"Un voto como una casa\": el lema electoral del Frente Amplio para el 29-N",
+"url": "https://www.larazon.es/espana/voto-como-casa-lema-electoral-frente-amplio-29n_202611096af1d69d03bbf30bb045d1b9.html",
+"fecha": "2026-11-09T14:20+00:00"
+}
+]
+},
+{
 "medios": 4,
 "desde": "2026-11-10T11:12+00:00",
 "hasta": "2026-11-10T19:51+00:00",
@@ -1653,8 +1682,8 @@
 ],
 "comunes": [
 "programa",
-"feijoo",
 "electoral",
+"feijoo",
 "presenta",
 "convierte"
 ],
@@ -1687,6 +1716,46 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-10T09:09+00:00",
+"hasta": "2026-11-11T02:23+00:00",
+"temas": [],
+"comunes": [
+"cobarde",
+"sanchez",
+"urda",
+"funeral",
+"tellado",
+"victimas"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "El PP acusa a Sánchez de «cobarde» por no asistir al funeral de las víctimas de Urda",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-acusa-sanchez-cobarde-asistir-funeral-victimas-20261110113730-nt.html",
+"fecha": "2026-11-10T10:40+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Tellado llama «cobarde» a Sánchez por dar la «espantada» en el funeral por Urda: «Teme la reacción de la gente»",
+"url": "https://www.eldebate.com/espana/20261110/tellado-llama-cobarde-sanchez-dar-espantada-funeral-urda-teme-reaccion-gente_479097.html",
+"fecha": "2026-11-10T10:10+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El efecto cobarde",
+"url": "https://www.larazon.es/espana/efecto-cobarde_202611116af35697d3bddc0868acba41.html",
+"fecha": "2026-11-11T02:23+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Tellado tacha de «cobarde» a Sánchez por no acudir al funeral de las víctimas de Urda",
+"url": "https://theobjective.com/espana/politica/2026-11-10/tellado-sanchez-funeral-victimas-urda/",
+"fecha": "2026-11-10T09:09+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-10T18:31+00:00",
 "hasta": "2026-11-11T06:58+00:00",
 "temas": [
@@ -1695,11 +1764,11 @@
 ],
 "comunes": [
 "seguro",
+"inquilinas",
+"alquiler",
 "sindicato",
 "sede",
 "madrid",
-"inquilinas",
-"alquiler",
 "huelga",
 "general"
 ],
@@ -1738,9 +1807,9 @@
 "empleo"
 ],
 "comunes": [
-"rodalies",
-"minimos",
 "servicios",
+"minimos",
+"rodalies",
 "huelga",
 "maquinistas",
 "caos"
@@ -1774,48 +1843,6 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-09T08:43+00:00",
-"hasta": "2026-11-11T09:10+00:00",
-"temas": [],
-"comunes": [
-"zonas",
-"afectadas",
-"lluvias",
-"borrasca",
-"estas",
-"vientos",
-"llega",
-"charles"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Llega lo peor de la borrasca Charles: horas y zonas más afectadas por lluvias torrenciales, posibles inundaciones y vientos huracanados",
-"url": "https://www.20minutos.es/nacional/llega-peor-borrasca-charles-horas-zonas-mas-afectadas-lluvias-torrenciales-inundaciones-vientos-huracanados_7059612_0.html",
-"fecha": "2026-11-11T09:10+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Llega la borrasca Charles a España y la Aemet avisa: lluvias muy fuertes con rachas de hasta 130 km/h y estas serán las zonas más afectadas",
-"url": "https://www.elconfidencial.com/espana/2026-11-11/tiempo-aemet-borrasca-charles-espana_4462674/",
-"fecha": "2026-11-11T07:28+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La borrasca Bruna deja varios avisos por lluvias y vientos en Andalucía: estas son las zonas más afectadas",
-"url": "https://www.eldebate.com/espana/andalucia/20261109/borrasca-brunadeja-varios-avisos-lluvias-vientos-andalucia-estas-son-zonas-afectadas_478758.html",
-"fecha": "2026-11-09T08:43+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Lluvias y alerta amarilla por viento en la Comunidad Valenciana: estas son las zonas afectadas",
-"url": "https://okdiario.com/comunidad-valenciana/lluvias-alerta-amarilla-viento-comunidad-valenciana-estas-son-zonas-afectadas-20747191",
-"fecha": "2026-11-11T05:55+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-10T11:00+00:00",
 "hasta": "2026-11-11T09:34+00:00",
 "temas": [
@@ -1823,10 +1850,10 @@
 "territorio"
 ],
 "comunes": [
-"migratoria",
 "emergencia",
-"gobierno",
+"migratoria",
 "declara",
+"gobierno",
 "canarias",
 "hierro",
 "medios"
@@ -1860,45 +1887,41 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-09T12:58+00:00",
-"hasta": "2026-11-11T10:14+00:00",
+"desde": "2026-11-10T09:31+00:00",
+"hasta": "2026-11-11T11:29+00:00",
 "temas": [
-"territorio"
+"empleo"
 ],
 "comunes": [
-"avila",
-"bruna",
-"alerta",
-"caceres",
-"borrascas",
-"charles",
-"roja",
-"lluvias"
+"huelga",
+"sindicatos",
+"electoral",
+"denuncia"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Después de 'Bruna' llegará 'Charles': un carrusel de borrascas trae lluvias toda la semana y una alerta roja en Cáceres y Ávila",
-"url": "https://www.20minutos.es/nacional/despues-bruna-llegara-charles-un-carrusel-borrascas-trae-lluvias-toda-semana-una-alerta-roja-caceres-avila_7058902_0.html",
-"fecha": "2026-11-09T12:58+00:00"
+"titulo": "El PP carga contra los sindicatos por la huelga \"preventiva\" y \"electoral\" que se celebra \"contra el próximo Gobierno\"",
+"url": "https://www.20minutos.es/nacional/pp-carga-contra-los-sindicatos-por-huelga-preventiva-electoral-que-se-celebra-contra-proximo-gobierno_7059724_0.html",
+"fecha": "2026-11-11T11:29+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "Las borrascas Bruna y Charles ponen en alerta casi toda España, con Ávila, Cáceres y La Palma en nivel rojo por lluvia y viento: \"Mucha precaución\"",
-"url": "https://www.elmundo.es/espana/2026/11/11/6af419f0fc6c83465a8b457a.html",
-"fecha": "2026-11-11T10:14+00:00"
+"medio": "Europa Press",
+"titulo": "Tellado denuncia la \"huelga electoral\" de los sindicatos contra el PP, \"el verdadero partido de los currantes\"",
+"url": "https://www.europapress.es/nacional/noticia-tellado-denuncia-huelga-electoral-sindicatos-contra-pp-verdadero-partido-currantes-20261110103158.html",
+"fecha": "2026-11-10T09:31+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "La borrasca Bruna pone en alerta roja Ávila y Cáceres antes de un miércoles todavía más adverso",
-"url": "https://www.infolibre.es/medioambiente/borrasca-bruna-pone-alerta-roja-avila-caceres-miercoles-todavia-adverso_1_2239771.html",
-"fecha": "2026-11-10T20:30+00:00"
+"medio": "La Vanguardia",
+"titulo": "El PP denuncia la “huelga electoral” de los sindicatos contra el PP",
+"url": "https://www.lavanguardia.com/politica/20261110/11680676/pp-denuncia-huelga-electoral-sindicatos-pp.html",
+"fecha": "2026-11-10T10:20+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "Última hora de las borrascas Bruna y Charles, en directo: alerta roja en Ávila y Cáceres por fuertes lluvias y en Canarias por rachas de viento",
-"url": "https://okdiario.com/espana/ultima-hora-borrasca-bruna-directo-alerta-roja-avila-caceres-fuertes-lluvias-20742983",
-"fecha": "2026-11-10T12:58+00:00"
+"medio": "The Objective",
+"titulo": "VÍDEO | Cayetana Álvarez de Toledo denuncia la «huelga electoral» de los sindicatos",
+"url": "https://theobjective.com/videos/espana/2026-11-11/alvarez-toledo-huelga-electoral-sindicatos/",
+"fecha": "2026-11-11T09:52+00:00"
 }
 ]
 },
@@ -1910,9 +1933,9 @@
 "justicia"
 ],
 "comunes": [
-"constitucional",
-"pide",
 "koldo",
+"pide",
+"constitucional",
 "condena",
 "recurso",
 "suspenda",
@@ -1948,65 +1971,20 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-09T12:30+00:00",
-"hasta": "2026-11-11T13:26+00:00",
-"temas": [
-"inmigracion",
-"territorio"
-],
-"comunes": [
-"500",
-"cayucos",
-"horas",
-"rescata",
-"salvamento",
-"canarias",
-"cuatro",
-"ultimas"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Salvamento rescata a más de 500 personas en dos islas en las primeras horas del lunes",
-"url": "https://www.abc.es/espana/canarias/salvamento-rescata-500-personas-dos-islas-primeras-20261109134741-nt.html",
-"fecha": "2026-11-09T12:47+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Llegan a Canarias 500 migrantes en cuatro cayucos en las últimas horas",
-"url": "https://www.elmundo.es/espana/2026/11/09/6af1be43e4d4d8c66d8b4579.html",
-"fecha": "2026-11-09T12:36+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Llegan tres cayucos con 211 migrantes a El Hierro en las últimas horas",
-"url": "https://www.lavanguardia.com/vida/20261111/11681699/llegan-tres-cayucos-211-migrantes-hierro-ultimas-horas.html",
-"fecha": "2026-11-11T13:26+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Salvamento Marítimo rescata a unos 500 inmigrantes en cuatro cayucos en Canarias",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-09/salvamento-maritimo-500-inmigrantes-cuatro-cayucos-canarias/",
-"fecha": "2026-11-09T12:30+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-11T10:25+00:00",
 "hasta": "2026-11-11T17:58+00:00",
 "temas": [
 "empleo"
 ],
 "comunes": [
-"huelga",
 "seguimiento",
+"huelga",
 "ceoe",
 "califican",
-"exito",
 "sindicatos",
+"exito",
 "cifra",
-"general"
+"fracaso"
 ],
 "titulares": [
 {
@@ -2037,46 +2015,6 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-11T08:48+00:00",
-"hasta": "2026-11-11T18:05+00:00",
-"temas": [],
-"comunes": [
-"vila",
-"octavi",
-"barcelona",
-"arzobispo",
-"nuevo",
-"omella"
-],
-"titulares": [
-{
-"medio": "COPE",
-"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona",
-"url": "https://www.cope.es/actualidad/linea-editorial/audios/octavi-vila-nuevo-arzobispo-barcelona-20261111_3473253.html",
-"fecha": "2026-11-11T18:05+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Fray Octavi Vilà, nuevo arzobispo de Barcelona en sustitución de Omella",
-"url": "https://www.eldebate.com/religion/20261111/leon-xiv-nombra-fray-octavi-vila-nuevo-arzobispo-barcelona_479576.html",
-"fecha": "2026-11-11T11:01+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Octavi Vilà, obispo de Girona, reemplazará a Omella como arzobispo de Barcelona",
-"url": "https://www.lavanguardia.com/politica/20261111/11681408/octavi-vila-obispo-girona-reemplazara-omella-arzobispo-barcelona.html",
-"fecha": "2026-11-11T08:48+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona por nombramiento del papa León XIV",
-"url": "https://theobjective.com/sociedad/2026-11-11/octavi-vila-arzobispo-barcelona/",
-"fecha": "2026-11-11T11:49+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-09T20:03+00:00",
 "hasta": "2026-11-11T18:59+00:00",
 "temas": [
@@ -2086,11 +2024,11 @@
 "clases",
 "suspenden",
 "borrasca",
-"palma",
 "graciosa",
-"avila",
+"palma",
 "alerta",
-"presenciales"
+"avila",
+"charles"
 ],
 "titulares": [
 {
@@ -2130,8 +2068,8 @@
 "imputaciones",
 "zapatero",
 "descarta",
-"nuevas",
-"investigacion"
+"investigacion",
+"nuevas"
 ],
 "titulares": [
 {
@@ -2162,85 +2100,120 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-11T08:23+00:00",
-"hasta": "2026-11-11T22:20+00:00",
-"temas": [
-"empleo"
-],
+"desde": "2026-11-09T17:52+00:00",
+"hasta": "2026-11-11T19:42+00:00",
+"temas": [],
 "comunes": [
-"huelga",
-"seguimiento",
-"valenciana",
-"patronal",
-"comunidad",
-"cifra",
-"general",
-"pincha"
+"tiktok",
+"abuso",
+"infantil",
+"videos",
+"sexual",
+"pide",
+"maldita",
+"proteccion"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "Huelga general en la Comunidad Valenciana: del 60% de los sindicatos al 1,5% de la patronal",
-"url": "https://www.abc.es/espana/comunidad-valenciana/huelga-general-comunidad-valenciana-sindicatos-patronal-20261111173858-nt.html",
-"fecha": "2026-11-11T22:20+00:00"
+"medio": "20minutos",
+"titulo": "TikTok pide a 'Maldita' su investigación para localizar y eliminar los vídeos de abuso sexual infantil",
+"url": "https://www.20minutos.es/nacional/tiktok-pide-maldita-su-investigacion-para-localizar-eliminar-los-videos-abuso-sexual-infantil_7059047_0.html",
+"fecha": "2026-11-09T21:54+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "La huelga general del 11N pincha en la Comunidad Valenciana: la patronal cifra el seguimiento en el 2,57%",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261111/huelga-general-11n-pincha-comunidad-valenciana-patronal-cifra-seguimiento-257_479508.html",
-"fecha": "2026-11-11T08:23+00:00"
+"medio": "El Español",
+"titulo": "Infancia pide a Protección de Datos paralizar TikTok tras destaparse más de mil vídeos de abuso sexual infantil",
+"url": "https://www.elespanol.com/espana/politica/20261110/infancia-pide-agencia-proteccion-datos-paralizar-actividad-tiktok-manera-excepcional/1003744453011_0.html",
+"fecha": "2026-11-10T17:16+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La patronal cifra en un 2,57% el seguimiento de la huelga en Valencia frente al 90% que anuncian los sindicatos",
-"url": "https://www.libertaddigital.com/valencia/2026-11-11/la-patronal-cifra-en-un-2-57-por-ciento-el-seguimiento-de-la-huelga-en-valencia-frente-al-90-por-ciento-que-anuncian-los-sindicatos-7489651/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-11T09:14+00:00"
+"titulo": "Sira Rego pide a Protección de Datos que suspenda TikTok en España por los vídeos de abuso sexual infantil",
+"url": "https://www.libertaddigital.com/espana/2026-11-10/sira-rego-pide-a-proteccion-de-datos-que-suspenda-tiktok-en-espana-por-los-videos-de-abuso-sexual-infantil-7489345/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-10T18:04+00:00"
 },
 {
-"medio": "OKdiario",
-"titulo": "La huelga de Sánchez también pincha en la Comunidad Valenciana: los empresarios cifran el seguimiento en un 2,57%",
-"url": "https://okdiario.com/comunidad-valenciana/huelga-sanchez-tambien-pincha-valencia-empresarios-cifran-seguimiento-257-20746835",
-"fecha": "2026-11-11T10:54+00:00"
+"medio": "The Objective",
+"titulo": "TikTok defiende su gestión del abuso infantil y acusa a ‘Maldita’ de impedir retiradas",
+"url": "https://theobjective.com/tecnologia/2026-11-09/tiktok-defiende-su-gestion-abuso-infantil-acusa-maldita-impedir-retiradas/",
+"fecha": "2026-11-09T17:52+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-11T08:48+00:00",
+"hasta": "2026-11-12T11:38+00:00",
+"temas": [],
+"comunes": [
+"barcelona",
+"vila",
+"octavi",
+"arzobispo",
+"nuevo",
+"omella"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona",
+"url": "https://www.cope.es/actualidad/linea-editorial/audios/octavi-vila-nuevo-arzobispo-barcelona-20261111_3473253.html",
+"fecha": "2026-11-11T18:05+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Fray Octavi Vilà, nuevo arzobispo de Barcelona en sustitución de Omella",
+"url": "https://www.eldebate.com/religion/20261111/leon-xiv-nombra-fray-octavi-vila-nuevo-arzobispo-barcelona_479576.html",
+"fecha": "2026-11-11T11:01+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Octavi Vilà, obispo de Girona, reemplazará a Omella como arzobispo de Barcelona",
+"url": "https://www.lavanguardia.com/politica/20261111/11681408/octavi-vila-obispo-girona-reemplazara-omella-arzobispo-barcelona.html",
+"fecha": "2026-11-11T08:48+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Octavi Vilà, nuevo arzobispo de Barcelona por nombramiento del papa León XIV",
+"url": "https://theobjective.com/sociedad/2026-11-11/octavi-vila-arzobispo-barcelona/",
+"fecha": "2026-11-11T11:49+00:00"
 }
 ]
 },
 {
 "medios": 3,
-"desde": "2026-11-09T10:15+00:00",
-"hasta": "2026-11-09T11:40+00:00",
-"temas": [
-"empleo"
-],
+"desde": "2026-11-10T03:40+00:00",
+"hasta": "2026-11-10T09:48+00:00",
+"temas": [],
 "comunes": [
-"perder",
-"instante",
-"sanchez",
-"vox",
-"huelga",
-"derechos",
-"pueden"
+"terapias",
+"madrid",
+"atencion",
+"temprana",
+"ayudas",
+"facilitara"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Sánchez alienta la huelga general porque \"los derechos se pueden perder en un instante\" y el PP prevé que será \"un auténtico fracaso\"",
-"url": "https://www.20minutos.es/nacional/sanchez-alienta-huela-general-porque-los-derechos-se-pueden-perder-un-instante-pp-preve-que-sera-un-autentico-fracaso_7058866_0.html",
-"fecha": "2026-11-09T11:40+00:00"
+"medio": "El Debate",
+"titulo": "Madrid concederá ayudas de hasta 4.000 euros para terapias de Atención Temprana a menores de hasta 12 años",
+"url": "https://www.eldebate.com/espana/madrid/20261110/madrid-concedera-ayudas-hasta-4000-euros-terapias-atencion-temprana-menores-hasta-12-anos_479060.html",
+"fecha": "2026-11-10T09:48+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "Sánchez calienta la huelga con miedo: los derechos «se pueden perder en un instante» si ganan PP y Vox",
-"url": "https://www.eldebate.com/espana/20261109/sanchez-calienta-huelga-miedo-derechos-pueden-perder-instante-ganan-pp-vox_478799.html",
-"fecha": "2026-11-09T10:23+00:00"
+"medio": "OKdiario",
+"titulo": "Madrid facilitará las nuevas ayudas para terapias de Atención Temprana hasta 12 años a través de los centros de tratamiento",
+"url": "https://okdiario.com/madrid/madrid-facilitara-nuevas-ayudas-terapias-atencion-temprana-hasta-12-anos-traves-centros-tratamiento-20740024",
+"fecha": "2026-11-10T03:40+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Sánchez carga contra PP y Vox: «Lo que costó un siglo se puede perder en un instante»",
-"url": "https://theobjective.com/espana/politica/2026-11-09/sanchez-pp-vox-siglo-instante/",
-"fecha": "2026-11-09T10:15+00:00"
+"titulo": "La Comunidad de Madrid facilitará a las familias las ayudas para terapias de atención temprana",
+"url": "https://theobjective.com/espana/madrid/2026-11-10/comunidad-madrid-familias-ayudas-atencion-temprana/",
+"fecha": "2026-11-10T09:37+00:00"
 }
 ]
 }
 ],
-"recogidas": 2382
+"recogidas": 2396
 }

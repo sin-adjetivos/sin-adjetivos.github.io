@@ -1,9 +1,441 @@
 [
 {
 "medio": "The Objective",
+"titulo": "Los vuelos en EEUU se estabilizarán el domingo",
+"url": "https://theobjective.com/internacional/2026-11-15/vuelos-eeuu-domingo/",
+"fecha": "2026-11-14T23:25+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Ángel Ximénez se reencuentra con el triunfo y respira en la Asobal",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261115/angel-ximenez-reencuentra-triunfo-respira-asobal_480992.html",
+"fecha": "2026-11-14T23:04+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El regreso de la intimidación",
+"url": "https://www.elmundo.es/espana/2026/11/15/6af8a2e821efa0a51a8b4583.html",
+"fecha": "2026-11-14T23:00+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Cáceres y el diputado que baila: \"Se lo llevará el que gane en votos, aunque sea por uno\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af89bc9fc6c83a60b8b45a3.html",
+"fecha": "2026-11-14T23:00+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Cervera reconoce que el CD Tenerife tardará en recuperar la normalidad tras la muerte de Jesús de Miguel",
+"url": "https://www.libertaddigital.com/canarias/2026-11-14/cervera-reconoce-que-el-cd-tenerife-tardara-en-recuperar-la-normalidad-tras-la-muerte-de-jesus-de-miguel-7491612/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-14T22:54+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "SpaceX captura por primera vez la nave Starship con los brazos de su torre",
+"url": "https://theobjective.com/tecnologia/2026-11-14/spacex-nave-starship-brazos-torre/",
+"fecha": "2026-11-14T22:37+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Las notas del Córdoba en Mallorca",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261114/notas-cordoba-mallorca_480991.html",
+"fecha": "2026-11-14T22:18+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "La Guardia Civil destruye una granada mortero de 55 mm de la Guerra Civil hallada en Sóller (Mallorca)",
+"url": "https://www.elconfidencial.com/espana/2026-11-14/guardia-civil-destruye-granada-mortero-1tna-1tps_4465271/",
+"fecha": "2026-11-14T22:15+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "EEUU trabaja para incluir a los países europeos en las negociaciones por Ucrania",
+"url": "https://theobjective.com/internacional/2026-11-14/eeuu-incluir-paises-europeos-negociaciones-ucrania/",
+"fecha": "2026-11-14T22:15+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Detenido por robar en comercios del centro de Palma pese a contar con una orden de alejamiento",
+"url": "https://www.elconfidencial.com/espana/2026-11-14/detenido-hurto-comercios-palma-1tps-1tna_4465269/",
+"fecha": "2026-11-14T22:10+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Así está el Córdoba CF en la clasificación tras el empate ante el Mallorca",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-clasificacion-tras-empate-ante-mallorca-20261114212355-nts.html",
+"fecha": "2026-11-14T22:07+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Rescatada en helicóptero una mujer tras torcerse un tobillo en la ruta de los acantilados de Ribadesella",
+"url": "https://www.elconfidencial.com/espana/2026-11-14/rescate-mujer-acantilados-ribadesella-1tna-1tps_4465266/",
+"fecha": "2026-11-14T22:01+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Gabriel Rufián desvela el contenido de una dedicatoria que una seguidora no podía descifrar: \"Letra de zurdo cerrado... perdón\"",
+"url": "https://www.20minutos.es/nacional/gabriel-rufian-desvela-contenido-dedicatoria-seguidora-no-podia-descifrar-letra-zurdo-cerrado-perdon_7061206_0.html",
+"fecha": "2026-11-14T21:58+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Cajasol Ángel Ximénez vuelve a la senda de la victoria tras superar a Cangas (33-28)",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cajasol-angel-ximenez-vuelve-senda-victoria-tras-20261114220246-nts.html",
+"fecha": "2026-11-14T21:42+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Las notas de los jugadores del Córdoba CF ante el Mallorca: aprobados y suspensos",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/notas-jugadores-cordoba-ante-mallorca-aprobados-suspensos-20261114214706-nts.html",
+"fecha": "2026-11-14T21:37+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Un estudio demuestra que llevar a tus hijos al parque cada semana mejora su salud mental y les ayuda a desarrollar unas mejores habilidades sociales",
+"url": "https://www.cope.es/actualidad/salud-bienestar/noticias/estudio-demuestra-llevar-tus-hijos-parque-semana-mejora-salud-mental-les-ayuda-desarrollar-mejores-habilidades-sociales-20261114_3474201.html",
+"fecha": "2026-11-14T21:33+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Les protestes a França continuen però registren una participació més baixa",
+"url": "https://www.ara.cat/internacional/europa/protestes-franca-continuen-registren-participacio-mes-baixa_1_5911049.html",
+"fecha": "2026-11-14T21:32+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Córdoba CF roza la gloria en Son Moix y se queda con la miel en los labios ante el Mallorca (3-3)",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-roza-gloria-moix-queda-miel-labios-20261114210128-dis.html",
+"fecha": "2026-11-14T21:31+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Córdoba estropea en el alargue un gran partido en Mallorca (3-3)",
+"url": "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261114/cordoba-estropea-alargue-gran-partido-mallorca-33_480989.html",
+"fecha": "2026-11-14T21:29+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Los ultras de Núcleo Nacional: Isabel Peralta como \"cara bonita, pero sin peso real\", 1.000 afiliados y la \"antesala de la radicalización\"",
+"url": "https://www.elmundo.es/espana/2026/11/14/6af75bd2fdddffb36c8b45ad.html",
+"fecha": "2026-11-14T21:26+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Un detenido por herir de dos disparos a un policía local en Palma de Mallorca",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-14/detenido-disparos-policia-local-palma/",
+"fecha": "2026-11-14T21:26+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Cajasol Coto Córdoba vuelve a morir en la orilla ante Fuenlabrada (74-80)",
+"url": "https://www.abc.es/espana/andalucia/cordoba/cajasol-coto-cordoba-vuelve-morir-orilla-ante-20261114222425-nts.html",
+"fecha": "2026-11-14T21:24+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Abascal carga contra Sánchez: «El líder de la mafia lo tiene cada vez más difícil, pero tiene otras herramientas»",
+"url": "https://www.eldebate.com/espana/20261114/abascal-carga-contra-sanchez-lider-mafia-tiene-cada-vez-dificil-tiene-otras-herramientas_480988.html",
+"fecha": "2026-11-14T21:23+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Hallan muerto en un trastero de Madrid al abogado del 'Pollo' Carvajal en España",
+"url": "https://www.eldebate.com/espana/20261114/hallan-muerto-trastero-madrid-abogado-pollo-carvajal-espana_480987.html",
+"fecha": "2026-11-14T21:13+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Vigo enciende sus luces de Navidad con un acto multitudinario con música y nieve",
+"url": "https://theobjective.com/sociedad/2026-11-14/vigo-luces-navidad-acto-multitudinario/",
+"fecha": "2026-11-14T21:05+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Policía reabre la Puerta del Sol tras descartar la amenaza de bomba",
+"url": "https://www.libertaddigital.com/madrid/2026-11-14/la-policia-reabre-la-puerta-del-sol-tras-descartar-la-amenaza-de-bomba-7491599/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-14T21:01+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Vigo enciende las 12 millones de luces de «la Navidad del planeta»",
+"url": "https://www.abc.es/espana/galicia/vigo-enciende-millones-luces-navidad-planeta-20261114213621-nt.html",
+"fecha": "2026-11-14T20:51+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Virgen del Desamparo, realidad para unirse a Jesús de la Compasión de El Higuerón",
+"url": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-desamparo-realidad-unirse-jesus-compasion-higueron-20261114215120-nts.html",
+"fecha": "2026-11-14T20:51+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Miguel Benito, abogado laboralista, advierte de un error que puede salir caro a quienes tienen que reclamar un despido nulo: “Tu empresa no tendrá que pagarte ni un solo euro si estabas de baja médica”",
+"url": "https://www.cope.es/actualidad/economia/noticias/miguel-benito-abogado-laboralista-advierte-error-salir-caro-quienes-reclamar-despido-nulo-empresa-no-tendra-pagarte-euro-estabas-baja-medica-20261114_3474179.html",
+"fecha": "2026-11-14T20:47+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Nuevo contratiempo para Sánchez: el PSOE cancela el mitin con Lula por una afonía del brasileño",
+"url": "https://www.libertaddigital.com/espana/2026-11-14/nuevo-contratiempo-para-sanchez-el-psoe-cancela-el-mitin-con-lula-por-una-afonia-del-brasileno-7491600/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-14T20:44+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Virgen del Carmen de Montoro llena de aires nuevos el corazón de Córdoba",
+"url": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-carmen-montoro-llena-aires-nuevos-corazon-20261114195739-nts.html",
+"fecha": "2026-11-14T20:41+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "¿Hay sitio para un partido de centro en España?",
+"url": "https://www.eldiario.es/politica/hay-sitio-partido-centro-espana_1_13649185.html",
+"fecha": "2026-11-14T20:41+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Cómo funciona y a quién beneficia el sistema electoral en España",
+"url": "https://www.eldiario.es/politica/funciona-beneficia-sistema-electoral-espana_1_13609576.html",
+"fecha": "2026-11-14T20:41+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\"",
+"url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+"fecha": "2026-11-14T20:41+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Los tribunales marcan el arranque de campaña del 29N con decisiones clave que afectan al Gobierno y el PSOE",
+"url": "https://www.eldiario.es/politica/tribunales-marcan-arranque-campana-29n-decisiones-clave-afectan-gobierno-psoe_1_13661635.html",
+"fecha": "2026-11-14T20:41+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Detenido un hombre tras disparar a un policía local de Palma durante un conflicto vecinal",
+"url": "https://www.elconfidencial.com/espana/2026-11-14/policia-local-palma-herido-disparo-1tna-1tps_4465257/",
+"fecha": "2026-11-14T20:38+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La Policía cierra la calle Preciados de Madrid por la presencia de un presunto artefacto explosivo",
+"url": "https://www.elespanol.com/espana/20261114/policia-cierra-calle-preciados-madrid-presencia-presunto-artefacto-explosivo/1003744458749_0.html",
+"fecha": "2026-11-14T20:33+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Desalojada la Puerta del Sol en Madrid al hallar la Policía una mochila sospechosa",
+"url": "https://okdiario.com/espana/desalojada-puerta-del-sol-madrid-hallar-policia-mochila-sospechosa-20900759",
+"fecha": "2026-11-14T20:33+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Carita de Miguel Ángel Blanco",
+"url": "https://www.abc.es/espana/juan-soto-ivars-carita-miguel-angel-blanco-20261114200455-nt.html",
+"fecha": "2026-11-14T20:23+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La juez acuerda abrir la fase de liquidación de Tubos Reunidos de Nanclares de Oca (Álava)",
+"url": "https://theobjective.com/espana/tribunales/2026-11-14/juez-fase-liquidacion-tubos-reunidos-alava/",
+"fecha": "2026-11-14T20:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Medio centenar de animalistas piden que se suspenda el Toro de Jubilo y exigen «el fin de la tortura»",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261114/medio-centenar-animalistas-piden-suspenda-toro-jubilo-exigen-fin-tortura_480986.html",
+"fecha": "2026-11-14T20:17+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Abascal retrata a Sánchez: «Las mujeres son el colectivo más estafado por este Gobierno»",
+"url": "https://okdiario.com/espana/abascal-retrata-sanchez-mujeres-son-colectivo-mas-estafado-este-gobierno-20900616",
+"fecha": "2026-11-14T20:16+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La Policía acordona la madrileña Puerta del Sol por una posible amenaza de bomba",
+"url": "https://www.abc.es/espana/madrid/policia-acordona-madrilena-puerta-sol-amenaza-bomba-20261114203148-nt.html",
+"fecha": "2026-11-14T20:15+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Diez de los últimos mundos aislados: las civilizaciones que viven alejadas de cualquier otra",
+"url": "https://www.cope.es/actualidad/sociedad/noticias/diez-ultimos-mundos-aislados-civilizaciones-viven-alejadas-20261114_3473311.html",
+"fecha": "2026-11-14T20:15+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Otegi pide el voto para frenar a los \"fascistas\" después de la agresión al candidato del PP en Hernani",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-14/otegi-pide-el-voto-para-frenar-a-los-fascistas-despues-de-la-agresion-al-candidato-del-pp-en-hernani-7491597/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-14T20:06+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Puerta del Sol de Madrid recupera la normalidad tras ser acordonada por una posible amenaza de bomba",
+"url": "https://www.eldebate.com/espana/madrid/20261114/policia-acordona-puerta-sol-madrid-posible-amenaza-bomba_480985.html",
+"fecha": "2026-11-14T20:05+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "“S’està demonitzant tenir una propietat”",
+"url": "https://www.ara.cat/politica/eleccions-generals/s-demonitzant-propietat_128_5909716.html",
+"fecha": "2026-11-14T20:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Alfonso Rueda avisa a Feijóo: «Vamos a exigirte como al que más» y sitúa a Galicia como motor del cambio",
+"url": "https://www.eldebate.com/espana/galicia/20261114/alfonso-rueda-avisa-feijoo-vamos-exigirte-como-situa-galicia-como-motor-cambio_480981.html",
+"fecha": "2026-11-14T20:00+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Buen camino",
+"url": "https://www.abc.es/espana/castilla-leon/buen-camino-20261113205033-nt.html",
+"fecha": "2026-11-14T19:58+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Dos senderistas de 70 años tienen que ser rescatados por un helicóptero en la Montaña Palentina",
+"url": "https://www.abc.es/espana/castilla-leon/dos-senderistas-anos-rescatados-helicoptero-montana-palentina-20261114204602-nt.html",
+"fecha": "2026-11-14T19:54+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "EL CIELO PROTECTOR",
+"url": "https://www.abc.es/espana/castilla-leon/cielo-protector-20261114204739-nt.html",
+"fecha": "2026-11-14T19:47+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "La lluita del PSC al cinturó roig per evitar la fuga a Vox i ERC",
+"url": "https://www.ara.cat/politica/eleccions-generals/lluita-psc-cinturo-roig-evitar-fuga-vox-erc_1_5910305.html",
+"fecha": "2026-11-14T19:40+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Extinguido, sin heridos, un incendio en un garaje del barrio toledano de Santa Teresa",
+"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/extinguido-heridos-incendio-garaje-barrio-toledano-santa-20261114203702-nt.html",
+"fecha": "2026-11-14T19:37+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Álvaro Fernández, farmacéutico, advierte sobre dormir con calcetines: \"Pueden tener hasta 20 veces más bacterias que el váter de tu casa, entre ellas una asociada a las heces de cucaracha\"",
+"url": "https://www.cope.es/actualidad/salud-bienestar/noticias/alvaro-fernandez-farmaceutico-advierte-sobre-dormir-calcetines-20-veces-bacterias-vater-casa-asociada-heces-cucaracha-20261114_3474097.html",
+"fecha": "2026-11-14T19:30+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Felipe González no se calla y explota antes de las elecciones del 29-N: «Nada me representa de verdad»",
+"url": "https://okdiario.com/espana/felipe-gonzalez-no-calla-explota-antes-elecciones-del-29-n-nada-representa-verdad-20749803",
+"fecha": "2026-11-14T19:30+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Agreden con piedras y petardos a Jon Echeverría en Hernani y Feijóo reclama: \"Ni un paso atrás. Con todas las ganas de ganarles también a los socios de Sánchez\"",
+"url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af863cae85ecedc3b8b457b.html",
+"fecha": "2026-11-14T19:27+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "“Tornem a casa”: el Mercat de l’Abaceria es muda a l’espai històric de Gràcia",
+"url": "https://www.ara.cat/societat/barcelona/tornem-casa-mercat-l-abaceria-muda-l-espai-historic-gracia_1_5910339.html",
+"fecha": "2026-11-14T19:17+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Otegi pide que se vote a Bildu «para amargarle la noche a los fascistas del PP y Vox»",
+"url": "https://theobjective.com/espana/politica/2026-11-14/otegi-vote-bildu-facistas-pp-vox/",
+"fecha": "2026-11-14T19:17+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Los ganaderos gastan un 11,6 por ciento más en producir leche de vaca mientras los precios que les pagan bajan un 12,6",
+"url": "https://www.abc.es/espana/castilla-leon/ganaderos-gastan-116-ciento-producir-leche-vaca-20261114194106-nt.html",
+"fecha": "2026-11-14T19:16+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Sánchez se queda sin su golpe de efecto junto a Lula: el brasileño cancela el acto por problemas de garganta",
+"url": "https://okdiario.com/espana/sanchez-queda-sin-golpe-efecto-junto-lula-brasileno-cancela-acto-problemas-garganta-20900358",
+"fecha": "2026-11-14T19:08+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Aurelio Rojas, cardiólogo: \"Si estás utilizando así el aceite de oliva, pues siento decirlo, pero lo estás haciendo mal. Haces que sus compuestos bioactivos se degraden\"",
+"url": "https://www.cope.es/actualidad/salud-bienestar/noticias/aurelio-rojas-cardiologo-utilizando-asi-aceite-oliva-pues-siento-decirlo-haciendo-mal-compuestos-bioactivos-degraden-20261114_3474079.html",
+"fecha": "2026-11-14T19:03+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Un frente atlántico dejará lluvias persistentes este domingo con rachas muy fuertes de viento: estas son las zonas en alerta",
+"url": "https://www.20minutos.es/nacional/un-frente-atlantico-dejara-lluvias-persistentes-este-domingo-con-rachas-muy-fuertes-viento-estas-son-las-zonas-alerta_7061179_0.html",
+"fecha": "2026-11-14T19:03+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "L’ala esquerra dels demòcrates comença el pols contra l’establishment del partit al Congrés dels EUA",
+"url": "https://www.ara.cat/internacional/estats-units/l-ala-esquerra-dels-democrates-comenca-pols-l-establishment-partit-congres-dels-eua_1_5909780.html",
+"fecha": "2026-11-14T19:00+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Comprobar Primitiva: resultados de hoy, sábado 14 de noviembre de 2026",
+"url": "https://www.20minutos.es/nacional/comprobar-primitiva-resultados-hoy-sabado-14-noviembre-2026_7061186_0.html",
+"fecha": "2026-11-14T19:00+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Comprobar Sueldazo ONCE: resultados de hoy, sábado 14 de noviembre de 2026",
+"url": "https://www.20minutos.es/nacional/comprobar-sueldazo-once-resultados-hoy-sabado-14-noviembre-2026_7061187_0.html",
+"fecha": "2026-11-14T19:00+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "Comprobar Bonoloto: resultados de hoy, sábado 14 de noviembre de 2026",
+"url": "https://www.20minutos.es/nacional/comprobar-bonoloto-resultados-hoy-sabado-14-noviembre-2026_7061185_0.html",
+"fecha": "2026-11-14T19:00+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Caldudas, el humilde plato gallego que alimentaba a las familias en los inviernos más duros",
+"url": "https://www.eldebate.com/espana/galicia/20261114/caldudas-humilde-plato-gallego-alimentaba-familias-inviernos-duros_480933.html",
+"fecha": "2026-11-14T19:00+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Disney toma las calles de Vigo: miles de personas disfrutan del desfile previo al encendido de Navidad",
+"url": "https://www.abc.es/espana/galicia/disney-toma-calles-vigo-miles-personas-disfrutan-20261114195940-nt.html",
+"fecha": "2026-11-14T18:59+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Salvamento Marítimo rescata a alrededor de 830 inmigrantes en Canarias en menos de 24 horas",
+"url": "https://okdiario.com/espana/salvamento-maritimo-rescata-alrededor-830-inmigrantes-canarias-menos-24-horas-20900235",
+"fecha": "2026-11-14T18:52+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Feijóo promete acabar con los \"ocho años de corrupción, machismo, incompetencia y soberbia\" de Sánchez: \"Habrá limpieza\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af85c61fdddff4d488b456f.html",
+"fecha": "2026-11-14T18:49+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El PSOE cancela el acto de Sánchez y Lula da Silva en Madrid por una afonía del presidente brasileño",
+"url": "https://www.europapress.es/nacional/noticia-psoe-cancela-acto-sanchez-lula-da-silva-madrid-afonia-presidente-brasileno-20261114194841.html",
+"fecha": "2026-11-14T18:48+00:00"
+},
+{
+"medio": "The Objective",
 "titulo": "La Reina Sofía participa en Madrid en la Gran Recogida 2026 de los Bancos de Alimentos",
 "url": "https://theobjective.com/gente/2026-11-14/reina-sofia-madrid-gran-recogida-alimentos/",
 "fecha": "2026-11-14T18:44+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Cae desde un séptimo piso en Orense cuando intentaba acceder a otra vivienda tras perder las llaves",
+"url": "https://www.eldebate.com/espana/galicia/20261114/cae-desde-septimo-piso-orense-cuando-intentaba-acceder-otra-vivienda-perder-llaves_480980.html",
+"fecha": "2026-11-14T18:41+00:00"
 },
 {
 "medio": "ABC",
@@ -42,6 +474,18 @@
 "fecha": "2026-11-14T18:33+00:00"
 },
 {
+"medio": "OKdiario",
+"titulo": "El etarra Otegi asegura su apoyo a Sánchez y llama a dar una «paliza democrática» a «los fascistas» de PP y Vox",
+"url": "https://okdiario.com/espana/etarra-otegi-asegura-apoyo-sanchez-llama-dar-paliza-democratica-fascistas-pp-vox-20900341",
+"fecha": "2026-11-14T18:33+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Aemet adelanta su pronóstico para este domingo en la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261114/aemet-adelanta-pronostico-este-domingo-comunidad-valenciana_480976.html",
+"fecha": "2026-11-14T18:27+00:00"
+},
+{
 "medio": "COPE",
 "titulo": "La advertencia de María Lafuente, economista, de cara a jubilarse este 2027: \"Elegir mal el momento de jubilarse puede hacerte perder hasta 500 € de tu pensión al año\"",
 "url": "https://www.cope.es/actualidad/economia/noticias/advertencia-maria-lafuente-economista-cara-jubilarse-2027-elegir-mal-momento-jubilarse-hacerte-perder-500-e-pension-ano-20261114_3473343.html",
@@ -64,6 +508,12 @@
 "titulo": "Condenado a cuatro años de prisión un histórico dirigente LGTBI de Alicante por agredir sexualmente a un inmigrante senegalés",
 "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261114/condenado-cuatro-anos-prision-historico-dirigente-lgtbi-alicante-agredir-sexualmente-inmigrante-senegales_480973.html",
 "fecha": "2026-11-14T18:17+00:00"
+},
+{
+"medio": "20minutos",
+"titulo": "El PSOE cancela el acto de campaña de Sánchez con Lula por una afonía del líder brasileño",
+"url": "https://www.20minutos.es/nacional/psoe-cancela-acto-campana-sanchez-con-lula-por-una-afonia-lider-brasileno_7061175_0.html",
+"fecha": "2026-11-14T18:15+00:00"
 },
 {
 "medio": "ABC",
@@ -168,6 +618,12 @@
 "fecha": "2026-11-14T17:50+00:00"
 },
 {
+"medio": "OKdiario",
+"titulo": "El debate de las elecciones del 29-N será el 26 de noviembre: los candidatos se verán las caras antes de las urnas",
+"url": "https://okdiario.com/espana/debate-elecciones-del-29-n-sera-26-noviembre-candidatos-veran-caras-antes-urnas-20900116",
+"fecha": "2026-11-14T17:50+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "Besteiro alerta a los jubilados de que la «motosierra» de la derecha amenaza las pensiones",
 "url": "https://www.abc.es/espana/galicia/besteiro-alerta-jubilados-motosierra-derecha-amenaza-pensiones-20261114184712-nt.html",
@@ -196,6 +652,12 @@
 "titulo": "El PSOE cancela su acto con Lula en Madrid por la afonía del presidente brasileño",
 "url": "https://theobjective.com/espana/politica/2026-11-14/psoe-acto-lula-madrid-afonia/",
 "fecha": "2026-11-14T17:46+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Otegi reclama el apoyo del \"pueblo de Euskal Herria\" para darle una \"paliza democrática\" a los \"fascistas\" de PP y de Vox",
+"url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af89830e4d4d83e758b4595.html",
+"fecha": "2026-11-14T17:44+00:00"
 },
 {
 "medio": "El Debate",
@@ -720,6 +1182,12 @@
 "fecha": "2026-11-14T13:59+00:00"
 },
 {
+"medio": "El Mundo",
+"titulo": "Un Pedro Sánchez muy confiado pese a las encuestas en contra pide a Feijóo que \"respete el resultado de las elecciones\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8563be85ece10768b4595.html",
+"fecha": "2026-11-14T13:59+00:00"
+},
+{
 "medio": "Libertad Digital",
 "titulo": "El alcalde de Elche vincula el insulto \"zafio\" de Morant con la campaña homófoba de la izquierda contra él",
 "url": "https://www.libertaddigital.com/espana/2026-11-14/el-alcalde-de-elche-vincula-el-insulto-zafio-de-morant-con-la-campana-homofoba-de-la-izquierda-contra-el-7491568/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
@@ -861,6 +1329,12 @@
 "medio": "La Razón",
 "titulo": "Feijóo desborda su Galicia y contrapone la \"decencia\" del cambio con el sanchismo: \"Corrupción, machismo, incompetencia y soberbia\"",
 "url": "https://www.larazon.es/espana/feijoo-desborda-galicia-contrapone-decencia-cambio-sanchismo-corrupcion-machismo-incompetencia-soberbia_202611146af8614e4196933d7edd37b8.html",
+"fecha": "2026-11-14T13:27+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Irene Montero, a Jordi Wild: \"¿Qué valor le tienes a la vida de una mujer para decir que 44 asesinadas no son tantas?\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af86003e4d4d829148b45ac.html",
 "fecha": "2026-11-14T13:27+00:00"
 },
 {
@@ -1101,6 +1575,12 @@
 "medio": "El Debate",
 "titulo": "Sánchez juega de nuevo la carta del miedo a PP y Vox hablando de «involución» y de la «motosierra» que supondría su Gobierno",
 "url": "https://www.eldebate.com/espana/baleares/20261114/sanchez-ruega-75-ciento-participacion-ganar-29n-aunque-obvia-palma-palabra-remontada_480890.html",
+"fecha": "2026-11-14T12:55+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Nogueras (Junts) admite que estas elecciones \"van de impedir la coalición entre PP y Vox\", aunque sigue con sus ataques al PSOE y manda un recado a Jordi Wild",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af84df021efa03e3e8b4591.html",
 "fecha": "2026-11-14T12:55+00:00"
 },
 {

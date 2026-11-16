@@ -1,13 +1,13 @@
 {
-"actualizado": "2026-11-16T00:05+00:00",
+"actualizado": "2026-11-16T13:31+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 70,
-"COPE": 122,
+"COPE": 119,
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
-"El Mundo": 50,
+"El Mundo": 49,
 "El País": 19,
 "Europa Press": 10,
 "infoLibre": 54,
@@ -16,8 +16,8 @@
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 37,
-"El Debate": 112,
+"20minutos": 31,
+"El Debate": 117,
 "La Razón": 15
 },
 "sin_feed": [
@@ -26,17 +26,17 @@
 ],
 "grupos": [
 {
-"medios": 12,
-"desde": "2026-11-13T09:57+00:00",
-"hasta": "2026-11-14T16:34+00:00",
+"medios": 11,
+"desde": "2026-11-13T15:02+00:00",
+"hasta": "2026-11-16T00:00+00:00",
 "temas": [
 "vivienda",
 "defensa"
 ],
 "comunes": [
 "cara",
-"feijoo",
 "sanchez",
+"feijoo",
 "noviembre"
 ],
 "titulares": [
@@ -66,9 +66,9 @@
 },
 {
 "medio": "El Debate",
-"titulo": "García Albiol reta a Colau a un «cara a cara sobre vivienda» para confrontar dos modelos opuestos",
-"url": "https://www.eldebate.com/espana/cataluna/barcelona/20261113/garcia-albiol-reta-colau-cara-cara-sobre-vivienda-confrontar-dos-modelos-opuestos_480443.html",
-"fecha": "2026-11-13T09:57+00:00"
+"titulo": "Sánchez y Feijóo tendrán un cara a cara el próximo 19 de noviembre en la Academia de la Televisión",
+"url": "https://www.eldebate.com/espana/20261113/sanchez-feijoo-tendran-cara-cara-proximo-19-noviembre-academia-television_480649.html",
+"fecha": "2026-11-13T15:02+00:00"
 },
 {
 "medio": "El Español",
@@ -81,12 +81,6 @@
 "titulo": "El cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo será el jueves 19 de noviembre",
 "url": "https://elpais.com/espana/elecciones-generales/2026-11-13/el-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo-sera-el-jueves-19-de-noviembre.html",
 "fecha": "2026-11-13T18:21+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "Albiol propone a Colau un cara a cara sobre políticas de vivienda",
-"url": "https://www.eldiario.es/catalunya/albiol-propone-colau-cara-cara-politicas-vivienda_1_13661103.html",
-"fecha": "2026-11-13T10:25+00:00"
 },
 {
 "medio": "La Razón",
@@ -117,12 +111,12 @@
 {
 "medios": 9,
 "desde": "2026-11-14T17:21+00:00",
-"hasta": "2026-11-15T14:42+00:00",
+"hasta": "2026-11-16T08:21+00:00",
 "temas": [],
 "comunes": [
 "lula",
-"acto",
 "sanchez",
+"acto",
 "afonia",
 "cancela",
 "brasileno",
@@ -187,74 +181,202 @@
 ]
 },
 {
-"medios": 8,
-"desde": "2026-11-13T11:41+00:00",
-"hasta": "2026-11-14T13:45+00:00",
-"temas": [],
+"medios": 9,
+"desde": "2026-11-16T09:00+00:00",
+"hasta": "2026-11-16T10:59+00:00",
+"temas": [
+"territorio"
+],
 "comunes": [
-"cuentas",
-"tribunal",
-"atico",
-"ordena",
-"investigar",
-"ayuso",
-"indicios",
-"caso"
+"ley",
+"nietos",
+"eta",
+"feijoo",
+"votar",
+"exiliados",
+"puedan",
+"propone"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "El Tribunal de Cuentas ordena investigar la compra del ático de Chamberí por el Gobierno de Ayuso",
-"url": "https://www.abc.es/espana/madrid/tribunal-cuentas-ordena-investigar-atico-detectar-indicios-20261113125828-nt.html",
-"fecha": "2026-11-13T12:03+00:00"
+"medio": "20minutos",
+"titulo": "Feijóo propone una 'ley de nietos' vasca para que puedan votar los exiliados por ETA",
+"url": "https://www.20minutos.es/nacional/feijoo-propone-una-ley-nietos-vasca-para-que-puedan-votar-los-exiliados-por-eta_7061515_0.html",
+"fecha": "2026-11-16T10:18+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "El Tribunal de Cuentas ordena investigar el caso del ático al detectar indicios de perjuicio a fondos públicos",
-"url": "https://www.eldebate.com/espana/madrid/20261113/tribunal-cuentas-ordena-investigar-caso-atico-detectar-indicios-perjuicio-fondos-publicos_480579.html",
-"fecha": "2026-11-13T12:41+00:00"
+"titulo": "El PP propone una «ley de nietos vasca» para quienes se fueron del País Vasco por el terrorismo de ETA",
+"url": "https://www.eldebate.com/espana/20261116/pp-propone-ley-nietos-vasca-quienes-fueron-pais-vasco-terrorismo-eta_481254.html",
+"fecha": "2026-11-16T09:30+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Feijóo propondrá en Pamplona una 'ley de nietos' para que los exiliados por ETA puedan votar en el País Vasco",
+"url": "https://www.elespanol.com/espana/politica/20261116/feijoo-propondra-pamplona-ley-nietos-exiliados-eta-puedan-votar-pais-vasco/1003744459467_0.html",
+"fecha": "2026-11-16T09:00+00:00"
+},
+{
+"medio": "El País",
+"titulo": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+"fecha": "2026-11-16T10:30+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "El Tribunal de Cuentas ordena investigar el caso del ático al detectar indicios de perjuicio a fondos públicos",
-"url": "https://www.europapress.es/madrid/noticia-tribunal-cuentas-ordena-investigar-caso-atico-detectar-indicios-perjuicio-fondos-publicos-20261113124116.html",
-"fecha": "2026-11-13T11:41+00:00"
+"titulo": "Feijóo propone una 'ley de nietos vasca' para que los exiliados por ETA puedan votar en Euskadi y Navarra",
+"url": "https://www.europapress.es/nacional/noticia-feijoo-propone-ley-nietos-vasca-expulsados-terrorismo-eta-puedan-votar-euskadi-20261116110857.html",
+"fecha": "2026-11-16T10:08+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "El Tribunal de Cuentas ve indicios de uso indebido de fondos públicos en la compra del ático de Ayuso",
-"url": "https://www.infolibre.es/politica/tribunal-cuentas-ve-incidios-indebido-fondos-publicos-compra-atico-ayuso_1_2240132.html",
-"fecha": "2026-11-13T12:52+00:00"
+"medio": "La Razón",
+"titulo": "Feijóo promete una ‘ley de nietos’ para que puedan votar en País Vasco y Navarra los que tuvieron que huir por el terror de ETA",
+"url": "https://www.larazon.es/espana/feijoo-propone-ley-nietos-que-puedan-votar-pais-vasco-navarra-que-tuvieron-que-huir-terrorismo-eta_202611166afae22f4196933d7edeb8b6.html",
+"fecha": "2026-11-16T10:59+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "El Tribunal de Cuentas ordena investigar el ático de Ayuso",
-"url": "https://www.lavanguardia.com/politica/20261113/11683464/tribunal-cuentas-ordena-investigar-atico-ayuso.html",
-"fecha": "2026-11-13T12:17+00:00"
+"titulo": "Feijóo propondrá en Pamplona una ley de nietos vasca para reparar a los “expulsados” por ETA",
+"url": "https://www.lavanguardia.com/politica/20261116/11685266/feijoo-propondra-pamplona-ley-nietos-vasca.html",
+"fecha": "2026-11-16T09:59+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "El Tribunal de Cuentas ordena investigar el caso del ático de Ayuso",
-"url": "https://www.libertaddigital.com/madrid/2026-11-13/el-tribunal-de-cuentas-ordena-investigar-el-caso-del-atico-de-ayuso-7491154/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-13T13:01+00:00"
+"titulo": "Feijóo propone una Ley de Nietos vasca para los exiliados por ETA en plenos ataques al PP en Guipúzcoa",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-16/feijoo-propone-una-ley-de-nietos-vasca-en-plenos-ataques-al-pp-en-guipuzcoa-7491952/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-16T09:15+00:00"
 },
 {
 "medio": "OKdiario",
-"titulo": "El Tribunal de Cuentas investigará el caso del ático que la Comunidad de Madrid compró por 6,3 millones",
-"url": "https://okdiario.com/espana/tribunal-cuentas-investigara-caso-del-atico-que-comunidad-madrid-compro-63-millones-20890425",
-"fecha": "2026-11-13T12:24+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Tribunal de Cuentas ve indicios de perjuicio económico en el ático del Gobierno de Ayuso",
-"url": "https://theobjective.com/espana/politica/2026-11-13/tribunal-cuentas-atico-ayuso/",
-"fecha": "2026-11-13T12:25+00:00"
+"titulo": "Feijóo impulsará una ‘ley de nietos’ para que los ‘exiliados’ por el terrorismo de ETA puedan votar en el País Vasco y Navarra",
+"url": "https://okdiario.com/espana/feijoo-impulsara-ley-nietos-vasca-que-expulsados-eta-puedan-votar-20920391",
+"fecha": "2026-11-16T09:14+00:00"
 }
 ]
 },
 {
 "medios": 7,
-"desde": "2026-11-13T13:06+00:00",
+"desde": "2026-11-16T11:08+00:00",
+"hasta": "2026-11-16T12:54+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"guardia",
+"civil",
+"cni",
+"ceuta",
+"insuficiente",
+"informacion",
+"dimensionar"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "La Guardia Civil ve insuficiente la información del CNI para \"dimensionar la amenaza\" de la entrada masiva de migrantes en Ceuta",
+"url": "https://www.cope.es/actualidad/espana/noticias/guardia-civil-ve-insuficiente-informacion-cni-dimensionar-amenaza-entrada-masiva-inmigrantes-ceuta-20261116_3475775.html",
+"fecha": "2026-11-16T12:54+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Guardia Civil considera que la información del CNI era «insuficiente» para calibrar la invasión de Ceuta",
+"url": "https://www.eldebate.com/espana/20261116/guardia-civil-considera-informacion-cni-insuficiente-calibrar-invasion-ceuta_481378.html",
+"fecha": "2026-11-16T11:38+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La Guardia Civil tilda de \"insuficiente\" para \"dimensionar\" el asalto a Ceuta la información que le dio el CNI",
+"url": "https://www.elespanol.com/espana/tribunales/20261116/guardia-civil-tilda-insuficiente-informacion-dio-cni-dimensionar-asalto-ceuta/1003744459662_0.html",
+"fecha": "2026-11-16T11:08+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Guardia Civil cuestiona la \"alerta temprana\" de los servicios de inteligencia: \"Lo que se recibió fue una información parcial insuficiente para dimensionar la amenaza\"",
+"url": "https://www.elmundo.es/espana/2026/11/16/6afaee19e9cf4a93078b4577.html",
+"fecha": "2026-11-16T12:13+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La Guardia Civil rechaza que los avisos del CNI alertaran de la dimensión del asalto a Ceuta",
+"url": "https://www.lavanguardia.com/politica/20261116/11685418/guardia-civil-rechaza-avisos-cni-alertaran-dimension-asalto-ceuta.html",
+"fecha": "2026-11-16T11:59+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Marlaska contra Robles: la Guardia Civil dice a la juez que la alerta del CNI sobre Ceuta fue «insuficiente»",
+"url": "https://okdiario.com/espana/marlaska-contra-robles-guardia-civil-dice-juez-que-alerta-del-cni-sobre-ceuta-fue-insuficiente-20960781",
+"fecha": "2026-11-16T12:01+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La Guardia Civil cuestiona al CNI por no anticipar la entrada de inmigrantes en Ceuta",
+"url": "https://theobjective.com/espana/2026-11-16/guardia-civil-cni-inmigrantes-ceuta/",
+"fecha": "2026-11-16T11:09+00:00"
+}
+]
+},
+{
+"medios": 7,
+"desde": "2026-11-16T07:15+00:00",
+"hasta": "2026-11-16T13:29+00:00",
+"temas": [
+"empleo"
+],
+"comunes": [
+"diaz",
+"yolanda",
+"oit",
+"candidatura",
+"retirar"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Yolanda Díaz retira su candidatura a presidir la Organización Internacional del Trabajo (OIT)",
+"url": "https://www.cope.es/actualidad/espana/noticias/yolanda-diaz-retira-candidatura-presidir-organizacion-internacional-trabajo-oit-20261116_3475562.html",
+"fecha": "2026-11-16T07:21+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El inquietante futuro laboral de Yolanda Díaz tras renunciar a la OIT",
+"url": "https://www.eldebate.com/espana/20261116/inquietante-futuro-laboral-yolanda-diaz-renunciar-oit_481226.html",
+"fecha": "2026-11-16T09:15+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Frente Amplio cuenta con Yolanda Díaz para la campaña tras retirar su candidatura de la OIT: \"Es una baza clave\"",
+"url": "https://www.elespanol.com/espana/20261116/frente-amplio-cuenta-yolanda-diaz-campana-retirar-candidatura-oit-baza-clave/1003744459976_0.html",
+"fecha": "2026-11-16T13:11+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Colau afirma que la OIT pierde a la mejor aspirante tras retirar Yolanda Díaz su candidata para dirigir el organismo",
+"url": "https://www.europapress.es/nacional/noticia-colau-afirma-oit-pierde-mejor-aspirante-retirar-yolanda-diaz-candidata-dirigir-organismo-20261116094456.html",
+"fecha": "2026-11-16T08:44+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "Yolanda Díaz retira su candidatura a la Organización Internacional del Trabajo",
+"url": "https://www.infolibre.es/economia-y-sociedad/yolanda-diaz-retira-candidatura-organizacion-internacional-trabajo_1_2240238.html",
+"fecha": "2026-11-16T07:15+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Ester Muñoz, tras retirar Yolanda Díaz su candidatura a la OIT: \"¿Y el dinero que nos han costado sus viajes y autobombo?\"",
+"url": "https://www.larazon.es/espana/ester-munoz-retirar-yolanda-diaz-candidatura-oit-dinero-que-nos-han-costado-sus-viajes-autobombo_202611166afb04dcd3bddc0868b34908.html",
+"fecha": "2026-11-16T13:29+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "UGT lamenta la retirada de candidatura de Díaz de la OIT: «Pierde una oportunidad»",
+"url": "https://theobjective.com/espana/politica/2026-11-16/ugt-retirada-candidatura-diaz-oit/",
+"fecha": "2026-11-16T11:42+00:00"
+}
+]
+},
+{
+"medios": 6,
+"desde": "2026-11-13T13:58+00:00",
 "hasta": "2026-11-13T15:25+00:00",
 "temas": [
 "impuestos",
@@ -262,14 +384,14 @@
 "justicia"
 ],
 "comunes": [
-"denuncia",
-"pagos",
 "psoe",
 "koldo",
+"denuncia",
+"pagos",
 "garcia",
 "defensa",
-"okdiario",
-"fiscalia"
+"fiscalia",
+"okdiario"
 ],
 "titulares": [
 {
@@ -283,12 +405,6 @@
 "titulo": "El PSOE presenta una denuncia contra ‘OkDiario’ y el PP por los pagos de la defensa de Koldo García",
 "url": "https://elpais.com/espana/2026-11-13/el-psoe-presenta-una-denuncia-contra-okdiario-y-el-pp-por-los-pagos-de-la-defensa-de-koldo-garcia.html",
 "fecha": "2026-11-13T15:25+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "El PSOE denuncia al PP, Eduardo Inda y Okdiario por los pagos de la defensa de Koldo García",
-"url": "https://www.eldiario.es/politica/psoe-querella-pp-eduardo-inda-okdiario-pagos-defensa-koldo-garcia_1_13661746.html",
-"fecha": "2026-11-13T13:06+00:00"
 },
 {
 "medio": "infoLibre",
@@ -318,67 +434,12 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-13T11:02+00:00",
-"hasta": "2026-11-13T12:48+00:00",
-"temas": [
-"pensiones"
-],
-"comunes": [
-"ministros",
-"consejo",
-"extraordinario",
-"rueda",
-"prensa",
-"directo",
-"pensiones"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Directo | Sigue la rueda de prensa tras el Consejo de Ministros extraordinario de este viernes",
-"url": "https://www.20minutos.es/nacional/directo-sigue-rueda-prensa-tras-consejo-ministros-extraordinario-este-viernes_7060631_0.html",
-"fecha": "2026-11-13T11:02+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Sigue en directo la rueda de prensa tras el Consejo de Ministros extraordinario",
-"url": "https://www.abc.es/espana/sigue-directo-rueda-prensa-tras-consejo-ministros-20261113115111-nt.html",
-"fecha": "2026-11-13T12:23+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Consejo de Ministros extraordinario para hacer propaganda con las pensiones el primer día de campaña, en directo",
-"url": "https://www.eldebate.com/espana/20261113/rueda-prensa-posterior-consejo-ministros-extraordinario-directo_480379.html",
-"fecha": "2026-11-13T11:51+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Rueda de prensa tras el Consejo de Ministros extraordinario",
-"url": "https://www.larazon.es/espana/rueda-prensa-consejo-ministros_202611136af6f3c94196933d7edbda9b.html",
-"fecha": "2026-11-13T11:26+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Sánchez revaloriza las pensiones hasta un 4% en un Consejo de Ministros extraordinario convertido en arma electoral",
-"url": "https://okdiario.com/espana/sanchez-revaloriza-pensiones-hasta-4-consejo-ministros-extraordinario-convertido-arma-electoral-20879113",
-"fecha": "2026-11-13T12:39+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El Gobierno revaloriza las pensiones en su primer Consejo de Ministros extra por el 29-N",
-"url": "https://theobjective.com/espana/politica/2026-11-13/gobierno-pensiones-consejo-ministros-extra-campana/",
-"fecha": "2026-11-13T12:48+00:00"
-}
-]
-},
-{
-"medios": 6,
 "desde": "2026-11-14T17:44+00:00",
 "hasta": "2026-11-14T20:06+00:00",
 "temas": [],
 "comunes": [
-"fascistas",
 "otegi",
+"fascistas",
 "vox",
 "frenar"
 ],
@@ -423,55 +484,56 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-13T07:22+00:00",
-"hasta": "2026-11-15T11:05+00:00",
-"temas": [],
+"desde": "2026-11-16T09:03+00:00",
+"hasta": "2026-11-16T13:01+00:00",
+"temas": [
+"impuestos",
+"empleo"
+],
 "comunes": [
-"generales",
-"elecciones",
-"ultima",
-"hora",
-"directo",
-"sanchez",
-"29n",
-"feijoo"
+"amplio",
+"herencias",
+"frente",
+"millones",
+"limitar",
+"propone"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "Campaña elecciones generales en España 29N, en directo: última hora de Pedro Sánchez (PSOE), Feijóo (PP), Abascal (Vox), Ada Colau (Frente Amplio) y resto de candidatos hoy",
-"url": "https://www.abc.es/espana/campana-elecciones-generales-espana-29n-directo-sanchez-feijoo-abascal-20261113162908-di.html",
-"fecha": "2026-11-13T12:27+00:00"
+"medio": "20minutos",
+"titulo": "Frente Amplio propone limitar las herencias de los \"ultrarricos\", jornada laboral de 32 horas y comedores gratuitos",
+"url": "https://www.20minutos.es/nacional/frente-propone-limitar-las-herencias-los-ultrarricos-una-prestacion-universal-por-crianza-200-euros-comedores-gratuitos_7061498_0.html",
+"fecha": "2026-11-16T11:34+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "Elecciones generales del 29-N, en directo | Última hora de los actos de campaña de Pedro Sánchez y Núñez Feijóo y el programa electoral del PSOE",
-"url": "https://www.elespanol.com/espana/20261115/elecciones-generales-directo-ultima-hora-campana-electoral-pedro-sanchez-encuestas-sondeos-psoe-pp-vox-voto-correo-espana-partidos-2026/1003744458767_10.html",
-"fecha": "2026-11-15T11:05+00:00"
+"medio": "ABC",
+"titulo": "Frente Amplio plantea limitar las herencias, recortar la jornada laboral e impulsar las bajas autojustificadas",
+"url": "https://www.abc.es/espana/frente-amplio-plantea-limitar-herencias-rebajar-anos-20261116122400-nt.html",
+"fecha": "2026-11-16T13:01+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
+"url": "https://www.eldebate.com/espana/20261116/frente-amplio-propone-limitar-herencias-maximo-10-millones-persona_481271.html",
+"fecha": "2026-11-16T09:43+00:00"
 },
 {
 "medio": "elDiario.es",
-"titulo": "Última hora sobre las elecciones generales y la actualidad política, en directo",
-"url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13660585.html",
-"fecha": "2026-11-13T07:22+00:00"
+"titulo": "El Frente Amplio propone un límite de 10 millones de euros a las herencias",
+"url": "https://www.eldiario.es/politica/frente-amplio-propone-limite-10-millones-euros-herencias_1_13666594.html",
+"fecha": "2026-11-16T09:03+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Última hora de la actualidad política, en directo: elecciones generales del 29N y últimas encuestas",
-"url": "https://www.europapress.es/nacional/noticia-ultima-hora-actualidad-politica-directo-elecciones-generales-29n-ultimas-encuestas-20261113083052.html",
-"fecha": "2026-11-13T07:30+00:00"
+"titulo": "Frente Amplio quiere limitar las herencias de ultrarricos a un máximo de 10 millones por heredero",
+"url": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-limitar-herencias-ultrarricos-maximo-10-millones-euros-heredero-20261116105438.html",
+"fecha": "2026-11-16T09:54+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Elecciones generales del 29N, en directo: última hora del arranque de la campaña electoral con los primeros mítines de Sánchez, Feijóo y otros candidatos",
-"url": "https://www.lavanguardia.com/politica/20261113/11682241/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
-"fecha": "2026-11-13T10:14+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Entrevista de Jordi Wild a Pedro Sánchez en directo | Última hora de los verificadores, la ideología de Jordi Wild y de las elecciones generales del 29-N hoy online en vivo",
-"url": "https://okdiario.com/espana/entrevistas-jordi-wild-feijoo-sanchez-colau-directo-ultima-hora-elecciones-del-29-n-que-ideologia-tiene-noticias-vivo-20829151",
-"fecha": "2026-11-13T11:45+00:00"
+"titulo": "El Frente Amplio lanza una ofensiva fiscal contra las herencias de más de 10 millones de euros",
+"url": "https://www.lavanguardia.com/politica/20261116/11685244/frente-amplio-ofensiva-fiscal-herencias-10-millones-euros.html",
+"fecha": "2026-11-16T09:43+00:00"
 }
 ]
 },
@@ -483,12 +545,12 @@
 "impuestos"
 ],
 "comunes": [
-"tiktok",
-"sexual",
 "fiscalia",
-"denuncia",
+"sexual",
+"tiktok",
 "abuso",
 "infantil",
+"denuncia",
 "difusion",
 "videos"
 ],
@@ -531,13 +593,13 @@
 "hasta": "2026-11-14T13:57+00:00",
 "temas": [],
 "comunes": [
-"alcalde",
-"paloma",
-"pecho",
 "morant",
+"paloma",
+"alcalde",
+"pecho",
 "elche",
-"llama",
 "psoe",
+"llama",
 "diana"
 ],
 "titulares": [
@@ -581,14 +643,14 @@
 "inmigracion"
 ],
 "comunes": [
-"amplio",
+"primer",
+"psoe",
 "debate",
+"amplio",
 "vox",
 "frente",
-"psoe",
-"primer",
 "electoral",
-"jovenes"
+"celebra"
 ],
 "titulares": [
 {
@@ -629,11 +691,11 @@
 "hasta": "2026-11-15T12:19+00:00",
 "temas": [],
 "comunes": [
-"madrid",
-"mercancias",
-"avila",
 "tren",
+"avila",
 "linea",
+"mercancias",
+"madrid",
 "descarrilamiento",
 "media",
 "cortada"
@@ -673,20 +735,67 @@
 },
 {
 "medios": 5,
+"desde": "2026-11-14T10:27+00:00",
+"hasta": "2026-11-15T14:47+00:00",
+"temas": [],
+"comunes": [
+"sanchez",
+"mitin",
+"pedro",
+"directo",
+"alcorcon",
+"palma",
+"psoe"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Los padres de Pedro Sánchez arropan a su hijo en el mitin de Alcorcón: \"Vivan las madres que nos parieron\"",
+"url": "https://www.20minutos.es/nacional/los-padres-pedro-sanchez-arropan-su-hijo-mitin-alcorcon-vivan-las-madres-que-nos-parieron_7061307_0.html",
+"fecha": "2026-11-15T14:47+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Mitin del PSOE con Pedro Sánchez en Palma, en directo",
+"url": "https://www.abc.es/espana/mitin-psoe-pedro-sanchez-palma-directo-20261114113414-nt.html",
+"fecha": "2026-11-14T12:43+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Sánchez participa en un mitin en Alcorcón, en directo",
+"url": "https://www.eldebate.com/espana/20261115/sanchez-participa-mitin-alcorcon-directo_481022.html",
+"fecha": "2026-11-15T10:55+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Mitin de Pedro Sánchez en Palma",
+"url": "https://www.larazon.es/espana/mitin-pedro-sanchez-palma_202611146af837aeea8d897997856ace.html",
+"fecha": "2026-11-14T10:27+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "EN DIRECTO | Pedro Sánchez presenta el programa electoral del PSOE en Alcorcón",
+"url": "https://theobjective.com/videos/espana/2026-11-15/en-directo-pedro-sanchez-presenta-programa-electoral-psoe-alcorcon/",
+"fecha": "2026-11-15T11:14+00:00"
+}
+]
+},
+{
+"medios": 5,
 "desde": "2026-11-14T15:40+00:00",
-"hasta": "2026-11-15T17:57+00:00",
+"hasta": "2026-11-16T07:40+00:00",
 "temas": [
 "territorio"
 ],
 "comunes": [
-"lluvias",
 "persistentes",
-"domingo",
-"rachas",
-"viento",
+"lluvias",
 "galicia",
-"fuertes",
-"dejara"
+"rachas",
+"domingo",
+"viento",
+"dejara",
+"fuertes"
 ],
 "titulares": [
 {
@@ -723,270 +832,49 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-13T19:17+00:00",
-"hasta": "2026-11-15T20:10+00:00",
-"temas": [
-"inmigracion"
-],
+"desde": "2026-11-16T11:04+00:00",
+"hasta": "2026-11-16T12:32+00:00",
+"temas": [],
 "comunes": [
-"cayucos",
-"hierro",
-"inmigrantes",
-"llegan",
-"personas",
-"llegada",
-"otros",
-"270"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Llegan cuatro cayucos con 374 personas en otro día de llegada masiva de inmigrantes a El Hierro",
-"url": "https://www.eldebate.com/espana/20261113/llegan-cuatro-cayucos-374-personas-otro-dia-llegada-masiva-inmigrantes-hierro_480785.html",
-"fecha": "2026-11-13T19:17+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Llegan a El Hierro otros dos cayucos con 270 personas, entre ellas 21 posibles menores",
-"url": "https://www.elmundo.es/espana/2026/11/14/6af82fc5e9cf4ab47b8b457c.html",
-"fecha": "2026-11-14T10:01+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Llegan a El Hierro dos cayucos con 270 personas, entre ellas 21 posibles menores",
-"url": "https://www.lavanguardia.com/politica/20261114/11684179/llegan-hierro-dos-cayucos-270-personas-21-posibles-menores.html",
-"fecha": "2026-11-14T10:01+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "El Hierro recibe 1.261 inmigrantes en siete cayucos y vuelve a superar las mil llegadas en un día",
-"url": "https://okdiario.com/espana/hierro-recibe-1-261-inmigrantes-siete-cayucos-vuelve-superar-mil-llegadas-dia-20903905",
-"fecha": "2026-11-15T20:10+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Continúa la llegada de cayucos a El Hierro: otros 433 inmigrantes en cinco embarcaciones",
-"url": "https://theobjective.com/sociedad/2026-11-13/continua-llegada-cayucos-el-hierro-433-inmigrantes-cinco-embarcaciones/",
-"fecha": "2026-11-13T20:04+00:00"
-}
-]
-},
-{
-"medios": 5,
-"desde": "2026-11-15T11:55+00:00",
-"hasta": "2026-11-15T20:51+00:00",
-"temas": [
-"defensa"
-],
-"comunes": [
-"abascal",
-"cornella",
-"mitin",
-"elecciones"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Abascal carga contra Sánchez desde Cornellá: «Es el candidato de Marruecos a las elecciones»",
-"url": "https://www.eldebate.com/espana/20261115/abascal-carga-contra-sanchez-desde-cornella-candidato-marruecos-elecciones_481069.html",
-"fecha": "2026-11-15T13:38+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Mitin de Santiago Abascal en Cornellá de Llobregat",
-"url": "https://www.larazon.es/espana/mitin-santiago-abascal-cornella-llobregat_202611156af99d9903bbf30bb04d1967.html",
-"fecha": "2026-11-15T11:55+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Abascal apela en Cornellà a la “reconquista de la identidad” en unas “elecciones existenciales”",
-"url": "https://www.lavanguardia.com/politica/20261115/11684813/abascal-apela-cornella-reconquista-identidad-elecciones-existenciales.html",
-"fecha": "2026-11-15T14:22+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Abascal en Cornellà",
-"url": "https://www.libertaddigital.com/cataluna/2026-11-15/anna-grau-abascal-en-cornella-7491732/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-15T20:51+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Abascal arrasa en Cornellá en un mitin en el que 1.000 personas se han quedado fuera por falta de aforo",
-"url": "https://okdiario.com/espana/abascal-arrasa-cornella-mitin-que-1-000-personas-han-quedado-fuera-falta-aforo-20902774",
-"fecha": "2026-11-15T15:01+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-13T12:32+00:00",
-"hasta": "2026-11-13T13:37+00:00",
-"temas": [
-"defensa"
-],
-"comunes": [
-"fuego",
-"mano",
-"sanchez",
-"zapatero",
-"pone",
-"wild",
-"jordi"
+"gomez",
+"software",
+"begona",
+"caso",
+"google",
+"investigado",
+"eliminar",
+"contenido"
 ],
 "titulares": [
 {
 "medio": "El Confidencial",
-"titulo": "Sánchez pone \"la mano en el fuego\" por Zapatero con Wild y niega que rinda \"pleitesía\" a Marruecos",
-"url": "https://www.elconfidencial.com/espana/2026-11-13/pedro-sanchez-jordi-wild-zapatero-marruecos_4464570/",
-"fecha": "2026-11-13T13:09+00:00"
+"titulo": "El juzgado del caso Begoña Gómez insta a Google a no eliminar contenido del software investigado",
+"url": "https://www.elconfidencial.com/espana/2026-11-16/caso-begona-gomez-google-software-1tps_4465792/",
+"fecha": "2026-11-16T11:17+00:00"
 },
 {
-"medio": "elDiario.es",
-"titulo": "Sánchez, con Jordi Wild: \"Yo pongo la mano en el fuego por Zapatero\"",
-"url": "https://www.eldiario.es/politica/sanchez-jordi-wild-pongo-mano-fuego-zapatero_1_13662021.html",
-"fecha": "2026-11-13T13:37+00:00"
+"medio": "El Debate",
+"titulo": "El juzgado del caso Begoña Gómez insta a Google a no eliminar contenido del 'software' investigado",
+"url": "https://www.eldebate.com/espana/20261116/juzgado-caso-begona-gomez-insta-google-no-eliminar-contenido-software-investigado_481401.html",
+"fecha": "2026-11-16T12:10+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Un juez ordena a Google no eliminar contenido del ‘software’ investigado en el ‘caso Begoña Gómez’",
+"url": "https://elpais.com/espana/2026-11-16/un-juez-ordena-google-no-eliminar-contenido-del-software-investigado-en-el-caso-begona-gomez.html",
+"fecha": "2026-11-16T12:32+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Sánchez asegura que pone \"la mano en el fuego\" por Zapatero: \"Creo en su inocencia\"",
-"url": "https://www.europapress.es/nacional/noticia-sanchez-asegura-pone-mano-fuego-zapatero-creo-inocencia-20261113134710.html",
-"fecha": "2026-11-13T12:47+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Sánchez pone \"la mano en el fuego\" por Zapatero ante Jordi Wild pero lo esconde en campaña",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-13/sanchez-pone-la-mano-en-el-fuego-por-zapatero-7491133/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-13T12:32+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-13T06:40+00:00",
-"hasta": "2026-11-13T19:23+00:00",
-"temas": [],
-"comunes": [
-"teams",
-"outlook",
-"microsoft",
-"caida",
-"global",
-"afecta",
-"sufre",
-"mundial"
-],
-"titulares": [
-{
-"medio": "Ara",
-"titulo": "Microsoft no aconsegueix solucionar la caiguda global de Teams, Outlook i Copilot",
-"url": "https://www.ara.cat/economia/tecnologia/microsoft-no-aconsegueix-solucionar-s-esperava-caiguda-global-dels-serveis_1_5909013.html",
-"fecha": "2026-11-13T06:40+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Microsoft desvela la causa de la caída mundial de Outlook y Teams: \"Lamentamos profundamente las interrupciones que este incidente ha causado a nuestros clientes y socios\"",
-"url": "https://www.cope.es/actualidad/tecnologia/noticias/microsoft-desvela-causa-caida-mundial-outlook-teams-lamentamos-profundamente-interrupciones-incidente-causado-clientes-socios-20261113_3475203.html",
-"fecha": "2026-11-13T19:23+00:00"
-},
-{
-"medio": "infoLibre",
-"titulo": "Microsoft sufre una caída global que afecta a Outlook y Teams",
-"url": "https://www.infolibre.es/politica/microsoft-sufre-caida-global-afecta-outlook-teams_1_2240115.html",
-"fecha": "2026-11-13T08:01+00:00"
+"titulo": "El juzgado del 'caso Begoña Gómez' insta a Google a no eliminar contenido del 'software' investigado",
+"url": "https://www.europapress.es/nacional/noticia-juzgado-caso-begona-gomez-insta-google-no-eliminar-contenido-software-investigado-20261116120414.html",
+"fecha": "2026-11-16T11:04+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "VÍDEO | Microsoft sufre una caída mundial que afecta a Outlook, Teams y otros servicios",
-"url": "https://theobjective.com/videos/tecnologia/2026-11-13/microsoft-caida-mundial/",
-"fecha": "2026-11-13T12:25+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-13T11:47+00:00",
-"hasta": "2026-11-13T20:33+00:00",
-"temas": [
-"territorio",
-"justicia"
-],
-"comunes": [
-"suya",
-"tellado",
-"difundir",
-"koldo",
-"gallego",
-"psoe",
-"verificar",
-"imagen"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Tellado avanza que denunciará al PSdeG por difundir una supuesta foto suya con Koldo, que posteriormente retiró",
-"url": "https://www.20minutos.es/nacional/tellado-avanza-que-denunciara-psdeg-por-difundir-una-supuesta-foto-suya-con-koldo-que-posteriormente-retiro_7061013_0.html",
-"fecha": "2026-11-13T20:33+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Tellado amenaza con llevar al PSOE gallego a los tribunales por difundir una foto falsa suya con Koldo",
-"url": "https://www.abc.es/espana/galicia/tellado-amenaza-llevar-psoe-gallego-tribunales-difundir-20261113200822-nt.html",
-"fecha": "2026-11-13T19:46+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Tellado anuncia una denuncia contra el PSOE gallego por difundir sin verificar una imagen suya con Koldo García",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-13/tellado-anuncia-una-denuncia-contra-el-psoe-gallego-por-difundir-sin-verificar-una-imagen-suya-con-koldo-garcia.html",
-"fecha": "2026-11-13T11:47+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Tellado denunciará al PSOE gallego por difundir sin verificar una imagen suya con Koldo",
-"url": "https://theobjective.com/espana/politica/2026-11-13/tellado-denuncia-psoe-galicia-imagen-koldo/",
-"fecha": "2026-11-13T19:21+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-13T09:58+00:00",
-"hasta": "2026-11-13T21:53+00:00",
-"temas": [
-"inmigracion"
-],
-"comunes": [
-"jordi",
-"entrevistas",
-"feijoo",
-"colau",
-"sanchez",
-"wild",
-"vea"
-],
-"titulares": [
-{
-"medio": "El Español",
-"titulo": "Vea las entrevistas completas de Jordi Wild a Sánchez, Feijóo y Colau",
-"url": "https://www.elespanol.com/espana/politica/20261113/vea-entrevistas-completas-jordi-wild-sanchez-feijoo-colau/1003744457089_0.html",
-"fecha": "2026-11-13T11:12+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Vea las entrevistas de Jordi Wild a Sánchez, Feijóo y Colau",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-13/vea-la-entrevista-de-jordi-wild-a-ada-colau.html",
-"fecha": "2026-11-13T12:40+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "De qué se habló en las entrevistas de Jordi Wild: Ceuta con Sánchez, economía con Feijóo e inmigración con Colau",
-"url": "https://www.eldiario.es/politica/hablo-entrevistas-jordi-wild-ceuta-sanchez-economia-feijoo-e-inmigracion-colau_1_13662907.html",
-"fecha": "2026-11-13T21:53+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Vea las entrevistas de Jordi Wild a Colau, Feijóo y Sánchez",
-"url": "https://www.lavanguardia.com/politica/20261113/11683342/vea-entrevistas-jordi-wild-colau-feijoo-sanchez.html",
-"fecha": "2026-11-13T09:58+00:00"
+"titulo": "El juez del ‘caso Begoña Gómez’ pide a Google que preserve los archivos del ‘software’",
+"url": "https://theobjective.com/espana/tribunales/2026-11-16/juez-caso-begona-gomez-google-software/",
+"fecha": "2026-11-16T11:14+00:00"
 }
 ]
 },
@@ -996,14 +884,14 @@
 "hasta": "2026-11-14T10:01+00:00",
 "temas": [],
 "comunes": [
-"600",
-"senado",
 "188",
-"euros",
+"senado",
 "000",
+"600",
+"euros",
 "otros",
 "cada",
-"senador"
+"subvenciones"
 ],
 "titulares": [
 {
@@ -1034,18 +922,62 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-13T19:17+00:00",
+"hasta": "2026-11-14T10:37+00:00",
+"temas": [
+"inmigracion"
+],
+"comunes": [
+"hierro",
+"cayucos",
+"llegan",
+"personas",
+"llegada",
+"inmigrantes",
+"otros",
+"270"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Llegan cuatro cayucos con 374 personas en otro día de llegada masiva de inmigrantes a El Hierro",
+"url": "https://www.eldebate.com/espana/20261113/llegan-cuatro-cayucos-374-personas-otro-dia-llegada-masiva-inmigrantes-hierro_480785.html",
+"fecha": "2026-11-13T19:17+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Llegan a El Hierro otros dos cayucos con 270 personas, entre ellas 21 posibles menores",
+"url": "https://www.elmundo.es/espana/2026/11/14/6af82fc5e9cf4ab47b8b457c.html",
+"fecha": "2026-11-14T10:01+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Llegan a El Hierro dos cayucos con 270 personas, entre ellas 21 posibles menores",
+"url": "https://www.lavanguardia.com/politica/20261114/11684179/llegan-hierro-dos-cayucos-270-personas-21-posibles-menores.html",
+"fecha": "2026-11-14T10:01+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Continúa la llegada de cayucos a El Hierro: otros 433 inmigrantes en cinco embarcaciones",
+"url": "https://theobjective.com/sociedad/2026-11-13/continua-llegada-cayucos-el-hierro-433-inmigrantes-cinco-embarcaciones/",
+"fecha": "2026-11-13T20:04+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-14T09:02+00:00",
 "hasta": "2026-11-14T11:06+00:00",
 "temas": [],
 "comunes": [
-"tiktok",
 "guardia",
+"tiktok",
 "civil",
 "canal",
 "cierra",
-"cuentas",
+"bancarias",
 "100",
-"bancarias"
+"euros"
 ],
 "titulares": [
 {
@@ -1084,9 +1016,9 @@
 "comunes": [
 "ruso",
 "robles",
+"asesino",
 "margarita",
 "matices",
-"asesino",
 "simplemente",
 "militar",
 "legionario"
@@ -1120,87 +1052,43 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-14T20:05+00:00",
-"hasta": "2026-11-14T21:01+00:00",
+"desde": "2026-11-15T08:56+00:00",
+"hasta": "2026-11-15T12:32+00:00",
 "temas": [],
 "comunes": [
-"puerta",
-"sol",
-"amenaza",
-"bomba",
-"policia",
-"madrid",
-"posible"
+"urda",
+"joyeria",
+"despliegue",
+"accidente",
+"torrijos",
+"seis",
+"toledo",
+"detenidos"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "La Policía acordona la madrileña Puerta del Sol por una posible amenaza de bomba",
-"url": "https://www.abc.es/espana/madrid/policia-acordona-madrilena-puerta-sol-amenaza-bomba-20261114203148-nt.html",
-"fecha": "2026-11-14T20:15+00:00"
+"medio": "El Confidencial",
+"titulo": "Cae una banda que robó artículos valorados en 400.000 euros en una joyería de Torrijos durante el despliegue policial por el accidente de Urda",
+"url": "https://www.elconfidencial.com/espana/2026-11-15/guardia-civil-detiene-robo-joyeria-1tna-1tps_4465309/",
+"fecha": "2026-11-15T08:56+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "La Puerta del Sol de Madrid recupera la normalidad tras ser acordonada por una posible amenaza de bomba",
-"url": "https://www.eldebate.com/espana/madrid/20261114/policia-acordona-puerta-sol-madrid-posible-amenaza-bomba_480985.html",
-"fecha": "2026-11-14T20:05+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La Policía reabre la Puerta del Sol tras descartar la amenaza de bomba",
-"url": "https://www.libertaddigital.com/madrid/2026-11-14/la-policia-reabre-la-puerta-del-sol-tras-descartar-la-amenaza-de-bomba-7491599/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-14T21:01+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Desalojada la Puerta del Sol en Madrid al hallar la Policía una mochila sospechosa",
-"url": "https://okdiario.com/espana/desalojada-puerta-del-sol-madrid-hallar-policia-mochila-sospechosa-20900759",
-"fecha": "2026-11-14T20:33+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-15T04:32+00:00",
-"hasta": "2026-11-15T12:28+00:00",
-"temas": [
-"inmigracion",
-"territorio"
-],
-"comunes": [
-"488",
-"record",
-"bate",
-"canaria",
-"ruta",
-"canarias",
-"rescatados",
-"historico"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "Canarias bate el récord histórico de llegadas en un día con 1.488 inmigrantes rescatados",
-"url": "https://www.eldebate.com/espana/20261115/canarias-bate-record-historico-llegadas-dia-1488-inmigrantes-rescatados_480996.html",
-"fecha": "2026-11-15T04:32+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "1.488 inmigrantes rescatados en 24 horas en plena oleada de cayucos: la Ruta Canaria bate su récord histórico en 32 años",
-"url": "https://www.elespanol.com/espana/20261115/inmigrantes-rescatados-horas-plena-oleada-cayucos-ruta-canaria-bate-record-historico-anos/1003744458857_0.html",
-"fecha": "2026-11-15T09:30+00:00"
+"titulo": "Seis detenidos por atracar una joyería en Torrijos (Toledo) aprovechando el despliegue por el accidente de Urda",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261115/seis-detenidos-atracar-joyeria-torrijos-toledo-aprovechando-despliegue-accidente-urda_481047.html",
+"fecha": "2026-11-15T11:26+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
-"url": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
-"fecha": "2026-11-15T12:28+00:00"
+"titulo": "Detenidas seis personas por atracar una joyería en Torrijos (Toledo) durante el despliegue por el accidente de Urda",
+"url": "https://www.elmundo.es/espana/2026/11/15/6af96cdffdddff6c338b4591.html",
+"fecha": "2026-11-15T12:32+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Canarias bate el récord de rescates en la Ruta Canaria con 1.488 personas en un día",
-"url": "https://www.lavanguardia.com/politica/20261115/11684692/canarias-bate-record-rescates-ruta-canaria-1-488-personas-dia.html",
-"fecha": "2026-11-15T06:08+00:00"
+"medio": "The Objective",
+"titulo": "Seis detenidos por robar una joyería en Toledo durante el despliegue por el accidente de Urda",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-15/detenidos-robar-joyeria-toledo-accidente-urda/",
+"fecha": "2026-11-15T09:03+00:00"
 }
 ]
 },
@@ -1212,14 +1100,14 @@
 "empleo"
 ],
 "comunes": [
-"portero",
 "malaga",
-"sala",
+"portero",
 "fiestas",
+"sala",
 "medalla",
-"disparan",
 "pecho",
-"salva"
+"disparan",
+"disparo"
 ],
 "titulares": [
 {
@@ -1254,14 +1142,14 @@
 "hasta": "2026-11-15T17:25+00:00",
 "temas": [],
 "comunes": [
+"permisos",
 "familia",
 "retribuidos",
-"permisos",
-"elegida",
 "propone",
+"elegida",
 "cuidados",
-"tener",
-"amplio"
+"pueda",
+"tener"
 ],
 "titulares": [
 {
@@ -1291,254 +1179,213 @@
 ]
 },
 {
-"medios": 3,
-"desde": "2026-11-13T09:26+00:00",
-"hasta": "2026-11-13T11:03+00:00",
+"medios": 4,
+"desde": "2026-11-15T04:32+00:00",
+"hasta": "2026-11-16T04:00+00:00",
 "temas": [
-"energia",
-"defensa"
+"inmigracion",
+"territorio"
 ],
 "comunes": [
-"interior",
-"botes",
-"humo",
-"inocuos",
-"permitira",
-"cargas",
-"gas",
-"11n"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Interior confirma que prohibirá el gas lacrimógeno tras las cargas del 11N y permitirá botes de humo \"inocuo y no lesivo\"",
-"url": "https://www.20minutos.es/nacional/interior-confirma-que-prohibira-gas-lacrimogeno-tras-las-cargas-11n-permitira-botes-humo-inocuo-no-lesivo_7060671_0.html",
-"fecha": "2026-11-13T11:03+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Interior prohibirá el gas lacrimógeno tras las cargas del 11N y permitirá botes de humo por ser \"inocuos\"",
-"url": "https://www.cope.es/actualidad/espana/noticias/interior-prohibira-gas-lacrimogeno-cargas-11n-permitira-botes-humo-inocuos-20261113_3474591.html",
-"fecha": "2026-11-13T10:27+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Interior ordena que la Policía use botes de humo lacrimógenos \"inocuos\" en orden público y no el espray de defensa",
-"url": "https://www.europapress.es/nacional/noticia-interior-confirma-prohibira-gas-lacrimogeno-cargas-11n-permitira-botes-humo-ser-inocuos-20261113102626.html",
-"fecha": "2026-11-13T09:26+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-13T12:48+00:00",
-"hasta": "2026-11-13T12:51+00:00",
-"temas": [
-"impuestos",
-"justicia"
-],
-"comunes": [
-"500",
-"jueces",
-"plazas",
-"gobierno",
-"200",
-"fiscales",
-"2027",
-"nuevas"
+"488",
+"bate",
+"record",
+"canaria",
+"ruta",
+"canarias",
+"inmigrantes",
+"historico"
 ],
 "titulares": [
 {
 "medio": "El Debate",
-"titulo": "El Gobierno vuelve a ampliar la plantilla con 500 plazas de jueces y 200 de fiscales para 2027",
-"url": "https://www.eldebate.com/espana/20261113/gobierno-vuelve-ampliar-plantilla-500-plazas-jueces-200-fiscales-2027_480556.html",
-"fecha": "2026-11-13T12:51+00:00"
+"titulo": "Canarias bate el récord histórico de llegadas en un día con 1.488 inmigrantes rescatados",
+"url": "https://www.eldebate.com/espana/20261115/canarias-bate-record-historico-llegadas-dia-1488-inmigrantes-rescatados_480996.html",
+"fecha": "2026-11-15T04:32+00:00"
 },
 {
-"medio": "Europa Press",
-"titulo": "El Gobierno prevé lanzar en próximas semanas una \"macroconvocatoria\" para 500 nuevas plazas de jueces y 200 de fiscales",
-"url": "https://www.europapress.es/nacional/noticia-gobierno-preve-lanzar-proximas-semanas-macroconvocatoria-500-nuevas-plazas-jueces-200-fiscales-20261113134934.html",
-"fecha": "2026-11-13T12:49+00:00"
+"medio": "El Español",
+"titulo": "1.488 inmigrantes rescatados en 24 horas en plena oleada de cayucos: la Ruta Canaria bate su récord histórico en 32 años",
+"url": "https://www.elespanol.com/espana/20261115/inmigrantes-rescatados-horas-plena-oleada-cayucos-ruta-canaria-bate-record-historico-anos/1003744458857_0.html",
+"fecha": "2026-11-15T09:30+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "El Gobierno crea 500 nuevas plazas de jueces y 200 de fiscales para 2027",
-"url": "https://www.infolibre.es/politica/gobierno-crea-500-nuevas-plazas-jueces-200-fiscales-2027_1_2240135.html",
-"fecha": "2026-11-13T12:48+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-13T12:46+00:00",
-"hasta": "2026-11-13T12:57+00:00",
-"temas": [],
-"comunes": [
-"renfe",
-"alvaro",
-"heredia",
-"fernandez",
-"cuerpo",
-"cesa",
-"adif"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Cuerpo cesa al presidente de Renfe, Álvaro Fernández Heredia, y designa a Joaquim Hortalà como nuevo presidente de Adif",
-"url": "https://www.20minutos.es/nacional/cuerpo-cesa-presidente-renfe-alvaro-fernandez-heredia-designa-joaquim-hortala-como-nuevo-presidente-adif_7060780_0.html",
-"fecha": "2026-11-13T12:46+00:00"
+"medio": "El Mundo",
+"titulo": "Un sábado de rescates sin pausa hace historia en la Ruta Canaria: 1.488 personas en un día, la cifra más alta en 32 años",
+"url": "https://www.elmundo.es/espana/2026/11/15/6af97162fdddff6c338b4599.html",
+"fecha": "2026-11-15T12:28+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "El Gobierno cesa a Álvaro Fernández Heredia y nombra perfiles técnicos al frente de Renfe y Adif",
-"url": "https://www.lavanguardia.com/politica/20261113/11683538/cese-alvaro-fernandez-heredia-renfe-inmaculada-gutierrez-joaquim-hortala-adif.html",
-"fecha": "2026-11-13T12:57+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Quién es Álvaro Fernández Heredia, el ya expresidente de Renfe al que ha fulminado Cuerpo: su edad, ingeniero por vocación y se presentó a las elecciones de 2023",
-"url": "https://theobjective.com/gente/2026-11-13/quien-es-alvaro-fernandez-heredia-expresidente-renfe-fulminado-cuerpo/",
-"fecha": "2026-11-13T12:46+00:00"
+"titulo": "Canarias bate el récord de rescates en la Ruta Canaria con 1.488 personas en un día",
+"url": "https://www.lavanguardia.com/politica/20261115/11684692/canarias-bate-record-rescates-ruta-canaria-1-488-personas-dia.html",
+"fecha": "2026-11-15T06:08+00:00"
 }
 ]
 },
 {
-"medios": 3,
-"desde": "2026-11-13T12:09+00:00",
-"hasta": "2026-11-13T13:24+00:00",
+"medios": 4,
+"desde": "2026-11-15T14:37+00:00",
+"hasta": "2026-11-16T10:01+00:00",
 "temas": [
-"pensiones"
+"inmigracion"
 ],
 "comunes": [
-"gobierno",
-"campana",
-"pensiones",
-"primer",
-"electoral",
-"subida",
-"2027"
+"comite",
+"ceuta",
+"regiones",
+"asiento",
+"permanente",
+"europeo",
+"aprueba"
 ],
 "titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "Ceuta logra un asiento permanente en el Comité Europeo de las Regiones con el aval del Consejo de la UE",
+"url": "https://www.elconfidencial.com/espana/2026-11-16/ceuta-asiento-permanente-comite-regiones-1tps_4465684/",
+"fecha": "2026-11-16T09:50+00:00"
+},
+{
+"medio": "El País",
+"titulo": "La UE aprueba un asiento permanente para Ceuta en el Comité de las Regiones",
+"url": "https://elpais.com/espana/2026-11-16/la-ue-aprueba-un-asiento-permanente-para-ceuta-en-el-comite-de-las-regiones.html",
+"fecha": "2026-11-16T10:01+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La UE aprueba que Ceuta sea un nuevo miembro del Comité Europeo de las Regiones",
+"url": "https://www.lavanguardia.com/politica/20261116/11685255/ue-aprueba-ceuta-sea-nuevo-miembro-comite-europeo-regiones.html",
+"fecha": "2026-11-16T09:55+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Ceuta consigue este lunes un asiento fijo en el Comité de las Regiones de la UE",
+"url": "https://theobjective.com/espana/politica/2026-11-15/ceuta-asiento-fijo-comite-ue/",
+"fecha": "2026-11-15T14:37+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-15T12:16+00:00",
+"hasta": "2026-11-16T11:36+00:00",
+"temas": [],
+"comunes": [
+"juez",
+"casa",
+"registro",
+"valencia",
+"presente",
+"estar",
+"abalos",
+"anular"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente",
+"url": "https://www.eldebate.com/espana/20261115/abalos-pide-juez-anular-registro-casa-valencia-no-estar-presente_481107.html",
+"fecha": "2026-11-15T15:21+00:00"
+},
 {
 "medio": "El Mundo",
-"titulo": "El Gobierno inicia el camino para revalorizar las pensiones en el primer día de campaña electoral",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af6fb2121efa0c94b8b457a.html",
-"fecha": "2026-11-13T12:09+00:00"
+"titulo": "Ábalos pide al juez anular el último registro de su casa en Valencia por no estar presente",
+"url": "https://www.elmundo.es/espana/2026/11/15/6af99e08fc6c8352638b459d.html",
+"fecha": "2026-11-15T12:16+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "El Gobierno activa la subida de las pensiones de 2027 en el primer día de campaña electoral",
-"url": "https://www.larazon.es/espana/gobierno-activa-subida-pensiones-2027-primer-dia-campana-electoral_202611136af700a8d3bddc0868b05ce0.html",
-"fecha": "2026-11-13T12:20+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "El Gobierno aprovecha el inicio de la campaña para anunciar la subida de las pensiones de 2027",
-"url": "https://www.libertaddigital.com/libremercado/2026-11-13/pensiones-2027-7491168/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-13T13:24+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-13T03:30+00:00",
-"hasta": "2026-11-13T14:48+00:00",
-"temas": [],
-"comunes": [
-"policia",
-"nacional",
-"custodios",
-"rey",
-"unidad",
-"angeles",
-"aerea"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "El Rey celebra el medio siglo de los «ángeles custodios», la unidad aérea de la Policía Nacional",
-"url": "https://www.eldebate.com/espana/casa-real/20261113/rey-celebra-medio-siglo-angeles-custodios-unidad-aerea-policia-nacional_480267.html",
-"fecha": "2026-11-13T03:30+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Felipe VI homenajea al policía muerto en Oviedo en el 50 aniversario de los Ángeles Custodios",
-"url": "https://www.larazon.es/espana/felipe-homenajea-policia-muerto-oviedo-50-aniversario-angeles-custodios_202611136af708184196933d7edbf750.html",
-"fecha": "2026-11-13T12:52+00:00"
+"titulo": "Ábalos denuncia que sería nulo el registro de su casa de Valencia: el juez no le avisó ni le permitió estar presente",
+"url": "https://www.larazon.es/espana/abalos-denuncia-que-seria-nulo-registro-casa-valencia-juez-aviso-permitio-estar-presente_202611166afaea9e4196933d7edebfef.html",
+"fecha": "2026-11-16T11:36+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "El Rey preside el acto que conmemora los 50 años de la Unidad Aérea de la Policía Nacional",
-"url": "https://theobjective.com/sociedad/2026-11-13/rey-preside-acto-50-anos-unidad-aerea-policia-nacional/",
-"fecha": "2026-11-13T14:48+00:00"
+"titulo": "Ábalos pide al juez anular el registro de su casa en Valencia por no estar presente",
+"url": "https://theobjective.com/actualidad/2026-11-15/abalos-juez-anular-registro-casa/",
+"fecha": "2026-11-15T12:28+00:00"
 }
 ]
 },
 {
-"medios": 3,
-"desde": "2026-11-13T10:47+00:00",
-"hasta": "2026-11-14T11:09+00:00",
+"medios": 4,
+"desde": "2026-11-14T08:59+00:00",
+"hasta": "2026-11-16T13:27+00:00",
 "temas": [],
 "comunes": [
-"feijoo",
-"mitin",
+"hora",
+"generales",
+"elecciones",
+"ultima",
 "directo",
-"alberto",
-"nunez",
-"santiago",
-"compostela"
+"campana",
+"actualidad",
+"politica"
 ],
 "titulares": [
 {
-"medio": "El Debate",
-"titulo": "Feijóo y Ayuso intervienen en un mitin con jóvenes, en directo",
-"url": "https://www.eldebate.com/espana/20261113/feijoo-ayuso-intervienen-mitin-jovenes-directo_480378.html",
-"fecha": "2026-11-13T10:47+00:00"
+"medio": "El Español",
+"titulo": "Elecciones generales del 29-N, en directo | Última hora de los actos de campaña de Pedro Sánchez y Núñez Feijóo y el programa electoral del PSOE",
+"url": "https://www.elespanol.com/espana/20261115/elecciones-generales-directo-ultima-hora-campana-electoral-pedro-sanchez-encuestas-sondeos-psoe-pp-vox-voto-correo-espana-partidos-2026/1003744458767_10.html",
+"fecha": "2026-11-15T11:05+00:00"
 },
 {
-"medio": "La Razón",
-"titulo": "Mitin de Alberto Núñez Feijóo en Santiago de Compostela",
-"url": "https://www.larazon.es/espana/mitin-alberto-nunez-feijoo-santiago-compostela_202611146af83ea103bbf30bb04c17f2.html",
-"fecha": "2026-11-14T10:57+00:00"
+"medio": "elDiario.es",
+"titulo": "Última hora sobre las elecciones generales y la actualidad política, en directo",
+"url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13663660.html",
+"fecha": "2026-11-14T08:59+00:00"
 },
 {
-"medio": "The Objective",
-"titulo": "EN DIRECTO | Alberto Núñez Feijóo en Santiago de Compostela",
-"url": "https://theobjective.com/videos/espana/2026-11-14/acto-campana-palma/",
-"fecha": "2026-11-14T11:09+00:00"
+"medio": "La Vanguardia",
+"titulo": "Elecciones generales 29-N | Encuestas, candidatos y última hora del cuarto día de campaña del PP, PSOE y Vox, hoy en directo",
+"url": "https://www.lavanguardia.com/politica/20261116/11683294/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html",
+"fecha": "2026-11-16T12:43+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Última hora en directo de la actualidad política en España: elecciones generales del 29-N y campaña electoral hoy en vivo",
+"url": "https://okdiario.com/espana/ultima-hora-directo-actualidad-politica-espana-elecciones-generales-del-29-n-campana-electoral-hoy-vivo-20905843",
+"fecha": "2026-11-16T13:09+00:00"
 }
 ]
 },
 {
 "medios": 3,
-"desde": "2026-11-13T06:18+00:00",
-"hasta": "2026-11-14T12:36+00:00",
-"temas": [],
+"desde": "2026-11-13T19:21+00:00",
+"hasta": "2026-11-13T20:33+00:00",
+"temas": [
+"territorio",
+"justicia"
+],
 "comunes": [
-"llama",
-"movilizacion",
-"masiva",
-"sanchez"
+"koldo",
+"suya",
+"difundir",
+"tellado",
+"psoe",
+"denunciara",
+"gallego",
+"foto"
 ],
 "titulares": [
+{
+"medio": "20minutos",
+"titulo": "Tellado avanza que denunciará al PSdeG por difundir una supuesta foto suya con Koldo, que posteriormente retiró",
+"url": "https://www.20minutos.es/nacional/tellado-avanza-que-denunciara-psdeg-por-difundir-una-supuesta-foto-suya-con-koldo-que-posteriormente-retiro_7061013_0.html",
+"fecha": "2026-11-13T20:33+00:00"
+},
 {
 "medio": "ABC",
-"titulo": "Sánchez llama a una movilización masiva ante más de 3.000 personas en Palma: «Vamos a seguir gobernando»",
-"url": "https://www.abc.es/espana/baleares/sanchez-llama-movilizacion-masiva-ante-3000-personas-20261114132503-nt.html",
-"fecha": "2026-11-14T12:36+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "VOX llama en Baleares a una movilización masiva el 29N para echar a Sánchez: «Nos lo jugamos todo»",
-"url": "https://www.eldebate.com/espana/baleares/20261113/vox-llama-baleares-movilizacion-masiva-29n-echar-sanchez-jugamos-todo_480353.html",
-"fecha": "2026-11-13T06:18+00:00"
+"titulo": "Tellado amenaza con llevar al PSOE gallego a los tribunales por difundir una foto falsa suya con Koldo",
+"url": "https://www.abc.es/espana/galicia/tellado-amenaza-llevar-psoe-gallego-tribunales-difundir-20261113200822-nt.html",
+"fecha": "2026-11-13T19:46+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Abascal llama a una «movilización masiva» para unas elecciones «existenciales y decisivas»",
-"url": "https://theobjective.com/espana/politica/2026-11-13/abascal-llama-movilizacion-masiva-elecciones-existenciales-decisivas/",
-"fecha": "2026-11-13T21:22+00:00"
+"titulo": "Tellado denunciará al PSOE gallego por difundir sin verificar una imagen suya con Koldo",
+"url": "https://theobjective.com/espana/politica/2026-11-13/tellado-denuncia-psoe-galicia-imagen-koldo/",
+"fecha": "2026-11-13T19:21+00:00"
 }
 ]
 },
@@ -1550,13 +1397,13 @@
 "vivienda"
 ],
 "comunes": [
+"vivienda",
 "vicepresidencia",
 "feijoo",
-"vivienda",
 "anuncia",
-"mayor",
+"espana",
 "problema",
-"espana"
+"mayor"
 ],
 "titulares": [
 {
@@ -1585,14 +1432,14 @@
 "hasta": "2026-11-14T15:16+00:00",
 "temas": [],
 "comunes": [
-"gomez",
-"begona",
-"sanchez",
-"tellado",
-"kirchner",
 "espana",
-"arresto",
-"pulsera"
+"gomez",
+"sanchez",
+"kirchner",
+"tellado",
+"begona",
+"pulsera",
+"falta"
 ],
 "titulares": [
 {
@@ -1621,9 +1468,9 @@
 "hasta": "2026-11-14T15:19+00:00",
 "temas": [],
 "comunes": [
-"bravo",
-"cuerpo",
 "bustinduy",
+"cuerpo",
+"bravo",
 "figaredo",
 "juan"
 ],
@@ -1650,93 +1497,20 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-14T11:00+00:00",
-"hasta": "2026-11-14T17:11+00:00",
-"temas": [
-"empleo",
-"territorio"
-],
-"comunes": [
-"huelga",
-"minimos",
-"servicios",
-"cercanias",
-"noviembre"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Huelga en Renfe: fijados servicios mínimos en el AVE y Cercanías para este 17 de noviembre",
-"url": "https://www.20minutos.es/nacional/huelga-renfe-fijados-servicios-minimos-ave-cercanias-para-este-17-noviembre_7061075_0.html",
-"fecha": "2026-11-14T11:00+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Estos son los servicios mínimos para la huelga de maquinistas del martes 17 de noviembre en cercanías, alta velocidad, larga y media distancia",
-"url": "https://www.cope.es/actualidad/espana/noticias/son-servicios-minimos-huelga-maquinistas-martes-17-noviembre-cercanias-alta-velocidad-larga-media-distancia-20261114_3475308.html",
-"fecha": "2026-11-14T13:00+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Cataluña fija servicios mínimos en Cercanías del 66 % en hora punta para la huelga del día 17",
-"url": "https://theobjective.com/espana/cataluna/2026-11-14/cataluna-servicios-minimos-cercanias-66-huelga-dia-17/",
-"fecha": "2026-11-14T16:15+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-13T13:30+00:00",
-"hasta": "2026-11-14T17:30+00:00",
-"temas": [
-"territorio"
-],
-"comunes": [
-"carga",
-"acto",
-"manifestantes",
-"toledo",
-"abascal",
-"policia",
-"increpaban"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "La Policía carga contra varios manifestantes que increpaban a Abascal en un acto de campaña en Toledo",
-"url": "https://www.20minutos.es/nacional/policia-carga-contra-varios-manifestantes-que-increpaban-abascal-un-acto-campana-toledo_7060805_0.html",
-"fecha": "2026-11-13T13:30+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Amnistía Internacional exige investigar la carga policial contra los manifestantes en el acto de Vox en Toledo",
-"url": "https://www.abc.es/espana/castilla-la-mancha/toledo/amnistia-internacional-exige-investigar-carga-policial-manifestantes-20261114182827-nt.html",
-"fecha": "2026-11-14T17:30+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "La Policía carga contra manifestantes que increpaban a Abascal en un acto en Toledo",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af72fcfe4d4d8bc518b4594.html",
-"fecha": "2026-11-13T15:42+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-14T16:07+00:00",
 "hasta": "2026-11-14T17:43+00:00",
 "temas": [
 "inmigracion"
 ],
 "comunes": [
-"salvacion",
-"feijoo",
 "ceuta",
+"salvacion",
 "presidente",
-"gane",
+"feijoo",
+"espana",
 "dependen",
-"vivas",
-"fuerza"
+"fuerza",
+"vivas"
 ],
 "titulares": [
 {
@@ -1767,8 +1541,8 @@
 "territorio"
 ],
 "comunes": [
-"lluvias",
 "alert",
+"lluvias",
 "tarragona",
 "torrenciales",
 "envian"
@@ -1796,20 +1570,122 @@
 },
 {
 "medios": 3,
+"desde": "2026-11-14T15:05+00:00",
+"hasta": "2026-11-14T19:27+00:00",
+"temas": [],
+"comunes": [
+"piedras",
+"petardos",
+"jon",
+"candidato",
+"guipuzcoa",
+"hernani",
+"echeverria"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Lanzan piedras y petardos en Hernani contra el candidato del PP de Guipúzcoa Jon Echeverría",
+"url": "https://www.20minutos.es/nacional/lanzan-piedras-petardos-hernani-contra-candidato-pp-guipuzcoa-jon-echeverria_7061141_0.html",
+"fecha": "2026-11-14T16:27+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El PP obligado a suspender su campaña en Guipúzcoa tras el ataque con piedras y petardos a su candidato, Jon Echevarría",
+"url": "https://www.elespanol.com/espana/politica/20261114/lanzan-piedras-huevos-petardos-coche-viajaba-jon-echeverria-candidato-pp-guipuzcoa/1003744458557_0.html",
+"fecha": "2026-11-14T15:05+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Agreden con piedras y petardos a Jon Echeverría en Hernani y Feijóo reclama: \"Ni un paso atrás. Con todas las ganas de ganarles también a los socios de Sánchez\"",
+"url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af863cae85ecedc3b8b457b.html",
+"fecha": "2026-11-14T19:27+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-14T20:05+00:00",
+"hasta": "2026-11-14T21:01+00:00",
+"temas": [],
+"comunes": [
+"amenaza",
+"bomba",
+"sol",
+"puerta",
+"posible",
+"policia"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "La Policía acordona la madrileña Puerta del Sol por una posible amenaza de bomba",
+"url": "https://www.abc.es/espana/madrid/policia-acordona-madrilena-puerta-sol-amenaza-bomba-20261114203148-nt.html",
+"fecha": "2026-11-14T20:15+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Puerta del Sol de Madrid recupera la normalidad tras ser acordonada por una posible amenaza de bomba",
+"url": "https://www.eldebate.com/espana/madrid/20261114/policia-acordona-puerta-sol-madrid-posible-amenaza-bomba_480985.html",
+"fecha": "2026-11-14T20:05+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La Policía reabre la Puerta del Sol tras descartar la amenaza de bomba",
+"url": "https://www.libertaddigital.com/madrid/2026-11-14/la-policia-reabre-la-puerta-del-sol-tras-descartar-la-amenaza-de-bomba-7491599/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-14T21:01+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-13T19:59+00:00",
+"hasta": "2026-11-15T05:01+00:00",
+"temas": [],
+"comunes": [
+"jordi",
+"wild",
+"sanchez",
+"mentiras",
+"entrevista"
+],
+"titulares": [
+{
+"medio": "infoLibre",
+"titulo": "La entrevista soñada de Jordi Wild a Abascal",
+"url": "https://www.infolibre.es/opinion/columnas/nada-que-decir/entrevista-sonada-jordi-wild-abascal_129_2240129.html",
+"fecha": "2026-11-15T05:01+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Las mentiras de Sánchez ante Jordi Wild",
+"url": "https://www.larazon.es/espana/mentiras-sanchez-jordi-wild_202611136af77949d3bddc0868b0de81.html",
+"fecha": "2026-11-13T20:55+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El día en 15 minutos: El señalamiento de la UCO a Óscar López y las mentiras de Sánchez en su entrevista con Jordi Wild",
+"url": "https://esradio.libertaddigital.com/la-noche-de-cuesta/el-dia-en-15-minutos/2026-11-13/el-senalamiento-de-la-uco-a-oscar-lopez-y-las-mentiras-de-sanchez-en-su-entrevista-con-jordi-wild-7491422/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-13T19:59+00:00"
+}
+]
+},
+{
+"medios": 3,
 "desde": "2026-11-15T09:46+00:00",
 "hasta": "2026-11-15T10:12+00:00",
 "temas": [
 "defensa"
 ],
 "comunes": [
-"marruecos",
-"corredor",
-"estado",
 "espana",
+"corredor",
+"marruecos",
+"estado",
 "islamico",
 "alertan",
 "forjando",
-"riesgo"
+"expertos"
 ],
 "titulares": [
 {
@@ -1831,7 +1707,154 @@
 "fecha": "2026-11-15T10:12+00:00"
 }
 ]
+},
+{
+"medios": 3,
+"desde": "2026-11-15T09:05+00:00",
+"hasta": "2026-11-15T10:41+00:00",
+"temas": [],
+"comunes": [
+"arma",
+"blanca",
+"muere",
+"urbano",
+"centro",
+"cantabria",
+"agresion",
+"hombre"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "Herido un hombre de 30 años por arma blanca en una agresión en León",
+"url": "https://www.elconfidencial.com/espana/2026-11-15/joven-herido-arma-blanca-leon-1tna-1tps_4465327/",
+"fecha": "2026-11-15T09:55+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Muere un joven tras un ataque con arma blanca en el centro urbano de Muriedas (Cantabria)",
+"url": "https://www.eldebate.com/espana/20261115/muere-joven-ataque-arma-blanca-centro-urbano-muriedas-cantabria_481038.html",
+"fecha": "2026-11-15T10:41+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Muere un hombre tras una posible agresión con arma blanca en el centro urbano de Muriedas (Cantabria)",
+"url": "https://www.elmundo.es/espana/2026/11/15/6af975cfe4d4d82a148b4586.html",
+"fecha": "2026-11-15T09:05+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-14T10:52+00:00",
+"hasta": "2026-11-15T10:51+00:00",
+"temas": [],
+"comunes": [
+"compostela",
+"santiago",
+"feijoo",
+"directo",
+"nunez",
+"alberto"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Feijóo, Tellado y Rueda intervienen en un acto en Santiago de Compostela, en directo",
+"url": "https://www.eldebate.com/espana/20261114/feijoo-tellado-rueda-intervienen-acto-santiago-compostela-directo_480833.html",
+"fecha": "2026-11-14T10:52+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Mitin de Alberto Núñez Feijóo en Santiago de Compostela",
+"url": "https://www.larazon.es/espana/mitin-alberto-nunez-feijoo-santiago-compostela_202611146af83ea103bbf30bb04c17f2.html",
+"fecha": "2026-11-14T10:57+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "EN DIRECTO | Alberto Núñez Feijóo en Santiago de Compostela",
+"url": "https://theobjective.com/videos/espana/2026-11-14/acto-campana-palma/",
+"fecha": "2026-11-14T11:09+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-15T10:59+00:00",
+"hasta": "2026-11-15T11:34+00:00",
+"temas": [
+"empleo"
+],
+"comunes": [
+"ortiz",
+"gobierno",
+"condena",
+"garcia",
+"mesa",
+"indulto",
+"amparo",
+"estudiara"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el TC estudiará su amparo después del 29N",
+"url": "https://www.20minutos.es/nacional/un-ano-condena-garcia-ortiz-un-indulto-mesa-gobierno-tc-estudiara-su-amparo-despues-29n_7061275_0.html",
+"fecha": "2026-11-15T11:32+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el TC estudiará su amparo después del 29N",
+"url": "https://www.europapress.es/nacional/noticia-ano-condena-garcia-ortiz-indulto-mesa-gobierno-tc-estudiara-amparo-despues-29n-20261115115951.html",
+"fecha": "2026-11-15T10:59+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el amparo en el TC",
+"url": "https://www.larazon.es/espana/ano-condena-garcia-ortiz-indulto-mesa-gobierno-amparo_202611156af998af9a31a65adcdd03a1.html",
+"fecha": "2026-11-15T11:34+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-15T11:55+00:00",
+"hasta": "2026-11-15T12:55+00:00",
+"temas": [
+"empleo",
+"igualdad"
+],
+"comunes": [
+"irene",
+"esclavos",
+"andaluces",
+"montero",
+"negros",
+"tener",
+"trabajadores",
+"quieren"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Irene Montero, en Sevilla: PP y Vox quieren tener esclavos \"negros, latinos y andaluces trabajadores\"",
+"url": "https://www.20minutos.es/nacional/irene-montero-sevilla-pp-vox-quieren-tener-esclavos-negros-latinos-andaluces-trabajadores_7061289_0.html",
+"fecha": "2026-11-15T12:21+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Irene Montero acusa a la derecha de “maltrato a las mujeres con los cribados” y de \"querer esclavos andaluces\"",
+"url": "https://www.elespanol.com/espana/andalucia/20261115/irene-montero-acusa-derecha-maltrato-mujeres-cribados-querer-esclavos-andaluces/1003744459024_0.html",
+"fecha": "2026-11-15T12:55+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Irene Montero: PP y Vox quieren tener esclavos «negros, latinos y andaluces trabajadores»",
+"url": "https://theobjective.com/espana/politica/2026-11-15/irene-montero-pp-vox-esclavos/",
+"fecha": "2026-11-15T11:55+00:00"
+}
+]
 }
 ],
-"recogidas": 1884
+"recogidas": 1841
 }

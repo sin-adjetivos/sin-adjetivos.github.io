@@ -1,23 +1,23 @@
 {
-"actualizado": "2026-11-22T00:32+00:00",
+"actualizado": "2026-11-22T13:15+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 69,
-"COPE": 116,
+"COPE": 117,
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
 "El Mundo": 38,
 "El País": 19,
 "Europa Press": 10,
-"infoLibre": 53,
+"infoLibre": 50,
 "La Vanguardia": 100,
 "Libertad Digital": 73,
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
 "20minutos": 36,
-"El Debate": 110,
+"El Debate": 107,
 "La Razón": 15
 },
 "sin_feed": [
@@ -26,26 +26,23 @@
 ],
 "grupos": [
 {
-"medios": 11,
-"desde": "2026-11-19T06:45+00:00",
-"hasta": "2026-11-21T09:13+00:00",
+"medios": 14,
+"desde": "2026-11-19T18:33+00:00",
+"hasta": "2026-11-22T03:30+00:00",
 "temas": [],
 "comunes": [
-"directo",
-"sanchez",
 "feijoo",
-"elecciones",
-"debate",
 "cara",
-"generales",
-"ultima"
+"sanchez",
+"debate",
+"directo"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Debate electoral Pedro Sánchez - Feijóo, en directo: última hora del cara a cara de las elecciones generales del 29N",
-"url": "https://www.20minutos.es/nacional/debate-electoral-pedro-sanchez-feijoo-directo-ultima-hora-cara-cara-las-elecciones-generales-29n_7063153_6.html",
-"fecha": "2026-11-19T13:01+00:00"
+"titulo": "Minuto de oro en el cara a cara: Feijóo presume de su experiencia mientras que Sánchez llama a votar el 29N \"con el alma\"",
+"url": "https://www.20minutos.es/nacional/minuto-oro-cara-cara-feijoo-pone-valor-su-experiencia-mientras-que-sanchez-intenta-movilizar-electorado_7063407_0.html",
+"fecha": "2026-11-19T23:01+00:00"
 },
 {
 "medio": "ABC",
@@ -54,40 +51,58 @@
 "fecha": "2026-11-19T21:25+00:00"
 },
 {
+"medio": "Ara",
+"titulo": "Entrada d'Alberto Núñez Feijóo i Pedro Sánchez al plató del cara a cara",
+"url": "https://www.ara.cat/politica/entrada-d-alberto-nunez-feijoo-pedro-sanchez-plato-cara-cara_8_5916517.html",
+"fecha": "2026-11-19T20:54+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "Feijóo se da un baño de masas en Valencia y pide no confiarse tras el cara a cara: \"Esto se gana el 29 de noviembre\"",
+"url": "https://www.cope.es/actualidad/espana/audios/feijoo-da-bano-masas-valencia-pide-no-confiarse-cara-cara-esto-gana-29-noviembre-20261121_3479613.html",
+"fecha": "2026-11-21T12:09+00:00"
+},
+{
 "medio": "El Debate",
-"titulo": "Directo | Reacciones políticas a la victoria de Feijóo en el cara a cara contra Sánchez",
-"url": "https://www.eldebate.com/espana/20261120/directo-reacciones-politicas-victoria-feijoo-cara-cara-contra-sanchez_483157.html",
-"fecha": "2026-11-20T09:02+00:00"
+"titulo": "El minuto de oro de Pedro Sánchez en el cara a cara con Feijóo: así ha sido su mensaje final",
+"url": "https://www.eldebate.com/espana/20261119/minuto-oro-pedro-sanchez-cara-cara-feijoo-asi-sido-mensaje-final_483061.html",
+"fecha": "2026-11-19T22:46+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Última hora del debate entre Sánchez y Feijóo y de la campaña electoral del PP, PSOE y Vox",
-"url": "https://www.elespanol.com/espana/20261119/elecciones-generales-directo-ultima-hora-pedro-sanchez-sondeos-actos-campana-psoe-pp-vox-partidos-voto-correo-2026-encuestas/1003744463824_10.html",
-"fecha": "2026-11-19T08:25+00:00"
+"titulo": "Debate Feijóo - Sánchez cara a cara electoral, en directo | Feijóo: \"España merece un presidente decente y Sánchez no lo es\"",
+"url": "https://www.elespanol.com/espana/20261119/debate-feijoo-sanchez-cara-ultima-hora-directo-elecciones-29n-electoral-resultado/1003744465124_10.html",
+"fecha": "2026-11-19T21:15+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Mentiras y medias verdades del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
+"fecha": "2026-11-19T22:17+00:00"
 },
 {
 "medio": "elDiario.es",
-"titulo": "Última hora sobre las elecciones generales y la actualidad política, en directo",
-"url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13675733.html",
-"fecha": "2026-11-19T06:45+00:00"
+"titulo": "Debate Sánchez - Feijóo, en directo: última hora del cara a cara electoral",
+"url": "https://www.eldiario.es/politica/debate-sanchez-feijoo-directo-ultima-hora-cara-cara-electoral_6_13678432.html",
+"fecha": "2026-11-19T18:39+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Última hora en directo de las elecciones generales del 29N y actualidad política: día del debate entre Sánchez y Feijóo",
-"url": "https://www.europapress.es/nacional/noticia-ultima-hora-directo-elecciones-generales-29n-actualidad-politica-dia-debate-sanchez-feijoo-20261119082438.html",
-"fecha": "2026-11-19T07:24+00:00"
+"titulo": "Elecciones generales 2026, en directo: resumen del debate ayer entre Sánchez y Feijóo y reacciones al cara a cara",
+"url": "https://www.europapress.es/nacional/noticia-elecciones-generales-2026-directo-resumen-debate-sanchez-feijoo-reacciones-ultima-hora-campana-20261120083023.html",
+"fecha": "2026-11-20T07:30+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Elecciones generales 29N, en directo: Sánchez y Feijóo se enfrentan hoy en el primer cara a cara de la campaña",
-"url": "https://www.larazon.es/espana/elecciones-generales-29n-directo-sanchez-feijoo-enfrentan-hoy-primer-cara-cara-campana_202611196afe838ba6f8072789ee772d.html",
-"fecha": "2026-11-19T14:17+00:00"
+"titulo": "Debate cara a cara Sánchez-Feijóo, en directo: última hora del duelo electoral de los candidatos a la presidencia del Gobierno",
+"url": "https://www.larazon.es/espana/debate-cara-cara-sanchezfeijoo-directo-horario-donde-ver-ultima-hora-candidatos-presidencia-gobierno_202611196aff23b2f6b335433bb5e213.html",
+"fecha": "2026-11-19T21:40+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Sánchez y Feijóo en directo en el debate cara a cara de hoy | Última hora",
-"url": "https://www.lavanguardia.com/politica/20261119/11688338/cara-cara-sanchez-feijoo-directo-ultima-hora-debate-candidatos-psoe-pp.html",
-"fecha": "2026-11-19T21:26+00:00"
+"titulo": "Sánchez y Feijóo, cara a cara en el debate electoral",
+"url": "https://www.lavanguardia.com/politica/20261119/11688507/sanchez-feijoo-cara-cara-debate-electoral.html",
+"fecha": "2026-11-19T18:33+00:00"
 },
 {
 "medio": "Libertad Digital",
@@ -97,9 +112,9 @@
 },
 {
 "medio": "OKdiario",
-"titulo": "Última hora del cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo en directo | A qué hora es, quién modera el debate y últimas noticias de las elecciones generales del 29-N",
-"url": "https://okdiario.com/espana/ultima-hora-directo-actualidad-politica-espana-elecciones-generales-del-29-n-campana-electoral-hoy-vivo-3-21119669",
-"fecha": "2026-11-19T12:08+00:00"
+"titulo": "Debate Sánchez – Feijóo, en directo hoy: última hora, cuánto dura el debate de hoy del cara a cara, dónde ver en tiempo real, declaraciones y enfrentamiento entre los líderes políticos en vivo",
+"url": "https://okdiario.com/espana/debate-sanchez-feijoo-directo-cuanto-dura-debate-hoy-del-cara-cara-donde-ver-tiempo-real-declaraciones-enfrentamiento-lideres-politicos-vivo-21189754",
+"fecha": "2026-11-19T21:01+00:00"
 },
 {
 "medio": "The Objective",
@@ -111,86 +126,16 @@
 },
 {
 "medios": 9,
-"desde": "2026-11-19T20:49+00:00",
-"hasta": "2026-11-20T17:00+00:00",
-"temas": [],
-"comunes": [
-"cara",
-"sanchez",
-"feijoo",
-"ganado",
-"pedro",
-"debate"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "¿Quién ha ganado el debate cara a cara entre Pedro Sánchez y Feijóo?",
-"url": "https://www.abc.es/espana/ganador-debate-cara-cara-pedro-sanchez-feijoo-encuesta-20261119214314-nt.html",
-"fecha": "2026-11-19T21:26+00:00"
-},
-{
-"medio": "Ara",
-"titulo": "Entrada d'Alberto Núñez Feijóo i Pedro Sánchez al plató del cara a cara",
-"url": "https://www.ara.cat/politica/entrada-d-alberto-nunez-feijoo-pedro-sanchez-plato-cara-cara_8_5916517.html",
-"fecha": "2026-11-19T20:54+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Por qué hay árbitros de baloncesto cronometrando el cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
-"url": "https://www.eldebate.com/espana/20261119/hay-arbitros-baloncesto-cronometrando-cara-cara-entre-pedro-sanchez-alberto-nunez-feijoo-cnsm_483069.html",
-"fecha": "2026-11-19T20:49+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Mentiras y medias verdades del debate cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-19/mentiras-y-medias-verdades-del-debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
-"fecha": "2026-11-19T22:17+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "ENCUESTA | ¿Quién ha ganado el cara a cara entre Sánchez y Feijóo?",
-"url": "https://www.eldiario.es/politica/encuesta-ganando-cara-cara-sanchez-feijoo_11_13674665.html",
-"fecha": "2026-11-19T21:39+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "¿Quién ha ganado el debate entre Sánchez y Feijóo? Vota a tu ganador del cara a cara",
-"url": "https://www.larazon.es/espana/quien-ganado-debate-sanchez-feijoo-vota-ganador-cara-cara_202611196aff19ca103a0e0a47503c52.html",
-"fecha": "2026-11-19T22:20+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "¿Quién ha ganado el cara a cara?",
-"url": "https://www.lavanguardia.com/politica/20261120/11688475/ganado-cara-cara.html",
-"fecha": "2026-11-19T23:29+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Sorpresa en la primera encuesta tras el cara a cara entre Feijóo y Sánchez: el PP gana 350.000 votos y 8 diputados",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-20/sorpresa-en-primera-encuesta-tras-el-cara-a-cara-entre-feijoo-y-sanchez-el-pp-gana-350-000-votos-y-8-diputados-7495417/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-20T16:20+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Encuesta | ¿Quién ha ganado el debate?",
-"url": "https://theobjective.com/espana/politica/2026-11-19/encuesta-quien-ha-ganado-el-debate/",
-"fecha": "2026-11-19T22:34+00:00"
-}
-]
-},
-{
-"medios": 9,
 "desde": "2026-11-20T13:57+00:00",
-"hasta": "2026-11-20T18:08+00:00",
+"hasta": "2026-11-22T11:09+00:00",
 "temas": [
 "pensiones"
 ],
 "comunes": [
-"nietos",
-"supremo",
-"163",
 "ley",
+"supremo",
+"nietos",
+"163",
 "nacionalizados",
 "355",
 "voto"
@@ -253,131 +198,6 @@
 ]
 },
 {
-"medios": 8,
-"desde": "2026-11-21T06:47+00:00",
-"hasta": "2026-11-21T19:44+00:00",
-"temas": [],
-"comunes": [
-"feijoo",
-"morant",
-"cuatro",
-"bofetadas",
-"sanchez",
-"diera",
-"gustado"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Morant dice que \"nos habría gustado que Sánchez le hubiera pegado cuatro bofetadas a Feijóo\" y el PP pide la rectificación inmediata",
-"url": "https://www.20minutos.es/nacional/morant-dice-nos-habria-gustado-sanchez-hubiera-pegado-cuatro-bofetadas-feijoo-pp-pide-rectificacion-inmediata_7064089_0.html",
-"fecha": "2026-11-21T15:51+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Morant: «Nos hubiese gustado que el presidente le diera cuatro bofetadas al energúmeno de Feijóo»",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261121/morant-hubiese-gustado-presidente-le-diera-cuatro-bofetadas-energumeno-feijoo_483542.html",
-"fecha": "2026-11-21T06:47+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Diana Morant dice que se quedó con ganas de que Sánchez le diera \"cuatro bofetadas bien dadas al energúmeno de Feijóo\"",
-"url": "https://www.elespanol.com/espana/politica/20261121/diana-morant-dice-quedo-ganas-sanchez-diera-bofetadas-energumeno-feijoo/1003744467567_0.html",
-"fecha": "2026-11-21T15:58+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "PP pide rectificar a Morant por decir que a los socialistas les hubiera gustado que Sánchez \"abofeteara\" a Feijóo",
-"url": "https://www.europapress.es/nacional/noticia-pp-pide-rectificar-morant-decir-socialistas-les-hubiera-gustado-sanchez-abofeteara-feijoo-20261121171751.html",
-"fecha": "2026-11-21T16:17+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El PP pide que Morant rectifique unas palabras en las que hablaba de 'abofetear' a Feijóo",
-"url": "https://www.lavanguardia.com/local/valencia/20261121/11689952/pp-pide-morant-rectifique-palabras-hablaba-abofetear-feijoo.html",
-"fecha": "2026-11-21T16:32+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Diana Morant dice que le hubiese gustado que Sánchez le diera \"cuatro bofetadas\" al \"energúmeno\" Feijóo",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-21/diana-morant-califica-a-feijoo-de-energumeno-y-dice-que-le-hubiese-gustado-que-sanchez-le-diera-cuatro-bofetadas-7495552/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-21T08:54+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "El PP exige una rectificación inmediata a Morant por desearle «cuatro bofetadas» a Feijóo: «La violencia no puede normalizarse en democracia»",
-"url": "https://okdiario.com/espana/pp-exige-rectificacion-inmediata-diana-morant-decir-que-quedo-ganas-que-sanchez-diera-cuatro-bofetadas-feijoo-cara-cara-21239863",
-"fecha": "2026-11-21T15:54+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Morant cree que a los socialistas les gustaría que Sánchez «diera cuatro bofetadas a Feijóo»",
-"url": "https://theobjective.com/espana/politica/2026-11-21/morant-cuatro-bofetadas-sanchez-feijoo/",
-"fecha": "2026-11-21T15:38+00:00"
-}
-]
-},
-{
-"medios": 7,
-"desde": "2026-11-19T06:37+00:00",
-"hasta": "2026-11-19T13:43+00:00",
-"temas": [
-"territorio"
-],
-"comunes": [
-"sanchez",
-"puigdemont",
-"ambicion",
-"desmedida",
-"espana",
-"derrotar"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Puigdemont: \"Nos hemos aprovechado de la ambición de Sánchez para derrotar a España\"",
-"url": "https://www.20minutos.es/nacional/puigdemont-nos-hemos-aprovechado-ambicion-sanchez-para-derrotar-espana_7062922_0.html",
-"fecha": "2026-11-19T06:44+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Puigdemont: «Nos hemos aprovechado de la ambición de Sánchez para derrotar a España»",
-"url": "https://www.abc.es/espana/cataluna/puigdemont-aprovechado-ambicion-sanchez-derrotar-espana-20261119144329-nt.html",
-"fecha": "2026-11-19T13:43+00:00"
-},
-{
-"medio": "COPE",
-"titulo": "Puigdemont retrata a Sánchez",
-"url": "https://www.cope.es/actualidad/linea-editorial/noticias/puigdemont-retrata-sanchez-20261119_3478165.html",
-"fecha": "2026-11-19T11:08+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "La venganza de Puigdemont por las promesas incumplidas: \"Aprovechamos la ambición desmedida de poder de Sánchez para derrotar a España\"",
-"url": "https://www.elespanol.com/espana/politica/20261119/venganza-puigdemont-promesas-incumplidas-desvela-uso-ambicion-sanchez-derrotar-espana/1003744463868_0.html",
-"fecha": "2026-11-19T06:37+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Los partidos se lanzan como arma arrojadiza la entrevista de Puigdemont, en la que atribuye a Sánchez “una ambición desmedida”",
-"url": "https://www.lavanguardia.com/politica/20261119/11688166/partidos-lanzan-arma-arrojadiza-entrevista-puigdemont-atribuye-sanchez-ambicion-desmedida.html",
-"fecha": "2026-11-19T11:59+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Puigdemont: \"Sánchez es un amoral con una ambición desmedida\"",
-"url": "https://www.libertaddigital.com/cataluna/2026-11-19/puigdemont-sanchez-es-un-amoral-con-una-ambicion-desmedida-7494335/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-19T07:22+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Puigdemont destroza a Sánchez a horas del debate: «Aproveché su ambición desmedida para derrotar a España»",
-"url": "https://okdiario.com/espana/puigdemont-destroza-sanchez-horas-del-debate-aproveche-ambicion-desmedida-derrotar-espana-21151268",
-"fecha": "2026-11-19T10:17+00:00"
-}
-]
-},
-{
 "medios": 7,
 "desde": "2026-11-20T14:06+00:00",
 "hasta": "2026-11-20T16:33+00:00",
@@ -389,10 +209,10 @@
 "inmigracion",
 "hierro",
 "promete",
-"unico",
 "mando",
-"devolver",
-"menores"
+"unico",
+"menores",
+"devolver"
 ],
 "titulares": [
 {
@@ -450,8 +270,8 @@
 "ofrece",
 "videoconferencia",
 "cintia",
-"juez",
 "cloacas",
+"juez",
 "caso"
 ],
 "titulares": [
@@ -500,56 +320,62 @@
 ]
 },
 {
-"medios": 6,
-"desde": "2026-11-19T09:12+00:00",
-"hasta": "2026-11-19T13:24+00:00",
+"medios": 7,
+"desde": "2026-11-21T06:47+00:00",
+"hasta": "2026-11-22T10:59+00:00",
 "temas": [],
 "comunes": [
-"deporte",
+"morant",
+"feijoo",
+"bofetadas",
+"cuatro",
 "sanchez",
-"200",
-"euros",
-"bono",
-"joven",
-"voto",
-"jovenes"
+"gustado",
+"diera",
+"energumeno"
 ],
 "titulares": [
 {
+"medio": "20minutos",
+"titulo": "Morant dice que \"nos habría gustado que Sánchez le hubiera pegado cuatro bofetadas a Feijóo\" y el PP pide la rectificación inmediata",
+"url": "https://www.20minutos.es/nacional/morant-dice-nos-habria-gustado-sanchez-hubiera-pegado-cuatro-bofetadas-feijoo-pp-pide-rectificacion-inmediata_7064089_0.html",
+"fecha": "2026-11-21T15:51+00:00"
+},
+{
 "medio": "El Debate",
-"titulo": "Sánchez busca comprar el voto joven con un bono de deporte de 200 euros al año para personas de 18 a 25 años",
-"url": "https://www.eldebate.com/espana/20261119/sanchez-pide-voto-anuncio-bono-joven-deporte-200-euros-ano-jovenes-18-25-anos_482718.html",
-"fecha": "2026-11-19T09:55+00:00"
+"titulo": "Morant: «Nos hubiese gustado que el presidente le diera cuatro bofetadas al energúmeno de Feijóo»",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261121/morant-hubiese-gustado-presidente-le-diera-cuatro-bofetadas-energumeno-feijoo_483542.html",
+"fecha": "2026-11-21T06:47+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Sánchez anuncia una paga de 200 euros a los jóvenes para hacer deporte con el reclamo: \"Todo el mundo votando\"",
-"url": "https://www.elespanol.com/espana/politica/20261119/sanchez-anuncia-paga-euros-jovenes-hacer-deporte-reclamo-mundo-votando/1003744464626_0.html",
-"fecha": "2026-11-19T13:24+00:00"
-},
-{
-"medio": "El País",
-"titulo": "“El 29 de noviembre, todo el mundo votando”: Sánchez llama al voto joven a la vez que promete un bono para el deporte de 200 euros al año",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-29-de-noviembre-todo-el-mundo-votando-sanchez-llama-al-voto-joven-a-la-vez-que-promete-un-bono-para-el-deporte-de-200-euros.html",
-"fecha": "2026-11-19T09:59+00:00"
+"titulo": "Diana Morant dice que se quedó con ganas de que Sánchez le diera \"cuatro bofetadas bien dadas al energúmeno de Feijóo\"",
+"url": "https://www.elespanol.com/espana/politica/20261121/diana-morant-dice-quedo-ganas-sanchez-diera-bofetadas-energumeno-feijoo/1003744467567_0.html",
+"fecha": "2026-11-21T15:58+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Sánchez pide el voto con el anuncio de un bono joven de deporte de 200 euros al año para jóvenes de 18 a 25 años",
-"url": "https://www.europapress.es/nacional/noticia-sanchez-pide-voto-anuncio-bono-joven-deporte-200-euros-ano-jovenes-18-25-anos-20261119101212.html",
-"fecha": "2026-11-19T09:12+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez ofrece un Bono Deporte de 200 euros al año para jóvenes de 18 a 25 años",
-"url": "https://www.lavanguardia.com/deportes/20261119/11688089/pedro-sanchez-bono-deporte-200-euros.html",
-"fecha": "2026-11-19T11:08+00:00"
+"titulo": "PP pide rectificar a Morant por decir que a los socialistas les hubiera gustado que Sánchez \"abofeteara\" a Feijóo",
+"url": "https://www.europapress.es/nacional/noticia-pp-pide-rectificar-morant-decir-socialistas-les-hubiera-gustado-sanchez-abofeteara-feijoo-20261121171751.html",
+"fecha": "2026-11-21T16:17+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Pedro Sánchez a la desesperada: pide el voto joven a cambio de un Bono Deporte de 200 euros",
-"url": "https://www.libertaddigital.com/libremercado/2026-11-19/pedro-sanchez-vuelve-a-pedir-el-voto-a-cambio-de-pagas-con-su-bono-deporte-de-200-euros-7494387/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-19T09:35+00:00"
+"titulo": "Diana Morant dice que le hubiese gustado que Sánchez le diera \"cuatro bofetadas\" al \"energúmeno\" Feijóo",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-21/diana-morant-califica-a-feijoo-de-energumeno-y-dice-que-le-hubiese-gustado-que-sanchez-le-diera-cuatro-bofetadas-7495552/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-21T08:54+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El PP exige una rectificación inmediata a Morant por desearle «cuatro bofetadas» a Feijóo: «La violencia no puede normalizarse en democracia»",
+"url": "https://okdiario.com/espana/pp-exige-rectificacion-inmediata-diana-morant-decir-que-quedo-ganas-que-sanchez-diera-cuatro-bofetadas-feijoo-cara-cara-21239863",
+"fecha": "2026-11-21T15:54+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Morant cree que a los socialistas les gustaría que Sánchez «diera cuatro bofetadas a Feijóo»",
+"url": "https://theobjective.com/espana/politica/2026-11-21/morant-cuatro-bofetadas-sanchez-feijoo/",
+"fecha": "2026-11-21T15:38+00:00"
 }
 ]
 },
@@ -559,8 +385,8 @@
 "hasta": "2026-11-20T11:20+00:00",
 "temas": [],
 "comunes": [
-"audiencia",
 "extradicion",
+"audiencia",
 "libertad",
 "errores",
 "nacional",
@@ -616,10 +442,10 @@
 "impuestos"
 ],
 "comunes": [
-"sanchez",
-"banca",
 "anuncia",
+"banca",
 "impuesto",
+"sanchez",
 "prorroga",
 "2027",
 "vivienda",
@@ -667,7 +493,7 @@
 {
 "medios": 6,
 "desde": "2026-11-21T12:55+00:00",
-"hasta": "2026-11-21T21:11+00:00",
+"hasta": "2026-11-22T11:07+00:00",
 "temas": [
 "energia"
 ],
@@ -676,10 +502,10 @@
 "felipe",
 "blanco",
 "bono",
-"vote",
 "debe",
-"mucho",
-"psoe"
+"vote",
+"psoe",
+"mucho"
 ],
 "titulares": [
 {
@@ -727,10 +553,10 @@
 "temas": [],
 "comunes": [
 "rocho",
-"amenazas",
 "cintia",
-"escolta",
+"amenazas",
 "muerte",
+"escolta",
 "pide",
 "caso",
 "declaracion"
@@ -777,8 +603,8 @@
 "tellado",
 "voto",
 "pedir",
-"electoral",
 "junta",
+"electoral",
 "expediente",
 "abre",
 "tve"
@@ -823,12 +649,12 @@
 "temas": [],
 "comunes": [
 "asesorado",
-"sanchez",
-"mal",
 "rufian",
+"mal",
+"sanchez",
 "preparado",
-"has",
 "estas",
+"has",
 "come"
 ],
 "titulares": [
@@ -867,30 +693,30 @@
 {
 "medios": 5,
 "desde": "2026-11-21T12:33+00:00",
-"hasta": "2026-11-21T14:02+00:00",
+"hasta": "2026-11-22T04:00+00:00",
 "temas": [],
 "comunes": [
+"feijoo",
 "peligrosos",
 "heridos",
-"feijoo",
-"capaces",
 "todo",
+"capaces",
 "todavia",
-"alerta",
-"pide"
+"fieis",
+"alerta"
 ],
 "titulares": [
-{
-"medio": "20minutos",
-"titulo": "Feijóo logra 'reventar' la plaza de toros de Valencia con 12.000 asistentes y pide al PP no confiarse: \"Heridos son más peligrosos\"",
-"url": "https://www.20minutos.es/nacional/feijoo-logra-reventar-plaza-toros-valencia-asistentes-pide-pp-no-confiarse-heridos-son-mas-peligrosos_7064043_0.html",
-"fecha": "2026-11-21T13:29+00:00"
-},
 {
 "medio": "El Debate",
 "titulo": "Feijóo pide el voto «a todos los españoles» y alerta del PSOE: «Son capaces de todo y heridos son todavía más peligrosos»",
 "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261121/feijoo-pide-voto-todos-espanoles-alerta-psoe-son-capaces-todo-heridos-son-todavia-peligrosos_483587.html",
 "fecha": "2026-11-21T12:33+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "Rebajar la euforia, la estrategia final de Feijóo: \"No os fieis. Los conocemos, son capaces de todo y heridos son más peligrosos\"",
+"url": "https://www.elespanol.com/espana/politica/20261122/rebajar-euforia-estrategia-final-feijoo-no-fieis-conocemos-capaces-heridos-peligrosos/1003744467528_0.html",
+"fecha": "2026-11-22T04:00+00:00"
 },
 {
 "medio": "El País",
@@ -913,83 +739,50 @@
 ]
 },
 {
-"medios": 4,
-"desde": "2026-11-19T12:18+00:00",
-"hasta": "2026-11-19T15:40+00:00",
+"medios": 5,
+"desde": "2026-11-20T07:26+00:00",
+"hasta": "2026-11-22T12:39+00:00",
 "temas": [],
 "comunes": [
-"sepi",
-"plus",
-"rescate",
-"niega",
-"ultra",
-"conoce",
-"zapatero",
-"irregularidades"
+"ultima",
+"directo",
+"elecciones",
+"generales",
+"hora",
+"campana",
+"electoral",
+"feijoo"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Un ex alto cargo de la SEPI niega irregularidades en el rescate de Plus Ultra y asegura que no conoce a Zapatero",
-"url": "https://www.20minutos.es/nacional/un-ex-alto-cargo-sepi-niega-irregularidades-rescate-plus-ultra-asegura-que-no-conoce-zapatero_7063137_0.html",
-"fecha": "2026-11-19T12:38+00:00"
+"medio": "El Español",
+"titulo": "Elecciones generales 29-N, en directo | Última hora y ganador del debate entre Pedro Sánchez y Feijóo, encuestas y campaña de PSOE, PP y Vox",
+"url": "https://www.elespanol.com/espana/20261120/elecciones-generales-directo-ultima-hora-pedro-sanchez-feijoo-reacciones-debate-campana-encuestas-sondeos-voto-correo/1003744465426_10.html",
+"fecha": "2026-11-20T12:41+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "El exjefe de Participadas de la SEPI niega que el rescate a Plus Ultra se \"acelerase\" y dice que no conoce a Zapatero ni a 'Julito'",
-"url": "https://www.elespanol.com/espana/tribunales/20261119/exjefe-participadas-sepi-niega-rescate-plus-ultra-acelerase-dice-no-conoce-zapatero-julito/1003744464437_0.html",
-"fecha": "2026-11-19T12:18+00:00"
+"medio": "elDiario.es",
+"titulo": "Última hora sobre las elecciones generales y la actualidad política, en directo",
+"url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13679242.html",
+"fecha": "2026-11-20T07:26+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Un exdirectivo de la SEPI niega presiones e irregularidades en el rescate de Plus Ultra",
-"url": "https://www.larazon.es/espana/exdirectivo-sepi-niega-presiones-irregularidades-rescate-plus-ultra_202611196aff0061f6b335433bb5c950.html",
-"fecha": "2026-11-19T13:57+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Un exdirectivo de la SEPI niega presiones del Gobierno para acelerar el rescate de Plus Ultra",
-"url": "https://theobjective.com/espana/tribunales/2026-11-19/exdirectivo-sepi-presiones-rescate-plus-ultra/",
-"fecha": "2026-11-19T15:40+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-19T10:18+00:00",
-"hasta": "2026-11-19T20:05+00:00",
-"temas": [],
-"comunes": [
-"suicida",
-"decidir",
-"ayuso",
-"espana",
-"barcelona"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Ayuso advierte desde Barcelona: «España debe decidir si se suicida el 29N»",
-"url": "https://www.abc.es/espana/cataluna/ayuso-advierte-barcelona-espana-29n-debe-decidir-20261119201858-nt.html",
-"fecha": "2026-11-19T20:05+00:00"
+"titulo": "Elecciones generales 29N, en directo: reacciones al cara a cara de Núñez Feijóo y Pedro Sánchez y última hora de la campaña electoral",
+"url": "https://www.larazon.es/espana/elecciones-generales-29n-directo-reacciones-cara-cara-nunez-feijoo-pedro-sanchez-ultima-hora-campana-electoral_202611206afffa9450b7057c6d11f519.html",
+"fecha": "2026-11-20T13:50+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Ayuso recala en Barcelona y dice que el 29-N “España tiene que decidir si se suicida”",
-"url": "https://www.lavanguardia.com/politica/20261119/11688550/ayuso-recala-barcelona-asegura-saldria-lecturas-desesperada.html",
-"fecha": "2026-11-19T19:43+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Ayuso alerta desde Barcelona: \"España tiene diez días para decidir si se suicida\"",
-"url": "https://www.libertaddigital.com/madrid/2026-11-19/ayuso-alerta-desde-barcelona-espana-tiene-diez-dias-para-decidir-si-se-suicida-7494810/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-19T19:26+00:00"
+"titulo": "Elecciones generales 29N, en directo: el debate entre Sánchez y Feijóo y la última hora de la campaña electoral",
+"url": "https://www.lavanguardia.com/politica/20261120/11687945/elecciones-generales-29n-2026-campana-electoral-viernes-20-noviembre-en-directo.html",
+"fecha": "2026-11-20T07:56+00:00"
 },
 {
 "medio": "OKdiario",
-"titulo": "Ayuso avisa antes del 29-N: «España tiene 10 días para decidir si se suicida»",
-"url": "https://okdiario.com/madrid/ayuso-avisa-antes-del-29-n-espana-tiene-10-dias-decidir-si-suicida-21142705",
-"fecha": "2026-11-19T10:18+00:00"
+"titulo": "Última hora en directo de la actualidad política en España: elecciones generales del 29-N y campaña electoral hoy en vivo",
+"url": "https://okdiario.com/espana/ultima-hora-directo-actualidad-politica-espana-elecciones-generales-del-29-n-campana-electoral-hoy-vivo-4-21192595",
+"fecha": "2026-11-20T13:20+00:00"
 }
 ]
 },
@@ -999,9 +792,9 @@
 "hasta": "2026-11-20T01:02+00:00",
 "temas": [],
 "comunes": [
-"sanchez",
 "mejores",
 "feijoo",
+"sanchez",
 "cara",
 "memes",
 "debate"
@@ -1035,89 +828,6 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-19T22:46+00:00",
-"hasta": "2026-11-20T08:02+00:00",
-"temas": [],
-"comunes": [
-"sanchez",
-"oro",
-"minuto",
-"feijoo",
-"cara",
-"votar",
-"alma"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Minuto de oro en el cara a cara: Feijóo presume de su experiencia mientras que Sánchez llama a votar el 29N \"con el alma\"",
-"url": "https://www.20minutos.es/nacional/minuto-oro-cara-cara-feijoo-pone-valor-su-experiencia-mientras-que-sanchez-intenta-movilizar-electorado_7063407_0.html",
-"fecha": "2026-11-19T23:01+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "El minuto de oro de Sánchez, un llamamiento desesperado: «Quien pueda votar, que vote»",
-"url": "https://www.abc.es/espana/sanchez-llamamiento-deseperado-minuto-oro-pueda-votar-20261119235916-nt.html",
-"fecha": "2026-11-19T23:13+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El minuto de oro de Pedro Sánchez en el cara a cara con Feijóo: así ha sido su mensaje final",
-"url": "https://www.eldebate.com/espana/20261119/minuto-oro-pedro-sanchez-cara-cara-feijoo-asi-sido-mensaje-final_483061.html",
-"fecha": "2026-11-19T22:46+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Sánchez apela al voto en su ‘minuto de oro’ frente a Feijóo: “Vota con toda tu alma”",
-"url": "https://www.lavanguardia.com/politica/20261120/11688886/sanchez-apela-voto-minuto-oro-frente-feijoo-vota-toda-alma.html",
-"fecha": "2026-11-20T08:02+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-19T05:00+00:00",
-"hasta": "2026-11-20T09:45+00:00",
-"temas": [],
-"comunes": [
-"perro",
-"feijoo",
-"sanchez",
-"cara",
-"paseando",
-"guino",
-"debate",
-"foto"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El PP da los \"buenos días\" con una foto de Feijóo paseando a su perro en un guiño a Sánchez tras el debate cara a cara",
-"url": "https://www.20minutos.es/nacional/pp-da-los-buenos-dias-con-una-foto-feijoo-paseando-un-perro_7063477_0.html",
-"fecha": "2026-11-20T08:17+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El guiño del PP a Sánchez tras el cara a cara: Feijóo paseando a su perro para dar los «buenos días»",
-"url": "https://www.eldebate.com/espana/20261120/guino-pp-sanchez-cara-cara-feijoo-paseando-perro-dar-buenos-dias-cns_483178.html",
-"fecha": "2026-11-20T09:45+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Feijóo y Sánchez, a cara de perro",
-"url": "https://www.lavanguardia.com/politica/20261119/11687592/feijoo-sanchez-cara-perro.html",
-"fecha": "2026-11-19T05:00+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Una foto con metáfora: el PP publica una imagen de Feijóo paseando al perro tras domar a Sánchez en el debate",
-"url": "https://okdiario.com/espana/foto-metafora-pp-publica-imagen-feijoo-paseando-perro-domar-sanchez-debate-21197249",
-"fecha": "2026-11-20T08:53+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-19T18:24+00:00",
 "hasta": "2026-11-20T12:00+00:00",
 "temas": [],
@@ -1127,8 +837,8 @@
 "voto",
 "ampliado",
 "noviembre",
-"elecciones",
-"amplia"
+"amplia",
+"elecciones"
 ],
 "titulares": [
 {
@@ -1159,60 +869,17 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-20T09:14+00:00",
-"hasta": "2026-11-20T13:18+00:00",
-"temas": [
-"igualdad"
-],
-"comunes": [
-"sanchez",
-"gano",
-"cree",
-"feijoo",
-"ester",
-"munoz",
-"debate"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Ester Muñoz cree que Feijóo ganó a Sánchez en el cara a cara por \"cinco a cero\"",
-"url": "https://www.20minutos.es/nacional/ester-munoz-cree-que-feijoo-gano-sanchez-cara-cara-por-cinco-cero_7063542_0.html",
-"fecha": "2026-11-20T10:07+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Montero se cree que Sánchez ganó el debate: «El presidente no iba a entrar en el fango»",
-"url": "https://www.abc.es/espana/andalucia/montero-cree-sanchez-gano-debate-presidente-iba-20261120140758-nts.html",
-"fecha": "2026-11-20T13:18+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "El debate terminó 2-1: el 64% cree que ganó Feijóo y sólo un 32% que lo hizo Sánchez",
-"url": "https://www.elespanol.com/espana/politica/20261120/debate-termino-creen-gano-feijoo-solo-hizo-sanchez/1003744466162_0.html",
-"fecha": "2026-11-20T13:14+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Ester Muñoz cree que Feijóo ganó 5 a 0 y asegura que, en igualdad de condiciones, se ve al verdadero Sánchez",
-"url": "https://www.europapress.es/nacional/noticia-ester-munoz-cree-feijoo-gano-asegura-igualdad-condiciones-ve-verdadero-sanchez-20261120101430.html",
-"fecha": "2026-11-20T09:14+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-20T10:53+00:00",
 "hasta": "2026-11-20T13:28+00:00",
 "temas": [],
 "comunes": [
-"implantacion",
 "espana",
+"implantacion",
+"noname057",
 "ciberterrorista",
 "frustra",
 "celula",
-"noname057",
-"policia",
+"organizacion",
 "primera"
 ],
 "titulares": [
@@ -1244,27 +911,22 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-20T18:45+00:00",
+"desde": "2026-11-19T22:10+00:00",
 "hasta": "2026-11-20T20:18+00:00",
-"temas": [
-"justicia"
-],
+"temas": [],
 "comunes": [
-"darlo",
-"debate",
-"todo",
+"ganado",
 "feijoo",
-"pide",
-"elecciones",
-"hemos",
-"ganado"
+"debate",
+"sanchez",
+"encuesta"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Feijóo pide al PP \"darlo todo\" y reivindica su victoria ante Sánchez en el debate: \"Le puse ante el espejo de su corrupción y gestión\"",
-"url": "https://www.20minutos.es/nacional/feijoo-pide-pp-darlo-todo-reivindica-victoria-ante-sanchez-debate-puse-espejo-corrupcion-gestion_7063915_0.html",
-"fecha": "2026-11-20T19:40+00:00"
+"medio": "El Debate",
+"titulo": "Encuesta | ¿Quién ha ganado el cara a cara? ¿Sánchez o Feijóo?",
+"url": "https://www.eldebate.com/espana/20261119/encuesta-quien-ganado-cara-cara-sanchez-feijoo-cns_482878.html",
+"fecha": "2026-11-19T22:42+00:00"
 },
 {
 "medio": "Europa Press",
@@ -1274,15 +936,15 @@
 },
 {
 "medio": "OKdiario",
-"titulo": "Feijóo pide al PP «darlo todo»: «Hemos ganado un debate pero aún no hemos ganado las elecciones»",
-"url": "https://okdiario.com/espana/feijoo-pide-pp-darlo-todo-hemos-ganado-debate-pero-aun-no-hemos-ganado-elecciones-21237061",
-"fecha": "2026-11-20T20:18+00:00"
+"titulo": "Vota: ¿Quién crees que ha ganado el debate entre Feijóo y Sánchez?",
+"url": "https://okdiario.com/espana/vota-quien-crees-que-va-ganando-debate-feijoo-sanchez-21134909",
+"fecha": "2026-11-19T22:10+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Feijóo pide al PP «darlo todo» y no confiarse: «Ganamos un debate, pero no las elecciones»",
-"url": "https://theobjective.com/espana/politica/2026-11-20/feijoo-pp-darlo-todo-ganamos-debate-pero-elecciones/",
-"fecha": "2026-11-20T19:09+00:00"
+"titulo": "Encuesta | ¿Quién ha ganado el debate?",
+"url": "https://theobjective.com/espana/politica/2026-11-19/encuesta-quien-ha-ganado-el-debate/",
+"fecha": "2026-11-19T22:34+00:00"
 }
 ]
 },
@@ -1329,9 +991,9 @@
 "hasta": "2026-11-21T10:01+00:00",
 "temas": [],
 "comunes": [
-"sanchez",
-"cara",
 "feijoo",
+"cara",
+"sanchez",
 "transcurrio",
 "queria",
 "satisfecho"
@@ -1371,10 +1033,10 @@
 "territorio"
 ],
 "comunes": [
-"voto",
-"vox",
 "abascal",
 "util",
+"voto",
+"vox",
 "apelar",
 "respeto",
 "estrategia",
@@ -1415,12 +1077,12 @@
 "comunes": [
 "ayuso",
 "perronismo",
-"sanchez",
 "carga",
-"avisa",
+"sanchez",
 "espana",
-"nadie",
-"peine"
+"avisa",
+"compra",
+"nadie"
 ],
 "titulares": [
 {
@@ -1450,71 +1112,89 @@
 ]
 },
 {
-"medios": 3,
-"desde": "2026-11-19T08:16+00:00",
-"hasta": "2026-11-19T09:01+00:00",
-"temas": [],
+"medios": 4,
+"desde": "2026-11-22T10:40+00:00",
+"hasta": "2026-11-22T12:22+00:00",
+"temas": [
+"igualdad"
+],
 "comunes": [
-"red",
-"sostenia",
-"dirigentes",
-"valencia",
-"blocus",
-"presuntos",
-"detenidos",
-"espana"
+"barcelona",
+"arbol",
+"nueve",
+"carrera",
+"caida",
+"heridos",
+"heridas",
+"mujeres"
 ],
 "titulares": [
 {
-"medio": "El Confidencial",
-"titulo": "Detenidos en Valencia dos presuntos dirigentes de la red que sostenía 'Blocus' en España",
-"url": "https://www.elconfidencial.com/espana/2026-11-19/guardia-civil-detiene-apoyo-blocus-1tps_4468093/",
-"fecha": "2026-11-19T08:16+00:00"
+"medio": "ABC",
+"titulo": "Al menos nueve mujeres que corrían en una carrera popular resultan heridas tras la caída de un árbol por el fuerte viento en Barcelona",
+"url": "https://www.abc.es/espana/cataluna/nueve-mujeres-corrian-carrera-popular-resultan-heridas-20261122112941-nt.html",
+"fecha": "2026-11-22T12:06+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Detenidos en Valencia dos jóvenes como presuntos dirigentes de la red que sostenía a Blocus",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261119/detenidos-valencia-dos-jovenes-como-presuntos-dirigentes-red-sostenia-blocus_482678.html",
-"fecha": "2026-11-19T08:38+00:00"
+"titulo": "La caída de un árbol durante la Carrera de la Mujer provoca nueve heridos en Barcelona",
+"url": "https://www.eldebate.com/espana/cataluna/20261122/caida-arbol-durante-carrera-mujer-provoca-nueve-heridos-barcelona_483816.html",
+"fecha": "2026-11-22T12:22+00:00"
 },
 {
-"medio": "El País",
-"titulo": "Detienen en Valencia a dos supuestos dirigentes de la red que sostenía ‘Blocus’ en España",
-"url": "https://elpais.com/espana/comunidad-valenciana/2026-11-19/detienen-en-valencia-a-dos-supuestos-dirigentes-de-la-red-que-sostenia-blocus-en-espana.html",
-"fecha": "2026-11-19T09:01+00:00"
+"medio": "Libertad Digital",
+"titulo": "Varias mujeres heridas por la caída de un árbol al paso de una carrera en Barcelona",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-22/varias-mujeres-heridas-por-la-caida-de-un-arbol-al-paso-de-una-carrera-en-barcelona-7495723/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-22T10:45+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Nueve heridos leves al caer un árbol en la avenida Meridiana de Barcelona",
+"url": "https://theobjective.com/sociedad/suceso/2026-11-22/heridos-caida-arbol-barcelona-carrera-mujer/",
+"fecha": "2026-11-22T10:40+00:00"
 }
 ]
 },
 {
-"medios": 3,
-"desde": "2026-11-19T06:35+00:00",
-"hasta": "2026-11-19T10:00+00:00",
-"temas": [],
+"medios": 4,
+"desde": "2026-11-22T12:19+00:00",
+"hasta": "2026-11-22T12:56+00:00",
+"temas": [
+"energia"
+],
 "comunes": [
-"parla",
-"mujer",
-"hombre",
-"policia",
-"entrega"
+"averia",
+"tren",
+"barajas",
+"caos",
+"provoca",
+"colas",
+"une"
 ],
 "titulares": [
 {
-"medio": "El Debate",
-"titulo": "Un hombre asesina a puñaladas una mujer de 47 años en Parla",
-"url": "https://www.eldebate.com/espana/madrid/20261119/hombre-asesina-mujer-47-anos-punaladas-parla_482659.html",
-"fecha": "2026-11-19T06:35+00:00"
+"medio": "ABC",
+"titulo": "Centenares de viajeros atrapados en la T4 por una avería del tren que une con la Terminal satélite",
+"url": "https://www.abc.es/espana/madrid/centenares-viajeros-atrapados-averia-tren-une-terminal-20261122134839-nt.html",
+"fecha": "2026-11-22T12:49+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "Un hombre se entrega a la Policía tras matar a su mujer de 47 años en Parla: \"He degollado a mi pareja, aquí están las llaves\"",
-"url": "https://www.elmundo.es/madrid/2026/11/19/6afe32c7fdddfffb2c8b457b.html",
-"fecha": "2026-11-19T10:00+00:00"
+"medio": "El Confidencial",
+"titulo": "El tren de Barajas tampoco funciona: una avería desata el caos en la T4 y obliga a ajustar los vuelos",
+"url": "https://www.elconfidencial.com/espana/2026-11-22/averia-tren-t4-aeropuerto-barajas-1hms_4470166/",
+"fecha": "2026-11-22T12:19+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Un hombre mata a una mujer con la que mantenía una relación en Parla y se entrega a la Policía",
-"url": "https://www.libertaddigital.com/madrid/2026-11-19/un-hombre-mata-a-una-mujer-con-la-que-mantenia-una-relacion-en-parla-y-se-entrega-a-la-policia-7494350/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-19T08:41+00:00"
+"titulo": "Caos en Barajas: una avería en el tren que une la T4 y la T4S provoca colas interminables",
+"url": "https://www.libertaddigital.com/madrid/2026-11-22/caos-en-barajas-una-averia-en-el-tren-que-une-la-t4-y-la-t4s-provoca-colas-interminables-7495748/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-22T12:56+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Una avería en el tren de la T4 de Barajas provoca largas colas de pasajeros",
+"url": "https://theobjective.com/sociedad/2026-11-22/averia-tren-barajas-pasajeros/",
+"fecha": "2026-11-22T12:30+00:00"
 }
 ]
 },
@@ -1524,14 +1204,14 @@
 "hasta": "2026-11-19T13:50+00:00",
 "temas": [],
 "comunes": [
-"rochos",
 "pide",
-"clan",
-"proteccion",
-"juez",
+"rochos",
 "lider",
-"psoe",
-"cloacas"
+"juez",
+"proteccion",
+"clan",
+"cloacas",
+"psoe"
 ],
 "titulares": [
 {
@@ -1563,10 +1243,10 @@
 ],
 "comunes": [
 "ceuta",
-"000",
-"policia",
 "flotadores",
-"usaron"
+"usaron",
+"000",
+"policia"
 ],
 "titulares": [
 {
@@ -1591,17 +1271,53 @@
 },
 {
 "medios": 3,
+"desde": "2026-11-19T13:34+00:00",
+"hasta": "2026-11-19T19:04+00:00",
+"temas": [],
+"comunes": [
+"caso",
+"pide",
+"rocho",
+"sufrir",
+"atentado",
+"cloacas",
+"escoltada",
+"declaracion"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "La líder del 'narcoclan' Los Rocho pide ser escoltada en su declaración ante el juez del caso de las cloacas del PSOE",
+"url": "https://www.20minutos.es/nacional/lider-narcoclan-los-rocho-pide-ser-escoltada-su-declaracion-ante-juez-caso-las-cloacas-psoe_7063232_0.html",
+"fecha": "2026-11-19T15:04+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Cintia Rocho pide ser «escoltada» a su declaración en el caso 'cloacas' por temor a «sufrir un atentado»",
+"url": "https://www.abc.es/espana/cintia-rocho-pide-escoltada-declaracion-cloacas-temor-20261119143404-nt.html",
+"fecha": "2026-11-19T13:34+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "La líder del clan de 'Los Rocho' pide protección policial para ir a testificar en el 'caso Leire': \"Temo sufrir un atentado\"",
+"url": "https://www.elespanol.com/espana/tribunales/20261119/lider-clan-rocho-pide-proteccion-policial-ir-testificar-caso-leire-temo-sufrir-atentado/1003744465301_0.html",
+"fecha": "2026-11-19T19:04+00:00"
+}
+]
+},
+{
+"medios": 3,
 "desde": "2026-11-19T17:58+00:00",
 "hasta": "2026-11-19T19:20+00:00",
 "temas": [],
 "comunes": [
+"junta",
 "begona",
 "electoral",
 "video",
-"junta",
+"denuncia",
 "desestima",
 "psoe",
-"denuncia",
 "gomez"
 ],
 "titulares": [
@@ -1627,14 +1343,79 @@
 },
 {
 "medios": 3,
+"desde": "2026-11-19T15:56+00:00",
+"hasta": "2026-11-19T19:28+00:00",
+"temas": [],
+"comunes": [
+"noche",
+"feijoo",
+"cara",
+"sanchez"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "El equipo con el que Feijóo ha preparado el cara a cara y que le acompañará esta noche",
+"url": "https://www.eldebate.com/espana/20261119/equipo-feijoo-preparado-cara-cara-le-acompanara-esta-noche_483059.html",
+"fecha": "2026-11-19T19:28+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Guía para seguir esta noche el cara a cara entre Feijóo y Sánchez",
+"url": "https://www.lavanguardia.com/politica/20261119/11688477/guia-seguir-noche-cara-cara-feijoo-sanchez.html",
+"fecha": "2026-11-19T17:47+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "EN DIRECTO: Programa especial de La Noche de Cuesta por el cara a cara entre Sánchez y Feijóo",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-19/en-directo-programa-especial-de-la-noche-de-cuesta-por-el-cara-a-cara-entre-sanchez-y-feijoo-7494688/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-19T15:56+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-19T19:26+00:00",
+"hasta": "2026-11-19T20:05+00:00",
+"temas": [],
+"comunes": [
+"decidir",
+"suicida",
+"espana",
+"barcelona",
+"ayuso"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Ayuso advierte desde Barcelona: «España debe decidir si se suicida el 29N»",
+"url": "https://www.abc.es/espana/cataluna/ayuso-advierte-barcelona-espana-29n-debe-decidir-20261119201858-nt.html",
+"fecha": "2026-11-19T20:05+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Ayuso recala en Barcelona y dice que el 29-N “España tiene que decidir si se suicida”",
+"url": "https://www.lavanguardia.com/politica/20261119/11688550/ayuso-recala-barcelona-asegura-saldria-lecturas-desesperada.html",
+"fecha": "2026-11-19T19:43+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Ayuso alerta desde Barcelona: \"España tiene diez días para decidir si se suicida\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-19/ayuso-alerta-desde-barcelona-espana-tiene-diez-dias-para-decidir-si-se-suicida-7494810/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-19T19:26+00:00"
+}
+]
+},
+{
+"medios": 3,
 "desde": "2026-11-19T23:14+00:00",
 "hasta": "2026-11-20T09:51+00:00",
 "temas": [],
 "comunes": [
 "sanchez",
+"pago",
 "primarias",
 "pregunta",
-"pago",
 "feijoo"
 ],
 "titulares": [
@@ -1660,85 +1441,16 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-19T11:12+00:00",
-"hasta": "2026-11-20T11:06+00:00",
-"temas": [],
-"comunes": [
-"adif",
-"urda",
-"juez",
-"accidente",
-"reparar"
-],
-"titulares": [
-{
-"medio": "La Razón",
-"titulo": "La juez permite a Adif reparar las vías del accidente de Urda, pero le exige dos condiciones para evitar lo sucedido en Adamuz",
-"url": "https://www.larazon.es/espana/juez-permite-adif-reparar-vias-accidente-urda-pero-exige-dos-condiciones-evitar-sucedido-adamuz_202611196afed961f6b335433bb5a3ff.html",
-"fecha": "2026-11-19T11:12+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La juez de Urda autoriza a Adif a reparar la vía del accidente pero mantiene el secreto de sumario",
-"url": "https://www.libertaddigital.com/espana/2026-11-19/la-juez-de-urda-autoriza-a-adif-a-reparar-la-via-del-accidente-pero-mantiene-el-secreto-de-sumario-7494482/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-19T11:53+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Una juez abre diligencias por la filtración de los audios de Adif del accidente de Urda",
-"url": "https://okdiario.com/espana/juez-abre-diligencias-filtracion-audios-adif-del-accidente-urda-21231834",
-"fecha": "2026-11-20T11:06+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-19T13:34+00:00",
-"hasta": "2026-11-20T12:16+00:00",
-"temas": [],
-"comunes": [
-"caso",
-"rocho",
-"pide",
-"sufrir",
-"declaracion",
-"atentado",
-"cloacas",
-"escoltada"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "La líder del 'narcoclan' Los Rocho pide ser escoltada en su declaración ante el juez del caso de las cloacas del PSOE",
-"url": "https://www.20minutos.es/nacional/lider-narcoclan-los-rocho-pide-ser-escoltada-su-declaracion-ante-juez-caso-las-cloacas-psoe_7063232_0.html",
-"fecha": "2026-11-19T15:04+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "Cintia Rocho pide ser «escoltada» a su declaración en el caso 'cloacas' por temor a «sufrir un atentado»",
-"url": "https://www.abc.es/espana/cintia-rocho-pide-escoltada-declaracion-cloacas-temor-20261119143404-nt.html",
-"fecha": "2026-11-19T13:34+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "La líder del clan de 'Los Rocho' pide protección policial para ir a testificar en el 'caso Leire': \"Temo sufrir un atentado\"",
-"url": "https://www.elespanol.com/espana/tribunales/20261119/lider-clan-rocho-pide-proteccion-policial-ir-testificar-caso-leire-temo-sufrir-atentado/1003744465301_0.html",
-"fecha": "2026-11-19T19:04+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-20T10:56+00:00",
 "hasta": "2026-11-20T12:56+00:00",
 "temas": [],
 "comunes": [
-"atico",
 "compra",
 "ayuso",
+"atico",
 "descarta",
-"error",
 "chamberi",
+"error",
 "reconoce"
 ],
 "titulares": [
@@ -1769,11 +1481,11 @@
 "temas": [],
 "comunes": [
 "castellana",
-"tunel",
 "norte",
-"abrira",
+"tunel",
+"diciembre",
 "semana",
-"diciembre"
+"abrira"
 ],
 "titulares": [
 {
@@ -1802,13 +1514,13 @@
 "hasta": "2026-11-20T13:29+00:00",
 "temas": [],
 "comunes": [
+"empresarios",
 "vascos",
 "rey",
-"empresarios",
 "bilbao",
-"coraje",
+"eta",
 "anadido",
-"eta"
+"coraje"
 ],
 "titulares": [
 {
@@ -1864,7 +1576,220 @@
 "fecha": "2026-11-20T13:45+00:00"
 }
 ]
+},
+{
+"medios": 3,
+"desde": "2026-11-20T12:50+00:00",
+"hasta": "2026-11-20T15:36+00:00",
+"temas": [],
+"comunes": [
+"armas",
+"arsenal",
+"burgos",
+"detenido",
+"noname057",
+"ciberterrorista"
+],
+"titulares": [
+{
+"medio": "El Confidencial",
+"titulo": "La Policía detiene en Burgos al líder de una red ciberterrorista prorrusa e interviene un arsenal de armas",
+"url": "https://www.elconfidencial.com/espana/2026-11-20/policia-detiene-ciberterrorista-prorruso-burgos-1tna-1tps_4469464/",
+"fecha": "2026-11-20T15:36+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Detenido en Burgos con un arsenal de armas de fuego y machetes un instigador de la organización ciberterrorista NoName057(16)",
+"url": "https://elpais.com/espana/2026-11-20/detenido-en-burgos-con-un-arsenal-de-armas-de-fuego-y-machetes-un-instigador-de-la-organizacion-ciberterrorista-noname05716.html",
+"fecha": "2026-11-20T15:21+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Detenido en Burgos el impulsor del grupo terrorista prorruso NoName057 con un arsenal de armas",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-20/detenido-en-burgos-el-impulsor-del-grupo-terrorista-prorruso-noname057-con-un-arsenal-de-armas-7495254/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-20T12:50+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-20T15:16+00:00",
+"hasta": "2026-11-20T16:24+00:00",
+"temas": [
+"defensa",
+"justicia"
+],
+"comunes": [
+"olona",
+"macarena",
+"koldo",
+"caso",
+"defensa",
+"civil",
+"guardia"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Macarena Olona asume la defensa del guardia civil imputado por proteger a Aldama y Koldo a cambio de 90.000 euros",
+"url": "https://www.20minutos.es/nacional/macarena-olona-asume-defensa-guardia-civil-imputado-por-proteger-aldama-koldo-cambio-90-000-euros_7063832_0.html",
+"fecha": "2026-11-20T16:24+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El comandante del \"caso Koldo\" ficha como abogada a Macarena Olona, a dos días de su declaración",
+"url": "https://www.larazon.es/espana/comandante-caso-koldo-ficha-como-abogada-macarena-olona-dos-dias-declaracion_202611206b006454ff6fec292196e838.html",
+"fecha": "2026-11-20T15:16+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El guardia civil investigado en el ‘caso Koldo’ incorpora a Macarena Olona a su defensa",
+"url": "https://theobjective.com/espana/tribunales/2026-11-20/guardia-civil-caso-koldo-macarena-olona-defensa/",
+"fecha": "2026-11-20T15:44+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-20T18:18+00:00",
+"hasta": "2026-11-20T19:18+00:00",
+"temas": [],
+"comunes": [
+"perro",
+"nosotros",
+"ester",
+"voto",
+"munoz",
+"presidente",
+"pedimos",
+"pidiendo"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "Ester Muñoz: «Están pidiendo a los españoles un voto para el 'perro', nosotros lo pedimos para un presidente»",
+"url": "https://www.abc.es/espana/castilla-leon/ester-munoz-pidiendo-espanoles-voto-perro-pedimos-20261120200321-nt.html",
+"fecha": "2026-11-20T19:18+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Ester Muñoz: «Están pidiendo a los españoles un voto para el 'perro'; nosotros lo pedimos para un presidente»",
+"url": "https://www.eldebate.com/espana/castilla-y-leon/20261120/ester-munoz-estan-pidiendo-espanoles-voto-perro-nosotros-pedimos-presidente_483487.html",
+"fecha": "2026-11-20T18:18+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Ester Muñoz se burla del PSOE: «Piden el voto para el ‘perro’, nosotros para un presidente»",
+"url": "https://theobjective.com/espana/politica/2026-11-20/ester-munoz-burla-psoe-piden-voto-perro-nosotros-presidente/",
+"fecha": "2026-11-20T18:38+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-20T10:14+00:00",
+"hasta": "2026-11-21T07:00+00:00",
+"temas": [],
+"comunes": [
+"fechas",
+"madrid",
+"horarios",
+"navidad",
+"cortylandia",
+"vuelve"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Cortylandia da la bienvenida a la Navidad en Madrid: fechas, horarios y qué ver en su 48ª edición",
+"url": "https://www.eldebate.com/espana/madrid/20261120/cortylandia-da-bienvenida-navidad-madrid-fechas-horarios-ver-48-edicion_483193.html",
+"fecha": "2026-11-20T10:14+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Vuelve Cortylandia a Madrid este viernes: horarios y fechas del tradicional espectáculo de la Navidad",
+"url": "https://www.libertaddigital.com/madrid/2026-11-20/vuelve-cortylandia-a-madrid-este-viernes-horarios-y-fechas-del-tradicional-espectaculo-de-la-navidad-7495147/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-20T10:50+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Vuelve el Mercado de Navidad de la Plaza Mayor de Madrid: fechas, horarios y más de 100 puestos para comprar adornos y regalos",
+"url": "https://okdiario.com/madrid/vuelve-mercado-navidad-plaza-mayor-madrid-fechas-horarios-mas-100-puestos-comprar-adornos-regalos-21119079",
+"fecha": "2026-11-21T07:00+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-21T13:54+00:00",
+"hasta": "2026-11-21T14:19+00:00",
+"temas": [
+"inmigracion",
+"territorio"
+],
+"comunes": [
+"derechos",
+"sanchez",
+"puede",
+"hablar",
+"privilegio"
+],
+"titulares": [
+{
+"medio": "elDiario.es",
+"titulo": "Sánchez responde a Álvarez de Toledo sobre política migratoria: \"Desde el privilegio no puede hablar de derechos\"",
+"url": "https://www.eldiario.es/politica/sanchez-responde-alvarez-toledo-politica-migratoria-privilegio-no-hablar-derechos_1_13682974.html",
+"fecha": "2026-11-21T14:05+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Sánchez defiende en Canarias “reconocer derechos a los migrantes” frente al PP y Vox",
+"url": "https://www.lavanguardia.com/politica/20261121/11689911/sanchez-defiende-canarias-reconocer-derechos-migrantes-frente-pp-vox.html",
+"fecha": "2026-11-21T13:54+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Sánchez carga contra el PP: «Desde el privilegio no se puede hablar de los derechos de la gente»",
+"url": "https://theobjective.com/espana/politica/2026-11-21/sanchez-pp-privilegio-derechos-gente/",
+"fecha": "2026-11-21T14:19+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-21T10:51+00:00",
+"hasta": "2026-11-21T14:29+00:00",
+"temas": [],
+"comunes": [
+"llorca",
+"feijoo",
+"perez",
+"valencia",
+"primera",
+"presidente",
+"llamada"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Pérez Llorca espera que la primera llamada de Feijóo como presidente del Gobierno sea a la Comunidad Valenciana",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261121/perez-llorca-espera-primera-llamada-feijoo-cuando-sea-comunidad-valenciana_483650.html",
+"fecha": "2026-11-21T14:29+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Feijóo, Juanfran Pérez Llorca, María José Catalá y Vicente Mompó mitin en Valencia",
+"url": "https://www.larazon.es/espana/feijoo-juanfran-perez-llorca-maria-jose-catala-vicente-mompo-mitin-valencia_202611216b0177b750b7057c6d12d972.html",
+"fecha": "2026-11-21T10:51+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Pérez Llorca pide a Feijóo que su «primera llamada» como presidente sea a Valencia",
+"url": "https://theobjective.com/espana/politica/2026-11-21/perez-llorca-feijoo-llamada-presidente/",
+"fecha": "2026-11-21T13:09+00:00"
+}
+]
 }
 ],
-"recogidas": 2158
+"recogidas": 2082
 }

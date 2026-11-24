@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-24T18:21+00:00",
+"actualizado": "2026-11-24T23:06+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 68,
@@ -7,7 +7,7 @@
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
-"El Mundo": 46,
+"El Mundo": 47,
 "El País": 19,
 "Europa Press": 10,
 "infoLibre": 56,
@@ -16,7 +16,7 @@
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 30,
+"20minutos": 32,
 "El Debate": 116,
 "La Razón": 15
 },
@@ -34,8 +34,8 @@
 "justicia"
 ],
 "comunes": [
-"puigdemont",
 "amnistia",
+"puigdemont",
 "supremo",
 "causa",
 "aplica",
@@ -135,18 +135,16 @@
 ]
 },
 {
-"medios": 10,
-"desde": "2026-11-22T09:36+00:00",
+"medios": 9,
+"desde": "2026-11-23T13:12+00:00",
 "hasta": "2026-11-23T14:52+00:00",
-"temas": [
-"justicia"
-],
+"temas": [],
 "comunes": [
-"nacional",
-"audiencia",
 "cospedal",
-"caso",
+"audiencia",
+"nacional",
 "kitchen",
+"caso",
 "imputar",
 "rechaza"
 ],
@@ -182,12 +180,6 @@
 "fecha": "2026-11-23T13:49+00:00"
 },
 {
-"medio": "elDiario.es",
-"titulo": "La Audiencia Nacional vuelve a negarse a investigar la petición de Cospedal a Villarejo para sabotear el caso de la caja B",
-"url": "https://www.eldiario.es/politica/audiencia-nacional-vuelve-negarse-investigar-peticion-cospedal-villarejo-sabotear-caso-caja-b_1_13686150.html",
-"fecha": "2026-11-23T12:58+00:00"
-},
-{
 "medio": "infoLibre",
 "titulo": "La Audiencia Nacional rechaza citar como investigados a Cospedal y al PP en el 'caso Kitchen'",
 "url": "https://www.infolibre.es/justicia/audiencia-nacional-rechaza-citar-investigados-cospedal-pp-caso-kitchen_1_2240637.html",
@@ -195,9 +187,9 @@
 },
 {
 "medio": "La Razón",
-"titulo": "El comandante del \"caso Koldo\" declara a petición propia en la Audiencia Nacional",
-"url": "https://www.larazon.es/espana/comandante-caso-koldo-declara-peticion-propia-audiencia-nacional_202611226b02b7a6c0d5c85b96c46539.html",
-"fecha": "2026-11-22T09:36+00:00"
+"titulo": "La Audiencia Nacional confirma que no imputará a Cospedal y al PP por el \"caso Kitchen\"",
+"url": "https://www.larazon.es/espana/audiencia-nacional-confirma-que-imputara-cospedal-caso-kitchen_202611236b043b9ef6da642efef8c6af.html",
+"fecha": "2026-11-23T13:12+00:00"
 },
 {
 "medio": "Libertad Digital",
@@ -219,11 +211,11 @@
 "hasta": "2026-11-24T04:00+00:00",
 "temas": [],
 "comunes": [
-"cis",
 "puntos",
+"cis",
 "psoe",
-"ventaja",
 "casi",
+"ventaja",
 "tezanos",
 "ultimo"
 ],
@@ -286,76 +278,14 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-21T21:05+00:00",
-"hasta": "2026-11-23T14:34+00:00",
-"temas": [
-"energia"
-],
-"comunes": [
-"bono",
-"felipe",
-"gonzalez",
-"persona",
-"otros",
-"seria",
-"votado",
-"soy"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Bono a Felipe González: «No hagas el tonto. El PSOE te debe mucho, pero tú más al PSOE»",
-"url": "https://www.abc.es/espana/castilla-la-mancha/bono-felipe-gonzalez-hagas-tonto-psoe-debe-20261121221143-nt.html",
-"fecha": "2026-11-21T21:11+00:00"
-},
-{
-"medio": "El Confidencial",
-"titulo": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
-"url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
-"fecha": "2026-11-23T14:33+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Bono llama «tonto» a Felipe González por no votar a Sánchez",
-"url": "https://www.eldebate.com/espana/20261122/bono-llama-tonto-felipe-gonzalez-no-votar-sanchez_483789.html",
-"fecha": "2026-11-22T11:07+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
-"fecha": "2026-11-23T12:38+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "Bono afea a Felipe González que vote en blanco: \"No hagas el tonto\"",
-"url": "https://www.larazon.es/espana/bono-afea-felipe-gonzalez-que-vote-blanco-hagas-tonto_202611216b02075dc0d5c85b96c41b22.html",
-"fecha": "2026-11-21T21:05+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Felipe González responde a Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
-"url": "https://www.lavanguardia.com/politica/20261123/11691081/felipe-gonzalez-responde-bono-he-votado-persona-seria-otros.html",
-"fecha": "2026-11-23T11:50+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Felipe González contesta a Bono: \"Ya he votado. Soy una persona seria, no como otros\"",
-"url": "https://www.libertaddigital.com/espana/2026-11-23/felipe-gonzalez-contesta-a-bono-ya-he-votado-soy-una-persona-seria-no-como-otros-7496124/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T13:22+00:00"
-}
-]
-},
-{
-"medios": 7,
 "desde": "2026-11-22T08:19+00:00",
 "hasta": "2026-11-24T17:51+00:00",
 "temas": [],
 "comunes": [
-"elecciones",
-"ultima",
-"hora",
 "directo",
+"elecciones",
+"hora",
+"ultima",
 "generales",
 "campana",
 "29n",
@@ -407,6 +337,61 @@
 ]
 },
 {
+"medios": 7,
+"desde": "2026-11-22T03:30+00:00",
+"hasta": "2026-11-24T22:28+00:00",
+"temas": [],
+"comunes": [
+"cara",
+"sanchez",
+"feijoo"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Sánchez definirá su plan para el debate a cuatro en función de sus sondeos internos tras la inesperada estrategia del 'cara a cara'",
+"url": "https://www.20minutos.es/nacional/sanchez-definira-su-plan-para-debate-cuatro-funcion-sus-sondeos-internos-tras-inesperada-estrategia-cara-cara_7063818_0.html",
+"fecha": "2026-11-23T04:00+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "“No m’imagino què faria de vicepresidenta després del que ha fet a Barcelona”: Albiol i Colau se les tenen en el cara a cara",
+"url": "https://www.ara.cat/politica/no-m-imagino-faria-vicepresidenta-despres-fet-barcelona-albiol-colau-tenen-cara-cara_1_5921854.html",
+"fecha": "2026-11-24T22:28+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Un 39,2 % de españoles cree que Feijóo ganó el cara a cara, frente al 13,8 % que ve victorioso a Sánchez",
+"url": "https://www.eldebate.com/espana/20261122/392-espanoles-cree-feijoo-gano-cara-cara-frente-138-ve-victorioso-sanchez_483674.html",
+"fecha": "2026-11-22T03:30+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Feijóo apelará al voto útil en la recta final para ampliar su mayoría tras el revulsivo del 'cara a cara'",
+"url": "https://www.europapress.es/nacional/noticia-feijoo-apelara-voto-util-recta-final-ampliar-mayoria-revulsivo-cara-cara-20261122103605.html",
+"fecha": "2026-11-22T09:36+00:00"
+},
+{
+"medio": "infoLibre",
+"titulo": "Cara a Cara: triunfo del estilo INDA",
+"url": "https://www.infolibre.es/opinion/plaza-publica/cara-cara-triunfo-estilo-inda_129_2240550.html",
+"fecha": "2026-11-22T05:01+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "De cara a las elecciones",
+"url": "https://www.lavanguardia.com/politica/20261124/11691356/cara-elecciones.html",
+"fecha": "2026-11-24T05:00+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Ni Morant ni Bernabé piden perdón por pedir las \"bofetadas\" de Sánchez a Feijóo en el cara a cara",
+"url": "https://www.libertaddigital.com/valencia/2026-11-23/ni-morant-ni-bernabe-piden-perdon-por-pedir-las-bofetadas-de-sanchez-a-feijoo-en-el-cara-a-cara-7496130/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-23T13:26+00:00"
+}
+]
+},
+{
 "medios": 6,
 "desde": "2026-11-23T08:05+00:00",
 "hasta": "2026-11-23T09:51+00:00",
@@ -416,13 +401,13 @@
 "impuestos"
 ],
 "comunes": [
-"impuesto",
 "sanchez",
 "ultrarricos",
+"impuesto",
 "millones",
 "anuncia",
-"000",
-"nuevo"
+"nuevo",
+"000"
 ],
 "titulares": [
 {
@@ -465,103 +450,108 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-22T03:30+00:00",
-"hasta": "2026-11-24T05:00+00:00",
+"desde": "2026-11-22T11:07+00:00",
+"hasta": "2026-11-23T14:34+00:00",
 "temas": [],
 "comunes": [
-"cara",
-"feijoo",
-"sanchez"
+"bono",
+"felipe",
+"gonzalez",
+"soy",
+"otros",
+"seria",
+"persona",
+"responde"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Feijóo revela que su perra Cata tiene cáncer: el animal se hizo viral por la imagen que publicó el PP tras el cara a cara con Sánchez",
-"url": "https://www.20minutos.es/nacional/feijoo-revela-que-su-perra-cata-tiene-cancer-animal-se-hizo-viral-por-imagen-que-publico-pp-tras-cara-cara-con-sanchez_7064582_0.html",
-"fecha": "2026-11-23T12:55+00:00"
+"medio": "El Confidencial",
+"titulo": "Felipe González responde a Bono: \"Yo ya he votado. Soy una persona seria, no como otros\"",
+"url": "https://www.elconfidencial.com/espana/2026-11-23/felipe-gonzalez-voto-blanco-1tps_4470800/",
+"fecha": "2026-11-23T14:33+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "Un 39,2 % de españoles cree que Feijóo ganó el cara a cara, frente al 13,8 % que ve victorioso a Sánchez",
-"url": "https://www.eldebate.com/espana/20261122/392-espanoles-cree-feijoo-gano-cara-cara-frente-138-ve-victorioso-sanchez_483674.html",
-"fecha": "2026-11-22T03:30+00:00"
+"titulo": "Bono llama «tonto» a Felipe González por no votar a Sánchez",
+"url": "https://www.eldebate.com/espana/20261122/bono-llama-tonto-felipe-gonzalez-no-votar-sanchez_483789.html",
+"fecha": "2026-11-22T11:07+00:00"
 },
 {
-"medio": "Europa Press",
-"titulo": "Feijóo apelará al voto útil en la recta final para ampliar su mayoría tras el revulsivo del 'cara a cara'",
-"url": "https://www.europapress.es/nacional/noticia-feijoo-apelara-voto-util-recta-final-ampliar-mayoria-revulsivo-cara-cara-20261122103605.html",
-"fecha": "2026-11-22T09:36+00:00"
+"medio": "El País",
+"titulo": "Felipe González responde a José Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-23/felipe-gonzalez-responde-a-jose-bono-yo-ya-he-votado-soy-una-persona-seria-no-como-otros.html",
+"fecha": "2026-11-23T12:38+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "Cara a Cara: triunfo del estilo INDA",
-"url": "https://www.infolibre.es/opinion/plaza-publica/cara-cara-triunfo-estilo-inda_129_2240550.html",
-"fecha": "2026-11-22T05:01+00:00"
+"medio": "La Razón",
+"titulo": "Felipe González responde a Bono tras pedirle que no haga \"el tonto\" votando en blanco: \"Yo soy una persona seria, no como otros\"",
+"url": "https://www.larazon.es/espana/felipe-gonzalez-responde-bono-pedirle-que-haga-tonto-votando-blanco-soy-persona-seria-como-otros_202611236b04484fff6fec292198f751.html",
+"fecha": "2026-11-23T14:34+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "De cara a las elecciones",
-"url": "https://www.lavanguardia.com/politica/20261124/11691356/cara-elecciones.html",
-"fecha": "2026-11-24T05:00+00:00"
+"titulo": "Felipe González responde a Bono: “Yo ya he votado. Soy una persona seria, no como otros”",
+"url": "https://www.lavanguardia.com/politica/20261123/11691081/felipe-gonzalez-responde-bono-he-votado-persona-seria-otros.html",
+"fecha": "2026-11-23T11:50+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Ni Morant ni Bernabé piden perdón por pedir las \"bofetadas\" de Sánchez a Feijóo en el cara a cara",
-"url": "https://www.libertaddigital.com/valencia/2026-11-23/ni-morant-ni-bernabe-piden-perdon-por-pedir-las-bofetadas-de-sanchez-a-feijoo-en-el-cara-a-cara-7496130/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T13:26+00:00"
+"titulo": "Felipe González contesta a Bono: \"Ya he votado. Soy una persona seria, no como otros\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-23/felipe-gonzalez-contesta-a-bono-ya-he-votado-soy-una-persona-seria-no-como-otros-7496124/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-23T13:22+00:00"
 }
 ]
 },
 {
 "medios": 6,
-"desde": "2026-11-23T12:47+00:00",
-"hasta": "2026-11-24T10:49+00:00",
+"desde": "2026-11-24T10:41+00:00",
+"hasta": "2026-11-24T20:00+00:00",
 "temas": [],
 "comunes": [
-"videoconferencia",
-"rocho",
+"biedma",
 "juez",
-"caso",
-"clan",
-"cloacas",
-"declarara"
+"eliminar",
+"pedraz",
+"rocho",
+"ratifica",
+"clan"
 ],
 "titulares": [
 {
-"medio": "El Confidencial",
-"titulo": "La jefa del clan de los Rochos declarará por videoconferencia en el caso de las cloacas por miedo a su seguridad",
-"url": "https://www.elconfidencial.com/espana/2026-11-23/jefa-clan-los-rochos-videoconferencia-caso-cloacas_4470780/",
-"fecha": "2026-11-23T14:03+00:00"
+"medio": "El Debate",
+"titulo": "La líder del clan Rocho confirma a Pedraz que fue un enlace del PSOE quien la contactó para causar «daño físico» a la jueza Biedma",
+"url": "https://www.eldebate.com/espana/20261124/lider-clan-rocho-confirma-pedraz-saenz-tejada-quien-contacto-causar-dano-fisico-jueza-biedma_484531.html",
+"fecha": "2026-11-24T11:14+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "Cintia Rocho acepta declarar por videoconferencia en el caso cloacas como le propuso el juez",
-"url": "https://www.eldebate.com/espana/20261123/cintia-rocho-acepta-declarar-videoconferencia-caso-cloacas-como-le-propuso-juez_484158.html",
-"fecha": "2026-11-23T12:47+00:00"
+"medio": "El Español",
+"titulo": "La líder de 'Los Rocho' se ratifica ante Pedraz: declara que el socio de Leire Díez le propuso \"eliminar\" a la juez Biedma",
+"url": "https://www.elespanol.com/espana/tribunales/20261124/lider-rocho-ratifica-juez-declara-socio-leire-propuso-eliminar-beatriz-biedma/1003744469863_0.html",
+"fecha": "2026-11-24T10:41+00:00"
 },
 {
 "medio": "El Mundo",
-"titulo": "La líder del 'clan de los Rocho' declarará finalmente por videoconferencia en el 'caso cloacas' para corroborar que le pidieron \"eliminar\" a la juez Biedma",
-"url": "https://www.elmundo.es/espana/2026/11/23/6b044c2be4d4d806628b4588.html",
-"fecha": "2026-11-23T14:53+00:00"
+"titulo": "Cintia Rocho se ratifica ante Pedraz: está \"muy segura\" de que fue el ex juez Sáenz de Tejada quien contactó con ella para producirle \"daño físico\" a la juez del 'hermanísimo'",
+"url": "https://www.elmundo.es/espana/2026/11/24/6b056e6ce85ece73128b456e.html",
+"fecha": "2026-11-24T16:53+00:00"
 },
 {
-"medio": "Libertad Digital",
-"titulo": "El juez Pedraz acuerda que la declaración de la líder del clan de los Rocho sea por videoconferencia",
-"url": "https://www.libertaddigital.com/espana/2026-11-23/el-juez-pedraz-acuerda-que-la-declaracionde-la-lider-del-clan-de-los-rocho-sea-por-videoconferencia-7496155/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T14:48+00:00"
+"medio": "elDiario.es",
+"titulo": "La jefa de los Rochos insiste a Pedraz que Sáenz de Tejada le habló de \"eliminar\" a Biedma pero no guarda pruebas",
+"url": "https://www.eldiario.es/politica/jefa-rochos-insiste-pedraz-saenz-tejada-le-hablo-eliminar-biedma-no-guarda-pruebas_1_13688243.html",
+"fecha": "2026-11-24T12:28+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La matriarca de un clan ratifica al juez que la contactaron para “eliminar” a la jueza Biedma",
+"url": "https://www.lavanguardia.com/politica/20261124/11692298/matriarca-clan-reconoce-contactaron-eliminar-jueza-biedma.html",
+"fecha": "2026-11-24T14:17+00:00"
 },
 {
 "medio": "OKdiario",
 "titulo": "La jefa del clan de ‘los Rocho’ confirma al juez que la cloaca de Leire le encargó «eliminar» a la juez Biedma",
 "url": "https://okdiario.com/espana/jefa-del-clan-rocho-confirma-juez-que-cloaca-leire-encargo-eliminar-juez-biedma-21253711",
 "fecha": "2026-11-24T10:49+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Cintia Rocho declarará por videoconferencia en el ‘caso Leire’ tras alegar que teme por su vida",
-"url": "https://theobjective.com/espana/tribunales/2026-11-23/cintia-rocho-videoconferencia-caso-leire-vida/",
-"fecha": "2026-11-23T13:23+00:00"
 }
 ]
 },
@@ -573,14 +563,14 @@
 "justicia"
 ],
 "comunes": [
-"civil",
 "aldama",
 "guardia",
+"civil",
 "juez",
 "comandante",
-"colaborador",
+"mejor",
 "villalba",
-"mejor"
+"colaborador"
 ],
 "titulares": [
 {
@@ -617,51 +607,49 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-23T13:00+00:00",
-"hasta": "2026-11-23T15:15+00:00",
-"temas": [
-"territorio"
-],
+"desde": "2026-11-23T12:47+00:00",
+"hasta": "2026-11-23T14:53+00:00",
+"temas": [],
 "comunes": [
-"puigdemont",
-"poema",
-"enemigos",
-"ganas",
-"daros",
-"muero",
-"culo",
-"amnistiado"
+"videoconferencia",
+"caso",
+"rocho",
+"juez",
+"cloacas",
+"declarara",
+"clan",
+"cintia"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "Puigdemont reacciona al archivo de su causa y recomienda a sus \"enemigos\" un poema que dice: \"Me muero de ganas de daros por culo\"",
-"url": "https://www.20minutos.es/nacional/puigdemont-recomienda-sus-enemigos-un-poema-que-dice-me-muero-ganas-daros-por-culo-para-celebrar-su-amnistia_7064623_0.html",
-"fecha": "2026-11-23T13:30+00:00"
+"medio": "El Confidencial",
+"titulo": "La jefa del clan de los Rochos declarará por videoconferencia en el caso de las cloacas por miedo a su seguridad",
+"url": "https://www.elconfidencial.com/espana/2026-11-23/jefa-clan-los-rochos-videoconferencia-caso-cloacas_4470780/",
+"fecha": "2026-11-23T14:03+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "Puigdemont dedica un poema a sus \"queridos enemigos\" tras ser amnistiado: \"Gracias; muero de ganas de daros por el c…\"",
-"url": "https://www.elespanol.com/espana/politica/20261123/puigdemont-dedica-poema-queridos-enemigos-amnistiado-gracias-muero-ganas-daros/1003744468824_0.html",
-"fecha": "2026-11-23T13:27+00:00"
+"medio": "El Debate",
+"titulo": "Cintia Rocho acepta declarar por videoconferencia en el caso cloacas como le propuso el juez",
+"url": "https://www.eldebate.com/espana/20261123/cintia-rocho-acepta-declarar-videoconferencia-caso-cloacas-como-le-propuso-juez_484158.html",
+"fecha": "2026-11-23T12:47+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "Puigdemont cita un poema para dirigirse a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
-"url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
-"fecha": "2026-11-23T13:00+00:00"
+"medio": "El Mundo",
+"titulo": "La líder del 'clan de los Rocho' declarará finalmente por videoconferencia en el 'caso cloacas' para corroborar que le pidieron \"eliminar\" a la juez Biedma",
+"url": "https://www.elmundo.es/espana/2026/11/23/6b044c2be4d4d806628b4588.html",
+"fecha": "2026-11-23T14:53+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Puigdemont enloquece y dedica un poema a sus enemigos: \"Ganas de daros por el c...\"",
-"url": "https://www.libertaddigital.com/cataluna/2026-11-23/puigdemont-enloquece-y-dedica-un-poema-a-sus-enemigos-ganas-de-daros-por-el-c-7496219/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T15:15+00:00"
+"titulo": "El juez Pedraz acuerda que la declaración de la líder del clan de los Rocho sea por videoconferencia",
+"url": "https://www.libertaddigital.com/espana/2026-11-23/el-juez-pedraz-acuerda-que-la-declaracionde-la-lider-del-clan-de-los-rocho-sea-por-videoconferencia-7496155/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-23T14:48+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "Puigdemont reacciona a la amnistía citando un poema sobre dar «por el culo» a los enemigos",
-"url": "https://theobjective.com/espana/politica/2026-11-23/puigdemont-amnistia-poema-culo-enemigos/",
-"fecha": "2026-11-23T13:26+00:00"
+"titulo": "Cintia Rocho declarará por videoconferencia en el ‘caso Leire’ tras alegar que teme por su vida",
+"url": "https://theobjective.com/espana/tribunales/2026-11-23/cintia-rocho-videoconferencia-caso-leire-vida/",
+"fecha": "2026-11-23T13:23+00:00"
 }
 ]
 },
@@ -671,14 +659,14 @@
 "hasta": "2026-11-24T12:47+00:00",
 "temas": [],
 "comunes": [
-"frena",
-"blanco",
-"ultraderecha",
 "felipe",
 "sanchez",
 "gonzalez",
+"blanco",
+"ultraderecha",
+"frena",
 "voto",
-"replica"
+"rojo"
 ],
 "titulares": [
 {
@@ -714,6 +702,102 @@
 ]
 },
 {
+"medios": 5,
+"desde": "2026-11-23T16:48+00:00",
+"hasta": "2026-11-24T16:36+00:00",
+"temas": [],
+"comunes": [
+"intxaurrondo",
+"expediente",
+"abre",
+"vox",
+"junta",
+"silvia",
+"electoral",
+"cuestionar"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "La JEC abre expediente sancionador a Intxaurrondo tras cuestionar si «tiene cabida Vox» en TVE",
+"url": "https://www.abc.es/espana/jec-abre-expediente-sancionador-intxaurrondo-tras-cuestionar-20261123182530-nt.html",
+"fecha": "2026-11-23T18:08+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por cuestionar la presencia de Vox en RTVE",
+"url": "https://www.eldebate.com/cine-tv-series/20261123/junta-electoral-abre-expediente-silvia-intxaurrondo-cuestionar-presencia-vox-rtve_484304.html",
+"fecha": "2026-11-23T17:04+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por no ser neutral con Vox",
+"url": "https://www.lavanguardia.com/politica/20261123/11691429/junta-electoral-abre-expediente-silvia-intxaurrondo-neutral-vox.html",
+"fecha": "2026-11-23T16:48+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La JEC abre expediente a Silvia Intxaurrondo por cuestionar la presencia de Vox en TVE",
+"url": "https://www.libertaddigital.com/espana/2026-11-23/la-jec-abre-expediente-a-silvia-intxaurrondo-por-cuestionar-la-presencia-de-vox-en-tve-7496326/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-23T17:20+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "La FAPE pide a la Junta Electoral archivar el expediente a Intxaurrondo",
+"url": "https://theobjective.com/medios/2026-11-24/fape-pide-junta-electoral-archivar-expediente-intxaurrondo/",
+"fecha": "2026-11-24T16:36+00:00"
+}
+]
+},
+{
+"medios": 5,
+"desde": "2026-11-24T14:17+00:00",
+"hasta": "2026-11-24T18:20+00:00",
+"temas": [],
+"comunes": [
+"elecciones",
+"dni",
+"supremo",
+"avala",
+"rechaza",
+"generales",
+"digital",
+"29n"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El Supremo avala el uso del DNI en el móvil para votar en las elecciones generales del 29N",
+"url": "https://www.20minutos.es/nacional/supremo-avala-uso-dni-movil-para-votar-las-elecciones-generales-29n_7065212_0.html",
+"fecha": "2026-11-24T14:31+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El Supremo rechaza suspender el DNI electrónico como medio de identificación en las elecciones generales del 29-N",
+"url": "https://www.elmundo.es/espana/2026/11/24/6b059a91e4d4d88e6b8b4582.html",
+"fecha": "2026-11-24T15:55+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Supremo avala el DNI digital en las elecciones y rechaza un recurso contra urnas de cartón para los 'nietos'",
+"url": "https://www.europapress.es/nacional/noticia-supremo-avala-dni-digital-elecciones-rechaza-recurso-contra-urnas-carton-nietos-20261124151755.html",
+"fecha": "2026-11-24T14:17+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Elecciones generales 29N, en directo: el Supremo avala el DNI digital y crece el choque por los decretos del Gobierno",
+"url": "https://www.larazon.es/espana/elecciones-generales-29n-directo-encuestas-actos-electorales-nuevos-decretos-gobierno-ultima-hora-candidatos_202611246b054457c0d5c85b96c5df99.html",
+"fecha": "2026-11-24T18:20+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El Supremo rechaza las medidas cautelares para suspender el uso del DNI electrónico en las elecciones del 29-N",
+"url": "https://www.libertaddigital.com/espana/2026-11-24/el-supremo-rechaza-las-medidas-cautelares-para-suspender-el-uso-del-dni-electronico-en-las-elecciones-del-29-n-7496782/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T14:34+00:00"
+}
+]
+},
+{
 "medios": 4,
 "desde": "2026-11-22T12:30+00:00",
 "hasta": "2026-11-22T13:47+00:00",
@@ -721,12 +805,12 @@
 "energia"
 ],
 "comunes": [
-"tren",
 "averia",
 "barajas",
+"tren",
 "colas",
-"provoca",
 "pasajeros",
+"provoca",
 "largas"
 ],
 "titulares": [
@@ -769,8 +853,8 @@
 "carmela",
 "candidata",
 "senado",
-"psoe",
-"insultos"
+"insultos",
+"psoe"
 ],
 "titulares": [
 {
@@ -808,14 +892,14 @@
 "territorio"
 ],
 "comunes": [
-"cayucos",
 "llegada",
 "hierro",
+"cayucos",
 "personas",
 "seis",
-"embarcaciones",
+"vuelve",
 "horas",
-"vuelve"
+"embarcaciones"
 ],
 "titulares": [
 {
@@ -850,10 +934,10 @@
 "hasta": "2026-11-23T13:45+00:00",
 "temas": [],
 "comunes": [
-"norcoreana",
 "feijoo",
-"television",
+"norcoreana",
 "tve",
+"television",
 "parece",
 "intxaurrondo"
 ],
@@ -895,11 +979,11 @@
 "robles",
 "pajaro",
 "campana",
-"guapo",
 "menudo",
-"femenino",
+"guapo",
+"sanchez",
 "voto",
-"sanchez"
+"femenino"
 ],
 "titulares": [
 {
@@ -930,43 +1014,45 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-23T08:44+00:00",
-"hasta": "2026-11-23T15:05+00:00",
-"temas": [],
+"desde": "2026-11-23T13:00+00:00",
+"hasta": "2026-11-23T15:15+00:00",
+"temas": [
+"territorio"
+],
 "comunes": [
-"palencia",
-"molotov",
-"comisaria",
-"cocteles",
-"inspeccionan",
-"nacional",
-"atacada",
-"tedax"
+"poema",
+"ganas",
+"daros",
+"enemigos",
+"puigdemont",
+"muero",
+"amnistiado",
+"culo"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "El lanzamiento de cócteles molotov contra la Comisaría de Palencia activa la alerta antiterrorista",
-"url": "https://www.abc.es/espana/castilla-leon/lanzan-cocteles-molotov-comisaria-palencia-localiza-mochila-20261123094423-nt.html",
-"fecha": "2026-11-23T15:05+00:00"
+"medio": "20minutos",
+"titulo": "Puigdemont reacciona al archivo de su causa y recomienda a sus \"enemigos\" un poema que dice: \"Me muero de ganas de daros por culo\"",
+"url": "https://www.20minutos.es/nacional/puigdemont-recomienda-sus-enemigos-un-poema-que-dice-me-muero-ganas-daros-por-culo-para-celebrar-su-amnistia_7064623_0.html",
+"fecha": "2026-11-23T13:30+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "Los Tedax inspeccionan la Comisaría de la Policía Nacional en Palencia tras ser atacada con cócteles molotov y encuentran una mochila sospechosa",
-"url": "https://www.elmundo.es/espana/2026/11/23/6b03fcebfdddff9e548b4597.html",
-"fecha": "2026-11-23T08:44+00:00"
+"medio": "El Español",
+"titulo": "Puigdemont dedica un poema a sus \"queridos enemigos\" tras ser amnistiado: \"Gracias; muero de ganas de daros por el c…\"",
+"url": "https://www.elespanol.com/espana/politica/20261123/puigdemont-dedica-poema-queridos-enemigos-amnistiado-gracias-muero-ganas-daros/1003744468824_0.html",
+"fecha": "2026-11-23T13:27+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Los Tedax inspeccionan la comisaría de Palencia tras ser atacada con cócteles molotov",
-"url": "https://www.lavanguardia.com/politica/20261123/11690909/tedax-inspeccionan-comisaria-palencia-atacada-cocteles-molotov.html",
-"fecha": "2026-11-23T09:09+00:00"
+"titulo": "Puigdemont cita un poema para dirigirse a sus “enemigos” tras ser amnistiado: “Me muero de ganas de daros por culo”",
+"url": "https://www.lavanguardia.com/politica/20261123/11691278/puigdemont-cita-poema-dirigirse-enemigos-amnistiado-me-muero-ganas-daros-culo.html",
+"fecha": "2026-11-23T13:00+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Atacan con cócteles molotov la comisaría de Policía Nacional de Palencia y hallan otros ocho artefactos",
-"url": "https://www.libertaddigital.com/castilla-leon/2026-11-23/atacan-con-cocteles-molotov-la-comisaria-de-policia-nacional-de-palencia-y-hallan-otros-ocho-artefactos-7495904/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T09:08+00:00"
+"titulo": "Puigdemont enloquece y dedica un poema a sus enemigos: \"Ganas de daros por el c...\"",
+"url": "https://www.libertaddigital.com/cataluna/2026-11-23/puigdemont-enloquece-y-dedica-un-poema-a-sus-enemigos-ganas-de-daros-por-el-c-7496219/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-23T15:15+00:00"
 }
 ]
 },
@@ -976,13 +1062,13 @@
 "hasta": "2026-11-23T18:07+00:00",
 "temas": [],
 "comunes": [
-"bolanos",
 "bustinduy",
 "moncloa",
-"expediente",
+"bolanos",
 "abre",
-"electoral",
+"expediente",
 "junta",
+"electoral",
 "hacer"
 ],
 "titulares": [
@@ -1014,59 +1100,17 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-23T16:48+00:00",
-"hasta": "2026-11-23T18:08+00:00",
-"temas": [],
-"comunes": [
-"vox",
-"expediente",
-"abre",
-"intxaurrondo",
-"silvia",
-"cuestionar",
-"electoral",
-"junta"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "La JEC abre expediente sancionador a Intxaurrondo tras cuestionar si «tiene cabida Vox» en TVE",
-"url": "https://www.abc.es/espana/jec-abre-expediente-sancionador-intxaurrondo-tras-cuestionar-20261123182530-nt.html",
-"fecha": "2026-11-23T18:08+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por cuestionar la presencia de Vox en RTVE",
-"url": "https://www.eldebate.com/cine-tv-series/20261123/junta-electoral-abre-expediente-silvia-intxaurrondo-cuestionar-presencia-vox-rtve_484304.html",
-"fecha": "2026-11-23T17:04+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por no ser neutral con Vox",
-"url": "https://www.lavanguardia.com/politica/20261123/11691429/junta-electoral-abre-expediente-silvia-intxaurrondo-neutral-vox.html",
-"fecha": "2026-11-23T16:48+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La JEC abre expediente a Silvia Intxaurrondo por cuestionar la presencia de Vox en TVE",
-"url": "https://www.libertaddigital.com/espana/2026-11-23/la-jec-abre-expediente-a-silvia-intxaurrondo-por-cuestionar-la-presencia-de-vox-en-tve-7496326/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T17:20+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-23T10:21+00:00",
 "hasta": "2026-11-23T20:38+00:00",
 "temas": [],
 "comunes": [
-"portavoces",
 "debate",
+"portavoces",
 "ocho",
 "directo",
 "electoral",
-"parlamentarios",
-"horario"
+"horario",
+"parlamentarios"
 ],
 "titulares": [
 {
@@ -1097,12 +1141,53 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-22T11:29+00:00",
-"hasta": "2026-11-24T12:47+00:00",
+"desde": "2026-11-23T12:30+00:00",
+"hasta": "2026-11-24T14:54+00:00",
 "temas": [],
 "comunes": [
-"rescate",
+"pro",
+"bono",
+"gonzalez",
+"hace",
+"sarcasmo",
+"acusa",
+"felipe"
+],
+"titulares": [
+{
+"medio": "El Español",
+"titulo": "González recurre al sarcasmo para responder a José Bono subrayando su condición de lobista: \"Lo hace pro bono\"",
+"url": "https://www.elespanol.com/espana/politica/20261123/gonzalez-recurre-sarcasmo-responder-jose-bono-subrayando-condicion-lobista-hace-pro-bono/1003744468687_0.html",
+"fecha": "2026-11-23T12:30+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
+"fecha": "2026-11-23T15:41+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Editorial de Juan Pablo: Bono irritado acusa a Felipe: Es pro PP",
+"url": "https://esradio.libertaddigital.com/es-noticia/editorial-de-es-noticia/2026-11-24/editorial-de-juan-pablo-bono-irritado-acusa-a-felipe-es-pro-pp-7496775/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T14:18+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Bono acusa ahora a Felipe González de trabajar para la derecha: «Yo prefiero ser pro bono a pro PP»",
+"url": "https://okdiario.com/espana/bono-acusa-ahora-felipe-gonzalez-trabajar-derecha-yo-prefiero-ser-pro-bono-pro-pp-21255989",
+"fecha": "2026-11-24T10:31+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-22T11:29+00:00",
+"hasta": "2026-11-24T16:36+00:00",
+"temas": [],
+"comunes": [
 "air",
+"rescate",
 "europa",
 "aagesen",
 "niegan",
@@ -1139,103 +1224,20 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-23T12:30+00:00",
-"hasta": "2026-11-24T14:54+00:00",
-"temas": [],
-"comunes": [
-"bono",
-"pro",
-"gonzalez",
-"hace",
-"sarcasmo",
-"felipe",
-"acusa"
-],
-"titulares": [
-{
-"medio": "El Español",
-"titulo": "González recurre al sarcasmo para responder a José Bono subrayando su condición de lobista: \"Lo hace pro bono\"",
-"url": "https://www.elespanol.com/espana/politica/20261123/gonzalez-recurre-sarcasmo-responder-jose-bono-subrayando-condicion-lobista-hace-pro-bono/1003744468687_0.html",
-"fecha": "2026-11-23T12:30+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
-"fecha": "2026-11-23T15:41+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Editorial de Juan Pablo: Bono irritado acusa a Felipe: Es pro PP",
-"url": "https://esradio.libertaddigital.com/es-noticia/editorial-de-es-noticia/2026-11-24/editorial-de-juan-pablo-bono-irritado-acusa-a-felipe-es-pro-pp-7496775/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-24T14:18+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Bono acusa ahora a Felipe González de trabajar para la derecha: «Yo prefiero ser pro bono a pro PP»",
-"url": "https://okdiario.com/espana/bono-acusa-ahora-felipe-gonzalez-trabajar-derecha-yo-prefiero-ser-pro-bono-pro-pp-21255989",
-"fecha": "2026-11-24T10:31+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-24T14:38+00:00",
-"hasta": "2026-11-24T17:37+00:00",
-"temas": [],
-"comunes": [
-"air",
-"europa",
-"rescate",
-"intereses",
-"conflicto",
-"sanchez",
-"moncloa",
-"economico"
-],
-"titulares": [
-{
-"medio": "El Mundo",
-"titulo": "El jefe de la Oficina Económica de Moncloa niega haber apreciado conflicto de intereses en el rescate de Air Europa",
-"url": "https://www.elmundo.es/espana/2026/11/24/6b057db7e85ece73128b457e.html",
-"fecha": "2026-11-24T17:37+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "El director económico de Sánchez declara que no se percibió conflicto de intereses en el préstamo para Air Europa",
-"url": "https://www.europapress.es/nacional/noticia-director-economico-sanchez-declara-no-percibio-conflicto-intereses-prestamo-air-europa-20261124161718.html",
-"fecha": "2026-11-24T15:17+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Moncloa, ante el apoyo de Sánchez al rescate de Air Europa y el papel de Begoña: \"Nadie vio conflicto de intereses\"",
-"url": "https://www.libertaddigital.com/espana/2026-11-24/moncloa-ante-el-apoyo-de-sanchez-a-rescatar-air-europa-y-sus-reuniones-con-begona-nadie-vio-conflicto-de-intereses-7496780/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-24T14:38+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "El asesor económico de Sánchez dice que no habló del rescate a Air Europa con el presidente",
-"url": "https://theobjective.com/espana/tribunales/2026-11-24/asesor-economico-sanchez-rescate-air-europa/",
-"fecha": "2026-11-24T16:36+00:00"
-}
-]
-},
-{
-"medios": 4,
 "desde": "2026-11-24T14:02+00:00",
 "hasta": "2026-11-24T17:43+00:00",
 "temas": [
 "defensa"
 ],
 "comunes": [
-"pagos",
-"psoe",
 "abogados",
+"psoe",
+"pagos",
 "pedraz",
 "exige",
 "juez",
-"informacion",
-"autorizo"
+"saber",
+"informacion"
 ],
 "titulares": [
 {
@@ -1307,43 +1309,172 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-23T16:53+00:00",
-"hasta": "2026-11-24T18:20+00:00",
+"desde": "2026-11-24T13:57+00:00",
+"hasta": "2026-11-24T18:09+00:00",
 "temas": [],
 "comunes": [
-"supremo",
-"elecciones",
-"avala",
-"dni",
-"carton",
-"nietos",
-"urnas",
-"digital"
+"rapeando",
+"bro",
+"discursos",
+"gafas",
+"gorra",
+"castilla",
+"cortes",
+"mancha"
 ],
 "titulares": [
 {
-"medio": "20minutos",
-"titulo": "El Supremo avala el uso del DNI en el móvil para votar en las elecciones generales del 29N",
-"url": "https://www.20minutos.es/nacional/supremo-avala-uso-dni-movil-para-votar-las-elecciones-generales-29n_7065212_0.html",
-"fecha": "2026-11-24T14:31+00:00"
+"medio": "El Debate",
+"titulo": "Bellido con gorra y gafas para defender los derechos de la infancia: «Hagamos los discursos rapeando, bro»",
+"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261124/bellido-gorra-gafas-defender-derechos-infanciahagamos-discursos-rapeando-bro_484636.html",
+"fecha": "2026-11-24T13:57+00:00"
 },
 {
-"medio": "El Debate",
-"titulo": "Sánchez y Albares se mofan del Supremo con urnas de cartón en los consulados que burlan las limitaciones del Tribunal de la ley de nietos",
-"url": "https://www.eldebate.com/espana/20261123/sanchez-albares-mofan-supremo-hacen-puigdemont-urnas-carton-consulados_484282.html",
-"fecha": "2026-11-23T16:53+00:00"
+"medio": "El Mundo",
+"titulo": "El presidente de las Cortes de Castilla-La Mancha rapea por la infancia con gorra y gafas: \"Hagamos los discursos rapeando, bro\"",
+"url": "https://www.elmundo.es/espana/2026/11/24/6b05cacde85ece1c448b456d.html",
+"fecha": "2026-11-24T18:03+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El socialista Pablo Bellido se pone a rapear en las Cortes de Castilla-La Mancha: \"Discursos rapeando, 'bro'\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-24/el-socialista-pablo-bellido-se-pone-a-rapear-en-las-cortes-de-castilla-la-mancha-discursos-rapeando-bro-7496920/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T18:07+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "El ridículo del presidente de las Cortes de Castilla-La Mancha: pide con gafas y gorra hacer «los discursos rapeando, bro»",
+"url": "https://okdiario.com/espana/ridiculo-del-presidente-cortes-castilla-mancha-pide-gafas-gorra-hacer-discursos-rapeando-bro-21261410",
+"fecha": "2026-11-24T18:09+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-24T14:38+00:00",
+"hasta": "2026-11-24T18:37+00:00",
+"temas": [],
+"comunes": [
+"air",
+"conflicto",
+"europa",
+"sanchez",
+"rescate",
+"intereses",
+"begona",
+"moncloa"
+],
+"titulares": [
+{
+"medio": "El Mundo",
+"titulo": "El jefe de la Oficina Económica de Moncloa niega haber apreciado conflicto de intereses en el rescate de Air Europa",
+"url": "https://www.elmundo.es/espana/2026/11/24/6b057db7e85ece73128b457e.html",
+"fecha": "2026-11-24T17:37+00:00"
 },
 {
 "medio": "Europa Press",
-"titulo": "Supremo avala el DNI digital en las elecciones y rechaza un recurso contra urnas de cartón para los 'nietos'",
-"url": "https://www.europapress.es/nacional/noticia-supremo-avala-dni-digital-elecciones-rechaza-recurso-contra-urnas-carton-nietos-20261124151755.html",
-"fecha": "2026-11-24T14:17+00:00"
+"titulo": "El director económico de Sánchez declara que no se percibió conflicto de intereses en el préstamo para Air Europa",
+"url": "https://www.europapress.es/nacional/noticia-director-economico-sanchez-declara-no-percibio-conflicto-intereses-prestamo-air-europa-20261124161718.html",
+"fecha": "2026-11-24T15:17+00:00"
 },
 {
 "medio": "La Razón",
-"titulo": "Elecciones generales 29N, en directo: el Supremo avala el DNI digital y crece el choque por los decretos del Gobierno",
-"url": "https://www.larazon.es/espana/elecciones-generales-29n-directo-encuestas-actos-electorales-nuevos-decretos-gobierno-ultima-hora-candidatos_202611246b054457c0d5c85b96c5df99.html",
-"fecha": "2026-11-24T18:20+00:00"
+"titulo": "El cerebro económico de Sánchez reconoce al juez que no se valoró el conflicto por Begoña Gómez en el rescate de Air Europa",
+"url": "https://www.larazon.es/espana/cerebro-economico-sanchez-reconoce-juez-que-valoro-conflicto-begona-gomez-rescate-air-europa_202611246b05d73050b7057c6d1557d6.html",
+"fecha": "2026-11-24T18:37+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Moncloa, ante el apoyo de Sánchez al rescate de Air Europa y el papel de Begoña: \"Nadie vio conflicto de intereses\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-24/moncloa-ante-el-apoyo-de-sanchez-a-rescatar-air-europa-y-sus-reuniones-con-begona-nadie-vio-conflicto-de-intereses-7496780/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T14:38+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-23T08:44+00:00",
+"hasta": "2026-11-24T19:13+00:00",
+"temas": [],
+"comunes": [
+"comisaria",
+"palencia",
+"cocteles",
+"molotov",
+"inspeccionan",
+"atacada",
+"tedax",
+"nacional"
+],
+"titulares": [
+{
+"medio": "ABC",
+"titulo": "El lanzamiento de cócteles molotov contra la Comisaría de Palencia activa la alerta antiterrorista",
+"url": "https://www.abc.es/espana/castilla-leon/lanzan-cocteles-molotov-comisaria-palencia-localiza-mochila-20261123094423-nt.html",
+"fecha": "2026-11-23T15:05+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Los Tedax inspeccionan la Comisaría de la Policía Nacional en Palencia tras ser atacada con cócteles molotov y encuentran una mochila sospechosa",
+"url": "https://www.elmundo.es/espana/2026/11/23/6b03fcebfdddff9e548b4597.html",
+"fecha": "2026-11-23T08:44+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Los Tedax inspeccionan la comisaría de Palencia tras ser atacada con cócteles molotov",
+"url": "https://www.lavanguardia.com/politica/20261123/11690909/tedax-inspeccionan-comisaria-palencia-atacada-cocteles-molotov.html",
+"fecha": "2026-11-23T09:09+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Atacan con cócteles molotov la comisaría de Policía Nacional de Palencia y hallan otros ocho artefactos",
+"url": "https://www.libertaddigital.com/castilla-leon/2026-11-23/atacan-con-cocteles-molotov-la-comisaria-de-policia-nacional-de-palencia-y-hallan-otros-ocho-artefactos-7495904/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-23T09:08+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-22T10:42+00:00",
+"hasta": "2026-11-24T21:35+00:00",
+"temas": [
+"inmigracion",
+"empleo",
+"territorio"
+],
+"comunes": [
+"llegan",
+"cayucos",
+"hierro",
+"nuevos",
+"canarias",
+"ocho",
+"inmigrantes"
+],
+"titulares": [
+{
+"medio": "El Debate",
+"titulo": "Cuatro nuevos cayucos llegan este fin de semana a El Hierro en plena crisis migratoria",
+"url": "https://www.eldebate.com/espana/20261122/tres-nuevos-cayucos-llegan-este-fin-semana-hierro-plena-crisis-migratoria_483774.html",
+"fecha": "2026-11-22T10:42+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Ocho nuevos cayucos llegan a Canarias con 1.300 personas",
+"url": "https://elpais.com/espana/2026-11-24/seis-nuevos-cayucos-llegan-a-canarias-con-900-personas.html",
+"fecha": "2026-11-24T14:29+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Más de 1.611 inmigrantes llegan en diez cayucos a Canarias en una intensa jornada de rescates",
+"url": "https://okdiario.com/espana/mas-1-378-personas-llegan-diez-cayucos-canarias-intensa-jornada-rescates-21262428",
+"fecha": "2026-11-24T19:41+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Llegan este martes a El Hierro más de 1.200 inmigrantes en ocho cayucos",
+"url": "https://theobjective.com/sociedad/2026-11-24/llegan-el-hierro-mas-de-1200-inmigrantes-ocho-cayucos/",
+"fecha": "2026-11-24T16:16+00:00"
 }
 ]
 },
@@ -1354,9 +1485,9 @@
 "temas": [],
 "comunes": [
 "puertas",
-"senado",
-"trono",
 "abre",
+"trono",
+"senado",
 "isabel",
 "neogotica",
 "biblioteca"
@@ -1384,54 +1515,16 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-21T18:45+00:00",
-"hasta": "2026-11-22T10:18+00:00",
-"temas": [
-"inmigracion"
-],
-"comunes": [
-"salvamento",
-"maritimo",
-"hierro",
-"civil",
-"escoltan",
-"personas",
-"guardia",
-"cayucos"
-],
-"titulares": [
-{
-"medio": "El Confidencial",
-"titulo": "Salvamento Marítimo escolta a tres cayucos hasta El Hierro con 179 migrantes",
-"url": "https://www.elconfidencial.com/espana/islas-canarias/2026-11-22/salvamento-escolta-dos-cayucos-restinga-1tna-1tps_4470104/",
-"fecha": "2026-11-22T10:00+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Salvamento Marítimo y la Guardia Civil escoltan a tres cayucos hasta El Hierro, el primero con 74 personas a bordo",
-"url": "https://www.elmundo.es/espana/2026/11/22/6b02bf6dfdddff46338b4582.html",
-"fecha": "2026-11-22T10:18+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Salvamento Marítimo y Guardia Civil escoltan hasta El Hierro un cayuco con 67 personas",
-"url": "https://theobjective.com/espana/2026-11-21/salvamento-maritimo-guardia-civil-hierro-cayuco/",
-"fecha": "2026-11-21T18:45+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-22T10:45+00:00",
 "hasta": "2026-11-22T12:22+00:00",
 "temas": [
 "igualdad"
 ],
 "comunes": [
-"carrera",
 "barcelona",
 "arbol",
 "caida",
+"carrera",
 "heridas",
 "mujeres",
 "nueve"
@@ -1463,10 +1556,10 @@
 "hasta": "2026-11-22T13:27+00:00",
 "temas": [],
 "comunes": [
-"feijoo",
 "morant",
-"bofetadas",
+"feijoo",
 "odio",
+"bofetadas",
 "catala",
 "partido"
 ],
@@ -1499,11 +1592,11 @@
 "educacion"
 ],
 "comunes": [
+"votos",
 "feijoo",
-"parar",
 "bofetadas",
 "vamos",
-"votos",
+"parar",
 "psoe"
 ],
 "titulares": [
@@ -1529,52 +1622,18 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-21T19:29+00:00",
-"hasta": "2026-11-22T17:08+00:00",
-"temas": [],
-"comunes": [
-"mujer",
-"muerte",
-"detenido",
-"villarrobledo",
-"albacete",
-"hombre"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Detenido un hombre por su presunta relación con la muerte de una mujer en una finca de Villarrobledo",
-"url": "https://www.abc.es/espana/castilla-la-mancha/detenido-hombre-presunta-relacion-muerte-mujer-finca-20261122150334-nt.html",
-"fecha": "2026-11-22T14:07+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Detenido un hombre de 46 años tras la muerte de una mujer en Villarrobledo (Albacete)",
-"url": "https://www.eldebate.com/espana/castilla-la-mancha/20261122/detenido-hombre-relacion-muerte-mujer-villarrobledo-albacete_483887.html",
-"fecha": "2026-11-22T17:08+00:00"
-},
-{
-"medio": "El País",
-"titulo": "Un detenido tras la muerte de una mujer de 37 años en Villarrobledo (Albacete)",
-"url": "https://elpais.com/espana/2026-11-21/un-detenido-tras-la-muerte-de-una-mujer-de-37-anos-en-villarrobledo-albacete.html",
-"fecha": "2026-11-21T19:29+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-22T14:43+00:00",
 "hasta": "2026-11-22T20:03+00:00",
 "temas": [],
 "comunes": [
+"sanchez",
 "discutir",
 "montero",
-"sanchez",
-"salta",
 "cunado",
+"salta",
 "salte",
-"familias",
-"socialistas"
+"socialistas",
+"familias"
 ],
 "titulares": [
 {
@@ -1605,12 +1664,12 @@
 "vivienda"
 ],
 "comunes": [
+"rudilla",
 "vivienda",
 "explosion",
-"rudilla",
 "teruel",
-"muerto",
-"heridos"
+"heridos",
+"muerto"
 ],
 "titulares": [
 {
@@ -1641,10 +1700,10 @@
 "empleo"
 ],
 "comunes": [
-"nochevieja",
+"cierre",
 "horas",
 "nochebuena",
-"cierre",
+"nochevieja",
 "conciliacion",
 "mercadona",
 "adelanta"
@@ -1676,13 +1735,13 @@
 "hasta": "2026-11-23T13:30+00:00",
 "temas": [],
 "comunes": [
-"vox",
 "hace",
 "censal",
-"recibe",
-"marido",
-"diputada",
 "tarjeta",
+"recibe",
+"vox",
+"diputada",
+"marido",
 "votar"
 ],
 "titulares": [
@@ -1712,10 +1771,10 @@
 "hasta": "2026-11-23T14:09+00:00",
 "temas": [],
 "comunes": [
-"norcoreana",
-"rtve",
 "feijoo",
 "television",
+"norcoreana",
+"rtve",
 "promete",
 "equidad"
 ],
@@ -1746,12 +1805,12 @@
 "hasta": "2026-11-23T14:21+00:00",
 "temas": [],
 "comunes": [
-"vaya",
-"voto",
 "abascal",
-"sanchez",
-"util",
 "cualquier",
+"sanchez",
+"voto",
+"util",
+"vaya",
 "complices",
 "mafia"
 ],
@@ -1784,9 +1843,9 @@
 "territorio"
 ],
 "comunes": [
+"salvados",
 "entrevista",
 "sanchez",
-"salvados",
 "gonzo",
 "pedro",
 "madrid",
@@ -1812,42 +1871,7 @@
 "fecha": "2026-11-23T16:38+00:00"
 }
 ]
-},
-{
-"medios": 3,
-"desde": "2026-11-23T14:05+00:00",
-"hasta": "2026-11-23T17:15+00:00",
-"temas": [],
-"comunes": [
-"air",
-"rescate",
-"europa",
-"aagesen",
-"presiones",
-"niega",
-"conceder"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Aagesen niega irregularidades en el rescate de Air Europa y rechaza que recibiera presiones para conceder la ayuda",
-"url": "https://www.20minutos.es/nacional/aagesen-niega-irregularidades-rescate-air-europa-rechaza-que-recibiera-presiones-para-conceder-ayuda_7064558_0.html",
-"fecha": "2026-11-23T14:05+00:00"
-},
-{
-"medio": "ABC",
-"titulo": "La ministra Aagesen niega haber recibido presiones políticas para conceder el rescate de Air Europa",
-"url": "https://www.abc.es/espana/ministra-aagesen-niega-haber-recibido-presiones-politicas-20261123174544-nt.html",
-"fecha": "2026-11-23T17:15+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Aagesen niega presiones en el rescate de Air Europa en una vista sin preguntas sobre los tejemanejes de los Hidalgo",
-"url": "https://www.libertaddigital.com/espana/2026-11-23/aagesen-niega-presiones-en-el-rescate-de-air-europa-en-una-vista-sin-preguntas-sobre-los-tejemanejes-de-los-hidalgo-7496086/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T14:23+00:00"
-}
-]
 }
 ],
-"recogidas": 1746
+"recogidas": 1846
 }

@@ -1,5 +1,5 @@
 {
-"actualizado": "2026-11-26T15:00+00:00",
+"actualizado": "2026-11-26T22:27+00:00",
 "estado": {
 "ABC": 25,
 "Ara": 68,
@@ -7,7 +7,7 @@
 "El Confidencial": 15,
 "elDiario.es": 20,
 "El Español": 30,
-"El Mundo": 49,
+"El Mundo": 43,
 "El País": 19,
 "Europa Press": 10,
 "infoLibre": 53,
@@ -16,7 +16,7 @@
 "OKdiario": 50,
 "RTVE": 180,
 "The Objective": 20,
-"20minutos": 29,
+"20minutos": 35,
 "El Debate": 116,
 "La Razón": 15
 },
@@ -26,21 +26,26 @@
 ],
 "grupos": [
 {
-"medios": 9,
+"medios": 10,
 "desde": "2026-11-26T13:18+00:00",
-"hasta": "2026-11-26T14:23+00:00",
+"hasta": "2026-11-26T14:57+00:00",
 "temas": [
 "justicia"
 ],
 "comunes": [
 "abalos",
-"supremo",
 "2042",
+"supremo",
 "prision",
-"fija",
 "mayo"
 ],
 "titulares": [
+{
+"medio": "20minutos",
+"titulo": "El Tribunal Supremo establece en mayo de 2042 el fin de la condena de José Luis Ábalos y en noviembre de 2040 la de Koldo García",
+"url": "https://www.20minutos.es/nacional/tribunal-supremo-establece-mayo-2042-fin-condena-jose-luis-abalos-noviembre-2040-koldo-garcia_7066263_0.html",
+"fecha": "2026-11-26T14:57+00:00"
+},
 {
 "medio": "ABC",
 "titulo": "El Supremo fija el fin de la condena de prisión de Ábalos en 2042",
@@ -98,6 +103,76 @@
 ]
 },
 {
+"medios": 9,
+"desde": "2026-11-25T13:12+00:00",
+"hasta": "2026-11-26T22:27+00:00",
+"temas": [],
+"comunes": [
+"debate",
+"feijoo",
+"sanchez",
+"abascal",
+"colau",
+"cuatro"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Horario y dónde ver el debate a cuatro de este jueves entre Sánchez, Feijóo, Abascal y Colau",
+"url": "https://www.20minutos.es/nacional/horario-donde-ver-debate-cuatro-sanchez-feijoo-abascal-colau-jueves_7065628_0.html",
+"fecha": "2026-11-25T13:12+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Debate a cuatro con Pedro Sánchez, Feijóo, Abascal y Ada Colau hoy: formato, bloques y cómo es su funcionamiento",
+"url": "https://www.abc.es/espana/debate-cuatro-sanchez-feijoo-abascal-colau-hoy-20261126053000-nt.html",
+"fecha": "2026-11-26T14:29+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "À Punt ofrece este jueves el debate de Sánchez, Feijóo, Abascal y Ada Colau",
+"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261125/punt-ofrece-este-jueves-debate-sanchez-feijoo-abascal-ada-colau_485131.html",
+"fecha": "2026-11-25T16:03+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Sánchez, Feijóo, Abascal y Colau afrontan un debate clave para la definición de los dos bloques ante el 29-N",
+"url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html",
+"fecha": "2026-11-26T04:30+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Debate a cuatro entre Sánchez, Feijóo, Colau y Abascal en directo: última hora de las elecciones 2026",
+"url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html",
+"fecha": "2026-11-26T18:28+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Sánchez, Feijóo, Abascal y Colau se miden este jueves en un debate a cuatro que dibujará los dos bloques ante el 29N",
+"url": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-abascal-colau-miden-debate-cuatro-dibujara-dos-bloques-29n-20261125172619.html",
+"fecha": "2026-11-25T16:26+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "¿Quién ha ganado el debate a cuatro entre Sánchez, Feijóo, Abascal y Colau? Vota en nuestra encuesta",
+"url": "https://www.larazon.es/espana/quien-ganado-debate-cuatro-sanchez-feijoo-abascal-colau-vota-nuestra-encuesta_202611266b086a1fc0d5c85b96c852de.html",
+"fecha": "2026-11-26T21:45+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Debate electoral entre Sánchez, Feijóo, Abascal y Colau, en directo | Última gran cita antes de las elecciones del 29N",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-26/debate-electoral-entre-sanchez-feijoo-abascal-y-colau-en-directo-ultima-gran-cita-antes-de-las-elecciones-del-29n-7497666/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-26T19:00+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Vota: ¿Quién va ganando el debate a cuatro de hoy?",
+"url": "https://okdiario.com/espana/vota-quien-va-ganando-debate-cuatro-hoy-21282759",
+"fecha": "2026-11-26T21:48+00:00"
+}
+]
+},
+{
 "medios": 7,
 "desde": "2026-11-26T09:50+00:00",
 "hasta": "2026-11-26T14:07+00:00",
@@ -108,11 +183,11 @@
 "uco",
 "posibles",
 "obra",
-"belate",
 "irregularidades",
+"belate",
 "cerdan",
-"adjudicada",
-"penales"
+"penales",
+"adjudicada"
 ],
 "titulares": [
 {
@@ -161,33 +236,33 @@
 },
 {
 "medios": 7,
-"desde": "2026-11-23T15:48+00:00",
-"hasta": "2026-11-26T14:55+00:00",
+"desde": "2026-11-24T06:36+00:00",
+"hasta": "2026-11-26T22:23+00:00",
 "temas": [
 "territorio"
 ],
 "comunes": [
+"directo",
+"generales",
+"hora",
 "ultima",
 "elecciones",
-"hora",
-"generales",
-"directo",
 "campana",
-"electoral",
-"29n"
+"29n",
+"electoral"
 ],
 "titulares": [
 {
 "medio": "ABC",
-"titulo": "Elecciones generales 29N, en directo: última hora de la campaña y los mítines de Feijóo (PP), Sánchez (PSOE), Abascal (Vox) y Ada Colau (Frente Amplio) hoy",
-"url": "https://www.abc.es/espana/campana-electoral-29n-directo-ultima-hora-mitines-20261123091914-di.html",
-"fecha": "2026-11-23T18:14+00:00"
+"titulo": "Debate electoral a cuatro, en directo: ganador hoy y última hora de las elecciones generales 29N",
+"url": "https://www.abc.es/espana/debate-elecciones-generales-directo-pedro-sanchez-feijoo-20261126201502-di.html",
+"fecha": "2026-11-26T22:23+00:00"
 },
 {
 "medio": "El Español",
-"titulo": "Elecciones generales 29-N, en directo | Encuestas hoy y última hora de Pedro Sánchez y la campaña electoral de PP, PSOE y Vox",
-"url": "https://www.elespanol.com/espana/20261123/elecciones-generales-directo-encuestas-ultima-hora-campana-electoral-pp-psoe-vox-frente-amplio/1003744468186_10.html",
-"fecha": "2026-11-23T15:48+00:00"
+"titulo": "Elecciones generales 29-N, en directo | Resultados de encuestas y última hora de la campaña de PP, PSOE, Vox y Frente Amplio",
+"url": "https://www.elespanol.com/espana/20261124/elecciones-generales-directo-ganador-debate-encuestas-ultima-hora-pedro-sanchez-campana-pp-psoe-vox/1003744469486_10.html",
+"fecha": "2026-11-24T17:51+00:00"
 },
 {
 "medio": "elDiario.es",
@@ -203,9 +278,9 @@
 },
 {
 "medio": "La Razón",
-"titulo": "Elecciones generales 29N, en directo: última hora de la campaña electoral, encuestas y debates",
-"url": "https://www.larazon.es/espana/elecciones-generales-directo-encuestas-ultima-hora-campana-electoral-29n_202611236b03e554f6da642efef87380.html",
-"fecha": "2026-11-23T15:50+00:00"
+"titulo": "Elecciones generales 29N, en directo: reacciones al anuncio de Puigdemont y última hora de la campaña electoral",
+"url": "https://www.larazon.es/espana/elecciones-generales-29n-directo-ultima-hora-campana-electoral-cuatro-dias-urnas_202611256b067265f6da642efefa15da.html",
+"fecha": "2026-11-25T20:50+00:00"
 },
 {
 "medio": "La Vanguardia",
@@ -229,11 +304,11 @@
 "territorio"
 ],
 "comunes": [
-"puigdemont",
-"perdon",
 "permiso",
-"espana",
+"perdon",
+"puigdemont",
 "pedir",
+"espana",
 "diciembre",
 "volvera"
 ],
@@ -282,14 +357,14 @@
 "hasta": "2026-11-26T04:00+00:00",
 "temas": [],
 "comunes": [
-"parot",
-"tercer",
-"henri",
 "revoca",
+"tercer",
+"parot",
+"henri",
 "grado",
-"puedan",
+"nacional",
 "etarra",
-"nacional"
+"puedan"
 ],
 "titulares": [
 {
@@ -332,112 +407,55 @@
 },
 {
 "medios": 6,
-"desde": "2026-11-25T16:37+00:00",
-"hasta": "2026-11-26T11:49+00:00",
-"temas": [
-"inmigracion",
-"sanidad",
-"defensa",
-"territorio"
-],
-"comunes": [
-"hierro",
-"ume",
-"crisis",
-"sanitaria",
-"emergencia",
-"migratoria"
-],
-"titulares": [
-{
-"medio": "COPE",
-"titulo": "Emergencia humanitaria en El Hierro",
-"url": "https://www.cope.es/actualidad/linea-editorial/noticias/emergencia-humanitaria-hierro-20261126_3482625.html",
-"fecha": "2026-11-26T10:15+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "El Gobierno canario declara la emergencia sanitaria en El Hierro y pide el apoyo de la UME",
-"url": "https://www.eldebate.com/espana/20261125/gobierno-canario-declara-emergencia-sanitaria-hierro-pide-apoyo-ume_485232.html",
-"fecha": "2026-11-25T18:46+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "Clavijo declara la emergencia sanitaria y de seguridad en El Hierro y solicita el apoyo de la UME por la crisis migratoria",
-"url": "https://www.elespanol.com/espana/politica/20261125/clavijo-solicita-apoyo-ume-hierro-desborde-medios-recursos-crisis-migratoria/1003744472237_0.html",
-"fecha": "2026-11-25T16:37+00:00"
-},
-{
-"medio": "El País",
-"titulo": "La UME se desplegará en El Hierro tras declarar Canarias la emergencia por la crisis migratoria",
-"url": "https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html",
-"fecha": "2026-11-25T18:47+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Defensa desplegará la UME en El Hierro para garantizar la seguridad sanitaria en la crisis migratoria",
-"url": "https://www.lavanguardia.com/politica/20261125/11693367/gobierno-desplegara-ume-hierro-garantizar-seguridad-sanitaria.html",
-"fecha": "2026-11-25T16:46+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "Clavijo pide a la UME en El Hierro para contener la crisis sanitaria: «La situación es insostenible»",
-"url": "https://okdiario.com/espana/clavijo-pide-ume-hierro-contener-crisis-sanitaria-situacion-insostenible-21272001",
-"fecha": "2026-11-25T17:59+00:00"
-}
-]
-},
-{
-"medios": 6,
-"desde": "2026-11-23T16:48+00:00",
-"hasta": "2026-11-26T13:33+00:00",
+"desde": "2026-11-26T19:00+00:00",
+"hasta": "2026-11-26T20:16+00:00",
 "temas": [],
 "comunes": [
-"intxaurrondo",
+"ayuso",
+"video",
+"sanchez",
 "expediente",
-"abre",
-"junta",
-"silvia",
-"vox",
+"sol",
 "electoral",
-"cuestionar"
+"junta",
+"criticas"
 ],
 "titulares": [
 {
-"medio": "ABC",
-"titulo": "La JEC abre expediente sancionador a Intxaurrondo tras cuestionar si «tiene cabida Vox» en TVE",
-"url": "https://www.abc.es/espana/jec-abre-expediente-sancionador-intxaurrondo-tras-cuestionar-20261123182530-nt.html",
-"fecha": "2026-11-23T18:08+00:00"
+"medio": "El Confidencial",
+"titulo": "La Junta Electoral abre expediente a Ayuso por un vídeo institucional con críticas a Sánchez",
+"url": "https://www.elconfidencial.com/espana/2026-11-26/jec-rechaza-expediente-yolanda-diaz-1tps_4473716/",
+"fecha": "2026-11-26T19:14+00:00"
 },
 {
 "medio": "El Debate",
-"titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por cuestionar la presencia de Vox en RTVE",
-"url": "https://www.eldebate.com/cine-tv-series/20261123/junta-electoral-abre-expediente-silvia-intxaurrondo-cuestionar-presencia-vox-rtve_484304.html",
-"fecha": "2026-11-23T17:04+00:00"
+"titulo": "La Junta Electoral Central pide a la Junta de Madrid que expediente a Ayuso por criticar a Sánchez en un vídeo institucional",
+"url": "https://www.eldebate.com/espana/20261126/junta-electoral-central-pide-junta-madrid-expediente-ayuso-criticar-sanchez-video-institucional_485687.html",
+"fecha": "2026-11-26T20:16+00:00"
 },
 {
-"medio": "El País",
-"titulo": "El Consejo de Administración de RTVE respalda a Silvia Intxaurrondo ante el expediente abierto por la Junta Electoral",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-26/el-consejo-de-administracion-de-rtve-respalda-a-silvia-intxaurrondo-ante-el-expediente-abierto-por-la-junta-electoral.html",
-"fecha": "2026-11-26T13:33+00:00"
+"medio": "elDiario.es",
+"titulo": "La Junta Electoral Central abre expediente sancionador a Ayuso por su vídeo contra Sánchez tras el desalojo de Sol",
+"url": "https://www.eldiario.es/politica/junta-electoral-central-ordena-abrir-expediente-sancionador-ayuso-video-pedro-sanchez-desalojo-sol_1_13697287.html",
+"fecha": "2026-11-26T19:15+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "La Junta Electoral abre expediente a Silvia Intxaurrondo por no ser neutral con Vox",
-"url": "https://www.lavanguardia.com/politica/20261123/11691429/junta-electoral-abre-expediente-silvia-intxaurrondo-neutral-vox.html",
-"fecha": "2026-11-23T16:48+00:00"
+"medio": "Europa Press",
+"titulo": "La JEC insta a abrir expediente sancionador a Ayuso por un vídeo sobre la acampada de Sol con críticas a Sánchez",
+"url": "https://www.europapress.es/nacional/noticia-jec-abre-expediente-sancionador-ayuso-video-acampada-sol-criticas-sanchez-20261126200047.html",
+"fecha": "2026-11-26T19:00+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "La JEC abre expediente a Silvia Intxaurrondo por cuestionar la presencia de Vox en TVE",
-"url": "https://www.libertaddigital.com/espana/2026-11-23/la-jec-abre-expediente-a-silvia-intxaurrondo-por-cuestionar-la-presencia-de-vox-en-tve-7496326/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T17:20+00:00"
+"titulo": "La JEC expedienta a Ayuso por su vídeo de la acampada de Sol",
+"url": "https://www.libertaddigital.com/madrid/2026-11-26/la-jec-expedienta-a-ayuso-por-su-video-de-la-acampada-7498029/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-26T20:00+00:00"
 },
 {
 "medio": "The Objective",
-"titulo": "La FAPE pide a la Junta Electoral archivar el expediente a Intxaurrondo",
-"url": "https://theobjective.com/medios/2026-11-24/fape-pide-junta-electoral-archivar-expediente-intxaurrondo/",
-"fecha": "2026-11-24T16:36+00:00"
+"titulo": "La Junta Electoral abre expediente a Ayuso por sus críticas a Sánchez tras la acampada en Sol",
+"url": "https://theobjective.com/espana/politica/2026-11-26/junta-electoral-expediente-ayuso-sanchez/",
+"fecha": "2026-11-26T19:16+00:00"
 }
 ]
 },
@@ -447,12 +465,12 @@
 "hasta": "2026-11-24T12:47+00:00",
 "temas": [],
 "comunes": [
+"sanchez",
 "gonzalez",
 "blanco",
+"felipe",
 "ultraderecha",
 "frena",
-"felipe",
-"sanchez",
 "voto",
 "rojo"
 ],
@@ -491,63 +509,15 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-24T10:41+00:00",
-"hasta": "2026-11-24T16:53+00:00",
-"temas": [],
-"comunes": [
-"rocho",
-"juez",
-"biedma",
-"ratifica",
-"eliminar",
-"pedraz",
-"clan",
-"leire"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "La líder del clan Rocho confirma a Pedraz que fue un enlace del PSOE quien la contactó para causar «daño físico» a la jueza Biedma",
-"url": "https://www.eldebate.com/espana/20261124/lider-clan-rocho-confirma-pedraz-saenz-tejada-quien-contacto-causar-dano-fisico-jueza-biedma_484531.html",
-"fecha": "2026-11-24T11:14+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "La líder de 'Los Rocho' se ratifica ante Pedraz: declara que el socio de Leire Díez le propuso \"eliminar\" a la juez Biedma",
-"url": "https://www.elespanol.com/espana/tribunales/20261124/lider-rocho-ratifica-juez-declara-socio-leire-propuso-eliminar-beatriz-biedma/1003744469863_0.html",
-"fecha": "2026-11-24T10:41+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Cintia Rocho se ratifica ante Pedraz: está \"muy segura\" de que fue el ex juez Sáenz de Tejada quien contactó con ella para producirle \"daño físico\" a la juez del 'hermanísimo'",
-"url": "https://www.elmundo.es/espana/2026/11/24/6b056e6ce85ece73128b456e.html",
-"fecha": "2026-11-24T16:53+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "La matriarca de un clan ratifica al juez que la contactaron para “eliminar” a la jueza Biedma",
-"url": "https://www.lavanguardia.com/politica/20261124/11692298/matriarca-clan-reconoce-contactaron-eliminar-jueza-biedma.html",
-"fecha": "2026-11-24T14:17+00:00"
-},
-{
-"medio": "OKdiario",
-"titulo": "La jefa del clan de ‘los Rocho’ confirma al juez que la cloaca de Leire le encargó «eliminar» a la juez Biedma",
-"url": "https://okdiario.com/espana/jefa-del-clan-rocho-confirma-juez-que-cloaca-leire-encargo-eliminar-juez-biedma-21253711",
-"fecha": "2026-11-24T10:49+00:00"
-}
-]
-},
-{
-"medios": 5,
 "desde": "2026-11-24T14:17+00:00",
 "hasta": "2026-11-24T18:20+00:00",
 "temas": [],
 "comunes": [
-"elecciones",
-"dni",
 "supremo",
-"avala",
+"dni",
+"elecciones",
 "rechaza",
+"avala",
 "generales",
 "digital",
 "uso"
@@ -587,6 +557,54 @@
 },
 {
 "medios": 5,
+"desde": "2026-11-24T14:38+00:00",
+"hasta": "2026-11-24T18:37+00:00",
+"temas": [],
+"comunes": [
+"europa",
+"air",
+"sanchez",
+"conflicto",
+"rescate",
+"intereses",
+"economico",
+"moncloa"
+],
+"titulares": [
+{
+"medio": "El Mundo",
+"titulo": "El jefe de la Oficina Económica de Moncloa niega haber apreciado conflicto de intereses en el rescate de Air Europa",
+"url": "https://www.elmundo.es/espana/2026/11/24/6b057db7e85ece73128b457e.html",
+"fecha": "2026-11-24T17:37+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El director económico de Sánchez declara que no se percibió conflicto de intereses en el préstamo para Air Europa",
+"url": "https://www.europapress.es/nacional/noticia-director-economico-sanchez-declara-no-percibio-conflicto-intereses-prestamo-air-europa-20261124161718.html",
+"fecha": "2026-11-24T15:17+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El cerebro económico de Sánchez reconoce al juez que no se valoró el conflicto por Begoña Gómez en el rescate de Air Europa",
+"url": "https://www.larazon.es/espana/cerebro-economico-sanchez-reconoce-juez-que-valoro-conflicto-begona-gomez-rescate-air-europa_202611246b05d73050b7057c6d1557d6.html",
+"fecha": "2026-11-24T18:37+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Moncloa, ante el apoyo de Sánchez al rescate de Air Europa y el papel de Begoña: \"Nadie vio conflicto de intereses\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-24/moncloa-ante-el-apoyo-de-sanchez-a-rescatar-air-europa-y-sus-reuniones-con-begona-nadie-vio-conflicto-de-intereses-7496780/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T14:38+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El asesor económico de Sánchez dice que no habló del rescate a Air Europa con el presidente",
+"url": "https://theobjective.com/espana/tribunales/2026-11-24/asesor-economico-sanchez-rescate-air-europa/",
+"fecha": "2026-11-24T16:36+00:00"
+}
+]
+},
+{
+"medios": 5,
 "desde": "2026-11-24T13:05+00:00",
 "hasta": "2026-11-24T21:35+00:00",
 "temas": [
@@ -600,8 +618,8 @@
 "inmigrantes",
 "canarias",
 "ocho",
-"hierro",
 "nuevos",
+"hierro",
 "personas"
 ],
 "titulares": [
@@ -647,8 +665,8 @@
 "leire",
 "correos",
 "irregularidades",
-"gabinete",
 "sanchez",
+"gabinete",
 "cita",
 "delitos"
 ],
@@ -691,12 +709,12 @@
 "hasta": "2026-11-25T15:15+00:00",
 "temas": [],
 "comunes": [
-"adamuz",
 "soldadura",
+"adamuz",
 "peritos",
+"apuntan",
 "causas",
 "accidente",
-"apuntan",
 "terreno",
 "hundimiento"
 ],
@@ -735,49 +753,52 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-26T07:01+00:00",
-"hasta": "2026-11-26T11:31+00:00",
-"temas": [],
+"desde": "2026-11-25T16:13+00:00",
+"hasta": "2026-11-26T11:49+00:00",
+"temas": [
+"inmigracion",
+"sanidad",
+"territorio"
+],
 "comunes": [
-"podemos",
-"frente",
-"amplio",
-"carmena",
-"piden",
-"bescansa",
-"voto",
-"garzon"
+"emergencia",
+"ume",
+"hierro",
+"despliegue",
+"pide",
+"declara",
+"canarias"
 ],
 "titulares": [
 {
+"medio": "COPE",
+"titulo": "Emergencia humanitaria en El Hierro",
+"url": "https://www.cope.es/actualidad/linea-editorial/noticias/emergencia-humanitaria-hierro-20261126_3482625.html",
+"fecha": "2026-11-26T10:15+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El Gobierno canario declara la emergencia sanitaria en El Hierro y pide el apoyo de la UME",
+"url": "https://www.eldebate.com/espana/20261125/gobierno-canario-declara-emergencia-sanitaria-hierro-pide-apoyo-ume_485232.html",
+"fecha": "2026-11-25T18:46+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "\"La verdad de la inmigración es ésta, no lo que dice Sánchez\": Canarias declara la emergencia y logra el despliegue de la UME",
+"url": "https://www.elespanol.com/espana/politica/20261126/verdad-inmigracion-no-dice-sanchez-canarias-declara-emergencia-pide-intervenga-ume/1003744471848_0.html",
+"fecha": "2026-11-26T04:00+00:00"
+},
+{
 "medio": "El Mundo",
-"titulo": "Carmena, Bescansa, Garzón y 75 cargos del primer Podemos y sus confluencias piden el voto para el Frente Amplio apelando a los que se ilusionaron en aquellos años",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b078c79fc6c8331038b4596.html",
-"fecha": "2026-11-26T07:01+00:00"
+"titulo": "Clavijo lanza un 'SOS' a Europa y pide el despliegue de la UME ante la \"emergencia\" en El Hierro: \"No es justo que respondamos solos ante un drama de esta magnitud\"",
+"url": "https://www.elmundo.es/espana/2026/11/25/6b0702d1e9cf4a2c308b4584.html",
+"fecha": "2026-11-25T16:13+00:00"
 },
 {
-"medio": "elDiario.es",
-"titulo": "Carmena, Bescansa, Tania Sánchez y otros exdirigentes de Podemos y su entorno piden el voto para el Frente Amplio",
-"url": "https://www.eldiario.es/politica/carmena-bescansa-tania-sanchez-exdirigentes-entorno-piden-voto-frente-amplio_1_13694266.html",
-"fecha": "2026-11-26T07:35+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Manuela Carmena, Alberto Garzón y excargos de Podemos como Bescansa y Ramón Espinar piden votar a Frente Amplio",
-"url": "https://www.europapress.es/nacional/noticia-manuela-carmena-alberto-garzon-excargos-podemos-bescansa-ramon-espinar-piden-votar-frente-amplio-20261126094619.html",
-"fecha": "2026-11-26T08:46+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "La división de la izquierda en la recta final de campaña: 75 antiguos cargos de Podemos y sus confluencias piden el voto para el Frente Amplio",
-"url": "https://www.larazon.es/espana/division-izquierda-recta-final-campana-75-antiguos-cargos-podemos-sus-confluencias-piden-voto-frente-amplio_202611266b0810b05cb1082f89b59eda.html",
-"fecha": "2026-11-26T11:31+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "Excargos de Podemos y sus alianzas como Carmena, Bescansa y Espinar apoyan a Frente Amplio",
-"url": "https://www.lavanguardia.com/politica/20261126/11693793/excargos-alianzas-carmena-bescansa-espinar-apoyan-frente-amplio.html",
-"fecha": "2026-11-26T08:41+00:00"
+"medio": "infoLibre",
+"titulo": "Canarias declara la emergencia en El Hierro y pide el despliegue de la UME",
+"url": "https://www.infolibre.es/politica/canarias-declara-emergencia-hierro-pide-despliegue-ume_1_2241235.html",
+"fecha": "2026-11-25T17:40+00:00"
 }
 ]
 },
@@ -787,13 +808,13 @@
 "hasta": "2026-11-26T12:01+00:00",
 "temas": [],
 "comunes": [
-"fuerte",
 "feijoo",
-"guapo",
-"abascal",
 "sanchez",
-"fallar",
+"abascal",
+"fuerte",
+"guapo",
 "gana",
+"fallar",
 "voy"
 ],
 "titulares": [
@@ -831,6 +852,54 @@
 },
 {
 "medios": 5,
+"desde": "2026-11-25T11:17+00:00",
+"hasta": "2026-11-26T13:01+00:00",
+"temas": [],
+"comunes": [
+"cinco",
+"decretos",
+"gobierno",
+"ultimos",
+"29n",
+"vox",
+"permanente",
+"diputacion"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "La Diputación Permanente convalida sus últimos cinco decretos antes del 29N entre críticas de la oposición y la ausencia de Vox",
+"url": "https://www.20minutos.es/nacional/diputacion-permanente-convalida-sus-ultimos-cinco-decretos-antes-29n-entre-criticas-oposicion-ausencia-vox_7066199_0.html",
+"fecha": "2026-11-26T12:53+00:00"
+},
+{
+"medio": "El Español",
+"titulo": "El Gobierno convalida otros cinco decretos entre acusaciones de sus propios socios de “electoralismo\"",
+"url": "https://www.elespanol.com/espana/politica/20261126/gobierno-convalida-decretos-acusaciones-propios-socios-electoralismo/1003744473386_0.html",
+"fecha": "2026-11-26T13:01+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "El Congreso se prepara para votar los últimos cinco decretos del Gobierno",
+"url": "https://www.europapress.es/nacional/noticia-congreso-prepara-votar-ultimos-cinco-decretos-gobierno-20261125121705.html",
+"fecha": "2026-11-25T11:17+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El Gobierno saca adelante los últimos cinco decretos ley antes del 29N con plantón de Vox y lanzadas del PP",
+"url": "https://www.larazon.es/espana/gobierno-saca-adelante-ultimos-cinco-decretos-ley-legislatura-planton-vox-lanzadas_202611266b0813cdf6da642efefb85c3.html",
+"fecha": "2026-11-26T12:09+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La diputación permanente da luz verde a los cinco últimos decretos del Gobierno",
+"url": "https://www.lavanguardia.com/politica/20261126/11694060/diputacion-permanente-da-luz-verde-cinco-ultimos-decretos-gobierno.html",
+"fecha": "2026-11-26T12:32+00:00"
+}
+]
+},
+{
+"medios": 5,
 "desde": "2026-11-26T05:57+00:00",
 "hasta": "2026-11-26T14:08+00:00",
 "temas": [
@@ -839,12 +908,12 @@
 "comunes": [
 "cargado",
 "ibiza",
-"marinero",
-"muere",
 "combustible",
+"muere",
+"marinero",
 "buque",
 "barco",
-"millones"
+"hundimiento"
 ],
 "titulares": [
 {
@@ -881,170 +950,149 @@
 },
 {
 "medios": 5,
-"desde": "2026-11-25T13:12+00:00",
-"hasta": "2026-11-26T14:29+00:00",
-"temas": [],
+"desde": "2026-11-26T11:58+00:00",
+"hasta": "2026-11-26T14:16+00:00",
+"temas": [
+"inmigracion",
+"defensa"
+],
 "comunes": [
-"colau",
-"debate",
-"feijoo",
-"abascal",
-"sanchez",
-"cuatro",
-"jueves",
-"bloques"
+"tetuan",
+"caliente",
+"estaba",
+"consul",
+"embajador",
+"frontera",
+"espana",
+"aviso"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "Horario y dónde ver el debate a cuatro de este jueves entre Sánchez, Feijóo, Abascal y Colau",
-"url": "https://www.20minutos.es/nacional/horario-donde-ver-debate-cuatro-sanchez-feijoo-abascal-colau-jueves_7065628_0.html",
-"fecha": "2026-11-25T13:12+00:00"
+"titulo": "El cónsul de Tetuán declara que trasladó al embajador que había recibido avisos de que la frontera en Ceuta estaba \"caliente\"",
+"url": "https://www.20minutos.es/nacional/consul-tetuan-declara-que-traslado-embajador-que-habia-recibido-avisos-que-frontera-ceuta-estaba-caliente_7066172_0.html",
+"fecha": "2026-11-26T12:18+00:00"
 },
 {
-"medio": "ABC",
-"titulo": "Debate a cuatro con Pedro Sánchez, Feijóo, Abascal y Ada Colau hoy: formato, bloques y cómo es su funcionamiento",
-"url": "https://www.abc.es/espana/debate-cuatro-sanchez-feijoo-abascal-colau-hoy-20261126053000-nt.html",
-"fecha": "2026-11-26T14:29+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "À Punt ofrece este jueves el debate de Sánchez, Feijóo, Abascal y Ada Colau",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261125/punt-ofrece-este-jueves-debate-sanchez-feijoo-abascal-ada-colau_485131.html",
-"fecha": "2026-11-25T16:03+00:00"
+"medio": "El Español",
+"titulo": "El cónsul de Tetuán dice que elevó al embajador el día antes de la invasión la alerta de que la frontera ceutí estaba \"caliente\"",
+"url": "https://www.elespanol.com/espana/tribunales/20261126/consul-tetuan-dice-elevo-embajador-dia-invasion-alerta-frontera-ceuti-caliente/1003744473223_0.html",
+"fecha": "2026-11-26T11:58+00:00"
 },
 {
 "medio": "El País",
-"titulo": "Sánchez, Feijóo, Abascal y Colau afrontan un debate clave para la definición de los dos bloques ante el 29-N",
-"url": "https://elpais.com/espana/elecciones-generales/2026-11-26/sanchez-feijoo-abascal-y-colau-afrontan-un-debate-clave-para-la-definicion-de-los-dos-bloques-ante-el-29-n.html",
-"fecha": "2026-11-26T04:30+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "Sánchez, Feijóo, Abascal y Colau se miden este jueves en un debate a cuatro que dibujará los dos bloques ante el 29N",
-"url": "https://www.europapress.es/nacional/noticia-sanchez-feijoo-abascal-colau-miden-debate-cuatro-dibujara-dos-bloques-29n-20261125172619.html",
-"fecha": "2026-11-25T16:26+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-23T16:44+00:00",
-"hasta": "2026-11-23T18:07+00:00",
-"temas": [],
-"comunes": [
-"moncloa",
-"bustinduy",
-"bolanos",
-"abre",
-"expediente",
-"junta",
-"electoral",
-"hacer"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "La Junta Electoral abre expediente a los ministros Bolaños y Bustinduy por posibles declaraciones partidistas desde Moncloa",
-"url": "https://www.20minutos.es/nacional/junta-electoral-abre-expediente-los-ministros-bolanos-bustinduy-por-declaraciones-partidistas-desde-moncloa_7064774_0.html",
-"fecha": "2026-11-23T17:12+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "La Junta Electoral expedienta a Bolaños y Bustinduy por vulnerar la neutralidad política desde La Moncloa",
-"url": "https://www.eldebate.com/espana/20261123/junta-electoral-expedienta-bolanos-bustinduy-vulnerar-neutralidad-politica-desde-moncloa_484332.html",
-"fecha": "2026-11-23T18:07+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "La JEC abre expediente sancionador a Bolaños y Bustinduy por hacer partidismo desde Moncloa",
-"url": "https://www.europapress.es/nacional/noticia-jec-abre-expediente-sancionador-bolanos-bustinduy-hacer-partidismo-moncloa-20261123174458.html",
-"fecha": "2026-11-23T16:44+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La Junta Electoral abre expediente a Bolaños y Bustinduy por hacer partidismo desde Moncloa",
-"url": "https://theobjective.com/espana/politica/2026-11-23/junta-electoral-expediente-bolanos-partidismo-moncloa/",
-"fecha": "2026-11-23T18:06+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-23T15:08+00:00",
-"hasta": "2026-11-23T23:43+00:00",
-"temas": [],
-"comunes": [
-"ocho",
-"portavoces",
-"debate",
-"electoral",
-"parlamentarios",
-"directo"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "Así será el debate a ocho de hoy entre portavoces parlamentarios: una hora y media de duración y tres bloques temáticos",
-"url": "https://www.20minutos.es/nacional/asi-sera-debate-ocho-hoy-portavoces-parlamentarios-una-hora-media-duracion-tres-bloques-tematicos_7064509_0.html",
-"fecha": "2026-11-23T15:08+00:00"
-},
-{
-"medio": "El Debate",
-"titulo": "Debate electoral a ocho entre los portavoces parlamentarios, en directo",
-"url": "https://www.eldebate.com/espana/20261123/debate-electoral-ocho-entre-portavoces-parlamentarios-directo_484323.html",
-"fecha": "2026-11-23T17:36+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Justa electoral con ocho portavoces y una traductora",
-"url": "https://www.elmundo.es/espana/2026/11/24/6b04cd7ae4d4d845488b4597.html",
-"fecha": "2026-11-23T23:43+00:00"
+"titulo": "El cónsul en Tetuán dice a la jueza que informó al embajador de que la frontera de Ceuta estaba “caliente”",
+"url": "https://elpais.com/espana/2026-11-26/el-consul-en-tetuan-dice-a-la-jueza-que-informo-al-embajador-de-que-la-frontera-de-ceuta-estaba-caliente.html",
+"fecha": "2026-11-26T13:54+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "Debate elecciones generales 29N, en directo: finaliza el encuentro entre los ocho portavoces tras una noche de tensión en la campaña electoral",
-"url": "https://www.lavanguardia.com/politica/20261123/11691302/debate-electoral-a-8-rtve-elecciones-generales-29n-ultima-hora-en-directo.html",
-"fecha": "2026-11-23T20:38+00:00"
+"titulo": "El cónsul de España en Tetuán dice que el CNI le avisó de que la zona estaba “caliente” los días previos a la entrada masiva",
+"url": "https://www.lavanguardia.com/politica/20261126/11694155/consul-espana-ceuta-dice-cni-le-aviso-zona-caliente-dias-previos-entrada-masiva.html",
+"fecha": "2026-11-26T14:16+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El cónsul de Tetuán dice a la juez que avisó al embajador de España en Marruecos de que la frontera estaba \"caliente\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-26/el-consul-de-tetuan-dice-a-la-juez-que-aviso-al-embajador-de-espana-en-marruecos-de-que-la-frontera-estaba-caliente-7497685/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-26T12:14+00:00"
 }
 ]
 },
 {
-"medios": 4,
-"desde": "2026-11-23T15:41+00:00",
-"hasta": "2026-11-24T14:18+00:00",
-"temas": [],
+"medios": 5,
+"desde": "2026-11-24T05:00+00:00",
+"hasta": "2026-11-26T21:18+00:00",
+"temas": [
+"vivienda"
+],
 "comunes": [
-"pro",
-"bono",
-"gonzalez",
-"acusa",
-"felipe"
+"cara",
+"albiol",
+"colau",
+"feijoo",
+"sanchez"
 ],
 "titulares": [
 {
-"medio": "El Español",
-"titulo": "Bono, fuera de quicio: graba con su móvil a los periodistas, les pregunta qué ganan y presume de ser \"pro bono\" y no \"pro Pepe\"",
-"url": "https://www.elespanol.com/espana/politica/20261124/bono-quicio-graba-movil-periodistas-pregunta-ganan-presume-pro-no-pepe/1003744469899_0.html",
-"fecha": "2026-11-24T11:20+00:00"
+"medio": "Ara",
+"titulo": "“No m’imagino què faria de vicepresidenta després del que ha fet a Barcelona”: Albiol i Colau se les tenen en el cara a cara",
+"url": "https://www.ara.cat/politica/no-m-imagino-faria-vicepresidenta-despres-fet-barcelona-albiol-colau-tenen-cara-cara_1_5921854.html",
+"fecha": "2026-11-24T22:28+00:00"
 },
 {
-"medio": "El Mundo",
-"titulo": "González responde con sarcasmo a Bono tras pedirle que vote al PSOE: \"Sé que él lo hace 'pro bono'\"",
-"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b042561e85eceed0a8b457d.html",
-"fecha": "2026-11-23T15:41+00:00"
+"medio": "El Debate",
+"titulo": "Feijóo sonroja a Sánchez tras revelar todas las preguntas que no respondió el presidente en el cara a cara",
+"url": "https://www.eldebate.com/espana/20261126/feijoo-sonroja-sanchez-revelar-todas-preguntas-no-respondio-presidente-cara-cara_485700.html",
+"fecha": "2026-11-26T21:18+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Albiol se enzarza con Colau en un cara a cara sobre la vivienda cargado de datos tergiversados",
+"url": "https://www.eldiario.es/catalunya/albiol-enzarza-colau-cara-cara-vivienda-cargado-datos-tergiversados_1_13690499.html",
+"fecha": "2026-11-24T23:44+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "De cara a las elecciones",
+"url": "https://www.lavanguardia.com/politica/20261124/11691356/cara-elecciones.html",
+"fecha": "2026-11-24T05:00+00:00"
 },
 {
 "medio": "Libertad Digital",
-"titulo": "Editorial de Juan Pablo: Bono irritado acusa a Felipe: Es pro PP",
-"url": "https://esradio.libertaddigital.com/es-noticia/editorial-de-es-noticia/2026-11-24/editorial-de-juan-pablo-bono-irritado-acusa-a-felipe-es-pro-pp-7496775/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-24T14:18+00:00"
+"titulo": "Feijóo saldrá a rematar a Sánchez tras un cara a cara demoledor",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-26/feijoo-saldra-a-rematar-a-sanchez-tras-un-cara-a-cara-demoledor-7497411/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-26T05:02+00:00"
+}
+]
+},
+{
+"medios": 5,
+"desde": "2026-11-26T21:31+00:00",
+"hasta": "2026-11-26T22:22+00:00",
+"temas": [
+"vivienda"
+],
+"comunes": [
+"buitre",
+"abascal",
+"colau",
+"presidente",
+"izquierda",
+"aqui",
+"gran",
+"vivienda"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Abascal y Colau protagonizan un momento de tensión en el debate al hablar de vivienda y los fondos: \"Buitre, el que tengo aquí al lado\"",
+"url": "https://www.20minutos.es/nacional/abascal-colau-protagonizan-un-momento-tension-debate-hablar-vivienda-los-fondos-buitre-que-tengo-aqui-lado_7066467_0.html",
+"fecha": "2026-11-26T22:02+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Las mejores frases de Abascal en el debate a cuatro: del «gran buitre en España» al «es incapaz de enfrentarse a mí»",
+"url": "https://www.abc.es/espana/gran-buitre-espana-incapaz-enfrentarse-mejores-frases-20261126231623-nt.html",
+"fecha": "2026-11-26T22:22+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Abascal contesta a Colau: «El único buitre que hay aquí está a mi izquierda: el presidente del Gobierno»",
+"url": "https://www.eldebate.com/espana/20261126/abascal-contesta-colau-unico-buitre-hay-aqui-esta-mi-izquierda-presidente-gobierno_485703.html",
+"fecha": "2026-11-26T21:31+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Abascal llama buitre a Sánchez, Colau le defiende y el presidente replica: \"Los ataques personales, al reality\"",
+"url": "https://www.europapress.es/nacional/noticia-abascal-llama-buitre-sanchez-colau-le-defiende-presidente-replica-ataques-personales-reality-20261126224804.html",
+"fecha": "2026-11-26T21:48+00:00"
 },
 {
 "medio": "OKdiario",
-"titulo": "Bono acusa ahora a Felipe González de trabajar para la derecha: «Yo prefiero ser pro bono a pro PP»",
-"url": "https://okdiario.com/espana/bono-acusa-ahora-felipe-gonzalez-trabajar-derecha-yo-prefiero-ser-pro-bono-pro-pp-21255989",
-"fecha": "2026-11-24T10:31+00:00"
+"titulo": "Enganchón de Abascal con Colau por la vivienda: «El gran buitre es el presidente que tengo a mi izquierda»",
+"url": "https://okdiario.com/espana/enganchon-abascal-colau-vivienda-gran-buitre-presidente-que-tengo-izquierda-21283051",
+"fecha": "2026-11-26T21:35+00:00"
 }
 ]
 },
@@ -1056,14 +1104,14 @@
 "defensa"
 ],
 "comunes": [
+"pagos",
 "psoe",
 "abogados",
-"pagos",
 "exige",
 "pedraz",
 "juez",
-"autorizo",
-"saber"
+"saber",
+"autorizo"
 ],
 "titulares": [
 {
@@ -1098,14 +1146,14 @@
 "hasta": "2026-11-24T18:09+00:00",
 "temas": [],
 "comunes": [
-"rapeando",
 "bro",
+"rapeando",
 "discursos",
-"gorra",
 "gafas",
+"gorra",
+"mancha",
 "castilla",
-"cortes",
-"mancha"
+"cortes"
 ],
 "titulares": [
 {
@@ -1136,83 +1184,48 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-24T14:38+00:00",
-"hasta": "2026-11-24T18:37+00:00",
-"temas": [],
+"desde": "2026-11-25T16:37+00:00",
+"hasta": "2026-11-25T18:47+00:00",
+"temas": [
+"inmigracion",
+"sanidad",
+"defensa",
+"territorio"
+],
 "comunes": [
-"europa",
-"conflicto",
-"air",
-"rescate",
-"sanchez",
-"intereses",
-"begona",
-"moncloa"
+"ume",
+"hierro",
+"crisis",
+"sanitaria",
+"migratoria",
+"seguridad",
+"clavijo",
+"emergencia"
 ],
 "titulares": [
 {
-"medio": "El Mundo",
-"titulo": "El jefe de la Oficina Económica de Moncloa niega haber apreciado conflicto de intereses en el rescate de Air Europa",
-"url": "https://www.elmundo.es/espana/2026/11/24/6b057db7e85ece73128b457e.html",
-"fecha": "2026-11-24T17:37+00:00"
-},
-{
-"medio": "Europa Press",
-"titulo": "El director económico de Sánchez declara que no se percibió conflicto de intereses en el préstamo para Air Europa",
-"url": "https://www.europapress.es/nacional/noticia-director-economico-sanchez-declara-no-percibio-conflicto-intereses-prestamo-air-europa-20261124161718.html",
-"fecha": "2026-11-24T15:17+00:00"
-},
-{
-"medio": "La Razón",
-"titulo": "El cerebro económico de Sánchez reconoce al juez que no se valoró el conflicto por Begoña Gómez en el rescate de Air Europa",
-"url": "https://www.larazon.es/espana/cerebro-economico-sanchez-reconoce-juez-que-valoro-conflicto-begona-gomez-rescate-air-europa_202611246b05d73050b7057c6d1557d6.html",
-"fecha": "2026-11-24T18:37+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Moncloa, ante el apoyo de Sánchez al rescate de Air Europa y el papel de Begoña: \"Nadie vio conflicto de intereses\"",
-"url": "https://www.libertaddigital.com/espana/2026-11-24/moncloa-ante-el-apoyo-de-sanchez-a-rescatar-air-europa-y-sus-reuniones-con-begona-nadie-vio-conflicto-de-intereses-7496780/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-24T14:38+00:00"
-}
-]
-},
-{
-"medios": 4,
-"desde": "2026-11-23T15:16+00:00",
-"hasta": "2026-11-25T00:58+00:00",
-"temas": [],
-"comunes": [
-"rescate",
-"europa",
-"air",
-"aagesen",
-"presiones",
-"niegan"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "La ministra Aagesen niega haber recibido presiones políticas para conceder el rescate de Air Europa",
-"url": "https://www.abc.es/espana/ministra-aagesen-niega-haber-recibido-presiones-politicas-20261123174544-nt.html",
-"fecha": "2026-11-23T17:15+00:00"
-},
-{
-"medio": "El Mundo",
-"titulo": "Aagesen exigió cambiar el acta clave del rescate de Air Europa para salvar su responsabilidad personal",
-"url": "https://www.elmundo.es/espana/2026/11/25/6b05e280fc6c83fd3a8b457b.html",
-"fecha": "2026-11-25T00:58+00:00"
+"medio": "El Español",
+"titulo": "Clavijo declara la emergencia sanitaria y de seguridad en El Hierro y solicita el apoyo de la UME por la crisis migratoria",
+"url": "https://www.elespanol.com/espana/politica/20261125/clavijo-solicita-apoyo-ume-hierro-desborde-medios-recursos-crisis-migratoria/1003744472237_0.html",
+"fecha": "2026-11-25T16:37+00:00"
 },
 {
 "medio": "El País",
-"titulo": "Errejón y otros testigos niegan conocer irregularidades en el rescate de Air Europa",
-"url": "https://elpais.com/espana/2026-11-24/errejon-y-otros-testigos-niegan-conocer-irregularidades-en-el-rescate-de-air-europa.html",
-"fecha": "2026-11-24T12:47+00:00"
+"titulo": "La UME se desplegará en El Hierro tras declarar Canarias la emergencia por la crisis migratoria",
+"url": "https://elpais.com/espana/2026-11-25/sin-pausa-en-la-ruta-canaria-190-personas-mas-llegan-en-dos-cayucos-a-el-hierro.html",
+"fecha": "2026-11-25T18:47+00:00"
 },
 {
-"medio": "The Objective",
-"titulo": "Aagesen y el resto de cargos del Gobierno niegan presiones en el rescate de Air Europa",
-"url": "https://theobjective.com/espana/tribunales/2026-11-23/aagesen-cargos-gobierno-rescate-air-europa/",
-"fecha": "2026-11-23T15:16+00:00"
+"medio": "La Vanguardia",
+"titulo": "Defensa desplegará la UME en El Hierro para garantizar la seguridad sanitaria en la crisis migratoria",
+"url": "https://www.lavanguardia.com/politica/20261125/11693367/gobierno-desplegara-ume-hierro-garantizar-seguridad-sanitaria.html",
+"fecha": "2026-11-25T16:46+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Clavijo pide a la UME en El Hierro para contener la crisis sanitaria: «La situación es insostenible»",
+"url": "https://okdiario.com/espana/clavijo-pide-ume-hierro-contener-crisis-sanitaria-situacion-insostenible-21272001",
+"fecha": "2026-11-25T17:59+00:00"
 }
 ]
 },
@@ -1224,10 +1237,10 @@
 "igualdad"
 ],
 "comunes": [
-"begona",
-"gomez",
 "machista",
 "bote",
+"gomez",
+"begona",
 "botes",
 "coge",
 "micro",
@@ -1262,40 +1275,43 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-24T05:00+00:00",
-"hasta": "2026-11-26T05:02+00:00",
-"temas": [
-"vivienda"
-],
+"desde": "2026-11-26T07:01+00:00",
+"hasta": "2026-11-26T08:46+00:00",
+"temas": [],
 "comunes": [
-"cara",
-"albiol",
-"colau"
+"podemos",
+"carmena",
+"amplio",
+"bescansa",
+"frente",
+"piden",
+"voto",
+"garzon"
 ],
 "titulares": [
 {
-"medio": "Ara",
-"titulo": "“No m’imagino què faria de vicepresidenta després del que ha fet a Barcelona”: Albiol i Colau se les tenen en el cara a cara",
-"url": "https://www.ara.cat/politica/no-m-imagino-faria-vicepresidenta-despres-fet-barcelona-albiol-colau-tenen-cara-cara_1_5921854.html",
-"fecha": "2026-11-24T22:28+00:00"
+"medio": "El Mundo",
+"titulo": "Carmena, Bescansa, Garzón y 75 cargos del primer Podemos y sus confluencias piden el voto para el Frente Amplio apelando a los que se ilusionaron en aquellos años",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/26/6b078c79fc6c8331038b4596.html",
+"fecha": "2026-11-26T07:01+00:00"
 },
 {
 "medio": "elDiario.es",
-"titulo": "Albiol se enzarza con Colau en un cara a cara sobre la vivienda cargado de datos tergiversados",
-"url": "https://www.eldiario.es/catalunya/albiol-enzarza-colau-cara-cara-vivienda-cargado-datos-tergiversados_1_13690499.html",
-"fecha": "2026-11-24T23:44+00:00"
+"titulo": "Carmena, Bescansa, Tania Sánchez y otros exdirigentes de Podemos y su entorno piden el voto para el Frente Amplio",
+"url": "https://www.eldiario.es/politica/carmena-bescansa-tania-sanchez-exdirigentes-entorno-piden-voto-frente-amplio_1_13694266.html",
+"fecha": "2026-11-26T07:35+00:00"
+},
+{
+"medio": "Europa Press",
+"titulo": "Manuela Carmena, Alberto Garzón y excargos de Podemos como Bescansa y Ramón Espinar piden votar a Frente Amplio",
+"url": "https://www.europapress.es/nacional/noticia-manuela-carmena-alberto-garzon-excargos-podemos-bescansa-ramon-espinar-piden-votar-frente-amplio-20261126094619.html",
+"fecha": "2026-11-26T08:46+00:00"
 },
 {
 "medio": "La Vanguardia",
-"titulo": "De cara a las elecciones",
-"url": "https://www.lavanguardia.com/politica/20261124/11691356/cara-elecciones.html",
-"fecha": "2026-11-24T05:00+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Feijóo saldrá a rematar a Sánchez tras un cara a cara demoledor",
-"url": "https://www.libertaddigital.com/espana/politica/2026-11-26/feijoo-saldra-a-rematar-a-sanchez-tras-un-cara-a-cara-demoledor-7497411/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-26T05:02+00:00"
+"titulo": "Excargos de Podemos y sus alianzas como Carmena, Bescansa y Espinar apoyan a Frente Amplio",
+"url": "https://www.lavanguardia.com/politica/20261126/11693793/excargos-alianzas-carmena-bescansa-espinar-apoyan-frente-amplio.html",
+"fecha": "2026-11-26T08:41+00:00"
 }
 ]
 },
@@ -1305,14 +1321,14 @@
 "hasta": "2026-11-26T09:21+00:00",
 "temas": [],
 "comunes": [
-"permanente",
 "vox",
+"permanente",
 "diputacion",
-"votos",
 "comprar",
+"votos",
 "tres",
-"planta",
-"acusa"
+"acusa",
+"planta"
 ],
 "titulares": [
 {
@@ -1343,17 +1359,61 @@
 },
 {
 "medios": 4,
+"desde": "2026-11-25T15:58+00:00",
+"hasta": "2026-11-26T09:35+00:00",
+"temas": [
+"igualdad"
+],
+"comunes": [
+"bullas",
+"murcia",
+"autor",
+"mujer",
+"asesinato",
+"presunto",
+"machista",
+"crimen"
+],
+"titulares": [
+{
+"medio": "COPE",
+"titulo": "Se entrega en Cantabria el presunto autor del crimen machista de Bullas",
+"url": "https://www.cope.es/emisoras/region-de-murcia/noticias/entrega-cantabria-presunto-autor-crimen-machista-bullas-20261126_3482594.html",
+"fecha": "2026-11-26T09:35+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "El detenido por el crimen machista de Bullas (Murcia) se declara autor del asesinato",
+"url": "https://www.elconfidencial.com/espana/2026-11-26/crimen-machista-bullas-entrega-policia-1tna-1tps_4472968/",
+"fecha": "2026-11-26T09:25+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Asesinada una mujer de 32 años presuntamente por su pareja en Bullas (Murcia)",
+"url": "https://www.eldebate.com/espana/20261125/asesinada-mujer-32-anos-presuntamente-pareja-bullas-murcia_485115.html",
+"fecha": "2026-11-25T15:58+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La Guardia Civil busca al presunto autor del asesinato de una mujer de 32 años en el municipio de Bullas (Murcia)",
+"url": "https://www.elmundo.es/murcia/2026/11/25/6b06dcb021efa05d2c8b4570.html",
+"fecha": "2026-11-25T18:23+00:00"
+}
+]
+},
+{
+"medios": 4,
 "desde": "2026-11-24T12:26+00:00",
 "hasta": "2026-11-26T11:40+00:00",
 "temas": [],
 "comunes": [
 "guipuzcoa",
-"echeverria",
 "jon",
-"munoz",
-"proetarras",
-"ester",
+"echeverria",
 "centenar",
+"proetarras",
+"munoz",
+"ester",
 "ertzaintza"
 ],
 "titulares": [
@@ -1385,122 +1445,175 @@
 },
 {
 "medios": 4,
-"desde": "2026-11-25T11:17+00:00",
-"hasta": "2026-11-26T13:01+00:00",
-"temas": [],
+"desde": "2026-11-26T13:32+00:00",
+"hasta": "2026-11-26T15:09+00:00",
+"temas": [
+"justicia"
+],
 "comunes": [
-"decretos",
-"cinco",
-"gobierno",
-"ultimos",
-"permanente",
-"diputacion",
-"convalida"
+"anboto",
+"semilibertad",
+"audiencia",
+"nacional",
+"regimen",
+"confirma",
+"eta",
+"avala"
 ],
 "titulares": [
 {
 "medio": "20minutos",
-"titulo": "La Diputación Permanente convalida sus últimos cinco decretos antes del 29N entre críticas de la oposición y la ausencia de Vox",
-"url": "https://www.20minutos.es/nacional/diputacion-permanente-convalida-sus-ultimos-cinco-decretos-antes-29n-entre-criticas-oposicion-ausencia-vox_7066199_0.html",
-"fecha": "2026-11-26T12:53+00:00"
+"titulo": "La Audiencia Nacional avala la denegación del régimen de semilibertad para la exdirigente etarra Anboto",
+"url": "https://www.20minutos.es/nacional/audiencia-nacional-avala-denegacion-regimen-semilibertad-para-exdirigente-etarra-anboto_7066235_0.html",
+"fecha": "2026-11-26T14:30+00:00"
 },
 {
-"medio": "El Español",
-"titulo": "El Gobierno convalida otros cinco decretos entre acusaciones de sus propios socios de “electoralismo\"",
-"url": "https://www.elespanol.com/espana/politica/20261126/gobierno-convalida-decretos-acusaciones-propios-socios-electoralismo/1003744473386_0.html",
-"fecha": "2026-11-26T13:01+00:00"
+"medio": "El Debate",
+"titulo": "La Justicia confirma la denegación del régimen de semilibertad para la sangrienta exdirigente etarra Anboto",
+"url": "https://www.eldebate.com/espana/pais-vasco/20261126/justicia-confirma-denegacion-regimen-semilibertad-sangrienta-exdirigente-etarra-anboto_485560.html",
+"fecha": "2026-11-26T15:09+00:00"
 },
 {
-"medio": "Europa Press",
-"titulo": "El Congreso se prepara para votar los últimos cinco decretos del Gobierno",
-"url": "https://www.europapress.es/nacional/noticia-congreso-prepara-votar-ultimos-cinco-decretos-gobierno-20261125121705.html",
-"fecha": "2026-11-25T11:17+00:00"
+"medio": "El Mundo",
+"titulo": "La Audiencia Nacional avala revocar el régimen de semilibertad a la ex dirigente de ETA Anboto",
+"url": "https://www.elmundo.es/espana/2026/11/26/6b083291fc6c837c068b4585.html",
+"fecha": "2026-11-26T13:36+00:00"
 },
 {
-"medio": "La Vanguardia",
-"titulo": "La diputación permanente da luz verde a los cinco últimos decretos del Gobierno",
-"url": "https://www.lavanguardia.com/politica/20261126/11694060/diputacion-permanente-da-luz-verde-cinco-ultimos-decretos-gobierno.html",
-"fecha": "2026-11-26T12:32+00:00"
+"medio": "Libertad Digital",
+"titulo": "La Audiencia Nacional confirma la retirada de la semilibertad a la terrorista de ETA Anboto",
+"url": "https://www.libertaddigital.com/espana/2026-11-26/la-audiencia-nacional-confirma-la-retirada-de-la-semilibertad-a-la-terrorista-de-eta-anboto-7497826/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-26T13:32+00:00"
 }
 ]
 },
 {
 "medios": 4,
-"desde": "2026-11-26T11:58+00:00",
-"hasta": "2026-11-26T14:16+00:00",
+"desde": "2026-11-24T10:52+00:00",
+"hasta": "2026-11-26T20:30+00:00",
 "temas": [
-"inmigracion",
 "defensa"
 ],
 "comunes": [
-"estaba",
-"caliente",
-"consul",
-"tetuan",
-"frontera",
-"embajador",
-"espana",
-"aviso"
-],
-"titulares": [
-{
-"medio": "20minutos",
-"titulo": "El cónsul de Tetuán declara que trasladó al embajador que había recibido avisos de que la frontera en Ceuta estaba \"caliente\"",
-"url": "https://www.20minutos.es/nacional/consul-tetuan-declara-que-traslado-embajador-que-habia-recibido-avisos-que-frontera-ceuta-estaba-caliente_7066172_0.html",
-"fecha": "2026-11-26T12:18+00:00"
-},
-{
-"medio": "El Español",
-"titulo": "El cónsul de Tetuán dice que elevó al embajador el día antes de la invasión la alerta de que la frontera ceutí estaba \"caliente\"",
-"url": "https://www.elespanol.com/espana/tribunales/20261126/consul-tetuan-dice-elevo-embajador-dia-invasion-alerta-frontera-ceuti-caliente/1003744473223_0.html",
-"fecha": "2026-11-26T11:58+00:00"
-},
-{
-"medio": "La Vanguardia",
-"titulo": "El cónsul de España en Tetuán dice que el CNI le avisó de que la zona estaba “caliente” los días previos a la entrada masiva",
-"url": "https://www.lavanguardia.com/politica/20261126/11694155/consul-espana-ceuta-dice-cni-le-aviso-zona-caliente-dias-previos-entrada-masiva.html",
-"fecha": "2026-11-26T14:16+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "El cónsul de Tetuán dice a la juez que avisó al embajador de España en Marruecos de que la frontera estaba \"caliente\"",
-"url": "https://www.libertaddigital.com/espana/2026-11-26/el-consul-de-tetuan-dice-a-la-juez-que-aviso-al-embajador-de-espana-en-marruecos-de-que-la-frontera-estaba-caliente-7497685/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-26T12:14+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-23T18:15+00:00",
-"hasta": "2026-11-23T18:28+00:00",
-"temas": [],
-"comunes": [
-"diez",
-"permiso",
-"fallecimiento",
-"martes",
-"familiar",
-"gobierno",
-"aprobara"
+"residentes",
+"nietos",
+"ley",
+"fuera",
+"exterior",
+"extranjero",
+"votos",
+"espanoles"
 ],
 "titulares": [
 {
 "medio": "El Debate",
-"titulo": "Sánchez anuncia a seis días de las elecciones un permiso de diez días por fallecimiento de padres o hijos",
-"url": "https://www.eldebate.com/espana/20261123/sanchez-sigue-buscando-votos-aprobara-manana-permiso-diez-dias-fallecimiento-familiar_484336.html",
-"fecha": "2026-11-23T18:15+00:00"
+"titulo": "El Supremo arremete contra el Gobierno y ordena mantener fuera de las urnas los votos de los 11.283 «nietos» residentes en España",
+"url": "https://www.eldebate.com/espana/20261126/supremo-arremete-contra-gobierno-ordena-mantener-fuera-urnas-votos-11283-nietos-residentes-espana_485575.html",
+"fecha": "2026-11-26T15:26+00:00"
 },
 {
-"medio": "infoLibre",
-"titulo": "El Gobierno aprobará este martes un permiso de diez días por fallecimiento de un familiar",
-"url": "https://www.infolibre.es/politica/gobierno-aprobara-martes-permiso-diez-dias-fallecimiento-familiar_1_2240681.html",
-"fecha": "2026-11-23T18:17+00:00"
+"medio": "El Español",
+"titulo": "Casi 14.000 residentes en el extranjero quedan fuera del voto exterior en Andalucía tras el auto del TS de la 'ley de nietos'",
+"url": "https://www.elespanol.com/espana/andalucia/20261124/residentes-extranjero-quedan-voto-exterior-andalucia-auto-ts-ley-nietos/1003744469843_0.html",
+"fecha": "2026-11-24T10:52+00:00"
 },
 {
-"medio": "The Objective",
-"titulo": "El Gobierno aprobará este martes un permiso de diez días por la muerte de un familiar",
-"url": "https://theobjective.com/espana/politica/2026-11-23/gobierno-aprobara-permiso-diez-dias-muerte-familiar/",
-"fecha": "2026-11-23T18:28+00:00"
+"medio": "Libertad Digital",
+"titulo": "¿Cuándo se conocerán los votos de los españoles residentes en el exterior y los votos de la Ley de Nietos?",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-24/cuando-se-conoceran-los-votos-de-los-espanoles-residentes-en-el-exterior-y-los-votos-de-la-ley-de-nietos-7496882/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T17:47+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Los españoles residentes en el extranjero son el 20% de los nuevos votantes del 29-N",
+"url": "https://okdiario.com/espana/20-nuevos-votantes-del-29-n-son-espanoles-residentes-extranjero-21282818",
+"fecha": "2026-11-26T20:30+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-24T10:41+00:00",
+"hasta": "2026-11-26T20:34+00:00",
+"temas": [],
+"comunes": [
+"biedma",
+"eliminar",
+"juez",
+"rocho",
+"leire",
+"pedraz",
+"ratifica",
+"encargo"
+],
+"titulares": [
+{
+"medio": "El Español",
+"titulo": "La líder de 'Los Rocho' se ratifica ante Pedraz: declara que el socio de Leire Díez le propuso \"eliminar\" a la juez Biedma",
+"url": "https://www.elespanol.com/espana/tribunales/20261124/lider-rocho-ratifica-juez-declara-socio-leire-propuso-eliminar-beatriz-biedma/1003744469863_0.html",
+"fecha": "2026-11-24T10:41+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La declaración de Cintia Rocho ante Pedraz sobre encargo del ex juez de la cloaca para \"eliminar\" a la juez Beatriz Biedma: \"Le dije tajantemente que yo no estaba para darles palos a nadie\"",
+"url": "https://www.elmundo.es/espana/2026/11/26/6b088d81fc6c833c0c8b45c9.html",
+"fecha": "2026-11-26T20:34+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "La matriarca de un clan ratifica al juez que la contactaron para “eliminar” a la jueza Biedma",
+"url": "https://www.lavanguardia.com/politica/20261124/11692298/matriarca-clan-reconoce-contactaron-eliminar-jueza-biedma.html",
+"fecha": "2026-11-24T14:17+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "La jefa del clan de ‘los Rocho’ confirma al juez que la cloaca de Leire le encargó «eliminar» a la juez Biedma",
+"url": "https://okdiario.com/espana/jefa-del-clan-rocho-confirma-juez-que-cloaca-leire-encargo-eliminar-juez-biedma-21253711",
+"fecha": "2026-11-24T10:49+00:00"
+}
+]
+},
+{
+"medios": 4,
+"desde": "2026-11-26T14:25+00:00",
+"hasta": "2026-11-26T22:10+00:00",
+"temas": [
+"pensiones"
+],
+"comunes": [
+"nietos",
+"supremo",
+"nacionalizados",
+"ley",
+"confirma",
+"tres",
+"elecciones",
+"suspension"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "El Supremo mantiene la suspensión del voto de los 'nietos' a tres días de las elecciones",
+"url": "https://www.20minutos.es/nacional/supremo-mantiene-suspension-voto-los-nietos-tres-dias-las-elecciones_7066277_0.html",
+"fecha": "2026-11-26T16:17+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Supremo tumba el recurso del Gobierno y vuelve a reprocharle sus errores en el censo de los nietos",
+"url": "https://www.abc.es/espana/supremo-tumba-recurso-gobierno-vuelve-reprocharle-errores-20261126201200-nt.html",
+"fecha": "2026-11-26T22:10+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "El Supremo confirma a tres días de las elecciones que 163.000 nacionalizados por la ley de nietos no podrán votar",
+"url": "https://www.eldiario.es/politica/supremo-confirma-tres-dias-elecciones-163-000-nacionalizados-ley-nietos-no-podran-votar_1_13696267.html",
+"fecha": "2026-11-26T14:25+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El Supremo confirma la suspensión del voto de los nacionalizados con la \"ley de nietos\", incluidos los que residen en España",
+"url": "https://www.larazon.es/espana/supremo-confirma-suspension-voto-nacionalizados-ley-nietos-incluidos-que-residen-espana_202611266b0848e9ff6fec29219bdade.html",
+"fecha": "2026-11-26T14:57+00:00"
 }
 ]
 },
@@ -1512,12 +1625,12 @@
 "defensa"
 ],
 "comunes": [
-"sanchez",
-"conceptos",
-"limpieza",
 "feijoo",
+"sanchez",
 "contradictorios",
 "electoral",
+"conceptos",
+"limpieza",
 "bastante"
 ],
 "titulares": [
@@ -1549,9 +1662,9 @@
 "educacion"
 ],
 "comunes": [
-"bar",
 "calumniar",
 "espana",
+"bar",
 "bulo",
 "caso",
 "jueza",
@@ -1580,13 +1693,82 @@
 },
 {
 "medios": 3,
+"desde": "2026-11-24T12:25+00:00",
+"hasta": "2026-11-24T12:47+00:00",
+"temas": [],
+"comunes": [
+"europa",
+"air",
+"errejon",
+"hago",
+"declara",
+"bien",
+"aqui",
+"rescate"
+],
+"titulares": [
+{
+"medio": "20minutos",
+"titulo": "Errejón declara como testigo en la causa sobre el rescate de Air Europa: \"No sé muy bien qué hago aquí, yo ni pincho ni corto\"",
+"url": "https://www.20minutos.es/nacional/errejon-declara-como-testigo-causa-sobre-rescate-air-europa-no-se-muy-bien-que-hago-aqui-yo-ni-pincho-ni-corto_7065123_0.html",
+"fecha": "2026-11-24T12:25+00:00"
+},
+{
+"medio": "El País",
+"titulo": "Errejón y otros testigos niegan conocer irregularidades en el rescate de Air Europa",
+"url": "https://elpais.com/espana/2026-11-24/errejon-y-otros-testigos-niegan-conocer-irregularidades-en-el-rescate-de-air-europa.html",
+"fecha": "2026-11-24T12:47+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Errejón declara durante dos minutos en el caso de Air Europa: \"No sé muy bien qué hago aquí\"",
+"url": "https://www.libertaddigital.com/espana/2026-11-24/errejon-declara-durante-dos-minutos-en-el-caso-de-air-europa-no-se-muy-bien-que-hago-aqui-7496700/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T12:46+00:00"
+}
+]
+},
+{
+"medios": 3,
+"desde": "2026-11-24T10:31+00:00",
+"hasta": "2026-11-24T14:18+00:00",
+"temas": [],
+"comunes": [
+"bono",
+"pro",
+"periodistas",
+"graba",
+"movil"
+],
+"titulares": [
+{
+"medio": "El Español",
+"titulo": "Bono, fuera de quicio: graba con su móvil a los periodistas, les pregunta qué ganan y presume de ser \"pro bono\" y no \"pro Pepe\"",
+"url": "https://www.elespanol.com/espana/politica/20261124/bono-quicio-graba-movil-periodistas-pregunta-ganan-presume-pro-no-pepe/1003744469899_0.html",
+"fecha": "2026-11-24T11:20+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Un enloquecido Bono graba a los periodistas con el móvil",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-24/un-enloquecido-bono-graba-a-los-periodistas-con-el-movil-7496729/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-24T13:40+00:00"
+},
+{
+"medio": "OKdiario",
+"titulo": "Bono acusa ahora a Felipe González de trabajar para la derecha: «Yo prefiero ser pro bono a pro PP»",
+"url": "https://okdiario.com/espana/bono-acusa-ahora-felipe-gonzalez-trabajar-derecha-yo-prefiero-ser-pro-bono-pro-pp-21255989",
+"fecha": "2026-11-24T10:31+00:00"
+}
+]
+},
+{
+"medios": 3,
 "desde": "2026-11-24T11:36+00:00",
 "hasta": "2026-11-24T14:54+00:00",
 "temas": [],
 "comunes": [
 "financiacion",
-"red",
 "hamas",
+"red",
 "policia"
 ],
 "titulares": [
@@ -1612,85 +1794,18 @@
 },
 {
 "medios": 3,
-"desde": "2026-11-23T16:45+00:00",
-"hasta": "2026-11-24T15:33+00:00",
-"temas": [],
-"comunes": [
-"electoral",
-"junta",
-"vox",
-"lona",
-"valencia"
-],
-"titulares": [
-{
-"medio": "El Debate",
-"titulo": "La Junta Electoral de Valencia estima la denuncia del PSOE contra una lona de Vox",
-"url": "https://www.eldebate.com/espana/comunidad-valenciana/20261123/junta-electoral-valencia-estima-denuncia-psoe-contra-lona-vox_484289.html",
-"fecha": "2026-11-23T16:45+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "La Junta Electoral suspende la orden de retirar la lona de Vox en Valencia tras su recurso",
-"url": "https://www.libertaddigital.com/valencia/2026-11-24/la-junta-electoral-suspende-la-orden-de-retirar-la-lona-de-vox-en-valencia-tras-su-recurso-7496826/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-24T15:33+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "La Junta Electoral acepta las denuncias de PSPV y Compromís contra una lona de Vox",
-"url": "https://theobjective.com/espana/politica/2026-11-23/junta-electoral-acepta-denuncias-pspv-compromis-lona-vox/",
-"fecha": "2026-11-23T17:19+00:00"
-}
-]
-},
-{
-"medios": 3,
-"desde": "2026-11-23T15:39+00:00",
-"hasta": "2026-11-24T16:43+00:00",
-"temas": [],
-"comunes": [
-"coletas",
-"valdebebas",
-"cabeza",
-"narco",
-"colombiano",
-"tiroteado"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "Tirotean en la cabeza al narco el 'Coletas', en el aparcamiento de un gimnasio en Valdebebas",
-"url": "https://www.abc.es/espana/madrid/tirotean-cabeza-hombre-aparcamiento-gimnasio-valdebebas-20261123140724-nt.html",
-"fecha": "2026-11-23T15:39+00:00"
-},
-{
-"medio": "Libertad Digital",
-"titulo": "Quién es 'El Coletas', el narcotraficante colombiano tiroteado en la cabeza en Valdebebas",
-"url": "https://www.libertaddigital.com/madrid/2026-11-23/quien-es-el-coletas-el-narcotraficante-colombiano-tiroteado-en-madrid-7496289/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
-"fecha": "2026-11-23T16:36+00:00"
-},
-{
-"medio": "The Objective",
-"titulo": "Muere ‘El Coletas’, el narco colombiano tiroteado en un garaje en Valdebebas (Madrid)",
-"url": "https://theobjective.com/sociedad/suceso/2026-11-24/muere-el-coletas-narco-colombiano-madrid/",
-"fecha": "2026-11-24T16:43+00:00"
-}
-]
-},
-{
-"medios": 3,
 "desde": "2026-11-24T13:03+00:00",
 "hasta": "2026-11-24T17:14+00:00",
 "temas": [
 "inmigracion"
 ],
 "comunes": [
-"operacion",
+"antidroga",
 "policias",
+"operacion",
 "heridos",
 "siete",
 "melilla",
-"antidroga",
 "emboscada"
 ],
 "titulares": [
@@ -1722,9 +1837,9 @@
 "justicia"
 ],
 "comunes": [
-"nacido",
 "ley",
 "concebido",
+"nacido",
 "madrid"
 ],
 "titulares": [
@@ -1756,13 +1871,13 @@
 "defensa"
 ],
 "comunes": [
-"promete",
 "ley",
-"nacional",
+"promete",
 "ilegales",
 "sanchez",
+"nacional",
 "guerras",
-"prohibir",
+"defensa",
 "irak"
 ],
 "titulares": [
@@ -1785,45 +1900,7 @@
 "fecha": "2026-11-24T20:34+00:00"
 }
 ]
-},
-{
-"medios": 3,
-"desde": "2026-11-24T15:03+00:00",
-"hasta": "2026-11-25T05:00+00:00",
-"temas": [
-"defensa",
-"justicia"
-],
-"comunes": [
-"koldo",
-"okdiario",
-"pagos",
-"juez",
-"juzgados",
-"investigar",
-"pedraz"
-],
-"titulares": [
-{
-"medio": "ABC",
-"titulo": "El juez Pedraz pide a los Juzgados de Madrid investigar los pagos de Okdiario a la defensa de Koldo",
-"url": "https://www.abc.es/espana/juez-pedraz-pide-juzgados-madrid-investigar-pagos-20261124183438-nt.html",
-"fecha": "2026-11-24T17:34+00:00"
-},
-{
-"medio": "elDiario.es",
-"titulo": "El juez Pedraz deja en manos de los juzgados madrileños investigar los pagos de Okdiario a la abogada de Koldo García",
-"url": "https://www.eldiario.es/politica/juez-pedraz-pide-juzgados-madrilenos-investigar-pagos-okdiario-abogada-koldo-garcia_1_13689716.html",
-"fecha": "2026-11-24T15:03+00:00"
-},
-{
-"medio": "infoLibre",
-"titulo": "Anticorrupción se olvida del PP y pone el foco sobre Koldo por los pagos de la editora de OkDiario",
-"url": "https://www.infolibre.es/politica/anticorrupcion-olvida-pp-pone-foco-koldo-pagos-okdiario-abogada_1_2241174.html",
-"fecha": "2026-11-25T05:00+00:00"
-}
-]
 }
 ],
-"recogidas": 1838
+"recogidas": 1867
 }

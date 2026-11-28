@@ -1,5 +1,227 @@
 [
 {
+"medio": "La Razón",
+"titulo": "La Policía entra en situación límite en El Hierro, a la espera de más llegadas",
+"url": "https://www.larazon.es/espana/policia-entra-situacion-limite-hierro-espera-mas-llegadas_202611286b0a3f05c0d5c85b96c964da.html",
+"fecha": "2026-11-28T02:40+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "El futuro del voto exterior del 29N, en el aire tras el veto del Supremo",
+"url": "https://www.larazon.es/espana/futuro-voto-exterior-29n-aire-veto-supremo_202611286b0a39ac5cb1082f89b6f35b.html",
+"fecha": "2026-11-28T02:17+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Final de campaña, por fin",
+"url": "https://www.larazon.es/espana/final-campana-fin_202611286b09b438c0d5c85b96c91a84.html",
+"fecha": "2026-11-28T02:15+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Ada Colau, sobre su infancia: “Mis padres eran hippies y yo era la rarita de la clase”",
+"url": "https://www.larazon.es/espana/ada-colau-infancia-mis-padres-eran-hippies-era-rarita-clase_202611286b0a38dbf6da642efefcd9a9.html",
+"fecha": "2026-11-28T02:13+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "«Optimismo contenido»: lo que Feijóo ve y se calla",
+"url": "https://www.larazon.es/espana/optimismo-contenido-que-feijoo-calla_202611286b0a37f4f6da642efefcd94c.html",
+"fecha": "2026-11-28T02:09+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Torreznos y épica indepe en Barcelona",
+"url": "https://www.abc.es/espana/torreznos-epica-indepe-barcelona-20261128030819-nt.html",
+"fecha": "2026-11-28T02:08+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El difícil equilibrio de la derecha en Baleares: competir por los votos sin perder escaños",
+"url": "https://www.abc.es/espana/baleares/dificil-equilibrio-derecha-baleares-competir-votos-perder-20261128030754-nt.html",
+"fecha": "2026-11-28T02:07+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Pedro Sánchez fía su última batalla electoral a la épica del 23J",
+"url": "https://www.larazon.es/espana/pedro-sanchez-fia-ultima-batalla-electoral-epica-23j_202611286b0a35ad50b7057c6d1868ec.html",
+"fecha": "2026-11-28T02:00+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Un sistema electoral con muchos votos perdidos: así se deciden las elecciones generales",
+"url": "https://www.abc.es/espana/sistema-electoral-votos-perdidos-deciden-elecciones-generales-20261128023848-nt.html",
+"fecha": "2026-11-28T01:59+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "En el punto de partida de los cayucos en Senegal: «Si me lanzo al mar puedo morir, si me quedo aquí, moriré de hambre»",
+"url": "https://www.abc.es/espana/abc-punto-partida-cayucos-senegal-lanzo-mar-20261128025619-nt.html",
+"fecha": "2026-11-28T01:56+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El capo de los viajes en patera desde Argelia, detenido por intentar asesinar a su hermana de 11 años",
+"url": "https://www.abc.es/espana/capo-viajes-patera-argelia-detenido-intentar-asesinar-20261128025524-nt.html",
+"fecha": "2026-11-28T01:55+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Las mafias de la inmigración ofrecen descuentos para ir a Canarias cuando hay mala mar",
+"url": "https://www.abc.es/espana/mafias-inmigracion-ofrecen-descuentos-canarias-mala-mar-20261128025530-nt.html",
+"fecha": "2026-11-28T01:55+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La lista maldita de Valladolid: de Puente y los trenes a Redondo y las pulseras",
+"url": "https://www.abc.es/espana/castilla-leon/lista-maldita-valladolid-puente-trenes-redondo-pulseras-20261127025153-nt.html",
+"fecha": "2026-11-28T01:51+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El voto CERA en las elecciones del 29N: ¿cuántos votan y cómo se contabilizan las papeletas?",
+"url": "https://www.abc.es/espana/voto-cera-oportunidad-espanoles-residen-extranjero-participar-20261128024213-nt.html",
+"fecha": "2026-11-28T01:42+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Escoltados y escondidos en parkings: la derecha vasca ante el acoso abertzale",
+"url": "https://www.abc.es/espana/pais-vasco/escoltados-escondidos-parkings-derecha-vasca-ante-acoso-20261128024048-nt.html",
+"fecha": "2026-11-28T01:40+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El Galapagar de Pedro Sánchez",
+"url": "https://www.abc.es/espana/ketty-garat-galapagar-pedro-sanchez-20261128023857-nt.html",
+"fecha": "2026-11-28T01:39+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Eurofighter y Rafale contra F-35 y Harrier: los mejores pilotos de combate de la OTAN se forman en Albacete",
+"url": "https://www.abc.es/espana/eurofighter-rafale-f35-harrier-mejores-pilotos-combate-20261128023201-nt.html",
+"fecha": "2026-11-28T01:32+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "La revolución de las recetas médicas empieza en Extremadura: cuando el tratamiento lo deciden los genes",
+"url": "https://www.abc.es/espana/extremadura/extremadura-impulsa-revolucion-recetas-medicas-ensayoerror-medicina-20261128023135-nt.html",
+"fecha": "2026-11-28T01:31+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "El Senado argentino suspende las elecciones primarias de 2027",
+"url": "https://theobjective.com/internacional/2026-11-28/senado-argentino-primarias-2027/",
+"fecha": "2026-11-28T01:24+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "La irrupción de Bruselas abre un nuevo frente en la causa de Urda",
+"url": "https://www.larazon.es/espana/irrupcion-bruselas-abre-nuevo-frente-causa-urda_202611286b0a279fc0d5c85b96c95be0.html",
+"fecha": "2026-11-28T01:00+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Pablo Haro, la pesadilla del Gobierno en transparencia: \"Ocultan datos\"",
+"url": "https://www.larazon.es/espana/pablo-haro-pesadilla-gobierno-transparencia-ocultan-datos_202611286b0a279dc0d5c85b96c95bd9.html",
+"fecha": "2026-11-28T01:00+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "¿Quién ganó el debate a cuatro entre Sánchez, Feijóo, Abascal y Ada Colau? Este es el resultado, según los lectores de ABC",
+"url": "https://www.abc.es/espana/gano-debate-cuatro-sanchez-feijoo-abascal-ada-20261127184143-nt.html",
+"fecha": "2026-11-28T00:41+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "Adiós a la periferia como refugio: Móstoles y Leganés disparan el precio del alquiler un 60%",
+"url": "https://www.abc.es/espana/madrid/mostoles-leganes-alternativas-asequibles-madrid-duplicado-precio-20261128013809-nt.html",
+"fecha": "2026-11-28T00:38+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Un ciberataque vulnera la principal plataforma en la nube de las Fuerzas Aéreas de EEUU",
+"url": "https://theobjective.com/internacional/2026-11-28/ciberataque-nube-fuerzas-aereas-eeuu/",
+"fecha": "2026-11-28T00:38+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La salud mental de todo un país",
+"url": "https://www.elmundo.es/espana/2026/11/28/6b09e33021efa08e3e8b456e.html",
+"fecha": "2026-11-28T00:36+00:00"
+},
+{
+"medio": "ABC",
+"titulo": "El voto exterior marca un récord histórico de 2,66 millones de electores en el 29N tras la 'ley de nietos'",
+"url": "https://www.abc.es/espana/voto-exterior-marca-record-266-millones-electores-20261127123733-nt.html",
+"fecha": "2026-11-28T00:05+00:00"
+},
+{
+"medio": "La Razón",
+"titulo": "Una nueva brecha de seguridad provoca la filtración masiva de datos de 450 militares",
+"url": "https://www.larazon.es/espana/nueva-brecha-seguridad-provoca-filtracion-masiva-datos-450-militares_202611286b0a199050b7057c6d185c97.html",
+"fecha": "2026-11-28T00:00+00:00"
+},
+{
+"medio": "La Vanguardia",
+"titulo": "Una carambola en Catalunya",
+"url": "https://www.lavanguardia.com/politica/20261128/11695233/carambola-catalunya-rufian-puigdemont-colau.html",
+"fecha": "2026-11-27T23:05+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "La angustia demográfica allana el final de la década perdida del PP en Canarias",
+"url": "https://www.elmundo.es/espana/2026/11/28/6b0984f6fc6c8389188b4579.html",
+"fecha": "2026-11-27T23:04+00:00"
+},
+{
+"medio": "Ara",
+"titulo": "Les begudes vegetals són un substitutiu de la llet?",
+"url": "https://www.ara.cat/podcasts/no-m-ho-empasso/begudes-vegetals-son-substitutiu-llet_1_5923817.html",
+"fecha": "2026-11-27T22:59+00:00"
+},
+{
+"medio": "The Objective",
+"titulo": "Puigdemont llama a los independentistas desencantados a movilizarse el 29-N",
+"url": "https://theobjective.com/espana/politica/2026-11-27/puigdemont-llama-independentistas-desencantados-movilizarse-29-n/",
+"fecha": "2026-11-27T22:50+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "Catorce inmigrantes muertos en un cayuco que llega a El Hierro con un superviviente que se negó a abandonarlo",
+"url": "https://www.eldebate.com/espana/20261127/catorce-inmigrantes-muertos-cayuco-llega-hierro-superviviente-nego-abandonarlo_486152.html",
+"fecha": "2026-11-27T22:48+00:00"
+},
+{
+"medio": "El Debate",
+"titulo": "El jurado declara culpable al hombre que escondió durante un mes el cadáver de una mujer en su habitación",
+"url": "https://www.eldebate.com/espana/20261127/jurado-declara-culpable-hombre-escondio-durante-mes-cadaver-mujer-habitacion_486151.html",
+"fecha": "2026-11-27T22:34+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "Todo con la IA pero sin la IA: la campaña desata una avalancha de memes y silencia su impacto real",
+"url": "https://www.eldiario.es/tecnologia/ia-ia-campana-desata-avalancha-memes-silencia-impacto-real_1_13695902.html",
+"fecha": "2026-11-27T22:26+00:00"
+},
+{
+"medio": "elDiario.es",
+"titulo": "El mapa de las 17 provincias donde la izquierda y la derecha se disputan escaños: estas son las batallas clave de las elecciones generales",
+"url": "https://www.eldiario.es/politica/mapa-17-provincias-izquierda-derecha-disputan-escanos-son-batallas-clave-elecciones-generales_1_13699828.html",
+"fecha": "2026-11-27T22:26+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Cabello exige la salida de Sánchez de La Moncloa: \"Se tiene que mandar a mudar\"",
+"url": "https://www.libertaddigital.com/canarias/2026-11-27/cabello-exige-la-salida-de-sanchez-de-la-moncloa-se-tiene-que-mandar-a-mudar-7498839/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T22:08+00:00"
+},
+{
+"medio": "COPE",
+"titulo": "22:00H | 27 NOV 2026 | La Linterna",
+"url": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-27-nov-2026-linterna-20261127_3484157.html",
+"fecha": "2026-11-27T22:07+00:00"
+},
+{
 "medio": "The Objective",
 "titulo": "Del «Me gusta la fruta» al «Sánchez lo eché yo»: Ayuso cierra la campaña con otra camiseta",
 "url": "https://theobjective.com/espana/politica/2026-11-27/ayuso-camiseta-sanchez-eche-yo/",
@@ -12,6 +234,12 @@
 "fecha": "2026-11-27T21:53+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "Evacúan a Tenerife a un guardia civil herido durante el rescate del cayuco con al menos ocho fallecidos en El Hierro",
+"url": "https://www.libertaddigital.com/canarias/2026-11-27/evacuan-a-tenerife-a-un-guardia-civil-herido-durante-el-rescate-del-cayuco-con-al-menos-ocho-fallecidos-en-el-hierro-7498826/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:51+00:00"
+},
+{
 "medio": "El Mundo",
 "titulo": "La polémica de los 'nietos' no acaba el 29-N: sus votos serán guardados en las juntas provinciales pero no se contabilizarán por el orden del Supremo",
 "url": "https://www.elmundo.es/espana/2026/11/27/6b09e625fc6c83cf3e8b458c.html",
@@ -19,8 +247,20 @@
 },
 {
 "medio": "El Mundo",
+"titulo": "Los partidos cierran una campaña de unas elecciones en las que se elige desde la trinchera: cambio de Gobierno, sí o no",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09d179e85ece701c8b4577.html",
+"fecha": "2026-11-27T21:45+00:00"
+},
+{
+"medio": "El Mundo",
 "titulo": "La influencia de Marruecos en la avalancha a Ceuta se fortalece a 48 horas de las elecciones",
 "url": "https://www.elmundo.es/espana/2026/11/27/6b09ec54e85ece0c498b457c.html",
+"fecha": "2026-11-27T21:44+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Los informes oficiales de la investigación apuntalan la responsabilidad política en la tragedia de Adamuz horas antes de las elecciones",
+"url": "https://www.elmundo.es/andalucia/2026/11/27/6b084d93fc6c837b068b458b.html",
 "fecha": "2026-11-27T21:44+00:00"
 },
 {
@@ -48,6 +288,42 @@
 "fecha": "2026-11-27T21:34+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "Calladita, Ada, muy calladita",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/mercedes-rodriguez-martin-calladita-ada-muy-calladita-7498770/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Nos merecemos un gobierno mejor",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/diego-gonzalez-nos-merecemos-un-gobierno-mejor-7498831/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Coitus interruptus",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/emilio-montilla-coitus-interruptus-7498774/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Del \"y usted calladita\" a la conjunción astral del 29N",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/pedro-gil-ruiz-del-y-usted-calladita-a-la-conjuncion-astral-del-29n-7498768/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "La reflexión de la jornada",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/itxu-diaz-la-reflexion-de-la-jornada-7498806/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:33+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "El negro balance del sanchismo",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/editorial-el-negro-balance-del-sanchismo-7498747/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:33+00:00"
+},
+{
 "medio": "Ara",
 "titulo": "Vox omple la plaça de bous de València evocant Jaume I com a creador de la nació espanyola",
 "url": "https://www.ara.cat/politica/vox-omple-placa-bous-valencia-tanca-campanya-miting-ple-d-insults-sanchez_1_5925602.html",
@@ -66,9 +342,21 @@
 "fecha": "2026-11-27T21:30+00:00"
 },
 {
+"medio": "El Mundo",
+"titulo": "Colau devuelve la fe al Frente Amplio y llama a los que \"no se rinden\" ni \"callan\" para la \"remontada\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09f0b0e9cf4ab7248b45ac.html",
+"fecha": "2026-11-27T21:28+00:00"
+},
+{
 "medio": "El País",
 "titulo": "Frente Amplio evoca el espíritu de 2023 para “volver a ganar” las generales",
 "url": "https://elpais.com/espana/elecciones-generales/2026-11-27/frente-amplio-evoca-el-espiritu-de-2023-para-volver-a-ganar-las-generales.html",
+"fecha": "2026-11-27T21:27+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "González de Vega acusa a Sánchez de bailar con Torres mientras El Hierro vive una emergencia migratoria",
+"url": "https://www.libertaddigital.com/canarias/2026-11-27/gonzalez-de-vega-acusa-a-sanchez-de-bailar-con-torres-mientras-el-hierro-vive-una-emergencia-migratoria-7498829/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-27T21:27+00:00"
 },
 {
@@ -78,10 +366,22 @@
 "fecha": "2026-11-27T21:24+00:00"
 },
 {
+"medio": "Libertad Digital",
+"titulo": "El TSJM avala el plan de Almeida para celebrar la Fórmula 1 en Ifema y rechaza los tres recursos",
+"url": "https://www.libertaddigital.com/madrid/2026-11-27/el-tsjm-avala-el-plan-de-almeida-para-celebrar-la-formula-1-en-ifema-y-rechaza-los-tres-recursos-7498764/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:22+00:00"
+},
+{
 "medio": "ABC",
 "titulo": "Las Jornadas de Otoño recorren la influencia de Góngora y las múltiples dimensiones de Federico García Lorca",
 "url": "https://www.abc.es/espana/andalucia/cordoba/jornadas-otono-recorren-influencia-gongora-multiples-dimensiones-20261127222157-nts.html",
 "fecha": "2026-11-27T21:21+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Ayuso reivindica a Jon Echeverría: \"Los españoles han estado calladitos estos ocho años, pero este domingo van a hablar\"",
+"url": "https://www.libertaddigital.com/madrid/2026-11-27/ayuso-reivindica-a-jon-echeverria-los-espanoles-han-estado-calladitos-estos-ocho-anos-pero-este-domingo-van-a-hablar-7498824/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:20+00:00"
 },
 {
 "medio": "20minutos",
@@ -118,6 +418,12 @@
 "titulo": "Diana Morant la vuelve a liar al equiparar con el fascismo a PP y Vox en el último mitin de campaña",
 "url": "https://okdiario.com/comunidad-valenciana/diana-morant-vuelve-liar-equiparar-fascismo-pp-vox-ultimo-mitin-campana-21291771",
 "fecha": "2026-11-27T21:11+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Historia orgullosa de España: El libro de los motes",
+"url": "https://esradio.libertaddigital.com/la-noche-de-cuesta/historia-orgullosa-de-espana/2026-11-27/el-libro-de-los-motes-7498692/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
+"fecha": "2026-11-27T21:10+00:00"
 },
 {
 "medio": "The Objective",
@@ -258,6 +564,12 @@
 "fecha": "2026-11-27T20:47+00:00"
 },
 {
+"medio": "El Mundo",
+"titulo": "Feijóo cierra la campaña pidiendo el voto a \"quienes dudan\" y que nunca antes votaron al PP: \"La decencia no es de izquierdas ni de derechas\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09a44afc6c83041b8b4587.html",
+"fecha": "2026-11-27T20:47+00:00"
+},
+{
 "medio": "OKdiario",
 "titulo": "Abascal: «Yo planteo renunciar al Mundial si Ceuta no es liberada inmediatamente»",
 "url": "https://okdiario.com/espana/abascal-yo-planteo-renunciar-mundial-si-ceuta-no-liberada-inmediatamente-21291563",
@@ -267,6 +579,12 @@
 "medio": "OKdiario",
 "titulo": "Abascal: «Éstas son igual las últimas elecciones en las que los españoles podremos decidir en libertad si no logramos echar a Sánchez»",
 "url": "https://okdiario.com/espana/abascal-estas-son-igual-ultimas-elecciones-que-espanoles-podremos-decidir-libertad-si-no-logramos-echar-sanchez-21291600",
+"fecha": "2026-11-27T20:46+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Abascal abarrota Valencia en el cierre de campaña y pide echar a Sánchez: \"Criminal, canalla, has provocado la muerte\"",
+"url": "https://www.libertaddigital.com/espana/politica/2026-11-27/abascal-abarrota-valencia-en-el-cierre-de-campana-y-pide-echar-a-sanchez-criminal-canalla-has-provocado-la-muerte-7498813/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-27T20:46+00:00"
 },
 {
@@ -285,6 +603,12 @@
 "medio": "ABC",
 "titulo": "Matías Prats, protagonista del encendido de la Navidad en Málaga",
 "url": "https://www.abc.es/espana/andalucia/malaga/matias-prats-protagonista-encendido-navidad-malaga-20261127205146-nts.html",
+"fecha": "2026-11-27T20:42+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Sánchez ficha a Almodóvar y Los Planetas para su cierre de campaña y exprime el \"usted, calladita\" de Feijóo: \"Las mujeres hablarán alto y claro en contra de la involución\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09c80efdddff4f258b45b6.html",
 "fecha": "2026-11-27T20:42+00:00"
 },
 {
@@ -315,6 +639,12 @@
 "medio": "COPE",
 "titulo": "Dani Trigo, periodista: \"Se han escuchado mensajes dirigidos al voto femenino y al voto joven, que son los dos perfiles que se estiman más indecisos\"",
 "url": "https://www.cope.es/programas/la-tarde/noticias/dani-trigo-periodista-han-escuchado-mensajes-dirigidos-voto-femenino-voto-joven-son-dos-perfiles-estiman-indecisos-20261127_3484127.html",
+"fecha": "2026-11-27T20:35+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Abascal exhibe fuerza desde una Plaza de Toros de Valencia abarrotada y llama a votar sin miedo: \"¡Echadle cojones y ovarios!\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09d315fdddff93658b4592.html",
 "fecha": "2026-11-27T20:35+00:00"
 },
 {
@@ -357,6 +687,12 @@
 "medio": "Europa Press",
 "titulo": "Montero augura \"tiempos difíciles\" y llama a llenar las calles de \"millones de personas\" sea cual sea el resultado",
 "url": "https://www.europapress.es/nacional/noticia-montero-augura-tiempos-dificiles-llama-llenar-calles-millones-personas-sea-cual-sea-resultado-20261127213158.html",
+"fecha": "2026-11-27T20:31+00:00"
+},
+{
+"medio": "El Confidencial",
+"titulo": "Sánchez se encomienda a las mujeres para ganar las elecciones en un mitin-espectáculo sin recuerdo a las víctimas de Urda",
+"url": "https://www.elconfidencial.com/espana/2026-11-27/pedro-sanchez-cierre-campana_4474571/",
 "fecha": "2026-11-27T20:31+00:00"
 },
 {
@@ -441,6 +777,12 @@
 "medio": "El Debate",
 "titulo": "Colau apela a la «remontada» y se refiere a Feijóo: «No solo no vamos a estar calladitas sino que vamos a ganar»",
 "url": "https://www.eldebate.com/espana/20261127/colau-apela-remontada-refiere-feijoo-no-solo-no-vamos-estar-calladitas-vamos-ganar_486137.html",
+"fecha": "2026-11-27T20:16+00:00"
+},
+{
+"medio": "Libertad Digital",
+"titulo": "Tertulia de Cuesta: La izquierda tergiversa sin éxito las palabras de Feijóo y las predicciones para el 29N",
+"url": "https://esradio.libertaddigital.com/la-noche-de-cuesta/la-tertulia/2026-11-27/tertulia-de-cuesta-la-izquierda-tergiversa-sin-exito-las-palabras-de-feijoo-y-las-predicciones-para-el-29n-7498796/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-27T20:16+00:00"
 },
 {
@@ -537,6 +879,12 @@
 "medio": "La Vanguardia",
 "titulo": "Feijóo apela al votante crítico del PSOE en el último mitin de campaña en Sevilla: “No os pido que cambiéis de ideología”",
 "url": "https://www.lavanguardia.com/politica/20261127/11695380/feijoo-apela-votante-critico-psoe-ultimo-mitin-campana-sevilla-pido-cambieis-ideologia.html",
+"fecha": "2026-11-27T20:02+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Pablo Iglesias irrumpe en el cierre de campaña para rescatar a Podemos: \"Somos una minoría que no se vende y nunca vota con la nariz tapada\"",
+"url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b09ba03e85ecee3358b45b2.html",
 "fecha": "2026-11-27T20:02+00:00"
 },
 {
@@ -936,10 +1284,22 @@
 "fecha": "2026-11-27T18:51+00:00"
 },
 {
+"medio": "El Mundo",
+"titulo": "El Gobierno ordena iniciar el remolque del Med Emre a Cartagena con la oposición del Gobierno de Murcia",
+"url": "https://www.elmundo.es/baleares/2026/11/27/6b097728e4d4d8d5478b458d.html",
+"fecha": "2026-11-27T18:51+00:00"
+},
+{
 "medio": "The Objective",
 "titulo": "Murcia rechaza el Med Emre y exige al Gobierno otro emplazamiento",
 "url": "https://theobjective.com/espana/2026-11-27/murcia-rechaza-med-emre-exige-gobierno-otro-emplazamiento/",
 "fecha": "2026-11-27T18:41+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "El caso del enfermero del colegio jesuita de Barcelona, una de las acusaciones más graves por abusos que llega a juicio",
+"url": "https://www.elmundo.es/cataluna/2026/11/27/6b09b766e4d4d8c3258b457a.html",
+"fecha": "2026-11-27T18:37+00:00"
 },
 {
 "medio": "La Razón",
@@ -3478,6 +3838,12 @@
 "titulo": "Lanzarote plantea limitar las excursiones turísticas en buggy y quad por los caminos rurales",
 "url": "https://www.libertaddigital.com/canarias/2026-11-27/lanzarote-plantea-limitar-las-excursiones-turisticas-en-buggy-y-quad-por-los-caminos-rurales-7498357/?utm_source=rss&utm_medium=feed&utm_campaign=Libertad+Digital%3A+Espa%C3%B1a",
 "fecha": "2026-11-27T10:12+00:00"
+},
+{
+"medio": "El Mundo",
+"titulo": "Muere en el hospital la mujer de 34 años a la que su pareja, con una orden de alejamiento, acuchilló ayer en Bilbao",
+"url": "https://www.elmundo.es/pais-vasco/2026/11/27/6b09266c21efa06d268b4592.html",
+"fecha": "2026-11-27T10:08+00:00"
 },
 {
 "medio": "Ara",
